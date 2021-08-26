@@ -1,5 +1,5 @@
 ---
-description: 'Official DeFi Kingdoms Whitepaper, last updated Aug 13, 2021'
+description: 'Official DeFi Kingdoms Whitepaper, last updated Aug 26, 2021'
 ---
 
 # Defi Kingdoms
