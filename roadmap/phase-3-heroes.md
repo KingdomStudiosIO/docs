@@ -1,5 +1,5 @@
 ---
-description: October 2021
+description: September 2021
 ---
 
 # Phase 2 - Heroes & Quests
