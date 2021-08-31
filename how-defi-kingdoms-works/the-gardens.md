@@ -50,6 +50,9 @@ Once July 15, 2022 comes and we reach 100% unlocking, all remaining locked token
 
 **There are no deposit fees for staking.** To protect against flash loans and pump and dumps, we do implement withdrawal fees. The withdrawal fees are listed below.
 
+* **0.01%** fee if a user withdraws after **4 weeks**
+* **0.25%** fee if a user withdraws after **2 weeks but before 4 weeks**
+* **0.5%** fee if a user withdraws after **5 days but before 2 weeks**
 * **1%** fee if a user withdraws under **5 days**
 * **2%** fee if a user withdraws under **3 days.** 
 * **4%** fee if a user withdraws under **24 hours.** 
