@@ -15,8 +15,8 @@ Our visualization on liquidity pool mining is unique and fresh. We’re building
 * **Week 3**: 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute
 * **Week 4**: 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minute
 * **Week 5:** 56x multiplier = 56 JEWEL/block = 1,680 JEWEL/minute
-* **Week 6:** 48x multiplier = 48 JEWEL/block = 1,200 JEWEL/minute
-* **Week 7:** 40x multiplier = 40 JEWEL/block = 1, JEWEL/minute
+* **Week 6:** 48x multiplier = 48 JEWEL/block = 1,440 JEWEL/minute
+* **Week 7:** 40x multiplier = 40 JEWEL/block = 1,200 JEWEL/minute
 * **Week 8:** 32x multiplier = 32 JEWEL/block = 960 JEWEL/minute
 * **Week 9:** 28x multiplier = 28 JEWEL/block = 840 JEWEL/minute
 * **Week 10:** 24x multiplier = 24 JEWEL/block = 720 JEWEL/minute
