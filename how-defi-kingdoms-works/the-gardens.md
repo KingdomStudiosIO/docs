@@ -10,7 +10,7 @@ Our visualization on liquidity pool mining is unique and fresh. We’re building
 
 ### Issuance Schedule
 **Each week is scheduled to change depending on the Harmony Block Chain Speed so please take note of the starting block**
-* **Block 16,350,367 (Week 1)**: 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minute
+* **Block 16,350,367 (Week 1):** 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minute
 * **Block 16,652,767 (Week 2):** 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minute
 * **Block 16,955,167 (Week 3):** 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute
 * **Block 17,257,567 (Week 4):** 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minute
