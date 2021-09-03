@@ -38,6 +38,16 @@ _A portion of the JEWELs grown can be harvested immediately, while the rest are 
 
 To balance the amazing multipliers for early adopters, our tokenomics include a sliding locking model. **Starting the first week**, **5% of staking rewards will be immediately accessible. This percentage will then increase by 2% every week until it reaches 100% around July 15, 2022.** So, for example, staking rewards issued on week 1 will be 5% available, 95% locked; For week 2 will be 7% available, 93% locked; For week 3 will be 9% available, 91% locked, and so on, until week 51, when no more locking of staked rewards will occur.
 
+Example:
+
+100 JEWELs
+
+Week 1 5% = 95 locked, 5 unlocked
+
+Week 2 7% = 93 locked, 7 unlocked
+
+The calculation only takes effect once you click the **CLAIM** button.
+
 **One amazing and unique feature of Defi Kingdoms that sets us apart from any other DeFi exchange out there today is the ability for Heroes to mine for unlocked tokens, unlocking locked JEWEL tokens early based on their stats.**
 
 This locking model helps the project retain value for the long-term, and ensures only those who see the long-term vision of DeFi Kingdoms jump in and earn the maximized rewards available to early adopters.
