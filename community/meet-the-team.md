@@ -16,7 +16,7 @@ Jericho has been working hard on the white paper and other documents, as well as
 
 \*\*\*\*![](../.gitbook/assets/screen-shot-2021-08-01-at-10.44.05-pm.png) **Admiral Omicron - React Developer**
 
-Admiral Omicron has been working on the game and dex interface in React. He is newer to the team but has hit the ground running and will continue to be key in the game development of future phases.
+Admiral Omicron has been working on the game and dex interface in React. He has hit the ground running and will continue to be key in the game development of future phases.
 
 \*\*\*\*![](../.gitbook/assets/screen-shot-2021-08-01-at-10.44.35-pm.png) **Raspberry Swirl - Web Designer and Game Graphics**
 
@@ -32,5 +32,5 @@ Spicy Maplecat has been running the twitter account and managing and creating th
 
 \*\*\*\*![](../.gitbook/assets/screen-shot-2021-08-01-at-10.44.18-pm.png) **Pie Face - UI/UX Designer**
 
-Pie Face is also newer to the team. She is focusing on designing the UI/UX of the game to make sure things flow and are easy to use.
+Pie Face is focusing on designing the UI/UX of the game to make sure things flow and are easy to use.
 
