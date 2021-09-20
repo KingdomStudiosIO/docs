@@ -9,34 +9,44 @@ Our visualization on liquidity pool mining is unique and fresh. We’re building
 ![](../.gitbook/assets/gardenwp.jpeg)
 
 ### Issuance Schedule
-
-* **Week 1**: 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minute
-* **Week 2**: 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minute
-* **Week 3**: 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute
-* **Week 4**: 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minute
-* **Week 5:** 56x multiplier = 56 JEWEL/block = 1,680 JEWEL/minute
-* **Week 6:** 48x multiplier = 48 JEWEL/block = 1,200 JEWEL/minute
-* **Week 7:** 40x multiplier = 40 JEWEL/block = 1, JEWEL/minute
-* **Week 8:** 32x multiplier = 32 JEWEL/block = 960 JEWEL/minute
-* **Week 9:** 28x multiplier = 28 JEWEL/block = 840 JEWEL/minute
-* **Week 10:** 24x multiplier = 24 JEWEL/block = 720 JEWEL/minute
-* **Week 11:** 20x multiplier = 20 JEWEL/block = 960 JEWEL/minute
-* **Week 12:** 16x multiplier = 16JEWEL/block = 480 JEWEL/minute
-* **Week 13:** 15x multiplier = 15 JEWEL/block = 450 JEWEL/minute
-* **Week 14:** 14x multiplier = 14 JEWEL/block = 420 JEWEL/minute
-* **Week 15:**  13x multiplier = 13 JEWEL/block = 390 JEWEL/minute
-* **Week 16:** 12x multiplier = 12 JEWEL/block = 360 JEWEL/minute
-* **Week 17:** 11x multiplier = 11 JEWEL/block = 330 JEWEL/minute
-* **Week 18:** 10x multiplier = 10 JEWEL/block = 300 JEWEL/minute
-* **Week 19:** 9x multiplier = 9 JEWEL/block = 270 JEWEL/minute
-* **Week 20-35:** 8x multiplier = 8 JEWEL/block = 240 JEWEL/minute
-* **Week 36+ :** 4x multiplier = 4 JEWEL/block = 120 JEWEL/minute
+**Each week is scheduled to change depending on the Harmony Block Chain Speed so please take note of the starting block**
+* **Block 16,350,367 (Week 1):** 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minute
+* **Block 16,652,767 (Week 2):** 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minute
+* **Block 16,955,167 (Week 3):** 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute
+* **Block 17,257,567 (Week 4):** 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minute
+* **Block 17,559,967 (Week 5):** 56x multiplier = 56 JEWEL/block = 1,680 JEWEL/minute
+* **Block 17,862,367 (Week 6):** 48x multiplier = 48 JEWEL/block = 1,440 JEWEL/minute
+* **Block 18,164,767 (Week 7):** 40x multiplier = 40 JEWEL/block = 1,200 JEWEL/minute
+* **Block 18,467,167 (Week 8):** 32x multiplier = 32 JEWEL/block = 960 JEWEL/minute
+* **Block 18,769,567 (Week 9):** 28x multiplier = 28 JEWEL/block = 840 JEWEL/minute
+* **Block 19,071,967 (Week 10):** 24x multiplier = 24 JEWEL/block = 720 JEWEL/minute
+* **Block 19,374,367 (Week 11):** 20x multiplier = 20 JEWEL/block = 600 JEWEL/minute
+* **Block 19,676,767 (Week 12):** 16x multiplier = 16JEWEL/block = 480 JEWEL/minute
+* **Block 19,979,167 (Week 13):** 15x multiplier = 15 JEWEL/block = 450 JEWEL/minute
+* **Block 20,281,567 (Week 14):** 14x multiplier = 14 JEWEL/block = 420 JEWEL/minute
+* **Block 20,583,967 (Week 15):**  13x multiplier = 13 JEWEL/block = 390 JEWEL/minute
+* **Block 20,886,367 (Week 16):** 12x multiplier = 12 JEWEL/block = 360 JEWEL/minute
+* **Block 21,188,767 (Week 17):** 11x multiplier = 11 JEWEL/block = 330 JEWEL/minute
+* **Block 21,491,167 (Week 18):** 10x multiplier = 10 JEWEL/block = 300 JEWEL/minute
+* **Block 21,793,567 (Week 19):** 9x multiplier = 9 JEWEL/block = 270 JEWEL/minute
+* **Block 22,095,967 (Week 20-35):** 8x multiplier = 8 JEWEL/block = 240 JEWEL/minute
+* **Block 26,631,967 (Week 36+):** 4x multiplier = 4 JEWEL/block = 120 JEWEL/minute
 
 ### Locking Model
 
 _A portion of the JEWELs grown can be harvested immediately, while the rest are dispersed deep underground. These JEWELs will slowly work their way upward and will be rewarded to the owners in time. **Heroes can also be set to mine for these locked JEWEL tokens, unlocking them early.**_
 
 To balance the amazing multipliers for early adopters, our tokenomics include a sliding locking model. **Starting the first week**, **5% of staking rewards will be immediately accessible. This percentage will then increase by 2% every week until it reaches 100% around July 15, 2022.** So, for example, staking rewards issued on week 1 will be 5% available, 95% locked; For week 2 will be 7% available, 93% locked; For week 3 will be 9% available, 91% locked, and so on, until week 51, when no more locking of staked rewards will occur.
+
+Example:
+
+100 JEWELs
+
+Week 1 5% = 95 locked, 5 unlocked
+
+Week 2 7% = 93 locked, 7 unlocked
+
+The calculation only takes effect once you click the **CLAIM** button.
 
 **One amazing and unique feature of Defi Kingdoms that sets us apart from any other DeFi exchange out there today is the ability for Heroes to mine for unlocked tokens, unlocking locked JEWEL tokens early based on their stats.**
 
@@ -50,6 +60,9 @@ Once July 15, 2022 comes and we reach 100% unlocking, all remaining locked token
 
 **There are no deposit fees for staking.** To protect against flash loans and pump and dumps, we do implement withdrawal fees. The withdrawal fees are listed below.
 
+* **0.01%** fee if a user withdraws after **4 weeks**
+* **0.25%** fee if a user withdraws after **2 weeks but before 4 weeks**
+* **0.5%** fee if a user withdraws after **5 days but before 2 weeks**
 * **1%** fee if a user withdraws under **5 days**
 * **2%** fee if a user withdraws under **3 days.** 
 * **4%** fee if a user withdraws under **24 hours.** 
