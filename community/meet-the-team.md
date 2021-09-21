@@ -2,7 +2,7 @@
 
 ![ The Defi Kingdoms team currently consists of 8 people:](https://dfk-hv.b-cdn.net/website-media/images/team-chart3.png)
 
-\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/fox-100.png" width="20" height="20" /> **Frisky Fox - Solidity and React Developer**
+\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/fox-256.gif" width="20" height="20" /> **Frisky Fox - Solidity and React Developer**
 
 Frisky Fox has been writing and architecting the many smart contracts that will live on the blockchain and run the game. He has also spearheaded the interface, and the analytics and API servers that will support the game and dex. Defi Kingdoms started as his brain-child and he was the driving force behind the game mechanics discussions.
 
