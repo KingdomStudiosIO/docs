@@ -1,5 +1,5 @@
 ---
-description: 'Official DeFi Kingdoms Whitepaper, last updated Aug 26, 2021'
+description: 'Official DeFi Kingdoms Whitepaper, last updated Sept 18, 2021'
 ---
 
 # Defi Kingdoms
@@ -18,6 +18,6 @@ We’re big fans of the innovation happening in DeFi and in blockchain technolog
 
 #### A Dedicated Team and a Shared Vision
 
-We wanted a dex that allows holders to not just hold a monetary token, but own a token that is usable, valuable, and that gives back to holders in many fun ways. We’ve packaged DeFi elements into a fun and synergistic game, providing JEWEL token holders with an engaging and meaningful experience. We’re here for the long term, planning features for phases soon to come, and some a little further down the road to set this community and project up for maximum awesomeness. :\)  
+We wanted a dex that allows holders to not just hold a monetary token, but own a token that is usable, valuable, and that gives back to holders in many fun ways. We’ve packaged DeFi elements into a fun and synergistic game, providing JEWEL token holders with an engaging and meaningful experience. We’re here for the long term, planning features for phases soon to come, and some a little further down the road to set this community and project up for maximum awesomeness. :\)
 
 
