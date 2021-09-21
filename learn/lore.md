@@ -6,7 +6,7 @@ description: The lore of Defi Kingdoms
 
 ## Gaia - A World in Recovery
 
-![](https://dfk-hv.b-cdn.net/website-media/images/lore/adventure-horizonframe-lg.gif)
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/adventure-horizon-frame-lg.gif)
 
 **The world of Gaia** once consisted of a singular continent, a singular people. As they grew in numbers and shared freely with each other information and schools of learning, they prospered greatly, century after century. All were cared for, wealthy beyond measure, all living in an unaware state of peace and utopia.
 
