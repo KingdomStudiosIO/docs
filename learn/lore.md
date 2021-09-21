@@ -29,7 +29,7 @@ A new age, the **Age of Heroes**, has begun, and the history books are yet to be
 
 **The Crystal Eggs**
 
-![](https://dfk-hv.b-cdn.net/website-media/images/lore/batch_crystal_egg.png)
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/crystal-egg.gif)
 
 Gaia has begun to allow those loyal followers within the Inner Grove to come forth back into this world once again. The energies have been accumulating, and essence infused crystal eggs are being gathered to act as a catalyst to help summon forth those heroes from a distant time and land.
 
@@ -37,7 +37,7 @@ Once here, heroes can focus their essence together and renew these crystal eggs,
 
 **Gaia’s Tears**
 
-![](https://dfk-hv.b-cdn.net/website-media/images/lore/gaias_tear.png)
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/gaias-tear.gif)
 
 Along with the need for a catalyst (*the crystal eggs*), a second key component to summoning heroes to this realm is a substance known as Gaia’s tears. When Irae tore the world asunder in his rage, Gaia wept. Her tears took the form of small, dust-like crystals. Warm to the touch, her power flows through them, and it is said an ounce of them holds enough power to bridge the vast expanses created in Irae’s fury. Gaia’s tears can be found in small quantities throughout the kingdom, and the druids have recently discovered a means to harness them to summon others to these lands.
 
