@@ -6,7 +6,7 @@
 
 Frisky Fox has been writing and architecting the many smart contracts that will live on the blockchain and run the game. He has also spearheaded the interface, and the analytics and API servers that will support the game and dex. Defi Kingdoms started as his brain-child and he was the driving force behind the game mechanics discussions.
 
-\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/screen-shot-2021-08-01-at-10.44.58-pm.png" width="50" height="50" /> **Sinstar Necro - Game Designer and Project Manager**
+\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/sinstar-sm.gif" width="50" height="50" /> **Sinstar Necro - Game Designer and Project Manager**
 
 Sinstar Necro has been working crazy hours to produce production quality pixel art for the heroes and kingdoms, as well as helping to brainstorm the game mechanics and manage the project and team. He is also writing the lore of the game.
 
@@ -14,11 +14,11 @@ Sinstar Necro has been working crazy hours to produce production quality pixel a
 
 Jericho has been working hard on the white paper and other documents, as well as helping to brainstorm the Game Mechanics and Tokenomics. He will be transitioning to work on the game application.
 
-\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/screen-shot-2021-08-01-at-10.44.05-pm.png" width="50" height="50" /> **Admiral Omicron - React Developer**
+\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/admiral-sm.gif" width="50" height="50" /> **Admiral Omicron - React Developer**
 
 Admiral Omicron has been working on the game and dex interface in React. He has hit the ground running and will continue to be key in the game development of future phases.
 
-\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/screen-shot-2021-08-01-at-10.44.35-pm.png" width="50" height="50" /> **Raspberry Swirl - Web Designer and Game Graphics**
+\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/raspberry2.gif" width="50" height="50" /> **Raspberry Swirl - Web Designer and Game Graphics**
 
 Raspberry Swirl designed the amazing website, along with some of the art and marketing graphics. She is also working on hero design and art alongside Necro.
 
@@ -26,7 +26,7 @@ Raspberry Swirl designed the amazing website, along with some of the art and mar
 
 Aila Spiritbox manages the discord community and other social media, and she is the first line of support to make sure that the community has everything they need.
 
-\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/spicy-maple-cat.gif" width="50" height="50" /> **Spicy Maplecat - Marketing**
+\*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/spicy-maple-cat-sm.gif" width="50" height="50" /> **Spicy Maplecat - Marketing**
 
 Spicy Maplecat has been running the twitter account and managing and creating the various marketing campaigns now and yet to come.
 
