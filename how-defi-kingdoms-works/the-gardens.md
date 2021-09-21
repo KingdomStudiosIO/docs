@@ -2,18 +2,19 @@
 
 At its core, the Gardens is a place to stake liquidity provider tokens to receive JEWEL tokens. You’ll be gaining JEWEL tokens to use in game for rare NFTs and other items JUST by staking LP tokens! It’s a powerful part of the game, and really fun.
 
-![Gathering the fruits of his labors.](https://lh3.googleusercontent.com/aRXlckUEe4m-pjzvf4yGOfjWEI3wGaKkUfkibFTr0ajqytksCOG8EcyLwsymZ54ncsx_VdI5JH9p2NLi7y_zrSoJdCBcG9XiK2yGZnIYauHkVuO9_Ec73j1_UpYOSJ_T7ceWw1YY)
+![Gathering the fruits of his labors.](https://dfk-hv.b-cdn.net/website-media/images/gardener.gif)
 
 Our visualization on liquidity pool mining is unique and fresh. We’re building an epic world and gardens in which to represent token pairs and liquidity pool mining. Within each garden (i.e. LP pairing), you will be able to see your portion of the total share within the plot represented by your owned plants. The gardener busies himself with tending to your plants \(this represents the countdown timer between blocks mined\) and once harvested, the gardener deposits your yield in the storehouse representing your share of JEWEL tokens of the block mined. **There will be ways in which to augment and increase your yield by in-game items that will provide you with increased JEWEL token rewards!**
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/gardens.gif)
+<div style="text-align: right">(っ◕‿◕)っ</div>
 
 ### Issuance Schedule
 **The issuance of Jewel as rewards for staking LP tokens in the Garden is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is 302,400 blocks on the Harmony Blockchain, and the length of each Epoch depends on the average block speed on Harmony.** Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block on the Harmony Blockchain. However, if block speeds are longer than 2 seconds per block on average, an Epoch will last longer than a week, and inversely, if block speeds are less than 2 seconds per block on average, then an Epoch would last less than one week.
 
 * **Block 16,350,367 (Epoch 1):** 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minute
 * **Block 16,652,767 (Epoch 2):** 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minute
-* **Block 16,955,167 (Epoch 3):** 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute    <<< _You Are Here_
+* **Block 16,955,167 (Epoch 3):** 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute
 * **Block 17,257,567 (Epoch 4):** 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minute
 * **Block 17,559,967 (Epoch 5):** 56x multiplier = 56 JEWEL/block = 1,680 JEWEL/minute
 * **Block 17,862,367 (Epoch 6):** 48x multiplier = 48 JEWEL/block = 1,440 JEWEL/minute
@@ -33,11 +34,14 @@ Our visualization on liquidity pool mining is unique and fresh. We’re building
 * **Block 22,095,967 (Epoch 20-35):** 8x multiplier = 8 JEWEL/block = 240 JEWEL/minute
 * **Block 26,631,967 (Epoch 36+):** 4x multiplier = 4 JEWEL/block = 120 JEWEL/minute
 
-You can visit the Harmony Blockchain Explorer at https://explorer.harmony.one to see what the current block is and the current block speed (latency), but note that block speed fluctuates and should be viewed on an average (i.e. daily or weekly basis) if trying to  plan your Garden farming strategies.
+Visit the <a href=https://explorer.harmony.one>Harmony Blockchain Explorer</a> to see what the current block is and the current block speed (latency).
+Please note that block speed fluctuates and should be viewed on an average (i.e. daily or weekly basis) when trying to plan your Garden farming strategies.
 
 ### Locking Model
 
-_A portion of the JEWELs grown in the Gardens can be harvested immediately (i.e. are unlocked and immediately usable), while the rest are dispersed deep underground (locked). These locked JEWELs will slowly work their way upward and will be rewarded to the owners in time, but until unlocked cannot be used in any way (i.e. cannot be used for staking, providing liquidity, governance votes or any other in game transaction). Once claimed, locked tokens remain locked until the end of Epoch 51 (estimated to be in Q3 2022 depending on Harmony block speeds) at which point such locked Jewel will begin to unlock ratably over the next year (fully unlocking in Q3 2022 depending on Harmony block speeds). **Heroes can also be set to mine for these locked JEWEL tokens, unlocking them early.**_
+_A portion of the JEWELs grown in the Gardens can be harvested immediately (i.e. are unlocked and immediately usable), while the rest are dispersed deep underground (locked). These locked JEWELs will slowly work their way upward and will be rewarded to the owners in time, but until unlocked cannot be used in any way (i.e. cannot be used for staking, providing liquidity, governance votes or any other in game transaction). Once claimed, locked tokens remain locked until the end of Epoch 51 (estimated to be in Q3 2022 depending on Harmony block speeds) at which point such locked Jewel will begin to unlock ratably over the next year (fully unlocking in Q3 2022 depending on Harmony block speeds).
+
+**Heroes will have the ability to mine for these locked JEWEL tokens, unlocking them early.**_
 
 To balance the amazing multipliers that early adopters that provide liquidity via the Gardens receive, our tokenomics include a locking model on the Jewel tokens received from providing liquidity. The calculation of what portion of your rewards is locked vs unlocked only takes effect once you click the **CLAIM** button. Whenever rewards are **CLAIMED** from the Gardens, a portion of the rewards will be unlocked (i.e. immediately usable to trade, buy, sell, stake in the bank) and the remainder will be locked. The allocation of Jewel between unlocked and locked amounts will depend in which Epoch the rewards are **CLAIMED**, not on when they are earned or staked.
 
@@ -111,12 +115,13 @@ As noted above, once claimed, locked tokens remain locked until the end of the 5
 * **0.01%** fee if a user withdraws after **4 Epochs**
 * **0.25%** fee if a user withdraws after **2 Epochs but before 4 Epochs**
 * **0.5%** fee if a user withdraws after **5 days but before 2 Epochs**
-* **1%** fee if a user withdraws under **5 days**
-* **2%** fee if a user withdraws under **3 days.** 
-* **4%** fee if a user withdraws under **24 hours.** 
-* **8%** fee if a user withdraws under **1 hour.**
+* **1%** fee if a user withdraws under **5 days.\***
+* **2%** fee if a user withdraws under **3 days.\*** 
+* **4%** fee if a user withdraws under **24 hours.\*** 
+* **8%** fee if a user withdraws under **1 hour.\***
 * **25%** slashing fee if a user withdraws **during the same block.**
-* _Days/Hours listed assume a 2 seconds per block speed during such period and will depend on Harmony Blockchain speed_
 
-  \*\*\*\*
+_\*Days/Hours listed assume a 2 seconds per block speed during such period and will depend on Harmony Blockchain speed._
+
+ 
 

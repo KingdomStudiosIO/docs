@@ -4,7 +4,6 @@ We will be launching the various features of Defi Kingdoms on a timeline, outlin
 
 | Phase | Feature | Expected Release |
 | ------ | ----------- | ----------- |
-
 | 0.5 | [Community](https://docs.defikingdoms.com/roadmap/phase-0.5-community)      | July/August 2021       |
 | 1.0 | [Capital & Jewels](https://docs.defikingdoms.com/roadmap/phase-1-dex)  | August 2021        |
 | 2.0 | [Heroes & Quests](https://docs.defikingdoms.com/roadmap/phase-3-heroes)  | October 2021        |
