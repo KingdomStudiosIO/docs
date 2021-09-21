@@ -12,9 +12,9 @@ Our visualization on liquidity pool mining is unique and fresh. We’re building
 **The issuance of Jewel as rewards for staking LP tokens in the Garden is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is 302,400 blocks on the Harmony Blockchain, and the length of each Epoch depends on the average block speed on Harmony.** Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block on the Harmony Blockchain. However, if block speeds are longer than 2 seconds per block on average, an Epoch will last longer than a week, and inversely, if block speeds are less than 2 seconds per block on average, then an Epoch would last less than one week.
 
 * **Block 16,350,367 (Epoch 1):** 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minute
-==* **Block 16,652,767 (Epoch 2):** 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minute==
-<mark>* **Block 16,955,167 (Epoch 3):** 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute</mark>
-* **Block 17,257,567 (Epoch 4):** 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minute
+* ==**Block 16,652,767 (Epoch 2):** 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minute==
+* <mark>**Block 16,955,167 (Epoch 3):** 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute</mark>
+* <span style="color:red">**Block 17,257,567 (Epoch 4):** 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minute</span>
 * **Block 17,559,967 (Epoch 5):** 56x multiplier = 56 JEWEL/block = 1,680 JEWEL/minute
 * **Block 17,862,367 (Epoch 6):** 48x multiplier = 48 JEWEL/block = 1,440 JEWEL/minute
 * **Block 18,164,767 (Epoch 7):** 40x multiplier = 40 JEWEL/block = 1,200 JEWEL/minute
