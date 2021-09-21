@@ -6,7 +6,7 @@ description: The lore of Defi Kingdoms
 
 ## Gaia - A World in Recovery
 
-![](../.gitbook/assets/whitepapersimage.jpg)
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/whitepapersimage.jpg)
 
 **The world of Gaia** once consisted of a singular continent, a singular people. As they grew in numbers and shared freely with each other information and schools of learning, they prospered greatly, century after century. All were cared for, wealthy beyond measure, all living in an unaware state of peace and utopia.
 
@@ -29,11 +29,15 @@ A new age, the **Age of Heroes**, has begun, and the history books are yet to be
 
 **The Crystal Eggs**
 
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/batch_crystal_egg.png)
+
 Gaia has begun to allow those loyal followers within the Inner Grove to come forth back into this world once again. The energies have been accumulating, and essence infused crystal eggs are being gathered to act as a catalyst to help summon forth those heroes from a distant time and land.
 
 Once here, heroes can focus their essence together and renew these crystal eggs, and once brought to Gaia’s Portal, a new hero can be admitted into this world.
 
 **Gaia’s Tears**
+
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/gaias_tear.png)
 
 Along with the need for a catalyst (*the crystal eggs*), a second key component to summoning heroes to this realm is a substance known as Gaia’s tears. When Irae tore the world asunder in his rage, Gaia wept. Her tears took the form of small, dust-like crystals. Warm to the touch, her power flows through them, and it is said an ounce of them holds enough power to bridge the vast expanses created in Irae’s fury. Gaia’s tears can be found in small quantities throughout the kingdom, and the druids have recently discovered a means to harness them to summon others to these lands.
 
@@ -43,6 +47,8 @@ Gaia’s tears attune with the heroes involved in the summoning process, seeking
 ##The Runes of Power
 
 **Runes**
+
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/rune_12.gif)
 
 Runes are plain stones that have symbols written with Irae’s ashes. When Irae sundered the world, his rage left many areas burning; scorched by the heat of his ire. This fire was imbued with his essence of renewal, and the ashes from that event remain scattered across the lands and are used by the druids for their rituals. The symbols focus his power in various ways, and when placed in key locations in the meditation circle, experienced individuals can pull that energy into themselves to transcend to the next level.
 
