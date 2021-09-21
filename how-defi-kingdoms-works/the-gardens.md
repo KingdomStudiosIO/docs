@@ -33,6 +33,8 @@ Our visualization on liquidity pool mining is unique and fresh. We’re building
 * **Block 22,095,967 (Epoch 20-35):** 8x multiplier = 8 JEWEL/block = 240 JEWEL/minute
 * **Block 26,631,967 (Epoch 36+):** 4x multiplier = 4 JEWEL/block = 120 JEWEL/minute
 
+_\*Listed multipliers are spread out across all active Gardens. See Druid Lazarus for pool-specific emission rates._
+
 Visit the <a href=https://explorer.harmony.one>Harmony Blockchain Explorer</a> to see what the current block is and the current block speed (latency).
 Please note that block speed fluctuates and should be viewed on an average (i.e. daily or weekly basis) when trying to plan your Garden farming strategies.
 
