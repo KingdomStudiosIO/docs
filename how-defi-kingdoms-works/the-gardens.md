@@ -25,7 +25,7 @@ Our visualization on liquidity pool mining is unique and fresh. We’re building
 * **Block 19,676,767 (Epoch 12):** 16x multiplier = 16JEWEL/block = 480 JEWEL/minute
 * **Block 19,979,167 (Epoch 13):** 15x multiplier = 15 JEWEL/block = 450 JEWEL/minute
 * **Block 20,281,567 (Epoch 14):** 14x multiplier = 14 JEWEL/block = 420 JEWEL/minute
-* **Block 20,583,967 (Epoch 15):**  13x multiplier = 13 JEWEL/block = 390 JEWEL/minute
+* **Block 20,583,967 (Epoch 15):** 13x multiplier = 13 JEWEL/block = 390 JEWEL/minute
 * **Block 20,886,367 (Epoch 16):** 12x multiplier = 12 JEWEL/block = 360 JEWEL/minute
 * **Block 21,188,767 (Epoch 17):** 11x multiplier = 11 JEWEL/block = 330 JEWEL/minute
 * **Block 21,491,167 (Epoch 18):** 10x multiplier = 10 JEWEL/block = 300 JEWEL/minute
