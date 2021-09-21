@@ -28,28 +28,44 @@ A new age, the **Age of Heroes**, has begun, and the history books are yet to be
 ##The Ritual of Summoning Heroes
 
 **The Crystal Eggs**
+
 Gaia has begun to allow those loyal followers within the Inner Grove to come forth back into this world once again. The energies have been accumulating, and essence infused crystal eggs are being gathered to act as a catalyst to help summon forth those heroes from a distant time and land.
+
 Once here, heroes can focus their essence together and renew these crystal eggs, and once brought to Gaia’s Portal, a new hero can be admitted into this world.
 
 **Gaia’s Tears**
+
 Along with the need for a catalyst (*the crystal eggs*), a second key component to summoning heroes to this realm is a substance known as Gaia’s tears. When Irae tore the world asunder in his rage, Gaia wept. Her tears took the form of small, dust-like crystals. Warm to the touch, her power flows through them, and it is said an ounce of them holds enough power to bridge the vast expanses created in Irae’s fury. Gaia’s tears can be found in small quantities throughout the kingdom, and the druids have recently discovered a means to harness them to summon others to these lands.
+
 Gaia’s tears attune with the heroes involved in the summoning process, seeking a compatible hero across the divide who aligns with the summoners. Multiple tears can be combined to enhance the power of those that come through the portal.
 
 
 ##The Runes of Power
 
 **Runes**
+
 Runes are plain stones that have symbols written with Irae’s ashes. When Irae sundered the world, his rage left many areas burning; scorched by the heat of his ire. This fire was imbued with his essence of renewal, and the ashes from that event remain scattered across the lands and are used by the druids for their rituals. The symbols focus his power in various ways, and when placed in key locations in the meditation circle, experienced individuals can pull that energy into themselves to transcend to the next level.
 
 **There are 10 types of recorded runes:**
+
 *Shvās (breathe)* - This is the most basic rune and is required for all levels. It can be obtained occasionally as a reward for performing crafts and from quests.
+
 *Moksha (liberation)* - Unknown effects
+
 *Asha (hope)* - Unknown effects
+
 *Quwa (courage)* - Unknown effects
+
 *Urja (energy)* - Unknown effects
+
 *Jyoti (light)* - Unknown effects
+
 *Pragya (wisdom)* - Unknown effects
+
 *Ātmā (soul)* - Unknown effects 
+
 *Sātvik (pure)* - Unknown effects
+
 *Om (om)* - Unknown effects
+
 *Kami (deity)* – A mythic rune of unspeakable power that some say doesn’t even exist.
