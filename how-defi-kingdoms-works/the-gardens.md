@@ -7,7 +7,6 @@ At its core, the Gardens is a place to stake liquidity provider tokens to receiv
 Our visualization on liquidity pool mining is unique and fresh. We’re building an epic world and gardens in which to represent token pairs and liquidity pool mining. Within each garden (i.e. LP pairing), you will be able to see your portion of the total share within the plot represented by your owned plants. The gardener busies himself with tending to your plants \(this represents the countdown timer between blocks mined\) and once harvested, the gardener deposits your yield in the storehouse representing your share of JEWEL tokens of the block mined. **There will be ways in which to augment and increase your yield by in-game items that will provide you with increased JEWEL token rewards!**
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/gardens.gif)
-<div style="text-align: right">(っ◕‿◕)っ</div>
 
 ### Issuance Schedule
 **The issuance of Jewel as rewards for staking LP tokens in the Garden is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is 302,400 blocks on the Harmony Blockchain, and the length of each Epoch depends on the average block speed on Harmony.** Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block on the Harmony Blockchain. However, if block speeds are longer than 2 seconds per block on average, an Epoch will last longer than a week, and inversely, if block speeds are less than 2 seconds per block on average, then an Epoch would last less than one week.
@@ -115,10 +114,10 @@ As noted above, once claimed, locked tokens remain locked until the end of the 5
 * **0.01%** fee if a user withdraws after **4 Epochs**
 * **0.25%** fee if a user withdraws after **2 Epochs but before 4 Epochs**
 * **0.5%** fee if a user withdraws after **5 days but before 2 Epochs**
-* **1%** fee if a user withdraws under **5 days.\***
-* **2%** fee if a user withdraws under **3 days.\*** 
-* **4%** fee if a user withdraws under **24 hours.\*** 
-* **8%** fee if a user withdraws under **1 hour.\***
+* **1%** fee if a user withdraws under **5 days. \***
+* **2%** fee if a user withdraws under **3 days. \*** 
+* **4%** fee if a user withdraws under **24 hours. \*** 
+* **8%** fee if a user withdraws under **1 hour. \***
 * **25%** slashing fee if a user withdraws **during the same block.**
 
 _\*Days/Hours listed assume a 2 seconds per block speed during such period and will depend on Harmony Blockchain speed._
