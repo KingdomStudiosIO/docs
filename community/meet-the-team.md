@@ -1,6 +1,6 @@
 # Meet the Team
 
-![ The Defi Kingdoms team currently consists of 8 people:]![](https://dfk-hv.b-cdn.net/website-media/images/team-chart3.png") />
+![ The Defi Kingdoms team currently consists of 8 people:](https://dfk-hv.b-cdn.net/website-media/images/team-chart3.png") />
 
 \*\*\*\*<img src="https://dfk-hv.b-cdn.net/website-media/images/71ye+qfdz5l._ac_sl1500_-1-.jpg" width="50" height="50" /> **Frisky Fox - Solidity and React Developer**
 
