@@ -48,7 +48,7 @@ Gaia’s tears attune with the heroes involved in the summoning process, seeking
 
 **Runes**
 
-![](https://dfk-hv.b-cdn.net/website-media/images/lore/rune_12.gif)
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/rune_12_sm.gif)
 
 Runes are plain stones that have symbols written with Irae’s ashes. When Irae sundered the world, his rage left many areas burning; scorched by the heat of his ire. This fire was imbued with his essence of renewal, and the ashes from that event remain scattered across the lands and are used by the druids for their rituals. The symbols focus his power in various ways, and when placed in key locations in the meditation circle, experienced individuals can pull that energy into themselves to transcend to the next level.
 
