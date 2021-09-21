@@ -36,3 +36,20 @@ Along with the need for a catalyst (*the crystal eggs*), a second key component 
 Gaia’s tears attune with the heroes involved in the summoning process, seeking a compatible hero across the divide who aligns with the summoners. Multiple tears can be combined to enhance the power of those that come through the portal.
 
 
+##The Runes of Power
+
+**Runes**
+Runes are plain stones that have symbols written with Irae’s ashes. When Irae sundered the world, his rage left many areas burning; scorched by the heat of his ire. This fire was imbued with his essence of renewal, and the ashes from that event remain scattered across the lands and are used by the druids for their rituals. The symbols focus his power in various ways, and when placed in key locations in the meditation circle, experienced individuals can pull that energy into themselves to transcend to the next level.
+
+**There are 10 types of recorded runes:**
+*Shvās (breathe)* - This is the most basic rune and is required for all levels. It can be obtained occasionally as a reward for performing crafts and from quests.
+*Moksha (liberation)* - Unknown effects
+*Asha (hope)* - Unknown effects
+*Quwa (courage)* - Unknown effects
+*Urja (energy)* - Unknown effects
+*Jyoti (light)* - Unknown effects
+*Pragya (wisdom)* - Unknown effects
+*Ātmā (soul)* - Unknown effects 
+*Sātvik (pure)* - Unknown effects
+*Om (om)* - Unknown effects
+*Kami (deity)* – A mythic rune of unspeakable power that some say doesn’t even exist.
