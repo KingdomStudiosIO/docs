@@ -8,13 +8,13 @@ description: The lore of Defi Kingdoms
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/lore/adventure-horizon-frame-lg.gif)
 
-**The world of Gaia** once consisted of a singular continent, a singular people. As they grew in numbers and shared freely with each other information and schools of learning, they prospered greatly, century after century. All were cared for, wealthy beyond measure, all living in an unaware state of peace and utopia.
+**The world of Gaia** once consisted of a singular continent, a singular people. They grew in numbers, sharing freely with each other information and schools of learning. They prospered greatly, century after century. All were cared for, wealthy beyond measure, all living in an unaware state of peace and utopia.
 
 Not satisfied by all the wonders and glories that nature freely provided them, their global civilization embarked on an era of technological advancement. What began with the promise of swift progress, catapulted their global civilization away from an appreciation of Gaia, who they began to destroy for the sake of their own advancement. Gaia’s children moved with reckless abandon. With unrelenting greed, they took from her, digging and poisoning the soil with their oils, gasses, and contraptions. In the wake of their progress, the first age was declared, known as the **Age of Progression**, and Gaia wept.
 
 A small number of the people held true to Gaia and continued to worship her, and she did grant them safe journey into **the Inner Grove**, a paradisiacal dimension for those who remained true to her during the destructive and dark times in the Age of Progression.
 
-Once these first heroes were whisked away into the Inner Grove, **Irae**, an old God, the God of Renewal, could harness his anger no longer in the face of such disrespect for Gaia. In his wrath for what the children of the world had done to his love, he sundered the continent, separating them by vast oceans to put a halt to their progress, bringing low their great machines and monumental structures.
+Once these first heroes were whisked away into the Inner Grove, **Irae**, an old God, the God of Renewal, could suppress his anger no longer in the face of such disrespect for Gaia. In his wrath for what the children of the world had done to his love, he sundered the continent, separating them by vast oceans to put a halt to their progress, bringing low their great machines and monumental structures.
 
 After many millennia apart, the lands and peoples are beginning to knit back together, having learned their lesson, all peoples returning to the harmonious balance of peace with Gaia and an appreciation for her gifts.
 
@@ -31,7 +31,7 @@ A new age, the **Age of Heroes**, has begun, and the history books are yet to be
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/lore/crystal-egg.gif)
 
-Gaia has begun to allow those loyal followers within the Inner Grove to come forth back into this world once again. The energies have been accumulating, and essence infused crystal eggs are being gathered to act as a catalyst to help summon forth those heroes from a distant time and land.
+Gaia has begun to allow those loyal followers within the Inner Grove to come forth back into this world once again. The energies have been accumulating, and essence infused crystal eggs are being gathered to act as a catalyst to help summon forth those heroes into the realm.
 
 Once here, heroes can focus their essence together and renew these crystal eggs, and once brought to Gaia’s Portal, a new hero can be admitted into this world.
 
@@ -73,5 +73,3 @@ Runes are plain stones that have symbols written with Irae’s ashes. When Irae 
 *Sātvik (pure)* - Unknown effects
 
 *Om (om)* - Unknown effects
-
-*Kami (deity)* – A mythic rune of unspeakable power that some say doesn’t even exist.
