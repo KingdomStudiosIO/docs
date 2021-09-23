@@ -99,7 +99,7 @@ Below are two simplified examples that show how the locking model works. For the
 
 ### Locking Model - Early Unlocking with Hero NFTs
 
-**One amazing and unique feature of Defi Kingdoms that sets us apart from any other DeFi exchange out there today is the ability for Heroes to mine for unlocked tokens, unlocking locked JEWEL tokens early based on their stats.**
+**One amazing and unique feature of Defi Kingdoms that sets us apart from any other DeFi exchange out there today is the ability for Heroes to mine locked JEWEL tokens, unlocking them early. Each Hero's stats will determine their ability to unlock JEWEL.**
 
 ### Locking Model - Rationale 
 
