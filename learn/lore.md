@@ -25,7 +25,7 @@ Gardeners tend to the JEWEL gardens, and kingdoms are beginning to use the cryst
 A new age, the **Age of Heroes**, has begun, and the history books are yet to be written, awaiting the great deeds and stories that are just on the horizon. _Welcome to the kingdom, Hero._
 
 
-##The Ritual of Summoning Heroes
+## The Ritual of Summoning Heroes
 
 **The Crystal Eggs**
 
@@ -44,7 +44,7 @@ Along with the need for a catalyst (*the crystal eggs*), a second key component 
 Gaia’s tears attune with the heroes involved in the summoning process, seeking a compatible hero across the divide who aligns with the summoners. Multiple tears can be combined to enhance the power of those that come through the portal.
 
 
-##The Runes of Power
+## The Runes of Power
 
 **Runes**
 
@@ -54,7 +54,7 @@ Runes are plain stones that have symbols written with Irae’s ashes. When Irae 
 
 **There are 10 types of recorded runes:**
 
-*Shvās (breathe)* - This is the most basic rune and is required for all levels. It can be obtained occasionally as a reward for performing crafts and from quests.
+*Shvās (breath)* - This is the most basic rune and is required for all levels. It can be obtained occasionally as a reward for performing crafts and from quests.
 
 *Moksha (liberation)* - Unknown effects
 
@@ -70,7 +70,7 @@ Runes are plain stones that have symbols written with Irae’s ashes. When Irae 
 
 *Ātmā (soul)* - Unknown effects 
 
-*Sātvik (pure)* - Unknown effects
+*Sātvik (purity)* - Unknown effects
 
 *Om (om)* - Unknown effects
 
