@@ -4,12 +4,12 @@ At its core, the Gardens is a place to stake liquidity provider tokens to receiv
 
 ![Gathering the fruits of his labors.](https://dfk-hv.b-cdn.net/website-media/images/gardener.gif)
 
-Our visualization on liquidity pool mining is unique and fresh. We’re building an epic world and gardens in which to represent token pairs and liquidity pool mining. Within each garden (i.e. LP pairing), you will be able to see your portion of the total share within the plot represented by your owned plants. The gardener busies himself with tending to your plants \(this represents the countdown timer between blocks mined\) and once harvested, the gardener deposits your yield in the storehouse representing your share of JEWEL tokens of the block mined. **There will be ways in which to augment and increase your yield by in-game items that will provide you with increased JEWEL token rewards!**
+Our visualization on liquidity pool mining is unique and fresh. We’re building an epic world and gardens in which to represent token pairs and liquidity pool mining. Within each garden (i.e. LP pairing), you will be able to see your portion of the total share within the plot represented by your owned plants. The gardener busies himself with tending to your plants \(this represents the countdown timer between blocks mined\) and once harvested, the gardener deposits your yield in the storehouse representing your share of JEWEL tokens of the block mined. **There will be ways to augment and increase your yield through in-game items that will provide you with increased JEWEL token rewards!**
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/gardens.gif)
 
 ### Issuance Schedule
-**The issuance of Jewel as rewards for staking LP tokens in the Garden is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is 302,400 blocks on the Harmony Blockchain, and the length of each Epoch depends on the average block speed on Harmony.** Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block on the Harmony Blockchain. However, if block speeds are longer than 2 seconds per block on average, an Epoch will last longer than a week, and inversely, if block speeds are less than 2 seconds per block on average, then an Epoch would last less than one week.
+**The issuance of JEWEL as rewards for staking LP tokens in the Garden is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is 302,400 blocks on the Harmony Blockchain, and the length of each Epoch depends on the average block speed on Harmony.** Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block on the Harmony Blockchain. However, if block speeds are longer than 2 seconds per block on average, an Epoch will last longer than a week, and inversely, if block speeds are less than 2 seconds per block on average, then an Epoch would last less than one week.
 
 * **Block 16,350,367 (Epoch 1):** 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minute
 * **Block 16,652,767 (Epoch 2):** 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minute
@@ -22,7 +22,7 @@ Our visualization on liquidity pool mining is unique and fresh. We’re building
 * **Block 18,769,567 (Epoch 9):** 28x multiplier = 28 JEWEL/block = 840 JEWEL/minute
 * **Block 19,071,967 (Epoch 10):** 24x multiplier = 24 JEWEL/block = 720 JEWEL/minute
 * **Block 19,374,367 (Epoch 11):** 20x multiplier = 20 JEWEL/block = 600 JEWEL/minute
-* **Block 19,676,767 (Epoch 12):** 16x multiplier = 16JEWEL/block = 480 JEWEL/minute
+* **Block 19,676,767 (Epoch 12):** 16x multiplier = 16 JEWEL/block = 480 JEWEL/minute
 * **Block 19,979,167 (Epoch 13):** 15x multiplier = 15 JEWEL/block = 450 JEWEL/minute
 * **Block 20,281,567 (Epoch 14):** 14x multiplier = 14 JEWEL/block = 420 JEWEL/minute
 * **Block 20,583,967 (Epoch 15):** 13x multiplier = 13 JEWEL/block = 390 JEWEL/minute
@@ -40,11 +40,11 @@ Please note that block speed fluctuates and should be viewed on an average (i.e.
 
 ### Locking Model
 
-_A portion of the JEWELs grown in the Gardens can be harvested immediately (i.e. are unlocked and immediately usable), while the rest are dispersed deep underground (locked). These locked JEWELs will slowly work their way upward and will be rewarded to the owners in time, but until unlocked cannot be used in any way (i.e. cannot be used for staking, providing liquidity, governance votes or any other in game transaction). Once claimed, locked tokens remain locked until the end of Epoch 51 (estimated to be in Q3 2022 depending on Harmony block speeds) at which point such locked Jewel will begin to unlock ratably over the next year (fully unlocking in Q3 2022 depending on Harmony block speeds).
+A portion of the JEWELs grown in the Gardens can be harvested immediately (i.e. are unlocked and immediately usable), while the rest are dispersed deep underground (locked). These locked JEWELs will slowly work their way upward and will be rewarded to the owners in time, but until unlocked cannot be used in any way (i.e. cannot be used for staking, providing liquidity, governance votes or any other in game transaction). Once claimed, locked tokens remain locked until the end of Epoch 51 (estimated to be in Q3 2022 depending on Harmony block speeds) at which point such locked JEWEL will begin to unlock ratably over the next year (fully unlocking in Q3 2022 depending on Harmony block speeds).
 
-**Heroes will have the ability to mine for these locked JEWEL tokens, unlocking them early.**_
+**Heroes will have the ability to mine for these locked JEWEL tokens, unlocking them early.**
 
-To balance the amazing multipliers that early adopters that provide liquidity via the Gardens receive, our tokenomics include a locking model on the Jewel tokens received from providing liquidity. The calculation of what portion of your rewards is locked vs unlocked only takes effect once you click the **CLAIM** button. Whenever rewards are **CLAIMED** from the Gardens, a portion of the rewards will be unlocked (i.e. immediately usable to trade, buy, sell, stake in the bank) and the remainder will be locked. The allocation of Jewel between unlocked and locked amounts will depend in which Epoch the rewards are **CLAIMED**, not on when they are earned or staked.
+To balance the amazing multipliers that early adopters that provide liquidity via the Gardens receive, our tokenomics include a locking model on the JEWEL tokens received from providing liquidity. The calculation of what portion of your rewards is locked vs unlocked only takes effect once you click the **CLAIM** button. Whenever rewards are **CLAIMED** from the Gardens, a portion of the rewards will be unlocked (i.e. immediately usable to trade, buy, sell, stake in the bank) and the remainder will be locked. The allocation of JEWEL between unlocked and locked amounts will depend in which Epoch the rewards are **CLAIMED**, not on when they are earned or staked.
 
 **Starting the first Epoch, 5% of any rewards claimed from the Gardens were unlocked and immediately accessible and 95% of rewards claimed from the Gardens were locked. The percentage of rewards CLAIMED from the Garden that are unlocked will increase by 2% every Epoch until after Epoch 51 where any rewards claimed thereafter will be 100% unlocked. This 2% increase of unlocked rewards per Epoch applies only to unclaimed rewards (i.e. once claimed, locked rewards do not benefit from this increasing unlock rate per Epoch and will remain locked until after Epoch 51 when they will start to unlock)** 
 
@@ -52,18 +52,18 @@ So, for example, Garden staking rewards claimed during Epoch 1 will be 5% unlock
 
 ### Locking Model - Simplified Examples
 
-Below are two simplified examples that show how the locking model works. For the sake of simplicity, **the examples assume no reinvestment** of unlocked claimed rewards into additional LP positions and that a player earned 100 Jewel in Garden rewards during Epoch 1, 50 Jewel in Epoch 2 and so on to reflect the reduced Jewel emission per Epoch. In both scenarios, 301.6 Jewel is earned, but the amount unlocked versus locked is different. This locking model provides players the opportunity to choose a strategy that suits their style and risk appetite.
+Below are two simplified examples that show how the locking model works. For the sake of simplicity, **the examples assume no reinvestment** of unlocked claimed rewards into additional LP positions and that a player earned 100 JEWEL in Garden rewards during Epoch 1, 50 JEWEL in Epoch 2 and so on to reflect the reduced JEWEL emission per Epoch. In both scenarios, 301.6 JEWEL is earned, but the amount unlocked versus locked is different. This locking model provides players the opportunity to choose a strategy that suits their style and risk appetite.
 
 **Illustrative Example A**: Rewards earned during each Epoch are claimed during each Epoch (and not reinvested).
 
 * _10 Epoch Summary_:
-  * Total unlocked Jewel: **29.8** Jewel
-  * Total locked Jewel: **271.8** Jewel (inaccessible until after Epoch 51 unless unlocked earlier via Heroes)
-  * Total Jewel: **301.6** Jewel
+  * Total unlocked JEWEL: **29.8** JEWEL
+  * Total locked JEWEL: **271.8** JEWEL (inaccessible until after Epoch 51 unless unlocked earlier via Heroes)
+  * Total rewards: **301.6** JEWEL
 
-  * _Lower unlocked Jewel over the sample period, but allows for use of and potential *recompounding/reinvestment* of unlocked Jewel during sample period, which could result in more unlocked Jewel than not claiming over the same period depending on what you choose to do with such unlocked claimed rewards. The choice is yours!_
+  * _Lower unlocked JEWEL over the sample period, but allows for use of and potential *recompounding/reinvestment* of unlocked JEWEL during sample period, which could result in more unlocked JEWEL than not claiming over the same period depending on what you choose to do with such unlocked claimed rewards. The choice is yours!_
 
-|<sub>Epoch</sub>|<sub>Unlocked at time of claiming</sub>|<sub>Locked at time of claiming</sub>|<sub>Example Jewel Earned during Epoch</sub>|<sub>Unlocked Claimed during Epoch</sub>|<sub>Locked Claimed During Epoch</sub>|<sub>Unlocked Cumulative</sub>|<sub>Locked Cumulative</sub>|
+|<sub>Epoch</sub>|<sub>Unlocked at time of claiming</sub>|<sub>Locked at time of claiming</sub>|<sub>Example JEWEL Earned during Epoch</sub>|<sub>Unlocked Claimed during Epoch</sub>|<sub>Locked Claimed During Epoch</sub>|<sub>Unlocked Cumulative</sub>|<sub>Locked Cumulative</sub>|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<sub>Epoch 1</sub>|<sub>5%</sub>|<sub>95%</sub>|<sub>100.0</sub>|<sub>5.0</sub>|<sub>95.0</sub>|<sub>5.0</sub>|<sub>95.0</sub>|
 |<sub>Epoch 2</sub>|<sub>7%</sub>|<sub>93%</sub>|<sub>50.0</sub>|<sub>3.5</sub>|<sub>46.5</sub>|<sub>8.5</sub>|<sub>141.5</sub>|
@@ -79,12 +79,12 @@ Below are two simplified examples that show how the locking model works. For the
 **Illustrative Example B**: Rewards are not claimed until the end of Epoch 10.
 
 * 10 Epoch Summary:
-  * Total unlocked Jewel: **69.4** Jewel
-  * Total locked Jewel: **232.2** Jewel (inaccessible until after Epoch 51 unless unlocked earlier via Heroes)
-  * Total rewards: **301.6** Jewel
-  * _Higher unlocked Jewel count by the end of sample period, but unable to use or compound unlocked Jewel during sample period._
+  * Total unlocked JEWEL: **69.4** JEWEL
+  * Total locked JEWEL: **232.2** JEWEL (inaccessible until after Epoch 51 unless unlocked earlier via Heroes)
+  * Total rewards: **301.6** JEWEL
+  * _Higher unlocked JEWEL count by the end of sample period, but unable to use or compound unlocked Jewel during sample period._
 
-|<sub>Epoch</sub>|<sub>Unlocked at time of claiming</sub>|<sub>Locked at time of claiming</sub>|<sub>Example Jewel Earned during Epoch</sub>|<sub>Cumulative UNCLAIMED Unlocked</sub>|<sub>Cumulative UNCLAIMED Locked</sub>|<sub>Cumulative CLAIMED Unlocked</sub>|<sub>Cumulative CLAIMED Locked</sub>|
+|<sub>Epoch</sub>|<sub>Unlocked at time of claiming</sub>|<sub>Locked at time of claiming</sub>|<sub>Example JEWEL Earned during Epoch</sub>|<sub>Cumulative UNCLAIMED Unlocked</sub>|<sub>Cumulative UNCLAIMED Locked</sub>|<sub>Cumulative CLAIMED Unlocked</sub>|<sub>Cumulative CLAIMED Locked</sub>|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<sub>Epoch 1</sub>|<sub>5%</sub>|<sub>95%</sub>|<sub>100.0</sub>|<sub>5.0</sub>|<sub>95.0</sub>|<sub>0.0</sub>|<sub>0.0</sub>|
 |<sub>Epoch 2</sub>|<sub>7%</sub>|<sub>93%</sub>|<sub>50.0</sub>|<sub>10.5</sub>|<sub>139.5</sub>|<sub>0.0</sub>|<sub>0.0</sub>|
@@ -97,15 +97,15 @@ Below are two simplified examples that show how the locking model works. For the
 |<sub>Epoch 9</sub>|<sub>21%</sub>|<sub>79%</sub>|<sub>10.9</sub>|<sub>61.4</sub>|<sub>230.8</sub>|<sub>0.0</sub>|<sub>0.0</sub>|
 |<sub>Epoch 10</sub>|<sub>23%</sub>|<sub>77%</sub>|<sub>9.4</sub>|<sub>69.4</sub>|<sub>232.2</sub>|<sub>69.4</sub>|<sub>232.2</sub>|
 
-### Locking Model -Early Unlocking with Hero NFTs
+### Locking Model - Early Unlocking with Hero NFTs
 
 **One amazing and unique feature of Defi Kingdoms that sets us apart from any other DeFi exchange out there today is the ability for Heroes to mine for unlocked tokens, unlocking locked JEWEL tokens early based on their stats.**
 
 ### Locking Model - Rationale 
 
-This locking model helps the project retain value for the long-term, and ensures only those who see the long-term vision of DeFi Kingdoms jump in and earn the maximized rewards available to early adopters. Further, this locking model both balances the rewards needed to attract early providers of the necessary liquidity against the long term interest of a sustainable price for an in game token and concurrently provides early LP stakers a strategic choice to claim early and compound their staking rewards at the cost of locking more of their Jewel rewards until after Epoch 51 (unless locked earlier by Hero NFTs) or to delay claiming until an Epoch with a higher unlock percentage at an opportunity cost of not being able to utilize any garden rewards in the meantime.
+This locking model helps the project retain value for the long-term, and ensures only those who see the long-term vision of DeFi Kingdoms jump in and earn the maximized rewards available to early adopters. Further, this locking model both balances the rewards needed to attract early providers of the necessary liquidity against the long term interest of a sustainable price for an in game token and concurrently provides early LP stakers a strategic choice to claim early and compound their staking rewards at the cost of locking more of their JEWEL rewards until after Epoch 51 (unless locked earlier by Hero NFTs) or to delay claiming until an Epoch with a higher unlock percentage at an opportunity cost of not being able to utilize any garden rewards in the meantime.
 
-As noted above, once claimed, locked tokens remain locked until the end of the 51st Epoch (estimated in Q3 2022 depending on Harmony block speeds) at which point such locked Jewel will begin to unlock ratably over the next year (assuming a block speed of 2 seconds per block on the Harmony Blockchain). After the end of Epoch 51 and we reach the point where 100% of gardening rewards claimed will be unlocked, all locked tokens previously claimed during the prior 51 Epochs not otherwise unlocked through Hero mining quests will begin to unlock ratably over the year (and will be fully unlocked by approximately Q3 2022 assuming a 2 seconds per block speed on the Harmony Blockchain during such year).
+As noted above, once claimed, locked tokens remain locked until the end of the 51st Epoch (estimated in Q3 2022 depending on Harmony block speeds) at which point such locked JEWEL will begin to unlock ratably over the next year (assuming a block speed of 2 seconds per block on the Harmony Blockchain). After the end of Epoch 51 and we reach the point where 100% of gardening rewards claimed will be unlocked, all locked tokens previously claimed during the prior 51 Epochs not otherwise unlocked through Hero mining quests will begin to unlock ratably over the year (and will be fully unlocked by approximately Q3 2022 assuming a 2 seconds per block speed on the Harmony Blockchain during such year).
 
 ![](../.gitbook/assets/screen-shot-2021-07-31-at-10.02.00-pm.png)
 
