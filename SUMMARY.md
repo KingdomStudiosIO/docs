@@ -19,6 +19,7 @@
 ## Learn
 
 * [Lore](learn/lore.md)
+* [Gameplay](learn/gameplay.md)
 * [FAQ](learn/faq.md)
 
 ## Community
@@ -28,5 +29,6 @@
 
 ## Important
 
+* [Audit Results](important/audit-results.md)
 * [DYOR - Disclaimer](important/dyor-disclaimer.md)
 
