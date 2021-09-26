@@ -19,6 +19,7 @@
 ## Learn
 
 * [Lore](learn/lore.md)
+* [Gameplay](learn/gameplay.md)
 * [FAQ](learn/faq.md)
 
 ## Community
