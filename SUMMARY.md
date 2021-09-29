@@ -19,6 +19,12 @@
 ## Learn
 
 * [Lore](learn/lore.md)
+* [Gameplay](learn/gameplay/README.md)
+  * [Stats](learn/gameplay/stats.md)
+  * [Leveling](learn/gameplay/leveling.md)
+  * [Summoning](learn/gameplay/summoning.md)
+  * [Quests](learn/gameplay/quests.md)
+  * [Professions](learn/gameplay/professions.md)
 * [FAQ](learn/faq.md)
 
 ## Community
@@ -28,5 +34,6 @@
 
 ## Important
 
+* [Audit Results](important/audit-results.md)
 * [DYOR - Disclaimer](important/dyor-disclaimer.md)
 
