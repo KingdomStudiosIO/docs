@@ -2,11 +2,11 @@
 
 Heroes can increase their stats by leveling up. To level up, a hero must first have accumulated enough experience from their adventures. Once they have done that, they visit the **meditation circle** (coming soon!), and spend a certain number of runes (may be different types) and JEWELs based on their level. They also have the option to use an attunement crystal while leveling up, which will increase the success rate for certain stat increases.
 
-![Hero in summoning circle (work in progress)](../.gitbook/assets/jewel-icon.png)
+![Hero in summoning circle (work in progress)](https://dfk-hv.b-cdn.net/art-assets/meditation.gif)
 
 Each set of 10 levels has a focus rune associated with it. For levels 1 through 10, that rune is the **Shvās rune**. 
 
-![Shvās rune](../.gitbook/assets/jewel-icon.png)
+![Shvās rune](https://dfk-hv.b-cdn.net/art-assets/rune.gif)
 
 After reaching level 10, the hero will need an additional rune type (Moksha) to level up further. However, as the hero progresses from level 11 to 20, their Shvās rune cost will decrease as the Moksha cost increases. The Shvās rune cost will stop decreasing once it reaches 1 (meaning a hero will always pay at least 1 rune of a type they have used before). This pattern continues with new rune types every ten levels.
 
