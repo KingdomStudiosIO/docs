@@ -20,6 +20,11 @@
 
 * [Lore](learn/lore.md)
 * [Gameplay](learn/gameplay.md)
+  * [Stats](learn/gameplay.md)
+  * [Leveling](learn/gameplay.md)
+  * [Summoning](learn/gameplay.md)
+  * [Quests](learn/gameplay.md)
+  * [Professions](learn/gameplay.md)
 * [FAQ](learn/faq.md)
 
 ## Community
