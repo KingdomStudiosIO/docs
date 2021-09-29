@@ -1,10 +1,10 @@
 # Summoning
 
-![Summoning Portal](../.gitbook/assets/jewel-icon.png)
+![Summoning Portal](https://dfk-hv.b-cdn.net/art-assets/portal.gif)
 
 To summon, two heroes must visit the **Arch Druid** and infuse a summoning crystal with their combined essence. **Infused crystals** are then used at the portal to seek heroes from far away lands that are in tune with the heroes that infused the crystal. 
 
-![Infused Crystal](../.gitbook/assets/jewel-icon.png)
+![Infused Crystal](https://dfk-hv.b-cdn.net/art-assets/crystal-yellow.gif)
 
 To infuse a crystal, heroes pour their energy into **Gaia’s Tears** and **JEWELs**, which are then fed into a summoning crystal. Stronger heroes may use additional Gaia’s Tears to cause the portal to seek stronger heroes more like the summoner. 
 
