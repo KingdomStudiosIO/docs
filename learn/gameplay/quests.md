@@ -1,6 +1,6 @@
 # Quests
 
-![Quest Dialog](../.gitbook/assets/jewel-icon.png)
+![Quest Giver](https://dfk-hv.b-cdn.net/art-assets/quest-giver.gif)
 
 Aside from summoning, the primary focus of heroes is to go on quests and collect useful items and experience. Quests can be divided into two categories: Profession Quests and Adventure Quests. Profession quests are non-combat oriented quests to learn and excel at different useful skills to the kingdom. Adventure Quests involve going to a remote location with a team of heroes to fight evil, and the spoils of those battles are yours for the taking. Adventure quests will not be available until later phases.
 
