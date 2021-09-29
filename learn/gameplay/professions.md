@@ -20,7 +20,7 @@ Mining is a passive activity that you send heroes to do. One hero can visit a mi
 
 Gardening requires the wisdom to give plants time to grow, and plants seem to respond better to those with great vitality. Gardening is primarily done within one’s own Garden, which helps speed the growth of the JEWEL plants, but visiting any garden and putting in some time can still result in some useful harvests. Increasing a hero’s gardening skill can lead to more JEWEL rewards and higher chances to find other resources.
 
-Gardening is a passive activity that you send heroes to do. One hero can visit a mine at a time. For each 10 minutes a hero spends gardening, 1 stamina is consumed. When the player stops the hero’s gardening action, they will receive rewards based on the amount of stamina spent.
+Gardening is a passive activity that you send heroes to do. One hero can visit a garden at a time. For each 10 minutes a hero spends gardening, 1 stamina is consumed. When the player stops the hero’s gardening action, they will receive rewards based on the amount of stamina spent.
 
 
 ### Foraging (FOR)
