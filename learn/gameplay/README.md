@@ -9,8 +9,8 @@ Gameplay in Defi Kingdoms is centered around heroes. Don’t have a hero? Well, 
 
 ### Learn More:
 
-* [Stats](learn/gameplay.md)
-* [Leveling](learn/gameplay.md)
-* [Summoning](learn/gameplay.md)
-* [Quests](learn/gameplay.md)
-* [Professions](learn/gameplay.md)
+* [Stats](learn/gameplay/stats.md)
+* [Leveling](learn/gameplay/leveling.md)
+* [Summoning](learn/gameplay/summoning.md)
+* [Quests](learn/gameplay/quests.md)
+* [Professions](learn/gameplay/professions.md)
