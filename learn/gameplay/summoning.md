@@ -8,7 +8,7 @@ To summon, two heroes must visit the **Arch Druid** and infuse a summoning cryst
 
 To infuse a crystal, heroes pour their energy into **Gaia’s Tears** and **JEWELs**, which are then fed into a summoning crystal. Stronger heroes may use additional Gaia’s Tears to cause the portal to seek stronger heroes more like the summoner. 
 
-For every 5 levels a summoning hero has reached, they may increase the tear cost by 1 oz. to provide bonuses to the summoned hero. Those bonuses are applied to the summoned hero’s stats, Primary Stat Growth, and Secondary Stat Growth. The bonuses are based on the summoning hero’s top three stats, and each summoning hero may provide their own bonuses if they use extra tears.
+For every 5 levels a summoning hero has reached, they may increase the tear cost by 10 to provide bonuses to the summoned hero. Those bonuses are applied to the summoned hero’s stats, Primary Stat Growth, and Secondary Stat Growth. The bonuses are based on the summoning hero’s top three stats, and each summoning hero may provide their own bonuses if they use extra tears.
 
 **Enhancement stones** can also be used during this process to further improve the starting parameters of the summoned hero!
 
