@@ -10,15 +10,15 @@
 Frisky Fox has been writing and architecting the many smart contracts that will live on the blockchain and run the game. He has also spearheaded the interface, and the analytics and API servers that will support the game and dex. Defi Kingdoms started as his brain-child and he was the driving force behind the game mechanics discussions.
 <br /><br /><br /><br />
 
-![Tango](https://dfk-hv.b-cdn.net/website-media/images/tango-100.gif)
-### Professor Tango
+
+### Professor Tango ![Tango](https://dfk-hv.b-cdn.net/website-media/images/tango-100.gif)
 **Dev Project Manager Extraordinaire**
 
 Tango has taken it upon himself to help keep the devs organized and on task. Watch out because he knows how to do everything and anything. His ability to produce gifs of any image is astounding.
 <br /><br /><br /><br />
 
-![Jericho](https://dfk-hv.b-cdn.net/website-media/images/jericho-100.png)
-### Jericho Splendershoes
+
+### Jericho Splendershoes ![Jericho](https://dfk-hv.b-cdn.net/website-media/images/jericho-100.png)
 **Technical Writer and React Developer Super Saiyan**
 
 Jericho has been working hard on the white paper and other documents, as well as helping to brainstorm the Game Mechanics and Tokenomics. He has been programming most of the front-end portion of the game!
