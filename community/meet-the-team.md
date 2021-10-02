@@ -1,18 +1,20 @@
 # Meet the Team
 
-## Devs
+## DEVELOPMENT
 
-![Fox](https://dfk-hv.b-cdn.net/website-media/images/fox-100.gif)
 ### Frisky Fox
 **Solidity and React Developer God**
 
 Frisky Fox has been writing and architecting the many smart contracts that will live on the blockchain and run the game. He has also spearheaded the interface, and the analytics and API servers that will support the game and dex. Defi Kingdoms started as his brain-child and he was the driving force behind the game mechanics discussions.
+![Fox](https://dfk-hv.b-cdn.net/website-media/images/fox-100.gif)
 
-![Tango](https://dfk-hv.b-cdn.net/website-media/images/tango-100.gif)
+
 ### Professor Tango
 **Dev Project Manager Extraordinaire**
 
 Tango has taken it upon himself to help keep the devs organized and on task. Watch out because he knows how to do everything and anything. His ability to produce gifs of any image is astounding.
+![Tango](https://dfk-hv.b-cdn.net/website-media/images/tango-100.gif)
+
 
 ![Jericho](https://dfk-hv.b-cdn.net/website-media/images/jericho-100.png)
 ### Jericho Splendershoes
@@ -40,7 +42,7 @@ Hubert has graced the team with his talent to write up all the game mechanics to
 
 ---
 
-## Designers
+## DESIGN
 
 ![Sinstar](https://dfk-hv.b-cdn.net/website-media/images/sinstar-100.gif)
 ### Sinstar Necro
@@ -68,7 +70,7 @@ Pogo is our humble music composer. He brings rainbows and sunshine into his comp
 
 ---
 
-## PR
+## PUBLIC RELATIONS
 
 ![Spicy](https://dfk-hv.b-cdn.net/website-media/images/spicy-maple-cat-100.gif)
 ### Spicy Maplecat
