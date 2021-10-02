@@ -12,7 +12,7 @@ Frisky Fox has been writing and architecting the many smart contracts that will 
 ### Professor Tango
 **Dev Project Manager Extraordinaire**
 
-Tango has taken it upon himself to help keep the devs organized and on task. Watch out because he knows how to do everything and anything.
+Tango has taken it upon himself to help keep the devs organized and on task. Watch out because he knows how to do everything and anything. His ability to produce gifs of any image is astounding.
 
 ![Jericho](https://dfk-hv.b-cdn.net/website-media/images/jericho-100.png)
 ### Jericho Splendershoes
@@ -26,13 +26,13 @@ Jericho has been working hard on the white paper and other documents, as well as
 
 Admiral Omicron has been working on the game and dex interface in React. He has hit the ground running and will continue to be key in the game development of future phases.
 
-![Tadakichi](https://dfk-hv.b-cdn.net/website-media/images/tadakichi-100.png)
+![Tadakichi](https://dfk-hv.b-cdn.net/website-media/images/tadakichi-100.gif)
 ### Tadakichi
 **Game Developer Wizard**
 
 Tadakichi has 10+ years experience in making games using Unity. He's stepped in to learn some React and help make the game come alive.
 
-![Hubert](https://dfk-hv.b-cdn.net/website-media/images/hubert-100.png)
+![Hubert](https://dfk-hv.b-cdn.net/website-media/images/hubert-100.gif)
 ### Hubert Cumberdale
 **Game Mechanics Specialist**
 
@@ -60,7 +60,7 @@ Raspberry Swirl works between the design team and the devs to make sure everythi
 
 Pie Face is focusing on designing the UI/UX of the game to make sure things flow and are easy to use.
 
-![Pogo](https://dfk-hv.b-cdn.net/website-media/images/pogo-100.png)
+![Pogo](https://dfk-hv.b-cdn.net/website-media/images/pogo-100.gif)
 ### Pogo
 **Music Composer for the Kingdom**
 
