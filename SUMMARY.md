@@ -37,3 +37,4 @@
 * [Audit Results](important/audit-results.md)
 * [DYOR - Disclaimer](important/dyor-disclaimer.md)
 
+* [Defi Kingdoms](README.adoc)
