@@ -3,21 +3,6 @@
 ## DEVELOPMENT
 <br /><br />
 
-  <div>
-    <div>
-      <div>
-        ### Frisky Fox
-      </div>
-      <div>
-        asdasdasd asd asd ad as dasd asdas das asd asdas dasd asd asda das dasd asds
-      </div>
-    </div>
-    <div>
-      <div>
-        test
-      </div>
-    </div>
-  </div>
 
 ### Frisky Fox ![Fox](https://dfk-hv.b-cdn.net/website-media/images/fox-100.gif)
 **Solidity and React Developer God**
