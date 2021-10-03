@@ -35,4 +35,5 @@
 ## Important
 
 * [Audit Results](important/audit-results.md)
+* [Credits](important/credits.md)
 * [DYOR - Disclaimer](important/dyor-disclaimer.md)
