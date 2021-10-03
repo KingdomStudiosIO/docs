@@ -5,9 +5,9 @@
 
 ### Frisky Fox
 **Solidity and React Developer God**
-
-<img align="left" src="https://dfk-hv.b-cdn.net/website-media/images/fox-100.gif">
-
+<p align="center">
+  <img src="https://dfk-hv.b-cdn.net/website-media/images/fox-100.gif">
+</p>
 Frisky Fox has been writing and architecting the many smart contracts that will live on the blockchain and run the game. He has also spearheaded the interface, and the analytics and API servers that will support the game and dex. Defi Kingdoms started as his brain-child and he was the driving force behind the game mechanics discussions.
 <br /><br />
 
