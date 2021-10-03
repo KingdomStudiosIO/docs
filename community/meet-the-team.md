@@ -22,7 +22,7 @@ Tango has taken it upon himself to help keep the devs organized and on task. Wat
 ### Jericho Splendershoes
 **Technical Writer and React Developer Super Saiyan**
 
-![](https://dfk-hv.b-cdn.net/website-media/images/jericho-100.png)
+![](https://dfk-hv.b-cdn.net/website-media/images/jericho-100.gif)
 
 Jericho has been working hard on the white paper and other documents, as well as helping to brainstorm the Game Mechanics and Tokenomics. He has been programming most of the front-end portion of the game!
 <br /><br />
