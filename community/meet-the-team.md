@@ -9,7 +9,7 @@
             <td>L2 Name A</td>
         </tr>
         <tr>
-            <td>### Frisky Fox</td>
+            <td>Frisky Fox</td>
         </tr>
     </tbody>
 </table>
