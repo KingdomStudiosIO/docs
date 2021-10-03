@@ -6,7 +6,7 @@
     <tbody>
         <tr>
             <td rowspan=2><img src="https://dfk-hv.b-cdn.net/website-media/images/fox-100.gif"></td>
-            <td>L2 Name A</td>
+            <td>L2 Name A<br />Test</td>
         </tr>
         <tr>
             <td>Frisky Fox</td>
