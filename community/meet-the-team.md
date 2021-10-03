@@ -9,7 +9,7 @@
 ![](https://dfk-hv.b-cdn.net/website-media/images/fox-100.gif)
 
 Frisky Fox has been writing and architecting the many smart contracts that will live on the blockchain and run the game. He has also spearheaded the interface, and the analytics and API servers that will support the game and dex. Defi Kingdoms started as his brain-child and he was the driving force behind the game mechanics discussions.
-
+<br /><br />
 
 ### Professor Tango
 **Dev Project Manager Extraordinaire**
@@ -17,7 +17,7 @@ Frisky Fox has been writing and architecting the many smart contracts that will 
 ![](https://dfk-hv.b-cdn.net/website-media/images/tango-100.gif)
 
 Tango has taken it upon himself to help keep the devs organized and on task. Watch out because he knows how to do everything and anything. His ability to produce gifs of any image is astounding.
-
+<br /><br />
 
 ### Jericho Splendershoes
 **Technical Writer and React Developer Super Saiyan**
@@ -25,7 +25,7 @@ Tango has taken it upon himself to help keep the devs organized and on task. Wat
 ![](https://dfk-hv.b-cdn.net/website-media/images/jericho-100.png)
 
 Jericho has been working hard on the white paper and other documents, as well as helping to brainstorm the Game Mechanics and Tokenomics. He has been programming most of the front-end portion of the game!
-
+<br /><br />
 
 ### Admiral Omicron
 **React Developer Ser**
@@ -42,7 +42,7 @@ Admiral Omicron has been working on the game and dex interface in React. He has 
 ![](https://dfk-hv.b-cdn.net/website-media/images/tadakichi-100.gif)
 
 Tadakichi has 10+ years experience in making games using Unity. He's stepped in to learn some React and help make the game come alive.
-<br /><br /><br /><br />
+<br /><br />
 
 
 ### Hubert Cumberdale
@@ -51,7 +51,7 @@ Tadakichi has 10+ years experience in making games using Unity. He's stepped in 
 ![](https://dfk-hv.b-cdn.net/website-media/images/hubert-100.gif)
 
 Hubert has graced the team with his talent to write up all the game mechanics to make sure everything will run smoothly. His knack for making sure everything fits into the lore while functioning flawlessy for the game takes our breath away.
-<br /><br />
+<br /><br /><br /><br />
 
 ---
 
@@ -92,7 +92,7 @@ Pie Face is focusing on designing the UI/UX of the game to make sure things flow
 ![](https://dfk-hv.b-cdn.net/website-media/images/pogo-100.gif)
 
 Pogo is our humble music composer. He brings rainbows and sunshine into his composition and spreads it across the kingdom. Pogo has 10+ years experience in composing and has created music for multiple games.
-<br /><br />
+<br /><br /><br /><br />
 
 ---
 
