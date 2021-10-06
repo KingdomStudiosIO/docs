@@ -30,7 +30,7 @@ Summoned hero receives +1 to INT and WIS, +1% primary stat growth to INT and WIS
 LVL100 Wizard (highest stats INT, WIS, and LCK) pays 210 Gaia’s Tears (base 10 + 200 for 20 steps of 5 levels)
 Summoned hero receives +6 to INT, +3 WIS, and +3 LCK, +6% primary stat growth to INT, +3% to WIS, and 3% to LCK, and +5% secondary stat growth to INT, WIS, and LCK
 
-These bonuses are **per** summoning hero, so the maximum possible for two LVL100 heroes to spend would be 420 Gaia's Tears (base 10\*2 + 200\*2)
+These bonuses are **per** summoning hero, so the maximum possible for two LVL100 heroes to spend would be 420 Gaia's Tears (base 10\*2 + 200\*2 extra)
 
 ![TearsBonus](https://user-images.githubusercontent.com/91647016/136145171-dc6d4256-c1f5-40f6-b8a7-de6d8d46c593.png)
 
