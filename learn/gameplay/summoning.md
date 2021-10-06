@@ -10,16 +10,16 @@ To infuse a crystal, heroes pour their energy into **Gaia’s Tears** and **JEWE
 
 For every 5 levels a summoning hero has reached, they may increase the tear cost by 10 to provide bonuses to the summoned hero. Those bonuses are applied to the summoned hero’s stats, Primary Stat Growth, and Secondary Stat Growth. The bonuses are based on the summoning hero’s top three stats, and each summoning hero may provide their own bonuses if they use extra tears.
 
-The bonuses loop through the following pattern with each increased step in +10 tears paid per summoning hero:
-1. +(1 + loopCount) to stat matching highest stat of summoning hero
-2. +(1 + loopCount)% to primary stat growth rate of stat matching the highest stat of summoning hero
-3. +(2 + loopCount)% to secondary stat growth rate of stat matching the highest stat of summoning hero
-4. +(1 + loopCount) to stat matching second highest stat of summoning hero
-5. +(1 + loopCount)% to primary stat growth rate of stat matching the second highest stat of summoning hero
-6. +(2 + loopCount)% to secondary stat growth rate of stat matching the second highest stat of summoning hero
-7. +(1 + loopCount) to stat matching third highest stat of summoning hero
-8. +(1 + loopCount)% to primary stat growth rate of stat matching the third highest stat of summoning hero
-9. +(2 + loopCount)% to secondary stat growth rate of stat matching the third highest stat of summoning hero
+The bonuses loop through the following pattern with each increased step in +10 tears paid per summoning hero:<br>
+1. +(1 + loopCount) to stat matching highest stat of summoning hero<br>
+2. +(1 + loopCount)% to primary stat growth rate of stat matching the highest stat of summoning hero<br>
+3. +(2 + loopCount)% to secondary stat growth rate of stat matching the highest stat of summoning hero<br>
+4. +(1 + loopCount) to stat matching second highest stat of summoning hero<br>
+5. +(1 + loopCount)% to primary stat growth rate of stat matching the second highest stat of summoning hero<br>
+6. +(2 + loopCount)% to secondary stat growth rate of stat matching the second highest stat of summoning hero<br>
+7. +(1 + loopCount) to stat matching third highest stat of summoning hero<br>
+8. +(1 + loopCount)% to primary stat growth rate of stat matching the third highest stat of summoning hero<br>
+9. +(2 + loopCount)% to secondary stat growth rate of stat matching the third highest stat of summoning hero<br>
 
 In these formulas, loopCount indicates the number of times the bonuses have looped back to step 1 (this happens at +100 and +190 tears added). So the second time around, on step 1 the bonus would be +2 added to the stat matching the highest stat of the summoning hero, and so on.
 
