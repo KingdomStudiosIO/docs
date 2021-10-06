@@ -30,13 +30,13 @@ Summoned hero receives +1 to INT and WIS, +1% primary stat growth to INT and WIS
 LVL100 Wizard (highest stats INT, WIS, and LCK) pays 210 Gaia’s Tears (base 10 + 200 for 20 steps of 5 levels)
 Summoned hero receives +6 to INT, +3 WIS, and +3 LCK, +6% primary stat growth to INT, +3% to WIS, and 3% to LCK, and +5% secondary stat growth to INT, WIS, and LCK
 
-These bonuses are **per** summoning hero, so the maximum possible for two LVL100 heroes to spend would be 420 Gaia's Tears (base 10\*\2 + 200\*\2)
+These bonuses are **per** summoning hero, so the maximum possible for two LVL100 heroes to spend would be 420 Gaia's Tears (base 10\*2 + 200\*2)
 
 ![TearsBonus](https://user-images.githubusercontent.com/91647016/136145171-dc6d4256-c1f5-40f6-b8a7-de6d8d46c593.png)
 
 **Enhancement stones** can also be used during this process to further improve the starting parameters of the summoned hero!
 
-The act of summoning is an exhausting process, and that exhaustion compounds with each act of summoning. For each summon a hero performs, they must wait for a **cooldown period** before they can summon again. The cooldown period increases by four hours with each summon, up to a maximum limit. The base cooldown period is 4\*\summonerGeneration hours. In addition, with the exception of Gen0 heroes, all new summoned heroes have a 24 hour cooldown period before they can summon. 
+The act of summoning is an exhausting process, and that exhaustion compounds with each act of summoning. For each summon a hero performs, they must wait for a **cooldown period** before they can summon again. The cooldown period increases by four hours with each summon, up to a maximum limit. The base cooldown period is 4\*summonerGeneration hours. In addition, with the exception of Gen0 heroes, all new summoned heroes have a 24 hour cooldown period before they can summon. 
 
 The exhaustion of summoning doesn’t end at just a cooldown. The amount of JEWELs needed to for each hero to infuse the next summoning crystal also increases by 2 JEWELs after each summon. Gen0 heroes have the lowest starting cost for summoning (6 JEWELs), and each generation above 0 will see an increase of 10 JEWEL per generation in cost for their summons compared to lower generations. The gen0 increase in cost per summon will eventually cap at a price that is lower than what later generations will pay to perform their final summon.
 
