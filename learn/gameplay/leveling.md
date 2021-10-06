@@ -16,7 +16,17 @@ The benefit of leveling up is an increase to a hero’s stats. Excluding HP, MP,
 
 Primary Stat Growth and Secondary Stat Growth are important factors that the player can modify through the use of enhancement stones and summoner bonuses from spending additional Gaia’s Tears during the summoning process (more on this later).
 
+See Freya's handy [stat growth breakdown charts](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr_LrpQaz7cTmDPpwV2s/edit#gid=655220330) for insight into the base growth rates of each class. 
+
 In addition to these two rolls per stat, the player will be given a choice of one stat to grant an extra +1 bonus. But that is not all, players also have a chance to seek Gaia’s blessing for two other stats. Gaia’s blessing has a 50% chance of increasing each of the selected stats.
+
+![LevelChoices](https://user-images.githubusercontent.com/91647016/136141588-22152842-d295-4859-964f-80376be24d26.png)
+
+In summary, when a hero levels up the following will happen:
+1. The game will roll for each stat to increase based on the hero's primary stat growth parameters and any bonuses provided by attunement crystals. Successful rolls receive +1 to that stat.
+2. The game will roll for each stat to increase based on the hero's secondary stat growth parameters and any bonuses provided by attunement crystals. Successful rolls receive +1 to that stat.
+3. The game provides a +1 bonus to the stat selected by the player.
+4. The game will roll for the two stats selected to seek Gaia's blessing. Each has a 50% chance of success. Successful rolls receive +1 to that stat.
 
 Stamina has a fixed growth rate for all heroes. It increases by 1 every even level.
 
