@@ -11,6 +11,7 @@ To infuse a crystal, heroes pour their energy into **Gaia’s Tears** and **JEWE
 For every 5 levels a summoning hero has reached, they may increase the tear cost by 10 to provide bonuses to the summoned hero. Those bonuses are applied to the summoned hero’s stats, Primary Stat Growth, and Secondary Stat Growth. The bonuses are based on the summoning hero’s top three stats, and each summoning hero may provide their own bonuses if they use extra tears.
 
 The bonuses loop through the following pattern with each increased step in +10 tears paid per summoning hero:
+
 1. +(1 + loopCount) to stat matching highest stat of summoning hero
 2. +(1 + loopCount)% to primary stat growth rate of stat matching the highest stat of summoning hero
 3. +(2 + loopCount)% to secondary stat growth rate of stat matching the highest stat of summoning hero
