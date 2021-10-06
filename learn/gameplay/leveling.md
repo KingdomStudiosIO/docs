@@ -20,7 +20,7 @@ See Freya's handy [stat growth breakdown charts](https://docs.google.com/spreads
 
 In addition to these two rolls per stat, the player will be given a choice of one stat to grant an extra +1 bonus. But that is not all, players also have a chance to seek Gaia’s blessing for two other stats. Gaia’s blessing has a 50% chance of increasing each of the selected stats.
 
-<p align="center"> ![LevelChoices](https://user-images.githubusercontent.com/91647016/136141588-22152842-d295-4859-964f-80376be24d26.png) </p>
+![LevelChoices](https://user-images.githubusercontent.com/91647016/136141588-22152842-d295-4859-964f-80376be24d26.png)
 
 In summary, when a hero levels up the following will happen:
 1. The game will roll for each stat to increase based on the hero's primary stat growth parameters and any bonuses provided by attunement crystals. Successful rolls receive +1 to that stat.
