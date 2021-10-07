@@ -52,6 +52,8 @@ Higher ranked heroes have begun to arrive at the kingdom!!!
 Heroes of higher rank have better starting stats and stat growth parameters than those of ranks below them. However, a side effect of their advanced abilities is that they require more Gaia's Tears to perform a summon than heroes of lower ranks. For example, the summoner depicted above must pay 40 tears to be able to summon. In addition, higher ranked heroes are more difficult for the portal to have a chance to locate, so higher rank heroes have lower maximum summons than lower ranked ones. This can be seen in the image of the Summoner above. 
 
 **Ranks**
+
 Basic - Warrior, Knight, Thief, Archer, Priest, Wizard, Monk, Pirate
+
 Advanced - Paladin, Dark Knight, Summoner, Ninja
 
