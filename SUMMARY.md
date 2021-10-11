@@ -35,5 +35,6 @@
 ## Important
 
 * [Audit Results](important/audit-results.md)
+* [Disclaimer](important/dyor-disclaimer.md)
 * [Credits](important/credits.md)
-* [DYOR - Disclaimer](important/dyor-disclaimer.md)
+* [Contact Us](https://forms.gle/nTBKzNTzr8QxFfca9)
