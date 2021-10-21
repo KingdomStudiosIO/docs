@@ -1,6 +1,188 @@
-# FAQ
+---
+description: Here are answers to some of the frequently asked questions that we receive in Discord and our other social media channels.
+---
 
-## Coming Soon!
+# Frequently Asked Questions
+
+## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) General
+
+### What is DeFi Kingdoms?
+DeFi Kingdoms (DFK) is a game, a decentralized exchange (DEX), a liquidity pool (LP) opportunity, and a market of rare utility-driven NFTs, that all plays out seamlessly in the incredibly nostalgic form of fantasy pixel art.
+
+DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and additional features are constantly being added.
+
+https://game.defikingdoms.com/
+
+### What blockchain is DeFi Kingdoms using?
+DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges like Binance, Kucoin, etc.
+
+For information on how to setup your MetaMask wallet, please refer to: https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet
+
+### What is DeFi and what is a decentralized exchange (DEX)?
+DeFi, or Decentralized Finance, is an ecosystem of financial applications built on top of blockchain networks that aims to provide financial services without a centralized authority.
+
+A decentralized exchange, or DEX, allows users to exchange funds through smart contracts without relinquishing custody over them until the exchange is finalized. Liquidity is provided to DEXes by individuals who supply a token pair (e.g. ONE and JEWEL) to a liquidity pool, which is then used by the DEX to facilitate trades on that pair.
+
+Users who provide liquidity in this way receive Liquidity Pool (LP) Tokens, which can often be staked to earn additional rewards, such as in [DFK's Gardens](/how-defi-kingdoms-works/the-gardens.md).
+
+You can read more about [decentralized finance](https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi) and [decentralized exchanges](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex) at Binance Academy.
+
+### What does it cost to get started and play?
+The game itself is free, however there is a transaction cost (gas) every time you interact with the blockchain such as when you make a profile entering the game. Thanks to Harmony's very low fees, these are a fraction of a cent.
+
+Once you're in the game, you can spend as much or as little as you'd like by adding to the liquidity pools in the Marketplace and staking LP Tokens in the Gardens or JEWEL in the Bank.
+
+Heroes will be available for purchase or rent in the Tavern soon. While the Gen0 Hero sale was completed, newly summoned heroes will cost significantly less.
+
+## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) JEWEL Token
+
+### How do I purchase JEWEL?
+After logging into https://game.defikingdoms.com/ you can purchase JEWEL from the Merchant Matoya, the Trader, at the Marketplace, either with your ONE or with most of Harmony's tokens.
+
+The contract address for JEWEL is: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
+
+### Where can I find the current price / market cap of JEWEL?
+You can see the view the current price and market cap of JEWEL [in the game](https://game.defikingdoms.com/) by clicking on your profile picture.
+
+You can also see charts and stats for JEWEL and all other tokens and pairings on the DeFi Kingdoms DEX at: https://info.defikingdoms.com/.
+
+### What do I do with my JEWEL tokens?
+JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](/how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](/how-defi-kingdoms-works/the-gardens.md), or depositing in the Bank vault.
+
+You can also [read more about the JEWEL token](/how-defi-kingdoms-works/jewel-token.md) and its tokenomics.
 
 
 
+
+## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Game & DEX Mechanics
+
+### What is the difference between the Bank and the Gardens?
+[The Bank](https://defikingdoms.medium.com/the-bank-depositing-staking-and-claiming-rewards-6ff5368f91ff) is a single-staking pool for JEWEL. When you stake your JEWEL in the Bank, you receive a proportional amount of xJEWEL. Since the ratio between JEWEL and xJEWEL only goes up, when you withdraw from the Bank, you will always receive more JEWEL than you put in!
+
+[The Gardens](/how-defi-kingdoms-works/the-gardens.md) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
+
+While the Gardens provide higher returns than the Bank, this comes with greater risk, including impermanent loss (IL) if the value of the tokens in the pair changes relative to one another. You can learn more about impermanent loss from [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) or by [watching this video](https://www.youtube.com/watch?v=HPGSSkOq0-Q).
+
+### What is the difference between JEWEL and xJEWEL?
+JEWEL is DFK's primary token, used for many in-game transactions. When you deposit JEWEL into the Bank, you receive xJEWEL, which is DFK's governance token. Holding xJEWEL also makes you eligible to receive community airdrops and other rewards.
+
+### What is the APR / interest rate in the Bank?
+Because earnings in the Bank are derived from transaction fees that take place within the game, there is no set APR or interest rate. During periods of significant in-game activity, the JEWEL to xJEWEL ratio may rise quite a bit, while being limited at other times.
+
+### What does the 'Claim' button in the bank do?
+The 'claim' button collects a portion of the fees earned from in-game transactions and market-buys JEWEL with them, increasing the ratio of JEWEL to xJEWEL. When you withdraw your JEWEL from the Bank, you will have more than you put in! Since 'claiming' is distributed at once among all players, you may not see any immediate change from pushing the button.
+
+### Why are some of my JEWEL tokens locked?
+In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51. The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](/how-defi-kingdoms-works/the-gardens.md)
+
+### How long is an Epoch?
+An epoch in DFK is 302,400 blocks on the Harmony blockchain, and the length of each epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block.
+
+### Why did my JEWEL in the Gardens get claimed?
+JEWEL rewards from the Gardens are automatically claimed whenever you deposit or withdraw LP Tokens into the Gardens.
+
+### When does the fee schedule for the Gardens begin/reset?
+The [withdrawal fee schedule](/how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw any number of LP Tokens from a garden.
+
+
+## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Heroes & Summoning
+
+### What do Heroes do? Do I need a Hero?
+Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be sent on quests, engage in professions, and eventually fight each other in PVP. While you can still use the DEX, Gardens, and Bank without a hero, we think everyone will enjoy the opportunities that heroes bring!
+
+[Read more about Heroes.](/how-defi-kingdoms-works/the-heroes.md)
+
+### Where do I get a Hero?
+Heroes will be available for purchase from other players in the Tavern very soon, and can also be rented to assist in the summoning process!
+
+### What is the difference between Gen0 Heroes and later generations?
+Gen0 heroes are the originators of all other heroes in the game, and as such, are limited in number and highly collectible. Because they are responsible for seeding genes to all other Heroes, Gen0 heroes do not have a limit on the number of times that they can summon.
+
+### Will there be another Gen0 hero sale?
+The Gen0 hero sale took place on September 30 and all 2000 heroes sold out in 11 minutes! As these heroes are limited and collectible, there will not be another Gen0 hero sale like this one.
+
+However, since Gen0 heroes are the only way to seed new genes into the hero pool, as DFK expands to new realms and blockchains, we may eventually sell additional Gen0 heroes in the future to introduce new classes or other hero features into the game. This will be done carefully as to not dilute the value of existing Gen0 heroes.
+
+### How do I summon a new Hero?
+If you have two Heroes, you can go to the Portal and summon another one. You will need some JEWEL and at least 20 Gaia's Tears.
+
+If you only have one hero, you can rent one from another player in the Tavern to assist in the summoning process.
+
+[Read more about Hero Summoning.](/learn/gameplay/summoning.md)
+
+### Where can I get Gaia's Tears to summon heros?
+Gaia's Tears will be readily available once questing is released. Until then, a limited number of Tears have been airdropped to those who purchased Gen0 heroes so they can begin summoning.
+
+Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace. If you wish to purchase Tears in this way, you will need to manually add the contract address at the Trader: `0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04`.
+*Please be aware that the price of Gaia's Tears may drop significantly once quests area available.*
+
+### I didn't receive a new Hero from summoning!
+Once you infuse a crystal with the essence of two heroes, it must be brought to the summoning portal to bring the hero forth from the Inner Grove.
+
+If you do not see the Infused Crystal after the summoning transaction successfully goes through, please try to refresh the page and open MetaMask for a few seconds (preferably on the Asset overview). You may have to try several times, but this should allow you to see the Infused Crystal.
+
+**If you do not complete the summoning process within 5 minutes of receiving the Infused Crystal (even if you can't see it yet), the process will need to be refreshed for a fee of 18 JEWEL.** If the Harmony blockchain is experiencing slowness, you may wish to hold off on summoning a hero until a later time.
+
+## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Hero Stats, Quests, and Professions
+
+### What are the different Hero rarities and what do they do?
+Summoned heroes may be of the following rarities, indicated by the color of the card border:
+
+- Mythic (Purple)
+- Legendary (Orange)
+- Rare (Blue)
+- Uncommon (Green)
+- Common (Grey)
+
+Higher rarity heroes are summoned with increased stat values. Heroes that are Rare or above also receive additional stat increases every 5 levels. [Read more about hero stat values](https://defikingdoms.medium.com/breaking-down-advanced-hero-classes-stats-and-rarities-ce745dc5024).
+
+### How do I know if my Hero is good?
+We think that every hero is valuable to someone! But different heroes' classes and stat combinations may lend themselves to certain activities, whether particular quests, professions, or PVP. Look to see if your hero's boosted stats (in green or purple) align with their chosen profession (in green) or their [class/subclass's associated stats](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr_LrpQaz7cTmDPpwV2s/edit#gid=785443787) (Google Docs link).
+
+Certain classes, professions, rarities, and visual attributes may also be more desirable to players depending on their playstyle.
+
+### What are the Green/Purple stats on my Hero?
+Each hero's genes give it a boost to two stats, and make it naturally inclined toward one profession. These are shown in green on the back of the Hero card. If the two stat boosts are for the same stat, it will be shown in purple.
+
+There are two kinds of stat boosts, and every hero has one of each:
+- A one-time +2 bonus to that stat number
+- An ongoing +2% bonus to increase that stat when the hero levels up
+
+Heroes will receive a bonus when doing profession quests that match their profession gene.
+
+### How do Professions work?
+Four different professions will be initially available to heroes:  Gardening, Mining, Fishing, and Foraging. Each profession has a profession skill associated with it which has a chance to increase each time a hero does an associated profession quest. As those skills increase, so too will the hero’s ability to earn rewards from that profession. In addition, each of these professions has a gene associated with it (in green on your hero card). Heroes receive additional benefits when doing profession quests that match their profession gene.
+
+Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a rate of 1 stamina every 10 minutes, allowing a hero to work on the quest for a duration of time. Foraging and Fishing take place immediately, utilizing 5 stamina over ~15 seconds. Heroes recover stamina at a rate of 1 every 5 minutes. *Note: Heroes cannot recover stamina while engaged in a quest.*
+
+[Read more about Professions.](/learn/gameplay/professions.md)
+
+
+
+
+
+
+
+## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Kingdoms/Land
+
+### What are Kingdoms/Land plots?
+Kingdoms, or land plots, will be an additional kind of NFT that is limited in value and highly collectable. As the world map is revealed, players will be able to purchase plots of land where buildings can be constructed, and transactions and quests can take place. Land owners will receive a portion of the revenue generated on their plots!
+
+### How do I purchase land or participate in the land airdrop?
+Twenty-five (25) land plots will be randomly distributed to players holding at least 5000 xJEWEL tokens on **October 15, 2021**. Additional snapshots will be taken during the following three weeks, giving players who met the requirement for the first snapshot additional entries, encouraging them to hold their xJEWEL tokens.
+
+A second 25-land airdrop raffle will take place on **November 15, 2021**, eligible to players holding at least 5000 xJEWEL tokens.
+
+Land plots will be available for purchase during [Phase 3 of the Roadmap](/roadmap/phrase-3-world-map-and-land.md). **Only players who actively participate in the game by leveling heroes and doing quests/professions will be eligible to purchase land plots.**
+
+## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Miscellaneous
+### I heard DeFi Kingdoms is moving to another chain? What does that mean?
+DeFi Kingdoms is always looking for new partners in other projects and blockchains, and we're looking forward to expanding beyond Harmony! Other chains will have their own look and feel, with new quests and other in-game items and experiences.
+
+But Harmony will always be our home. When we expand, it will be by bridging JEWEL, heroes, and other tokens. **We will not set up a new DEX or dilute the supply of JEWEL on new chains.**
+
+### Is DeFi Kingdoms being audited?
+Yes, an audit by [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) has already been completed. The team is committed to ensuring the safety and stability of the project, and additional [audits](/important/audit-results.md) are in the works.
+
+### Is the team doxxed?
+The team is not currently doxxed for personal reasons, though many of them would like to do so in the future. They encourage you to view their [track record of development](/roadmap/README.md) and commitment to the project, examine the [smart contract audit](/important/audit-results.md), attend the weekly team AMAs (Mondays at 18:00 UTC) on our [Discord server](https://discord.gg/defikingdoms), and, of course, to [DYOR](/important/dyor-disclaimer).
