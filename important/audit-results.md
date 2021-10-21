@@ -4,7 +4,7 @@ description: A smart contract audit is an extensive methodical examination and a
 
 # Audit Results
 
-The DeFi Kingdoms core team is committed to ensuring the safety and stability of the project. We will continue to put forth our best efforts to aquire the appropriate audits, reviews, and additional governance as needed.
+The DeFi Kingdoms core team is committed to ensuring the safety and stability of the project. We will continue to put forth our best efforts to acquire the appropriate audits, reviews, and additional governance as needed.
 
 **Results from our efforts will be added to the list below as they are completed:**
 
