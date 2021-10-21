@@ -23,7 +23,7 @@ DeFi, or Decentralized Finance, is an ecosystem of financial applications built 
 
 A decentralized exchange, or DEX, allows users to exchange funds through smart contracts without relinquishing custody over them until the exchange is finalized. Liquidity is provided to DEXes by individuals who supply a token pair (e.g. ONE and JEWEL) to a liquidity pool, which is then used by the DEX to facilitate trades on that pair.
 
-Users who provide liquidity in this way receive Liquidity Pool (LP) Tokens, which can often be staked to earn additional rewards, such as in [DFK's Gardens](/how-defi-kingdoms-works/the-gardens.md).
+Users who provide liquidity in this way receive Liquidity Pool (LP) Tokens, which can often be staked to earn additional rewards, such as in [DFK's Gardens](../how-defi-kingdoms-works/the-gardens.md).
 
 You can read more about [decentralized finance](https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi) and [decentralized exchanges](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex) at Binance Academy.
 
@@ -47,9 +47,9 @@ You can see the view the current price and market cap of JEWEL [in the game](htt
 You can also see charts and stats for JEWEL and all other tokens and pairings on the DeFi Kingdoms DEX at: https://info.defikingdoms.com/.
 
 ### What do I do with my JEWEL tokens?
-JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](/how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](/how-defi-kingdoms-works/the-gardens.md), or depositing in the Bank vault.
+JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](../how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](../how-defi-kingdoms-works/the-gardens.md), or depositing in the Bank vault.
 
-You can also [read more about the JEWEL token](/how-defi-kingdoms-works/jewel-token.md) and its tokenomics.
+You can also [read more about the JEWEL token](../how-defi-kingdoms-works/jewel-token.md) and its tokenomics.
 
 
 
@@ -59,7 +59,7 @@ You can also [read more about the JEWEL token](/how-defi-kingdoms-works/jewel-to
 ### What is the difference between the Bank and the Gardens?
 [The Bank](https://defikingdoms.medium.com/the-bank-depositing-staking-and-claiming-rewards-6ff5368f91ff) is a single-staking pool for JEWEL. When you stake your JEWEL in the Bank, you receive a proportional amount of xJEWEL. Since the ratio between JEWEL and xJEWEL only goes up, when you withdraw from the Bank, you will always receive more JEWEL than you put in!
 
-[The Gardens](/how-defi-kingdoms-works/the-gardens.md) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
+[The Gardens](../how-defi-kingdoms-works/the-gardens.md) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
 
 While the Gardens provide higher returns than the Bank, this comes with greater risk, including impermanent loss (IL) if the value of the tokens in the pair changes relative to one another. You can learn more about impermanent loss from [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) or by [watching this video](https://www.youtube.com/watch?v=HPGSSkOq0-Q).
 
@@ -73,7 +73,7 @@ Because earnings in the Bank are derived from transaction fees that take place w
 The 'claim' button collects a portion of the fees earned from in-game transactions and market-buys JEWEL with them, increasing the ratio of JEWEL to xJEWEL. When you withdraw your JEWEL from the Bank, you will have more than you put in! Since 'claiming' is distributed at once among all players, you may not see any immediate change from pushing the button.
 
 ### Why are some of my JEWEL tokens locked?
-In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51. The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](/how-defi-kingdoms-works/the-gardens.md)
+In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51. The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens.md)
 
 ### How long is an Epoch?
 An epoch in DFK is 302,400 blocks on the Harmony blockchain, and the length of each epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block.
@@ -82,7 +82,7 @@ An epoch in DFK is 302,400 blocks on the Harmony blockchain, and the length of e
 JEWEL rewards from the Gardens are automatically claimed whenever you deposit or withdraw LP Tokens into the Gardens.
 
 ### When does the fee schedule for the Gardens begin/reset?
-The [withdrawal fee schedule](/how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw any number of LP Tokens from a garden.
+The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw any number of LP Tokens from a garden.
 
 
 ## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Heroes & Summoning
@@ -90,7 +90,7 @@ The [withdrawal fee schedule](/how-defi-kingdoms-works/the-gardens.md#garden-sta
 ### What do Heroes do? Do I need a Hero?
 Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be sent on quests, engage in professions, and eventually fight each other in PVP. While you can still use the DEX, Gardens, and Bank without a hero, we think everyone will enjoy the opportunities that heroes bring!
 
-[Read more about Heroes.](/how-defi-kingdoms-works/the-heroes.md)
+[Read more about Heroes.](../how-defi-kingdoms-works/the-heroes.md)
 
 ### Where do I get a Hero?
 Heroes will be available for purchase from other players in the Tavern very soon, and can also be rented to assist in the summoning process!
@@ -108,7 +108,7 @@ If you have two Heroes, you can go to the Portal and summon another one. You wil
 
 If you only have one hero, you can rent one from another player in the Tavern to assist in the summoning process.
 
-[Read more about Hero Summoning.](/learn/gameplay/summoning.md)
+[Read more about Hero Summoning.](../learn/gameplay/summoning.md)
 
 ### Where can I get Gaia's Tears to summon heros?
 Gaia's Tears will be readily available once questing is released. Until then, a limited number of Tears have been airdropped to those who purchased Gen0 heroes so they can begin summoning.
@@ -155,12 +155,7 @@ Four different professions will be initially available to heroes:  Gardening, Mi
 
 Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a rate of 1 stamina every 10 minutes, allowing a hero to work on the quest for a duration of time. Foraging and Fishing take place immediately, utilizing 5 stamina over ~15 seconds. Heroes recover stamina at a rate of 1 every 5 minutes. *Note: Heroes cannot recover stamina while engaged in a quest.*
 
-[Read more about Professions.](/learn/gameplay/professions.md)
-
-
-
-
-
+[Read more about Professions.](../learn/gameplay/professions.md)
 
 
 ## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Kingdoms/Land
@@ -173,16 +168,17 @@ Twenty-five (25) land plots will be randomly distributed to players holding at l
 
 A second 25-land airdrop raffle will take place on **November 15, 2021**, eligible to players holding at least 5000 xJEWEL tokens.
 
-Land plots will be available for purchase during [Phase 3 of the Roadmap](/roadmap/phrase-3-world-map-and-land.md). **Only players who actively participate in the game by leveling heroes and doing quests/professions will be eligible to purchase land plots.**
+Land plots will be available for purchase during [Phase 3 of the Roadmap](../roadmap/phrase-3-world-map-and-land.md). **Only players who actively participate in the game by leveling heroes and doing quests/professions will be eligible to purchase land plots.**
 
 ## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Miscellaneous
+
 ### I heard DeFi Kingdoms is moving to another chain? What does that mean?
 DeFi Kingdoms is always looking for new partners in other projects and blockchains, and we're looking forward to expanding beyond Harmony! Other chains will have their own look and feel, with new quests and other in-game items and experiences.
 
 But Harmony will always be our home. When we expand, it will be by bridging JEWEL, heroes, and other tokens. **We will not set up a new DEX or dilute the supply of JEWEL on new chains.**
 
 ### Is DeFi Kingdoms being audited?
-Yes, an audit by [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) has already been completed. The team is committed to ensuring the safety and stability of the project, and additional [audits](/important/audit-results.md) are in the works.
+Yes, an audit by [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) has already been completed. The team is committed to ensuring the safety and stability of the project, and additional [audits](../important/audit-results.md) are in the works.
 
 ### Is the team doxxed?
-The team is not currently doxxed for personal reasons, though many of them would like to do so in the future. They encourage you to view their [track record of development](/roadmap/README.md) and commitment to the project, examine the [smart contract audit](/important/audit-results.md), attend the weekly team AMAs (Mondays at 18:00 UTC) on our [Discord server](https://discord.gg/defikingdoms), and, of course, to [DYOR](/important/dyor-disclaimer).
+The team is not currently doxxed for personal reasons, though many of them would like to do so in the future. They encourage you to view their [track record of development](../roadmap/README.md) and commitment to the project, examine the [smart contract audit](../important/audit-results.md), attend the weekly team AMAs (Mondays at 18:00 UTC) on our [Discord server](https://discord.gg/defikingdoms), and, of course, to [DYOR](../important/dyor-disclaimer.md).
