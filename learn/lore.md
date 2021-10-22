@@ -27,21 +27,19 @@ A new age, the **Age of Heroes**, has begun, and the history books are yet to be
 
 ## The Ritual of Summoning Heroes
 
-**The Crystal Eggs**
+**Summoning Crystals**
 
-![](https://dfk-hv.b-cdn.net/website-media/images/lore/crystal-egg.gif)
+![Summoning Crystal](https://user-images.githubusercontent.com/91647016/138388100-df14301a-6e70-48c6-a721-600e3ac24a43.gif)
 
-Gaia has begun to allow those loyal followers within the Inner Grove to come forth back into this world once again. The energies have been accumulating, and essence infused crystal eggs are being gathered to act as a catalyst to help summon forth those heroes into the realm.
-
-Once here, heroes can focus their essence together and renew these crystal eggs, and once brought to Gaia’s Portal, a new hero can be admitted into this world.
+Gaia has begun to allow those loyal followers within the Inner Grove to come forth back into this world once again. Heroes that have returned to this world retain a small portion of the essense of the Inner Grove within them. Two heroes may gather to embue that essence into a summoning crystal. This crystal acts as a focus for the portal, combining the essences of the two heroes long enough to pull a matching hero through from the Inner Grove. The energy unleashed in this process destoys the crystal, but in its place a new hero appears to help the people of this land journey into the new age.
 
 **Gaia’s Tears**
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/lore/gaias-tear.gif)
 
-Along with the need for a catalyst (*the crystal eggs*), a second key component to summoning heroes to this realm is a substance known as Gaia’s tears. When Irae tore the world asunder in his rage, Gaia wept. Her tears took the form of small, dust-like crystals. Warm to the touch, her power flows through them, and it is said an ounce of them holds enough power to bridge the vast expanses created in Irae’s fury. Gaia’s tears can be found in small quantities throughout the kingdom, and the druids have recently discovered a means to harness them to summon others to these lands.
+The key component to creating summoning crystals is a substance known as Gaia’s Tears. When Irae tore the world asunder in his rage, Gaia wept. Her tears took the form of small, tear-like crystals. Warm to the touch, her power flows through them, and it is said even a handful of them contain enough power to bridge the vast expanses created in Irae’s fury. Gaia’s Tears can be found in small quantities throughout the kingdom, and the druids have recently discovered a means to harness them to summon others to these lands.
 
-Gaia’s tears attune with the heroes involved in the summoning process, seeking a compatible hero across the divide who aligns with the summoners. Multiple tears can be combined to enhance the power of those that come through the portal.
+Gaia’s Tears attune with the heroes involved in the summoning process, gathering in the essense of the Inner Grove from within them. Those tears are then melded into a single crystal by an arch druid harnessing the energy of JEWELs. Experienced heroes have learned to attune more tears at once, creating summoning crystals capable of enhancing the power of those that come through the portal with some of their own strengths.
 
 
 ## The Runes of Power
