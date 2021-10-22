@@ -98,7 +98,7 @@ Heroes will be available for purchase from other players in the Tavern very soon
 ### What is the difference between Gen0 Heroes and later generations?
 Gen0 heroes are the originators of all other heroes in the game, and as such, are limited in number and highly collectible. Because they are responsible for seeding genes to all other Heroes, Gen0 heroes do not have a limit on the number of times that they can summon.
 
-### Will there be another Gen0 hero sale?
+### Will there be another Gen0 Hero sale?
 The Gen0 hero sale took place on September 30 and all 2000 heroes sold out in 11 minutes! As these heroes are limited and collectible, there will not be another Gen0 hero sale like this one.
 
 However, since Gen0 heroes are the only way to seed new genes into the hero pool, as DFK expands to new realms and blockchains, we may eventually sell additional Gen0 heroes in the future to introduce new classes or other hero features into the game. This will be done carefully as to not dilute the value of existing Gen0 heroes.
@@ -110,7 +110,7 @@ If you only have one hero, you can rent one from another player in the Tavern to
 
 [Read more about Hero Summoning.](../learn/gameplay/summoning.md)
 
-### Where can I get Gaia's Tears to summon heros?
+### Where can I get Gaia's Tears to summon Heroes?
 Gaia's Tears will be readily available once questing is released. Until then, a limited number of Tears have been airdropped to those who purchased Gen0 heroes so they can begin summoning.
 
 Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace. If you wish to purchase Tears in this way, you will need to manually add the contract address at the Trader: `0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04`.
