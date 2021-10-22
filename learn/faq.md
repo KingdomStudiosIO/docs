@@ -14,7 +14,7 @@ DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and addi
 https://game.defikingdoms.com/
 
 ### What blockchain is DeFi Kingdoms using?
-DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges like Binance, Kucoin, etc.
+DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges, including Binance, Kucoin, Crypto.com, and others.
 
 For information on how to setup your MetaMask wallet, please refer to: https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet
 
@@ -37,7 +37,7 @@ Heroes will be available for purchase or rent in the Tavern soon. While the Gen0
 ## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) JEWEL Token
 
 ### How do I purchase JEWEL?
-After logging into https://game.defikingdoms.com/ you can purchase JEWEL from the Merchant Matoya, the Trader, at the Marketplace, either with your ONE or with most of Harmony's tokens.
+After logging into https://game.defikingdoms.com/ you can purchase JEWEL at the Marketplace from the Trader, Merchant Matoya, with your ONE or with most of Harmony's other tokens.
 
 The contract address for JEWEL is: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
@@ -73,16 +73,16 @@ Because earnings in the Bank are derived from transaction fees that take place w
 The 'claim' button collects a portion of the fees earned from in-game transactions and market-buys JEWEL with them, increasing the ratio of JEWEL to xJEWEL. When you withdraw your JEWEL from the Bank, you will have more than you put in! Since 'claiming' is distributed at once among all players, you may not see any immediate change from pushing the button.
 
 ### Why are some of my JEWEL tokens locked?
-In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51. The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens.md)
+In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51 (est. Q3 2022). The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens.md)
 
 ### How long is an Epoch?
-An epoch in DFK is 302,400 blocks on the Harmony blockchain, and the length of each epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block.
+An epoch in DFK is 302,400 blocks on the Harmony blockchain, and the length of each epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each epoch would equal one week assuming a speed of 2 seconds per block.
 
 ### Why did my JEWEL in the Gardens get claimed?
 JEWEL rewards from the Gardens are automatically claimed whenever you deposit or withdraw LP Tokens into the Gardens.
 
 ### When does the fee schedule for the Gardens begin/reset?
-The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw any number of LP Tokens from a garden.
+The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw LP Tokens from a garden.
 
 
 ## ![](https://www.gitbook.com/cdn-cgi/image/width=10,height=10,fit=contain,dpr=2,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MfUam-1n-JpNfAIQQey%252Favatar-1627256148625.png%3Fgeneration%3D1627256148898171%26alt%3Dmedia) Heroes & Summoning
@@ -104,17 +104,17 @@ The Gen0 hero sale took place on September 30 and all 2000 heroes sold out in 11
 However, since Gen0 heroes are the only way to seed new genes into the hero pool, as DFK expands to new realms and blockchains, we may eventually sell additional Gen0 heroes in the future to introduce new classes or other hero features into the game. This will be done carefully as to not dilute the value of existing Gen0 heroes.
 
 ### How do I summon a new Hero?
-If you have two Heroes, you can go to the Portal and summon another one. You will need some JEWEL and at least 20 Gaia's Tears.
+If you have two heroes, you can go to the Portal and summon another one. You will need some JEWEL and at least 20 Gaia's Tears.
 
 If you only have one hero, you can rent one from another player in the Tavern to assist in the summoning process.
 
 [Read more about Hero Summoning.](../learn/gameplay/summoning.md)
 
 ### Where can I get Gaia's Tears to summon Heroes?
-Gaia's Tears will be readily available once questing is released. Until then, a limited number of Tears have been airdropped to those who purchased Gen0 heroes so they can begin summoning.
+Gaia's Tears will be readily available once questing is released at the end of Phase 2. Until then, a limited number of Tears have been airdropped to those who purchased Gen0 heroes so they can begin summoning.
 
 Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace. If you wish to purchase Tears in this way, you will need to manually add the contract address at the Trader: `0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04`.
-*Please be aware that the price of Gaia's Tears may drop significantly once quests area available.*
+*Please be aware that the price of Gaia's Tears may drop significantly once quests are available.*
 
 ### I didn't receive a new Hero from summoning!
 Once you infuse a crystal with the essence of two heroes, it must be brought to the summoning portal to bring the hero forth from the Inner Grove.
