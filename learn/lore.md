@@ -29,7 +29,7 @@ A new age, the **Age of Heroes**, has begun, and the history books are yet to be
 
 **Summoning Crystals**
 
-![Summoning Crystal](https://user-images.githubusercontent.com/91647016/138388100-df14301a-6e70-48c6-a721-600e3ac24a43.gif)
+![](https://user-images.githubusercontent.com/91647016/138388100-df14301a-6e70-48c6-a721-600e3ac24a43.gif)
 
 Gaia has begun to allow those loyal followers within the Inner Grove to come forth back into this world once again. Heroes that have returned to this world retain a small portion of the essense of the Inner Grove within them. Two heroes may gather to embue that essence into a summoning crystal. This crystal acts as a focus for the portal, combining the essences of the two heroes long enough to pull a matching hero through from the Inner Grove. The energy unleashed in this process destoys the crystal, but in its place a new hero appears to help the people of this land journey into the new age.
 
