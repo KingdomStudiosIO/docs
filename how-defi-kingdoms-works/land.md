@@ -1,6 +1,6 @@
 # Kingdoms
 
-In DeFi Kingdom’s world map, there will be a limited supply of plots of land available for purchase. You’ll not only be able to claim a plot of land for yourself, but you’ll also be able to build your kingdom up, investing in upgrades that will provide you with an upkeep of resources! Your land will house your developing kingdom and will be distinctly visible to everyone from the world map. 
+In DeFi Kingdom’s world map, there will be a limited supply of plots of land available for purchase. You’ll not only be able to claim a plot of land for yourself, but you’ll also be able to build your kingdom up, investing in upgrades that will provide you with an upkeep of resources! Your land will house your developing kingdom and will be distinctly visible to everyone from the world map.&#x20;
 
 **Buying and Selling**
 
@@ -20,6 +20,4 @@ Owning land also gives you the ability to forage for resources every day, with t
 
 
 
-  
-
-
+\

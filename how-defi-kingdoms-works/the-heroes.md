@@ -1,8 +1,8 @@
 # The Heroes
 
-Though gardening and growing JEWEL tokens is amazingly adorable by itself, we wanted to add a bit of sword and sorcery to this fantasy kingdom, and what better way to do that than introducing one-of-a-kind pixel heroes in our marketplace? 
+Though gardening and growing JEWEL tokens is amazingly adorable by itself, we wanted to add a bit of sword and sorcery to this fantasy kingdom, and what better way to do that than introducing one-of-a-kind pixel heroes in our marketplace?&#x20;
 
-![](../.gitbook/assets/hero-base-showcase1.png)
+![](<../.gitbook/assets/hero base showcase1.png>)
 
 We’re going one step further than your standard NFTs as our Hero NFTs will be playable characters that you can level up and earn JEWELs with! These NFTs aren’t meant to just sit on a shelf and look pretty, they’re one of the key features in the game. As they are assigned to go on quests, battle in PVP, or dressed up in gear to maximize their stats, they’ll be leveling up and earning you tokens through the whole adventure.
 
@@ -37,4 +37,3 @@ Heroes can sometimes find and capture rare pets that will accompany them on thei
 **PvP**
 
 Heroes will be able to participate in periodic tournaments in parties of 3, to compete against other players for JEWEL prizes. Maximize your stats and take your rightful place as the world champion!
-
