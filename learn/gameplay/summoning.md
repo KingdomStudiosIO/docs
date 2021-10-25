@@ -35,7 +35,7 @@ Summoned hero receives +6 to INT, +3 WIS, and +3 LCK, +6% primary stat growth to
 
 These bonuses are **per** summoning hero, so the maximum possible for two LVL100 heroes to spend would be 420 Gaia's Tears (base 10\*2 + 200\*2 extra)
 
-![TearsBonus](https://user-images.githubusercontent.com/91647016/136145171-dc6d4256-c1f5-40f6-b8a7-de6d8d46c593.png)
+![TearsBonus](https://dfk-hv.b-cdn.net/website-media/images/tears-bonus.png)
 
 **Enhancement stones** can also be used during this process to further improve the starting parameters of the summoned hero!
 
@@ -45,15 +45,32 @@ The exhaustion of summoning doesn’t end at just a cooldown. The amount of JEWE
 
 What’s this? Yes, unfortunately only Gen0 heroes are able to maintain their attunement to Gaia summon after summon. All later generations simply have a limit to how many times they can focus their energies into Gaia’s Tears. Once they have expended the last of their attunement energies, they can no longer summon. Another quirk of the summoning process is that the portal seeks those who have similar Gaia attunement strength as the weakest summoner. So if a gen0 summoner hero infuses a crystal with a gen1 summoner hero with only four remaining summons worth of attunement, then the summoned gen2 will only be able to summon three times (the same number of remaining summons as the weakest summoner after summoning this new hero). Two gen0 summoners will summon a gen1 with ten summons worth of attunement. 
 
+## Hero Ranks
+
 Higher ranked heroes have begun to arrive at the kingdom!!!
 
-![Summoner](https://user-images.githubusercontent.com/91647016/136327660-f398e0a4-cb99-4be5-b102-8a20b9366053.png)
+![Summoner](https://dfk-hv.b-cdn.net/website-media/images/summoner.png)
 
 Heroes of higher rank have better starting stats and stat growth parameters than those of ranks below them. However, a side effect of their advanced abilities is that they require more Gaia's Tears to perform a summon than heroes of lower ranks. For example, the summoner depicted above must pay 40 tears to be able to summon. In addition, higher ranked heroes are more difficult for the portal to have a chance to locate, so higher rank heroes have lower maximum summons than lower ranked ones. This can be seen in the image of the Summoner above. 
-
-**Ranks**
 
 Basic - Warrior, Knight, Thief, Archer, Priest, Wizard, Monk, Pirate
 
 Advanced - Paladin, Dark Knight, Summoner, Ninja
+
+<br /><br />
+## Crystal Recharging
+
+After you press ‘Begin Summon’ and confirm the transaction, you will be given a Hero crystal to use in the Portal.
+
+![](https://dfk-hv.b-cdn.net/website-media/images/summon-hero-crystal.png)
+
+⚠️ **Be aware, you MUST summon any HERO crystals within 5 minutes of infusing them; otherwise, they will expire and you need to spend a fee of 18 JEWEL to recharge them.**⚠️
+
+![](https://dfk-hv.b-cdn.net/website-media/images/crystal-refresh-required.png)
+
+If you have an insufficient balance of the required JEWEL needed to recharge the HERO crystal, you will maintain ownership of the HERO crystal, however, the crystal will lack the necessary charge needed for summoning a new HERO.
+
+![](https://dfk-hv.b-cdn.net/website-media/images/not-enough-resources.png)
+
+This mechanic is in place to prevent the spamming of summoning crystals within a short time span.
 
