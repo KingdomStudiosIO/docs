@@ -14,13 +14,13 @@ DeFi Kingdoms (DFK) is a game, a decentralized exchange (DEX), a liquidity pool 
 
 DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and additional features are constantly being added.
 
-https://game.defikingdoms.com/
+[https://game.defikingdoms.com/](https://game.defikingdoms.com)
 
 ### What blockchain is DeFi Kingdoms using?
 
 DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges, including Binance, Kucoin, Crypto.com, and others.
 
-For information on how to setup your MetaMask wallet, please refer to: https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet
+For information on how to setup your MetaMask wallet, please refer to: [https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet)
 
 ### What is DeFi and what is a decentralized exchange (DEX)?
 
@@ -44,7 +44,7 @@ Heroes will be available for purchase or rent in the Tavern soon. While the Gen0
 
 ### How do I purchase JEWEL?
 
-After logging into https://game.defikingdoms.com/ you can purchase JEWEL at the Marketplace from the Trader, Merchant Matoya, with your ONE or with most of Harmony's other tokens.
+After logging into [https://game.defikingdoms.com/](https://game.defikingdoms.com) you can purchase JEWEL at the Marketplace from the Trader, Merchant Matoya, with your ONE or with most of Harmony's other tokens.
 
 The contract address for JEWEL is: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
@@ -52,7 +52,7 @@ The contract address for JEWEL is: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
 You can see the view the current price and market cap of JEWEL [in the game](https://game.defikingdoms.com) by clicking on your profile picture.
 
-You can also see charts and stats for JEWEL and all other tokens and pairings on the DeFi Kingdoms DEX at: https://info.defikingdoms.com/.
+You can also see charts and stats for JEWEL and all other tokens and pairings on the DeFi Kingdoms DEX at: [https://info.defikingdoms.com/](https://info.defikingdoms.com).
 
 ### What do I do with my JEWEL tokens?
 
