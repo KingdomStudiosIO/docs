@@ -6,7 +6,7 @@ description: >-
 
 # FAQ
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) General
+## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GENERAL
 
 ### What is DeFi Kingdoms?
 
@@ -40,7 +40,7 @@ Once you're in the game, you can spend as much or as little as you'd like by add
 
 Heroes will be available for purchase or rent in the Tavern soon. While the Gen0 Hero sale was completed, newly summoned heroes will cost significantly less.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) JEWEL Token
+## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) JEWEL TOKEN
 
 ### How do I purchase JEWEL?
 
@@ -60,7 +60,7 @@ JEWEL is the lifeblood of the DFK economy, and most in-game actions involve eith
 
 You can also [read more about the JEWEL token](../how-defi-kingdoms-works/jewel-token.md) and its tokenomics.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) Game & DEX Mechanics
+## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GAME & DEX MECHANICS
 
 ### What is the difference between the Bank and the Gardens?
 
@@ -98,7 +98,7 @@ JEWEL rewards from the Gardens are automatically claimed whenever you deposit or
 
 The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw LP Tokens from a garden.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) Heroes & Summoning
+## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) HEROES & SUMMONING
 
 ### What do Heroes do? Do I need a Hero?
 
@@ -142,7 +142,7 @@ If you do not see the Infused Crystal after the summoning transaction successful
 
 **If you do not complete the summoning process within 5 minutes of receiving the Infused Crystal (even if you can't see it yet), the process will need to be refreshed for a fee of 18 JEWEL.** If the Harmony blockchain is experiencing slowness, you may wish to hold off on summoning a hero until a later time.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) Hero Stats, Quests, and Professions
+## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) HERO STATS, QUESTS, AND PROFESSIONS
 
 ### What are the different Hero rarities and what do they do?
 
@@ -181,7 +181,7 @@ Engaging in a profession quest uses your hero's Stamina. Mining and Gardening dr
 
 [Read more about Professions.](gameplay/professions.md)
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) Kingdoms/Land
+## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) KINGDOMS / LANDS
 
 ### What are Kingdoms/Land plots?
 
@@ -195,7 +195,7 @@ A second 25-land airdrop raffle will take place on **November 15, 2021**, eligib
 
 Land plots will be available for purchase during [Phase 3 of the Roadmap](../roadmap/phrase-3-world-map-and-land.md). **Only players who actively participate in the game by leveling heroes and doing quests/professions will be eligible to purchase land plots.**
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) Miscellaneous
+## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) MISCELLANEOUS
 
 ### I heard DeFi Kingdoms is moving to another chain? What does that mean?
 
