@@ -108,7 +108,9 @@ Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be 
 
 ### Where do I get a Hero?
 
-Heroes will be available for purchase from other players in the Tavern very soon, and can also be rented to assist in the summoning process!
+Heroes are available for purchase from other players in the Tavern, and can also be rented at the Portal to assist in the summoning process!
+
+[Read more about buying, selling, and renting out heroes at the Tavern.](https://defikingdoms.medium.com/the-tavern-buy-sell-and-rent-out-heroes-85a661b23b6f)
 
 ### What is the difference between Gen0 Heroes and later generations?
 
@@ -124,13 +126,13 @@ However, since Gen0 heroes are the only way to seed new genes into the hero pool
 
 If you have two heroes, you can go to the Portal and summon another one. You will need some JEWEL and at least 20 Gaia's Tears.
 
-If you only have one hero, you can rent one from another player in the Tavern to assist in the summoning process.
+If you only have one hero, you can rent one from another player at the Portal to assist in the summoning process.
 
 [Read more about Hero Summoning.](gameplay/summoning.md)
 
 ### Where can I get Gaia's Tears to summon Heroes?
 
-Gaia's Tears will be readily available once questing is released at the end of Phase 2. Until then, a limited number of Tears have been airdropped to those who purchased Gen0 heroes so they can begin summoning.
+Gaia's Tears will be readily available once questing is released at the end of Phase 2. Until then, a limited number of Tears have been airdropped through giveaways and to those who purchased Gen0 heroes so they can begin summoning.
 
 Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace. If you wish to purchase Tears in this way, you will need to manually add the contract address at the Trader: `0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04`. _Please be aware that the price of Gaia's Tears may drop significantly once quests are available._
 
@@ -158,20 +160,20 @@ Higher rarity heroes are summoned with increased stat values. Heroes that are Ra
 
 ### How do I know if my Hero is good?
 
-We think that every hero is valuable to someone! But different heroes' classes and stat combinations may lend themselves to certain activities, whether particular quests, professions, or PVP. Look to see if your hero's boosted stats (in green or purple) align with their chosen profession (in green) or their [class/subclass's associated stats](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=785443787) (Google Docs link).
+We think that every hero is valuable to someone! But different heroes' classes and stat combinations may lend themselves to certain activities, whether particular quests, professions, or PVP. Look to see if your hero's boosted stats (in green, blue, or purple) align with their chosen profession (in green) or their [class/subclass's associated stats](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=785443787) (Google Docs link).
 
 Certain classes, professions, rarities, and visual attributes may also be more desirable to players depending on their playstyle.
 
-### What are the Green/Purple stats on my Hero?
+### What are the Green/Blue/Purple stats on my Hero?
 
-Each hero's genes give it a boost to two stats, and make it naturally inclined toward one profession. These are shown in green on the back of the Hero card. If the two stat boosts are for the same stat, it will be shown in purple.
+Each hero's genes give it a boost to two stats, and make it naturally inclined toward one profession. Stat boosts are shown in green and blue on the back of the Hero card. If the two stat boosts are both for the same stat, it will be shown in purple.
 
 There are two kinds of stat boosts, and every hero has one of each:
 
-* A one-time +2 bonus to that stat number
-* An ongoing +2% bonus to increase that stat when the hero levels up
+* A one-time +2 bonus to that stat number (green)
+* An ongoing +2% bonus to the hero's Primary Growth Stat Value and +4% bonus to their Secondary Growth Stat Value (blue). These values increase the likelihood that stat will increase when the hero levels up.
 
-Heroes will receive a bonus when doing profession quests that match their profession gene.
+Heroes will receive a bonus (~10%) when doing profession quests that match their profession gene (green).
 
 ### How do Professions work?
 
