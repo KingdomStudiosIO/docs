@@ -12,7 +12,7 @@ Mana Points are used to cast spells and use skills. When this reaches zero, the 
 
 ## Stamina
 
-Stamina is used to perform quests. If the hero has no stamina, they must rest naturally (1 stamina recovered every 5 minutes) or go to the inn and pay JEWELs to drastically increase their stamina recovery rate.
+Stamina is used to perform quests. If the hero has no stamina, they must rest naturally (1 stamina recovered every 20 minutes) or go to the inn and pay JEWELs to drastically increase their stamina recovery rate.
 
 ## Strength (STR)
 
