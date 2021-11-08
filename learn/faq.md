@@ -132,7 +132,7 @@ If you only have one hero, you can rent one from another player at the Portal to
 
 ### Where can I get Gaia's Tears to summon Heroes?
 
-Gaia's Tears will be readily available once questing is released at the end of Phase 2. Until then, a limited number of Tears have been airdropped through giveaways and to those who purchased Gen0 heroes so they can begin summoning.
+Gaia's Tears are currently available via the Wishing Well, which can be accessed on the overworld map screen within the game. As long as you have at least one hero, you can send them on a Wishing Well quest, which will deplete their stamina and gift you with a possibility to receive some of Gaia's Tears. There is a chance to receive no tears per quest.
 
 Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace. If you wish to purchase Tears in this way, you will need to manually add the contract address at the Trader: `0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04`. _Please be aware that the price of Gaia's Tears may drop significantly once quests are available._
 
@@ -173,7 +173,7 @@ There are two kinds of stat boosts, and every hero has one of each:
 * A one-time +2 bonus to that stat number (green)
 * An ongoing +2% bonus to the hero's Primary Growth Stat Value and +4% bonus to their Secondary Growth Stat Value (blue). These values increase the likelihood that stat will increase when the hero levels up.
 
-Heroes will receive a bonus (~10%) when doing profession quests that match their profession gene (green).
+Heroes will receive a nice bonus when doing profession quests that match their profession gene (green).
 
 ### How do Professions work?
 
