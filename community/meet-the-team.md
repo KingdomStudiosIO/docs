@@ -58,7 +58,7 @@ Tadakichi has 10+ years experience in making games using Unity. He's stepped in 
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/hubert-100.gif)
 
-Hubert has graced the team with his talent to write up all the game mechanics to make sure everything will run smoothly. His knack for making sure everything fits into the lore while functioning flawlessy for the game takes our breath away. \
+Hubert has graced the team with his talent to write up all the game mechanics to make sure everything will run smoothly. His knack for making sure everything fits into the lore while functioning flawlessly for the game takes our breath away. \
 \
 \
 \
