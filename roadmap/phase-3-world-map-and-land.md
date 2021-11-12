@@ -8,5 +8,6 @@ During the third major phase, the fog of war on the world map will be rolled bac
 
 * Land Auction
 * World Map expansion
-* 25 Kingdom Plots will be given to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Oct 15, 2021 _\(For every 5000 xJEWEL a player has in the bank, they will get another entry in the drawing of random winners.\)_
+* 25 Kingdom Plots will be given to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Nov 13, 2021 _\(For every 5000 xJEWEL a player has in the bank, they will get another entry in the drawing of random winners.\)_
+* 25 more Kingdom Plots will be given to random winners from people who had at least 1,000 xJEWEL tokens in their bank balance by Dec 11, 2021.
 
