@@ -70,7 +70,7 @@ Hubert has graced the team with his talent to write up all the game mechanics to
 
 **Lead Design Team Necromancer**
 
-![](https://dfk-hv.b-cdn.net/website-media/images/sinstar-100.gif)
+![](<../.gitbook/assets/sinstar0 small (1).gif>)
 
 Sinstar Necro has been working crazy hours to produce production quality pixel art for the heroes and kingdoms, as well as helping to brainstorm the game mechanics and manage the project and team. He is also writing the lore of the game. \
 \
