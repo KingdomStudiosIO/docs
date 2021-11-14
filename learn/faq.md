@@ -191,9 +191,9 @@ Kingdoms, or land plots, will be an additional kind of NFT that is limited in va
 
 ### How do I purchase land or participate in the land airdrop?
 
-Twenty-five (25) land plots will be randomly distributed to players holding at least 5,000 xJEWEL tokens on **November 13, 2021**. Additional snapshots will be taken during the following three weeks, giving players who met the requirement for the first snapshot additional entries, encouraging them to hold their xJEWEL tokens.
+25 Kingdom Plots will be given to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Nov 13, 2021 _(For each additional 5000 xJEWEL a player has in the bank, they will get 2 extra entries in the drawing of random winners.)_
 
-A second 25-land airdrop raffle will take place on **December 11, 2021**, eligible to players holding at least 1,000 xJEWEL tokens.
+25 more Kingdom Plots will be given to random winners from people who had at least 1,000 xJEWEL tokens in their bank balance by Nov 13, 2021. Additional snapshots will be taken every 8 to 12 hours for 4 weeks, ending on Dec 11, 2021. Total number of entries will be determined by average amount of xJEWEL across all snapshots for all holders who qualified during the initial snapshot. _(For each additional 1,000 xJEWEL a player has in the bank, they will receive 2 extra entries.)_
 
 Land plots will be available for purchase during [Phase 3 of the Roadmap](../roadmap/phrase-3-world-map-and-land.md). **Only players who actively participate in the game by leveling heroes and doing quests/professions will be eligible to purchase land plots.**
 
