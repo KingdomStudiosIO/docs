@@ -17,7 +17,3 @@ Other buildings can provide passive bonuses to your heroes, improving their ques
 **Foraging**
 
 Owning land also gives you the ability to forage for resources every day, with the opportunity to find rare and valuable materials or even equipment for your heroes.
-
-
-
-\
