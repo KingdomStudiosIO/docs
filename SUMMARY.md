@@ -21,6 +21,7 @@
 * [Lore](learn/lore.md)
 * [Gameplay](learn/gameplay/README.md)
   * [Stats](learn/gameplay/stats.md)
+  * [Rarity](learn/gameplay/rarity.md)
   * [Leveling](learn/gameplay/leveling.md)
   * [Summoning](learn/gameplay/summoning.md)
   * [Quests](learn/gameplay/quests.md)

@@ -10,7 +10,7 @@ Resources found from profession quests have various purposes. For example, some 
 
 Mining requires strength and endurance to excel at the art. It is hard manual labor, but that labor pays off. Visit the JEWEL mines to find JEWELs that were locked under the surface, or pay a visit to the gold mine if it pleases. Increasing a hero’s Mining skill increases the yields a hero will receive.
 
-Mining is a passive activity that you send heroes to do. One hero can visit a mine at a time. For each 10 minutes a hero spends mining, 1 stamina is consumed. When the player stops the hero’s mining action, they will receive rewards based on the amount of stamina spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
+Mining is a passive activity that you send heroes to do. Only one of your heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. For each 10 minutes a hero spends mining, 1 stamina is consumed. When the player stops the hero’s mining action, they will receive rewards based on the amount of stamina spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
 
 ## Gardening (GRD)
 
