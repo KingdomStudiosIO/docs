@@ -8,15 +8,15 @@ We’re going one step further than your standard NFTs as our Hero NFTs will be 
 
 **Summoning and Trading**
 
-Heroes are summoned through a portal of dimensions, and each new hero is completely unique. There’s virtually endless combinations of parts that make up each unique NFT hero, so no two will ever be the same—in stats or in appearance.
+Heroes are summoned through a portal of dimensions, and each new Hero is completely unique. There’s virtually endless combinations of parts that make up each unique NFT Hero, so no two will ever be the same—in stats or in appearance.
 
-You’ll not only be able to trade rare heroes on the marketplace, but you can summon new ones by combining genes from your current heroes! With summoning, you’ll never know exactly what type of hero is going to come out of the portal next—you could end up with an extremely rare, and valuable, trade-able NFT.
+You can only trade rare Heroes on the marketplace, but you can summon new ones by combining genes from your current Heroes! With Summoning, you’ll never know exactly what type of Hero is going to come out of the portal next—you could end up with an extremely rare, and valuable, tradeable NFT.
 
-There will also be a Tavern where players can buy and sell their heroes. This allows players to level up their heroes and then sell them for a higher price than they were before, a play-to-earn model.
+There is a Tavern where players can buy and sell their Heroes. This allows players to level up their Heroes and then sell them for a higher price than they were before, a play-to-earn model. Players may also offer their Heroes for rent in the Tavern, to be used by other players for Summoning.
 
 **Hero Genes**
 
-Heroes have two sets of genes, one for appearance and another for their playable attributes, such as Job class, subclass, passive and active abilities, and more. During summoning, the newly summoned hero will randomly acquire genes from both source heroes used in the summoning. **There is also a chance of mutations in genes, resulting in new, rare abilities and job classes!**
+Heroes have two sets of genes, one for appearance and another for their playable attributes, such as profession, class, subclass, passive and active abilities, and more. During Summoning, the newly summoned hero will randomly acquire genes from both source heroes used in the summoning. **There is also a chance of mutations in genes, resulting in new, rare abilities and classes!**
 
 **Equipment**
 
