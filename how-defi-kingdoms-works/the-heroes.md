@@ -28,11 +28,11 @@ Heroes will have various stats that determine how effective they can be performi
 
 **Quests**
 
-Heroes are able to go on various quests within the kingdom. Gardening guard duty allows them to help protect the gardens from attack, increasing the number of JEWELs their owner is able to get from staking. JEWEL mining allows them to mine for those locked JEWELs deep underground, unlocking them early. Dungeon raiding gives them the opportunity to discover rare treasures by defeating enemies.
+Heroes are able to go on various quests within the kingdom. Professions Quests allow Heroes to gather in-game resources and currency while gaining experience, or to increase the yield from their Gardens. Adventure Quests will be PVE quests that reveal lore, tell stories, and reward players with a variety of loot.
 
 **Pets**
 
-Heroes can sometimes find and capture rare pets that will accompany them on their adventures. These pets can grant stat bonuses, passive abilities, and more.
+Heroes can sometimes find eggs that may hatch into rare pets that will accompany them on their adventures. These pets can grant stat bonuses, passive abilities, and more.
 
 **PvP**
 

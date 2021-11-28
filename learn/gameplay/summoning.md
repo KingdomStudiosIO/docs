@@ -54,6 +54,10 @@ Basic - Warrior, Knight, Thief, Archer, Priest, Wizard, Monk, Pirate
 
 Advanced - Paladin, Dark Knight, Summoner, Ninja
 
+Elite - Dragoon, Sage
+
+Exalted - DreadKnight
+
 \
 \
 
