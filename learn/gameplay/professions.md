@@ -8,30 +8,30 @@ Resources found from profession quests have various purposes. For example, some 
 
 ![](https://dfk-hv.b-cdn.net/art-assets/Mining\_Quest.png)
 
-Mining requires strength and endurance to excel at the art. It is hard manual labor, but that labor pays off. Visit the JEWEL mines to find JEWELs that were locked under the surface, or pay a visit to the gold mine if it pleases. Increasing a hero’s Mining skill increases the yields a hero will receive.
+Mining requires strength and endurance to excel at the art. It is hard manual labor, but that labor pays off. Visit the JEWEL mines to find JEWELs that were locked under the surface, or pay a visit to the gold mine if it pleases. Increasing a Hero’s Mining skill increases the yields that Hero will receive and allows the Hero to mine longer without a rest.
 
-Mining is a passive activity that you send heroes to do. Only one of your heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. For each 10 minutes a hero spends mining, 1 stamina is consumed. When the player stops the hero’s mining action, they will receive rewards based on the amount of stamina spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
+Mining is a passive activity that you send Heroes to do. Only one of your Heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. For each 10 minutes a hero spends mining, 2 Stamina are consumed. Heroes with Mining as their main skill will spend only 1 Stamina per 10 minutes. When the player stops the Hero’s Mining action, they will receive rewards based on the amount of Stamina spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
 
 ## Gardening (GRD)
 
 ![](https://dfk-hv.b-cdn.net/art-assets/Gardening\_Quest.png)
 
-Gardening requires the wisdom to give plants time to grow, and plants seem to respond better to those with great vitality. Gardening is primarily done within one’s own Garden, which helps speed the growth of the JEWEL plants, but visiting any garden and putting in some time can still result in some useful harvests. Increasing a hero’s gardening skill can lead to more JEWEL rewards and higher chances to find other resources.
+Gardening requires the wisdom to give plants time to grow, and plants seem to respond better to those with great vitality. Gardening is primarily done within one’s own Garden, which helps speed the growth of the JEWEL plants, but visiting any garden and putting in some time can still result in some useful harvests. Increasing a Hero’s gardening skill can lead to more JEWEL rewards and higher chances to find other resources.
 
-Gardening is a passive activity that you send heroes to do. One hero can visit a garden at a time. For each 10 minutes a hero spends gardening, 1 stamina is consumed. When the player stops the hero’s gardening action, they will receive rewards based on the amount of stamina spent.
+Gardening is a passive activity that you send Heroes to do. One Hero can visit a garden at a time. For each 10 minutes a Hero spends gardening, 2 Stamina are consumed. Heroes with Gardening as their main skill will spend only 1 Stamina per 10 minutes. When the player stops the Hero’s Gardening action, they will receive rewards based on the amount of Stamina spent.
 
 ## Foraging (FOR)
 
 ![](https://dfk-hv.b-cdn.net/art-assets/Foraging\_Quest.png)
 
-Foraging involves clambering over fallen trees in search of useful foliage. It takes dexterity to be a good clamberist, and it takes intelligence to pick out the useful plants from the rabble. Take a stroll out into the woods and see what you find! Increasing foraging improves the chance to find useful items.
+Foraging involves clambering over fallen trees in search of useful foliage. It takes dexterity to be a good clamberist, and it takes intelligence to pick out the useful plants from the rabble. Take a stroll out into the woods and see what you find! Increasing Foraging improves the chance to find useful items and allows Heroes to forage more often.
 
-Foraging consumes 5 stamina after a brief period of time spent foraging (\~15 seconds). A hero can continue taking on foraging quests for as long as they have the stamina.
+Foraging quests show a Stamina cost and a minimum time per attempt in the main Quest window. Heroes with Foraging as their main skill expend only 50% of the base Stamina cost per attempt. Groups of Heroes can be queued for Foraging Quests at the same time, and they may be queued for multiple attempts in one transaction as well. The Quest window will update with the total time requirement based on the Heroes and number of attempts selected.
 
 ## Fishing (FSH)
 
 ![](https://dfk-hv.b-cdn.net/art-assets/Fishing\_Quest.png)
 
-Fishing is equal parts waiting and quickly responding when you feel a lucky bite. Those with agile hands and healthy luck will find their buckets full of fish. Do you have what it takes? Increasing fishing improves the chances to catch better fish.
+Fishing is equal parts waiting and quickly responding when you feel a lucky bite. Those with agile hands and healthy luck will find their buckets full of fish. Do you have what it takes? Increasing fishing improves the chances to catch better fish and allows Heroes to fish more often.
 
-Fishing consumes 5 stamina after a brief period of time spent fishing (\~15 seconds). A hero can continue taking on fishing quests for as long as they have the stamina.
+Fishing quests show a Stamina cost and a minimum time per attempt in the main Quest window. Heroes with Fishing as their main skill expend only 50% of the base Stamina cost per attempt. Groups of Heroes can be queued for Fishing Quests at the same time, and they may be queued for multiple attempts in one transaction as well. The Quest window will update with the total time requirement based on the Heroes and number of attempts selected.
