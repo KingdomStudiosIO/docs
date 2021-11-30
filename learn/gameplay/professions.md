@@ -10,7 +10,7 @@ Resources found from profession quests have various purposes. For example, some 
 
 Mining requires strength and endurance to excel at the art. It is hard manual labor, but that labor pays off. Visit the JEWEL mines to find JEWELs that were locked under the surface, or pay a visit to the gold mine if it pleases. Increasing a Hero’s Mining skill increases the yields that Hero will receive and allows the Hero to mine longer without a rest.
 
-Mining is a passive activity that you send Heroes to do. Only one of your Heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. For each 10 minutes a hero spends mining, 2 Stamina are consumed. Heroes with Mining as their main skill will spend only 1 Stamina per 10 minutes. When the player stops the Hero’s Mining action, they will receive rewards based on the amount of Stamina spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
+Mining is a passive activity that you send Heroes to do. Only one of your Heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. Heroes burn Stamina at a set rate per 10 minutes of Mining, as indicated on the Quest screen. Heroes with Mining as their main skill will burn Stamina at a lower rate. When the player stops the Hero’s Mining action, they will receive rewards based on the amount of Stamina spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
 
 ## Gardening (GRD)
 
@@ -18,7 +18,7 @@ Mining is a passive activity that you send Heroes to do. Only one of your Heroes
 
 Gardening requires the wisdom to give plants time to grow, and plants seem to respond better to those with great vitality. Gardening is primarily done within one’s own Garden, which helps speed the growth of the JEWEL plants, but visiting any garden and putting in some time can still result in some useful harvests. Increasing a Hero’s gardening skill can lead to more JEWEL rewards and higher chances to find other resources.
 
-Gardening is a passive activity that you send Heroes to do. One Hero can visit a garden at a time. For each 10 minutes a Hero spends gardening, 2 Stamina are consumed. Heroes with Gardening as their main skill will spend only 1 Stamina per 10 minutes. When the player stops the Hero’s Gardening action, they will receive rewards based on the amount of Stamina spent.
+Gardening is a passive activity that you send Heroes to do. One Hero can visit a garden at a time. Heroes burn Stamina at a set rate per 10 minutes of Gardening, as indicated on the Quest screen. Heroes with Gardening as their main skill will burn Stamina at a lower rate.  When the player stops the Hero’s Gardening action, they will receive rewards based on the amount of Stamina spent.
 
 ## Foraging (FOR)
 
@@ -26,7 +26,7 @@ Gardening is a passive activity that you send Heroes to do. One Hero can visit a
 
 Foraging involves clambering over fallen trees in search of useful foliage. It takes dexterity to be a good clamberist, and it takes intelligence to pick out the useful plants from the rabble. Take a stroll out into the woods and see what you find! Increasing Foraging improves the chance to find useful items and allows Heroes to forage more often.
 
-Foraging quests show a Stamina cost and a minimum time per attempt in the main Quest window. Heroes with Foraging as their main skill expend only 50% of the base Stamina cost per attempt. Groups of Heroes can be queued for Foraging Quests at the same time, and they may be queued for multiple attempts in one transaction as well. The Quest window will update with the total time requirement based on the Heroes and number of attempts selected.
+Foraging quests show a Stamina cost and a minimum time per attempt in the main Quest window. Heroes with Foraging as their main skill expend a reduced amount of the base Stamina cost per attempt. Groups of Heroes can be queued for Foraging Quests at the same time, and they may be queued for multiple attempts in one transaction as well. The Quest window will update with the total time requirement based on the Heroes and number of attempts selected.
 
 ## Fishing (FSH)
 
@@ -34,4 +34,4 @@ Foraging quests show a Stamina cost and a minimum time per attempt in the main Q
 
 Fishing is equal parts waiting and quickly responding when you feel a lucky bite. Those with agile hands and healthy luck will find their buckets full of fish. Do you have what it takes? Increasing fishing improves the chances to catch better fish and allows Heroes to fish more often.
 
-Fishing quests show a Stamina cost and a minimum time per attempt in the main Quest window. Heroes with Fishing as their main skill expend only 50% of the base Stamina cost per attempt. Groups of Heroes can be queued for Fishing Quests at the same time, and they may be queued for multiple attempts in one transaction as well. The Quest window will update with the total time requirement based on the Heroes and number of attempts selected.
+Fishing quests show a Stamina cost and a minimum time per attempt in the main Quest window. Heroes with Fishing as their main skill expend a reduced amount of the base Stamina cost per attempt. Groups of Heroes can be queued for Fishing Quests at the same time, and they may be queued for multiple attempts in one transaction as well. The Quest window will update with the total time requirement based on the Heroes and number of attempts selected.
