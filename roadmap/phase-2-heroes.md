@@ -12,7 +12,7 @@ The second major phase will see heroes come to the world of Defi Kingdoms, along
   * Can gain experience
   * 50 Gen 0 Heroes were given to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Sept 15, 2021 (A player was required at least 5,000 xJEWEL in the bank to get an entry in the drawing of random winners. Addresses received an extra 2 entries for each multiple of 5,000 xJEWEL they had beyond the first.)
 * Quests
-  * Heroes can be assigned to quests that will earn them experience and drops
+  * Heroes can be assigned to quests that will earn them experience and drops.
   * Quest types:
-    * Gardening - Help with Yield Farming to earn JEWELs
-    * Adventure - Raid dungeons to get drops and xp
+    * Professions - Mine, fish, garden, or forage to increase JEWEL yield, farm for in-game items and currency, and gain XP.
+    * Dungeon Raiding/PVE - Raid dungeons for loot and XP (slated for Phase 6).
