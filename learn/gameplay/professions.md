@@ -2,7 +2,7 @@
 
 ![Professions Zone](https://dfk-hv.b-cdn.net/art-assets/professions.png)
 
-Resources found from profession quests have various purposes. For example, some fish can be used to produce potions to use in adventure quests. Other things, such as pet eggs, can be used to hatch a pet companion (NFT). Generally, all things can be sold for gold, which can then be used to buy certain items. Some of these features will not be available immediately, but once they are you will be glad that you held on to that Sailfish or Silverfin!
+Resources found from profession quests have various purposes. For example, some fish can be used to produce potions to use in adventure quests. Other things, such as pet eggs, can be used to hatch a pet companion (NFT). Generally, all things can be sold for gold, which can then be used to buy certain items. Some of these features will not be available immediately, but once they are you will be glad that you held on to that Sailfish or Rockroot!
 
 ## Mining (MIN)
 
@@ -10,7 +10,7 @@ Resources found from profession quests have various purposes. For example, some 
 
 Mining requires strength and endurance to excel at the art. It is hard manual labor, but that labor pays off. Visit the JEWEL mines to find JEWELs that were locked under the surface, or pay a visit to the gold mine if it pleases. Increasing a Hero’s Mining skill increases the yields that Hero will receive and allows the Hero to mine longer without a rest.
 
-Mining is a passive activity that you send Heroes to do. Only one of your Heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. Heroes burn Stamina at a set rate per 10 minutes of Mining, as indicated on the Quest screen. Heroes with Mining as their main skill will burn Stamina at a lower rate. When the player stops the Hero’s Mining action, they will receive rewards based on the amount of Stamina spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
+Mining is a passive activity that you send Heroes to do. Only one of your Heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. Heroes burn Stamina at a set rate per 10 minutes of Mining, as indicated on the Quest screen. Heroes with Mining as their main skill will burn Stamina at a lower rate. When the player stops the Hero’s Mining action, they will receive rewards based on how many full 10-minute Mining periods were spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
 
 ## Gardening (GRD)
 
@@ -18,7 +18,7 @@ Mining is a passive activity that you send Heroes to do. Only one of your Heroes
 
 Gardening requires the wisdom to give plants time to grow, and plants seem to respond better to those with great vitality. Gardening is primarily done within one’s own Garden, which helps speed the growth of the JEWEL plants, but visiting any garden and putting in some time can still result in some useful harvests. Increasing a Hero’s gardening skill can lead to more JEWEL rewards and higher chances to find other resources.
 
-Gardening is a passive activity that you send Heroes to do. One Hero can visit a garden at a time. Heroes burn Stamina at a set rate per 10 minutes of Gardening, as indicated on the Quest screen. Heroes with Gardening as their main skill will burn Stamina at a lower rate.  When the player stops the Hero’s Gardening action, they will receive rewards based on the amount of Stamina spent.
+Gardening is a passive activity that you send Heroes to do. One Hero can visit a garden at a time. Heroes burn Stamina at a set rate per 10 minutes of Gardening, as indicated on the Quest screen. Heroes with Gardening as their main skill will burn Stamina at a lower rate.  When the player stops the Hero’s Gardening action, they will receive rewards based on how many full 10-minute Gardening periods were spent.
 
 ## Foraging (FOR)
 
