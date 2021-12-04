@@ -179,7 +179,7 @@ Heroes will receive a nice bonus when doing profession quests that match their p
 
 Four different professions will be initially available to heroes: Gardening, Mining, Fishing, and Foraging. Each profession has a profession skill associated with it which has a chance to increase each time a hero does an associated profession quest. As those skills increase, so too will the hero’s ability to earn rewards from that profession. In addition, each of these professions has a gene associated with it (in green on your hero card). Heroes receive additional benefits when doing profession quests that match their profession gene.
 
-Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a rate of 1 stamina every 10 minutes, allowing a hero to work on the quest for a duration of time. Foraging and Fishing take place immediately, utilizing 5 stamina over \~15 seconds. Heroes recover stamina at a rate of 1 every 5 minutes. _Note: Heroes cannot recover stamina while engaged in a quest._
+Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a fixed rate every 10 minutes, as indicated in the quest menu, allowing the hero to work these quests over longer periods of time until they run out of stamina or until you stop them. Foraging and Fishing quests are shorter, consuming a larger amount of mana over a minimal duration, as shown in the quest menu. Fishing and foraging quests allow you to queue multiple quest attempts in one transaction, up to the maximum amount allowed by your hero's stamina. Heroes recover stamina at a rate of 1 every 20 minutes. _Note: Heroes cannot recover stamina while engaged in a quest._
 
 [Read more about Professions.](gameplay/professions.md)
 
