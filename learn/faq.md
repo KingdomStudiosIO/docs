@@ -132,9 +132,11 @@ If you only have one hero, you can rent one from another player at the Portal to
 
 ### Where can I get Gaia's Tears to summon Heroes?
 
-Gaia's Tears are currently available via the Wishing Well, which can be accessed on the overworld map screen within the game. As long as you have at least one hero, you can send them on a Wishing Well quest, which will deplete their stamina and gift you with a possibility to receive some of Gaia's Tears. There is a chance to receive no tears per quest.
+Gaia's Tears are available as loot drops from Professions Quests. Fishing, Foraging, Gardening, and Mining all have a chance to drop Gaia's Tears.
 
-Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace. If you wish to purchase Tears in this way, you will need to manually add the contract address at the Trader: `0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04`. _Please be aware that the price of Gaia's Tears may drop significantly once quests are available._
+Additionally, Gaia's Tears can be earned in the Wishing Well mini-quests, which can be accessed near the castle on the overworld map screen or within the Meditation Circle zone. As long as you have at least one hero, you can send them on a Wishing Well quest, which will deplete their stamina and gift you with a possibility to receive some of Gaia's Tears. There is a chance to receive no tears per quest.
+
+Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace. If you wish to purchase Tears in this way, you will need to manually add the contract address at the Trader: `0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04`.&#x20;
 
 ### I didn't receive a new Hero from summoning!
 
