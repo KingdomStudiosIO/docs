@@ -8,7 +8,9 @@ Each set of 10 levels has a focus rune associated with it. For levels 1 through 
 
 ![Shvās rune](https://dfk-hv.b-cdn.net/art-assets/rune.gif)
 
-After reaching level 10, the hero will need an additional rune type (Moksha) to level up further. However, as the hero progresses from level 11 to 20, their Shvās rune cost will decrease as the Moksha cost increases. The Shvās rune cost will stop decreasing once it reaches 1 (meaning a hero will always pay at least 1 rune of a type they have used before). This pattern continues with new rune types every ten levels.
+The rune cost for leveling increases each time a Hero moves to an odd-numbered level. So, a Level 1 Hero will pay one Shvās rune to level up to Level 2, then two Shvās runes to move from level 2 to 3 and again from 3 to 4, and so on. As a result, the maximum number of any single rune type needed in a single level-up is five.
+
+After reaching level 10, the hero will need an additional rune type (Moksha) to level up further. However, as the hero progresses from level 11 to 20, their Shvās rune cost will decrease each time the Moksha cost increases. The Shvās rune cost will stop decreasing once it reaches 1 (meaning a hero will always pay at least 1 rune of a type they have used before). This pattern continues with new rune types every ten levels.
 
 The JEWEL cost of leveling up is 0.1\*currentLevel.
 
