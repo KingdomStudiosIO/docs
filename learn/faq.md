@@ -20,9 +20,9 @@ DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and addi
 
 DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges, including Binance, Kucoin, Crypto.com, and others.
 
-For information on how to setup your MetaMask wallet, please refer to: [https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet)
+For information on how to setup your MetaMask wallet, please refer to our tutorial [here](https://defikingdoms.com/tutorial.html) or Harmony's documentation [here](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).&#x20;
 
-### What is DeFi and what is a decentralized exchange (DEX)?
+### What is DeFi and what is a Decentralized Exchange (DEX)?
 
 DeFi, or Decentralized Finance, is an ecosystem of financial applications built on top of blockchain networks that aims to provide financial services without a centralized authority.
 
@@ -38,7 +38,7 @@ The game itself is free, however there is a transaction cost (gas) every time yo
 
 Once you're in the game, you can spend as much or as little as you'd like by adding to the liquidity pools in the Marketplace and staking LP Tokens in the Gardens or JEWEL in the Bank.
 
-Heroes will be available for purchase or rent in the Tavern soon. While the Gen0 Hero sale was completed, newly summoned heroes will cost significantly less.
+You can also spend JEWEL to purchase Hero NFTs in the Tavern. They can be used to collect resources through their Professions, and can be paired with other Heroes to Summon new Heroes from the Inner Grove.
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) JEWEL TOKEN
 
@@ -189,7 +189,7 @@ Engaging in a profession quest uses your hero's Stamina. Mining and Gardening dr
 
 ### What are Kingdoms/Land plots?
 
-Kingdoms, or land plots, will be an additional kind of NFT that is limited in value and highly collectable. As the world map is revealed, players will be able to purchase plots of land where buildings can be constructed, and transactions and quests can take place. Land owners will receive a portion of the revenue generated on their plots!
+Kingdoms, or land plots, will be an additional kind of NFT that is limited in quantity and highly collectable. As the world map is revealed, players will be able to purchase plots of land where buildings can be constructed, and transactions and quests can take place. Land owners will receive a portion of the revenue generated on their plots!
 
 ### How do I purchase land or participate in the land airdrop?
 
