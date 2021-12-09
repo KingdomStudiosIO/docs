@@ -1,6 +1,6 @@
 # Gameplay
 
-Gameplay in Defi Kingdoms is centered around heroes. Don’t have a hero? Well, once the Gen0 hero launch has occurred, players can head to the tavern to see if any heroes have been put up for hire.
+Gameplay in Defi Kingdoms is centered around Heroes. Don’t have a hero? Well, head to the Tavern to purchase one!
 
 ![The Tavern](https://dfk-hv.b-cdn.net/art-assets/tavern.png)
 
