@@ -1,6 +1,6 @@
 # Leveling
 
-Heroes can increase their stats by leveling up. To level up, a Hero must first have accumulated enough experience from their adventures. Once they have done that, they visit the **meditation circle**, and spend a certain number of runes and JEWEL based on their level. They also have the option to use an attunement crystal while leveling up, which will increase the success rate for certain stat increases.
+Heroes can increase their stats by leveling up. To level up, a Hero must first have accumulated enough experience from their adventures. Once they have done that, they visit the **Meditation Circle**, and spend a certain number of runes and JEWEL based on their level. They also have the option to use an attunement crystal while leveling up, which will increase the success rate for certain stat increases.
 
 ![Hero in summoning circle (work in progress)](https://dfk-hv.b-cdn.net/art-assets/meditation.gif)
 
