@@ -31,18 +31,18 @@ We know there has been concern with some other projects selling a large amount o
 
 You can see the addresses of these funds here.
 
-**Development Fund Multisig Safe: **[**https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances**](https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances)****\
+**Development Fund Multisig Safe:** [**https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances**](https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances)****\
 ****\
-**Marketing Fund Multisig Safe: **\
+**Marketing Fund Multisig Safe:** \
 ****[**https://multisig.harmony.one/#/safes/0x3875e5398766a29c1B28cC2068A0396cba36eF99/balances**](https://multisig.harmony.one/#/safes/0x3875e5398766a29c1B28cC2068A0396cba36eF99/balances)****
 
-**Smart Contract Owners Safe: **\
+**Smart Contract Owners Safe:** \
 ****[**https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances**](https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances)****
 
-**Initial Liquidity Fund:**_** **_0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
+**Initial Liquidity Fund: **_****_ 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
 
-**Founding Member Addresses: **\
-_****_Frisky Fox:_** **_0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
+**Founding Member Addresses:** \
+_****_Frisky Fox: _****_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
 Sinstar Necro: 0xA76Ea4f96136AF0fF23e7CC426Bfc21E451ff9f5\
 Jericho Splendershoes: 0x2b45C2dF1E982E596137d49A02afC02B9fb8B8dB\
 Admiral Omicron: 0x19612e015E6bC4f5C7ba122bd4acA23646414b72

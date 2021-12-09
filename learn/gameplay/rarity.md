@@ -12,15 +12,15 @@ The following symbols appear in the center of your Hero's card, indicating their
 
 ****
 
-** **![](<../../.gitbook/assets/uncommon gem 1.png>)   **Uncommon**
+&#x20;**** ![](<../../.gitbook/assets/uncommon gem 1.png>)   **Uncommon**
 
 ****
 
-![](<../../.gitbook/assets/rare gem 1.png>)**   Rare**
+![](<../../.gitbook/assets/rare gem 1.png>)   **Rare**
 
 ****
 
-![](<../../.gitbook/assets/legendary gem 1.png>)**  Legendary**
+![](<../../.gitbook/assets/legendary gem 1.png>)  **Legendary**
 
 ****
 
