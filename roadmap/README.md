@@ -1,6 +1,6 @@
 # Roadmap
 
-We will be launching the various features of Defi Kingdoms on a timeline, outlined below.
+We will be launching the various features of Defi Kingdoms according to the phases outlined below.
 
 | Phase | Feature                                                                             |
 | ----- | ----------------------------------------------------------------------------------- |
