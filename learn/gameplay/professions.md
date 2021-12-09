@@ -1,6 +1,6 @@
 # Professions
 
-![Professions Zone](https://dfk-hv.b-cdn.net/art-assets/professions.png)
+![The Professions zone.](<../../.gitbook/assets/professions scene anim\_Animation 1\_0.png>)
 
 Resources found from profession quests have various purposes. For example, some fish can be used to produce potions to use in adventure quests. Other things, such as pet eggs, can be used to hatch a pet companion (NFT). Generally, all things can be sold for gold, which can then be used to buy certain items. Some of these features will not be available immediately, but once they are you will be glad that you held on to that Sailfish or Rockroot!
 
