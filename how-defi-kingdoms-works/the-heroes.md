@@ -10,9 +10,9 @@ We’re going one step further than your standard NFTs as our Hero NFTs will be 
 
 Heroes are summoned through a portal of dimensions, and each new Hero is completely unique. There’s virtually endless combinations of parts that make up each unique NFT Hero, so no two will ever be the same—in stats or in appearance.
 
-You can only trade rare Heroes on the marketplace, but you can summon new ones by combining genes from your current Heroes! With Summoning, you’ll never know exactly what type of Hero is going to come out of the portal next—you could end up with an extremely rare, and valuable, tradeable NFT.
+The Tavern is the place to buy and sell Heroes. Players may also offer their Heroes for rent in the Tavern, to be used by other players for Summoning.
 
-There is a Tavern where players can buy and sell their Heroes. This allows players to level up their Heroes and then sell them for a higher price than they were before, a play-to-earn model. Players may also offer their Heroes for rent in the Tavern, to be used by other players for Summoning.
+You can purchase Heroes in the Tavern, but you can also Summon new ones by combining genes from your current Heroes! With Summoning, you’ll never know exactly what type of Hero is going to come out of the portal next—you could end up with an extremely rare, and valuable, tradeable NFT.
 
 **Hero Genes**
 
