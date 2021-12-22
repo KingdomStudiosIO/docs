@@ -25,7 +25,8 @@
   * [Leveling](learn/gameplay/leveling.md)
   * [Summoning](learn/gameplay/summoning.md)
   * [Quests](learn/gameplay/quests.md)
-  * [Professions](learn/gameplay/professions.md)
+  * [Professions](learn/gameplay/professions/README.md)
+    * [Gardening](learn/gameplay/professions/gardening.md)
 * [FAQ](learn/faq.md)
 
 ## Community

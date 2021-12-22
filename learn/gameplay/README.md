@@ -12,4 +12,4 @@ Gameplay in Defi Kingdoms is centered around Heroes. Don’t have a hero? Well, 
 * [Leveling](leveling.md)
 * [Summoning](summoning.md)
 * [Quests](quests.md)
-* [Professions](professions.md)
+* [Professions](professions/)

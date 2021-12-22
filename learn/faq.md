@@ -183,7 +183,7 @@ Four different professions will be initially available to heroes: Gardening, Min
 
 Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a fixed rate every 10 minutes, as indicated in the quest menu, allowing the hero to work these quests over longer periods of time until they run out of stamina or until you stop them. Foraging and Fishing quests are shorter, consuming a larger amount of mana over a minimal duration, as shown in the quest menu. Fishing and foraging quests allow you to queue multiple quest attempts in one transaction, up to the maximum amount allowed by your hero's stamina. Heroes recover stamina at a rate of 1 every 20 minutes. _Note: Heroes cannot recover stamina while engaged in a quest._
 
-[Read more about Professions.](gameplay/professions.md)
+[Read more about Professions.](gameplay/professions/)
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) KINGDOMS / LANDS
 

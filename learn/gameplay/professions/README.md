@@ -1,10 +1,10 @@
 # Professions
 
-![The Professions zone.](<../../.gitbook/assets/professions scene anim\_Animation 1\_0.png>)
+![The Professions zone.](<../../../.gitbook/assets/professions scene anim\_Animation 1\_0.png>)
 
 Resources found from profession quests have various purposes. For example, some fish can be used to produce potions to use in adventure quests. Other things, such as pet eggs, can be used to hatch a pet companion (NFT). Generally, all things can be sold for gold, which can then be used to buy certain items. Some of these features will not be available immediately, but once they are you will be glad that you held on to that Sailfish or Rockroot!
 
-## Mining (MIN)
+## Mining
 
 ![](https://dfk-hv.b-cdn.net/art-assets/Mining\_Quest.png)
 
@@ -12,7 +12,7 @@ Mining requires strength and endurance to excel at the art. It is hard manual la
 
 Mining is a passive activity that you send Heroes to do. Only one of your Heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. Heroes gather rewards for every 12 minutes of Mining, as indicated on the Quest screen. Heroes with Mining as their main profession gather these rewards every 10 minutes instead. When the player stops the Hero’s Mining action, they will receive rewards based on how many full 12-minute (or 10-minute with Mining skill) periods were spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
 
-## Gardening (GRD)
+## Gardening
 
 ![](https://dfk-hv.b-cdn.net/art-assets/Gardening\_Quest.png)
 
@@ -20,7 +20,9 @@ Gardening requires the wisdom to give plants time to grow, and plants seem to re
 
 Gardening is a passive activity that you send Heroes to do. One Hero can visit a garden at a time. Heroes gather rewards for every 12 minutes of Gardening, as indicated on the Quest screen. Heroes with Gardening as their main profession will gather rewards every 10 minutes instead.  When the player stops the Hero’s Gardening action, they will receive rewards based on how many full 12-minute (or 10-minute with Gardening skill) periods were spent.
 
-## Foraging (FOR)
+**The Level 0 Gardening quest is being launched with temporarily increased rewards. Full information can be found on the** [**Gardening**](gardening.md) **page in the Gameplay section.**
+
+## Foraging
 
 ![](https://dfk-hv.b-cdn.net/art-assets/Foraging\_Quest.png)
 
@@ -28,7 +30,7 @@ Foraging involves clambering over fallen trees in search of useful foliage. It t
 
 Foraging quests show a Stamina cost and a minimum time per attempt in the main Quest window. Heroes with Foraging as their main profession expend a reduced amount of the base Stamina cost per attempt. Groups of Heroes can be queued for Foraging Quests at the same time, and they may be queued for multiple attempts in one transaction as well. The Quest window will update with the total time requirement based on the Heroes and number of attempts selected.
 
-## Fishing (FSH)
+## Fishing
 
 ![](https://dfk-hv.b-cdn.net/art-assets/Fishing\_Quest.png)
 
