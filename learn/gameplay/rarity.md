@@ -26,6 +26,14 @@ The following symbols appear in the center of your Hero's card, indicating their
 
 ![](<../../.gitbook/assets/mythic gem 1.png>) **Mythic**
 
+## Rarity and Summoning
+
+The rarity of a Hero is influenced by the rarity of the Heroes used to infuse the Summoning Crystal.&#x20;
+
+![Summoning Rarity](<../../.gitbook/assets/Summoner Combo.png>)
+
+For full information on Summoning, visit the main [Summoning](summoning.md) topic page.
+
 ## Shininess
 
 In addition to rarity, every Hero has a small chance of being shiny, which increases if the Summoning Heroes are also shiny. Being shiny makes heroes more popular among the ladies and gentlemen of the court, ensures they never step in dung, and makes their character card shiny. It has no other use in the game.
