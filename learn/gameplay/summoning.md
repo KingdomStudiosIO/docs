@@ -66,7 +66,7 @@ The rarity level of a Summoned Hero is impacted by the rarity of the two Heroes 
 
 ![Summoning Rarity](<../../.gitbook/assets/Summoner Combo.png>)
 
-The chart above illustrates the likelihood that pairing Heroes of given rarities will result in a Summoned Hero of a given rarity.
+The chart above illustrates the likelihood that pairing Heroes of given rarities will result in a Summoned Hero of a given rarity. For further information on this topic, visit the [Rarity](rarity.md) topic page.
 
 ## Crystal Recharging
 
