@@ -2,7 +2,7 @@
 
 At its core, the Gardens is a place to stake liquidity provider tokens to receive JEWEL tokens. You’ll be gaining JEWEL tokens to use in game for rare NFTs and other items JUST by staking LP tokens! It’s a powerful part of the game, and really fun.
 
-![Gathering the fruits of his labors.](https://dfk-hv.b-cdn.net/website-media/images/gardener.gif)
+![](<../.gitbook/assets/Cute Henry.gif>)
 
 Our visualization on liquidity pool mining is unique and fresh. We’re building an epic world and gardens in which to represent token pairs and liquidity pool mining. Within each garden (i.e. LP pairing), you will be able to see your portion of the total share within the plot represented by your owned plants. The gardener busies himself with tending to your plants (this represents the countdown timer between blocks mined) and once harvested, the gardener deposits your yield in the storehouse representing your share of JEWEL tokens of the block mined. **There will be ways to augment and increase your yield through in-game items that will provide you with increased JEWEL token rewards!**
 
