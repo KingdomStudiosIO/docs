@@ -46,7 +46,7 @@ What’s this? Yes, unfortunately only Gen0 heroes are able to maintain their at
 
 Higher ranked heroes have begun to arrive at the kingdom!!!
 
-![Hero Rank Summoning Chart](../../.gitbook/assets/Summoning.png)
+![Hero Rank Summoning Chart](../../../.gitbook/assets/Summoning.png)
 
 Summoning with Heroes that have the appropriate genes can result in genetic mutation that results in a higher ranked Hero being Summoned from the Portal. The chart above displays the genetic combinations needed to Summon each possible Hero class.
 
@@ -64,7 +64,7 @@ Exalted - DreadKnight
 
 The rarity level of a Summoned Hero is impacted by the rarity of the two Heroes used to infuse the Summoning Crystal.
 
-![Summoning Rarity](<../../.gitbook/assets/Summoner Combo.png>)
+![Summoning Rarity](<../../../.gitbook/assets/Summoner Combo.png>)
 
 The chart above illustrates the likelihood that pairing Heroes of given rarities will result in a Summoned Hero of a given rarity. For further information on this topic, visit the [Rarity](rarity.md) topic page.
 
@@ -72,7 +72,7 @@ The chart above illustrates the likelihood that pairing Heroes of given rarities
 
 After you press ‘Begin Summon’ and confirm the transaction, you will be given an Infused Crystal to use in the Portal.
 
-![Summoning Interface](../../.gitbook/assets/SummoningText.JPG)
+![Summoning Interface](../../../.gitbook/assets/SummoningText.JPG)
 
 ⚠️ \*\*Be aware, you MUST summon any HERO crystals within 5 minutes of infusing them; otherwise, they will expire and you need to spend a fee of 18 JEWEL to recharge them.\*\*⚠️
 

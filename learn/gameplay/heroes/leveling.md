@@ -2,7 +2,7 @@
 
 Heroes can increase their stats by leveling up. To level up, a Hero must first have accumulated enough experience from their adventures. Once they have done that, they visit the **Meditation Circle**, and spend a certain number of runes and JEWEL based on their level. They also have the option to use an attunement crystal while leveling up, which will increase the success rate for certain stat increases.
 
-![The Meditation Circle](<../../.gitbook/assets/mediation circle.png>)
+![The Meditation Circle](<../../../.gitbook/assets/mediation circle.png>)
 
 Each set of 10 levels has a focus rune associated with it. For levels 1 through 10, that rune is the **Shvās rune**.
 
@@ -12,7 +12,7 @@ The rune cost for leveling increases each time a Hero moves to an odd-numbered l
 
 After reaching level 10, the Hero will need an additional rune type (Moksha) to level up further. However, as the Hero progresses from level 11 to 20, their Shvās rune cost will decrease each time the Moksha cost increases. The Shvās rune cost will stop decreasing once it reaches 1 (meaning a hero will always pay at least 1 rune of a type they have used before). This pattern continues with new rune types every ten levels.
 
-![](../../.gitbook/assets/Meditation\_Quest\_no\_pic-1.png)
+![](../../../.gitbook/assets/Meditation\_Quest\_no\_pic-1.png)
 
 The JEWEL cost of leveling up is 0.1\*currentLevel.
 

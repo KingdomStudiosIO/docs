@@ -8,29 +8,29 @@ The following symbols appear in the center of your Hero's card, indicating their
 
 
 
-&#x20;![](<../../.gitbook/assets/common gem 1.png>)   **Common**
+&#x20;![](<../../../.gitbook/assets/common gem 1.png>)   **Common**
 
 ****
 
-&#x20;**** ![](<../../.gitbook/assets/uncommon gem 1.png>)   **Uncommon**
+&#x20;**** ![](<../../../.gitbook/assets/uncommon gem 1.png>)   **Uncommon**
 
 ****
 
-![](<../../.gitbook/assets/rare gem 1.png>)   **Rare**
+![](<../../../.gitbook/assets/rare gem 1.png>)   **Rare**
 
 ****
 
-![](<../../.gitbook/assets/legendary gem 1.png>)  **Legendary**
+![](<../../../.gitbook/assets/legendary gem 1.png>)  **Legendary**
 
 ****
 
-![](<../../.gitbook/assets/mythic gem 1.png>) **Mythic**
+![](<../../../.gitbook/assets/mythic gem 1.png>) **Mythic**
 
 ## Rarity and Summoning
 
 The rarity of a Hero is influenced by the rarity of the Heroes used to infuse the Summoning Crystal.&#x20;
 
-![Summoning Rarity](<../../.gitbook/assets/Summoner Combo.png>)
+![Summoning Rarity](<../../../.gitbook/assets/Summoner Combo.png>)
 
 For full information on Summoning, visit the main [Summoning](summoning.md) topic page.
 

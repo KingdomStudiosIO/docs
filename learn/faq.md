@@ -128,7 +128,7 @@ If you have two heroes, you can go to the Portal and summon another one. You wil
 
 If you only have one hero, you can rent one from another player at the Portal to assist in the summoning process.
 
-[Read more about Hero Summoning.](gameplay/summoning.md)
+[Read more about Hero Summoning.](gameplay/heroes/summoning.md)
 
 ### Where can I get Gaia's Tears to summon Heroes?
 
