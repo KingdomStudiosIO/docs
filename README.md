@@ -14,7 +14,7 @@ DeFi Kingdoms is a game, a DEX, a liquidity pool opportunity, a market of rare u
 
 ### The motivation for Creating DeFi Kingdoms
 
-We’re big fans of the innovation happening in DeFi and in blockchain technology in general, but we've been waiting for a DeFi project to really embrace the full potential of the blockchain in game form. Investing and getting those sweet returns and moon shots is undoubtedly fun, but why can't it feel more like a game? Why can't we build an operation and level it up to increase my returns. Why can't we do daily quests to collect rare NFTs that actually augment and impact the rewards and returns? Once we decided it needed to be built, we jumped head first into production, and DeFi Kingdoms was born!
+We’re big fans of the innovation happening in DeFi and in blockchain technology in general, but we've been waiting for a DeFi project to really embrace the full potential of the blockchain in game form. Investing and getting those sweet returns and moon shots is undoubtedly fun, but why can't it feel more like a game? Why can't we build an operation and level it up to increase returns? Why can't we do daily quests to collect rare NFTs that actually augment and impact the rewards and returns? Once we decided it needed to be built, we jumped head first into production, and DeFi Kingdoms was born!
 
 #### A Dedicated Team and a Shared Vision
 

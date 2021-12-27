@@ -14,5 +14,5 @@ The second major phase will see heroes come to the world of Defi Kingdoms, along
 * Quests
   * Heroes can be assigned to quests that will earn them experience and drops.
   * Quest types:
-    * Professions - Mine, fish, garden, or forage to increase JEWEL yield, farm for in-game items and currency, and gain XP.
+    * Professions - Mine, fish, garden, or forage to farm for in-game items and currency and to gain XP. Mining and Gardening can even reward you with JEWEL!
     * Dungeon Raiding/PVE - Raid dungeons for loot and XP (slated for Phase 6).
