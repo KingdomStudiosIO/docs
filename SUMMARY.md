@@ -18,7 +18,7 @@
 
 ## Learn
 
-* [Lore](learn/lore.md)
+* [Getting Started](learn/getting-started.md)
 * [Gameplay](learn/gameplay/README.md)
   * [Heroes](learn/gameplay/heroes/README.md)
     * [Summoning](learn/gameplay/heroes/summoning.md)
@@ -28,6 +28,7 @@
     * [Quests](learn/gameplay/heroes/quests.md)
   * [Professions](learn/gameplay/professions/README.md)
     * [Gardening](learn/gameplay/professions/gardening.md)
+* [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
 ## Community
