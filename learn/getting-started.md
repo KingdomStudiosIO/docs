@@ -2,7 +2,7 @@
 
 ![Welcome to DeFI Kingdoms!](../.gitbook/assets/Nolan.JPG)
 
-DeFi Kingdoms is a browser-based game, so you all you need to set up your system is a compatible browser with the MetaMask extension installed.&#x20;
+DeFi Kingdoms is a browser-based game, so all you need to set up your system is a compatible browser with the MetaMask extension installed.&#x20;
 
 The DeFi Kingdoms [tutorial](https://defikingdoms.com/tutorial.html) walks you through downloading a compatible browser and installing the MetaMask extension.
 
