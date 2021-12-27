@@ -28,6 +28,7 @@
     * [Quests](learn/gameplay/heroes/quests.md)
   * [Professions](learn/gameplay/professions/README.md)
     * [Gardening](learn/gameplay/professions/gardening.md)
+  * [Bank](learn/gameplay/bank.md)
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
