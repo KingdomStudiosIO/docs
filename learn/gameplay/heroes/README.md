@@ -8,4 +8,4 @@ Heroes can engage in [Professions Quests](../professions/) to earn JEWEL and in-
 
 Eventually, Heroes will be able to participate in further [Quests](quests.md) to gain loot and experience, including PVE quests in which they battle enemies.
 
-The Tavern hosts the NFT Agent, who can assist with buying and selling Heroes, as well as renting them out for use in the Summoning Portal.
+The Tavern hosts the NFT Agent, who can assist with buying and selling Heroes, as well as renting them out for use in the Summoning [Portal](../portal.md).

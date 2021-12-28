@@ -1,6 +1,6 @@
 # Rarity
 
-Each Hero has not only a class, subclass, and array of stats, but a rarity level as well. Every Summon has a chance to produce Heroes of each rarity level; however, Summoning with more rare Heroes increases the likelihood that the Summoned Hero will be of a higher rarity. Rare Heroes are coveted because each level of rarity corresponds with bonuses to the base stat levels of your Hero.
+Each Hero has not only a class, subclass, and array of [stats](stats.md), but a rarity level as well. Every **Summon** has a chance to produce Heroes of each rarity level; however, [Summoning](summoning.md) with more rare Heroes increases the likelihood that the Summoned Hero will be of a higher rarity. Rare Heroes are coveted because each level of rarity corresponds with bonuses to the base stat levels of your Hero.
 
 ## Rarity Indicators
 
