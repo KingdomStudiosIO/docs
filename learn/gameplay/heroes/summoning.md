@@ -1,6 +1,6 @@
 # Summoning
 
-![Summoning Portal (work in progress)](https://dfk-hv.b-cdn.net/art-assets/portal.gif)
+![Summoning Portal](https://dfk-hv.b-cdn.net/art-assets/portal.gif)
 
 To summon, two heroes must visit the **Arch Druid** and infuse a Summoning Crystal with their combined essence. **Infused Crystals** are then used at the Portal to seek Heroes from far away lands that are in tune with the heroes that infused the crystal.
 

@@ -29,6 +29,7 @@
   * [Professions](learn/gameplay/professions/README.md)
     * [Gardening](learn/gameplay/professions/gardening.md)
   * [Bank](learn/gameplay/bank.md)
+  * [Portal](learn/gameplay/portal.md)
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
