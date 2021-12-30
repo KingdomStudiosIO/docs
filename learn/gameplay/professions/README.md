@@ -10,7 +10,7 @@ Resources found from profession quests have various purposes. For example, some 
 
 Mining requires strength and endurance to excel at the art. It is hard manual labor, but that labor pays off. Visit the JEWEL mines to find JEWELs that were locked under the surface, or pay a visit to the gold mine if it pleases. Increasing a Hero’s Mining skill increases the yields that Hero will receive and allows the Hero to mine longer without a rest.
 
-Mining is a passive activity that you send Heroes to do. Only one of your Heroes can visit the JEWEL mine at a time, but you can assign several to mine for gold. Heroes gather rewards for every 12 minutes of Mining, as indicated on the Quest screen. Heroes with Mining as their main profession gather these rewards every 10 minutes instead. When the player stops the Hero’s Mining action, they will receive rewards based on how many full 12-minute (or 10-minute with Mining skill) periods were spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
+Mining is a passive activity that you send Heroes to do. A group of six Heroes can visit the mines at any time. Heroes gather rewards for every 12 minutes of Mining, as indicated on the Quest screen. Heroes with Mining as their main profession gather these rewards every 10 minutes instead, if the entire group are made up of miners. When the player stops the Hero’s Mining action, they will receive rewards based on how many full 12-minute (or 10-minute with Mining skill) periods were spent. Along with JEWELs or Gold, some have been known to find rarer treasures in these mines...
 
 ## Gardening
 
