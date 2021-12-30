@@ -30,6 +30,7 @@
     * [Gardening](learn/gameplay/professions/gardening.md)
   * [Bank](learn/gameplay/bank.md)
   * [Portal](learn/gameplay/portal.md)
+  * [Tavern](learn/gameplay/tavern.md)
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
