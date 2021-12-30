@@ -4,13 +4,13 @@ description: Information about the Level 0 Gardening quest.
 
 # Gardening
 
-**Gardening Quests** can be performed by one Hero at a time in each of the incentivized pools listed in the **Seed Box** in the Gardens. The quest is begun in the **Professions** area by speaking to the **Gardener**, Druid Lam. Heroes may Garden in any of the available Gardens, but JEWEL rewards are only available from those in which the player has seeds, and the JEWEL yield increases with the number of seeds planted by that player in that particular garden. However, the Gardening quest has a chance to reward with plants, Gaia's Tears, Shvās runes, and Green Eggs whether the player has seeds in the garden or not.
+**Gardening Quests** can be performed by one Hero at a time in each of the incentivized pools listed in the **Seed Box** in the Gardens. The quest is begun in the **Professions** area by speaking to the **Gardener**, Druid Lam. Heroes may Garden in any of the available Gardens, but JEWEL rewards are only available from those in which the player has seeds, and the JEWEL yield increases with the number of seeds planted by that player in that particular garden. However, the Gardening quest has a chance to reward Heroes with plants, **Gaia's Tears**, **Shvās runes**, and **Green Eggs** whether the player has seeds in the garden or not.&#x20;
 
 **The Level 0 Gardening quest is being launched with a special multiplier to increase its rewards yield for a limited time.** The quest launch occurred on 12/22/21. This multiplier will decrease over a period of 16 weeks until the quest settles at the intended yield formula. Gardening yields rely heavily on both the player's share of the liquidity pools that their Heroes will work in and on the overall balance of the Quest Rewards wallet, so there will be both a large variance in yields between players and pools and a variance in yields over time as the Quest Rewards pool grows or shrinks.
 
 ### **Level 0 rewards formula:**
 
-earnRate (per tick) = launchBonus\*(rewardPool\*poolAllocation_\*_LPowned\*(0.1+(WIS+VIT)/1222.22+(GrdSkl)/244.44))/(43,200-(7200\*geneBonus))&#x20;
+earnRate (per tick) = launchBonus\*(rewardPool\*poolAllocation_\*_LPowned\*(0.1+(**WIS**+**VIT**)/1222.22+(**GrdSkl**)/244.44))/(43,200-(7200\***geneBonus**))&#x20;
 
 rewardPool - This is the balance of the quest pool wallet.&#x20;
 
@@ -34,4 +34,4 @@ Bluestem - 9% (per 5 Stamina spent)
 
 Green Egg - .02% (per 10 Stamina spent)
 
-**Item drop rates are increased by Gardening gene, WIS, and VIT.**
+**Item drop rates are increased by varying combinations WIS, VIT, and, the gardening stat, and the gardening gene.**

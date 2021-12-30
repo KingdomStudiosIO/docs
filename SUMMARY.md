@@ -27,6 +27,7 @@
     * [Leveling](learn/gameplay/heroes/leveling.md)
     * [Quests](learn/gameplay/heroes/quests.md)
   * [Professions](learn/gameplay/professions/README.md)
+    * [Gold Mining](learn/gameplay/professions/gold-mining.md)
     * [Gardening](learn/gameplay/professions/gardening.md)
   * [Bank](learn/gameplay/bank.md)
   * [Portal](learn/gameplay/portal.md)
