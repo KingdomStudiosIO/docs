@@ -35,11 +35,6 @@
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
-## Community
-
-* [Meet the Team](community/meet-the-team.md)
-* [Claim Your Kingdom!](community/claim-your-kingdom.md)
-
 ## Important
 
 * [Audit Results](important/audit-results.md)
