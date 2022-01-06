@@ -16,7 +16,7 @@ Heroes with **mining** as their main profession expend 1 Stamina every 10 minute
 
 Mining quests also have a chance to reward Heroes with **Gaia's Tears**, **Shvās runes**, and **Yellow Eggs**. Item drop rates are increased by varying combinations of **STR**, **END**, the **mining** stat, and the **mining** gene.
 
-**The formulas for the JEWEL mining quest are below:**
+### **Level 0 rewards formula:**
 
 &#x20;    **Max unlock rate formula:**\
 &#x20;       maxUnlockRate = (1000 \* (0.25 + (**STR** + **END**) \* 0.000625 + (**MinSkl**) \* 0.0025)) / lockedRatio
@@ -38,3 +38,11 @@ Mining quests also have a chance to reward Heroes with **Gaia's Tears**, **Shvā
 &#x20;    **geneBonus** = 1 if character has **mining** as their main skill, else 0
 
 Additionally, for every 15 Stamina spent by the **lead miner**, there is a 10% chance to receive bonus JEWEL. The maximum bonus is 10 JEWEL, if the wallet has at least 5,000 locked JEWEL. The bonus scales down linearly if the wallet has less than 5,000 locked JEWEL.
+
+### Level 0 base item drop rates:
+
+**Shvās rune** - 0.3% per 5 Stamina expended, boosted to 1.5% with **mining** main skill&#x20;
+
+**Gaia's Tears** - 7%  per 5 Stamina expended, boosted to 10.75% with **mining** main skill
+
+**Yellow Egg** - 0.02% (per 10 Stamina spent)
