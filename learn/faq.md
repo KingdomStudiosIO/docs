@@ -201,12 +201,6 @@ Land plots will be available for purchase during [Phase 3 of the Roadmap](../roa
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) MISCELLANEOUS
 
-### I heard DeFi Kingdoms is moving to another chain? What does that mean?
-
-DeFi Kingdoms is always looking for new partners in other projects and blockchains, and we're looking forward to expanding beyond Harmony! Other chains will have their own look and feel, with new quests and other in-game items and experiences.
-
-But Harmony will always be our home. When we expand, it will be by bridging JEWEL, heroes, and other tokens. **We will not set up a new DEX or dilute the supply of JEWEL on new chains.**
-
 ### Is DeFi Kingdoms being audited?
 
 Yes, an audit by [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) has already been completed. The team is committed to ensuring the safety and stability of the project, and additional [audits](../important/audit-results.md) are in the works.
