@@ -136,15 +136,13 @@ Gaia's Tears are available as loot drops from Professions Quests. Fishing, Forag
 
 Additionally, Gaia's Tears can be earned in the Wishing Well mini-quests, which can be accessed near the castle on the overworld map screen or within the Meditation Circle zone. As long as you have at least one hero, you can send them on a Wishing Well quest, which will deplete their stamina and gift you with a possibility to receive some of Gaia's Tears. There is a chance to receive no tears per quest.
 
-Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace. If you wish to purchase Tears in this way, you will need to manually add the contract address at the Trader: `0x24ea0d436d3c2602fbfefbe6a16bbc304c963d04`.&#x20;
+Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace.&#x20;
 
 ### I didn't receive a new Hero from summoning!
 
 Once you infuse a crystal with the essence of two heroes, it must be brought to the summoning portal to bring the hero forth from the Inner Grove.
 
 If you do not see the Infused Crystal after the summoning transaction successfully goes through, please try to refresh the page and open MetaMask for a few seconds (preferably on the Asset overview). You may have to try several times, but this should allow you to see the Infused Crystal.
-
-**If you do not complete the summoning process within 5 minutes of receiving the Infused Crystal (even if you can't see it yet), the process will need to be refreshed for a fee of 18 JEWEL.** If the Harmony blockchain is experiencing slowness, you may wish to hold off on summoning a hero until a later time.
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) HERO STATS, QUESTS, AND PROFESSIONS
 
@@ -179,7 +177,7 @@ Heroes will receive a nice bonus when doing profession quests that match their p
 
 ### How do Professions work?
 
-Four different professions will be initially available to heroes: Gardening, Mining, Fishing, and Foraging. Each profession has a profession skill associated with it which has a chance to increase each time a hero does an associated profession quest. As those skills increase, so too will the hero’s ability to earn rewards from that profession. In addition, each of these professions has a gene associated with it (in green on your hero card). Heroes receive additional benefits when doing profession quests that match their profession gene.
+Four different professions are available to heroes: Gardening, Mining, Fishing, and Foraging. Each profession has a profession skill associated with it which has a chance to increase each time a hero does an associated profession quest. As those skills increase, so too will the hero’s ability to earn rewards from that profession. In addition, each of these professions has a gene associated with it (in green on your hero card). Heroes receive additional benefits when doing profession quests that match their profession gene.
 
 Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a fixed rate every 10 minutes, as indicated in the quest menu, allowing the hero to work these quests over longer periods of time until they run out of stamina or until you stop them. Foraging and Fishing quests are shorter, consuming a larger amount of mana over a minimal duration, as shown in the quest menu. Fishing and foraging quests allow you to queue multiple quest attempts in one transaction, up to the maximum amount allowed by your hero's stamina. Heroes recover stamina at a rate of 1 every 20 minutes. _Note: Heroes cannot recover stamina while engaged in a quest._
 
