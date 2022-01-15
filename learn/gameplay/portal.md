@@ -2,7 +2,7 @@
 
 The sacred **Portal** is the location where new [Heroes](heroes/) are **Summoned** from Gaia's Inner Grove.
 
-![The Sacred Portal](../../.gitbook/assets/Portal.JPG)
+![The Summoning Portal](../../.gitbook/assets/Capture.JPG)
 
 [Summoning](heroes/summoning.md) requires two Heroes, whose genetics impact what kind of new Hero will emerge. The class and subclass of both these Heroes, along with their [stats](heroes/stats.md), [rarity](heroes/rarity.md), and main [profession](professions/) are passed to the new Hero, although mutations can occur that lead to unexpected results!
 
