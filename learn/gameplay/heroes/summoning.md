@@ -67,19 +67,3 @@ The rarity level of a Summoned Hero is impacted by the rarity of the two Heroes 
 ![Summoning Rarity](<../../../.gitbook/assets/Summoner Combo.png>)
 
 The chart above illustrates the likelihood that pairing Heroes of given rarities will result in a Summoned Hero of a given rarity. For further information on this topic, visit the [Rarity](rarity.md) topic page.
-
-## Crystal Recharging
-
-After you press ‘Begin Summon’ and confirm the transaction, you will be given an Infused Crystal to use in the Portal.
-
-![Summoning Interface](../../../.gitbook/assets/SummoningText.JPG)
-
-⚠️ \*\*Be aware, you MUST summon any HERO crystals within 5 minutes of infusing them; otherwise, they will expire and you need to spend a fee of 18 JEWEL to recharge them.\*\*⚠️
-
-![](https://dfk-hv.b-cdn.net/website-media/images/crystal-refresh-required.png)
-
-If you have an insufficient balance of the required JEWEL needed to recharge the HERO crystal, you will maintain ownership of the HERO crystal, however, the crystal will lack the necessary charge needed for summoning a new HERO.
-
-![](https://dfk-hv.b-cdn.net/website-media/images/not-enough-resources.png)
-
-This mechanic is in place to prevent the spamming of summoning crystals within a short time span.
