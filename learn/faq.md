@@ -50,7 +50,7 @@ The contract address for JEWEL is: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
 ### Where can I find the current price / market cap of JEWEL?
 
-You can see the view the current price and market cap of JEWEL [in the game](https://game.defikingdoms.com) by clicking on your profile picture.
+You can see the current price and market cap of JEWEL [in the game](https://game.defikingdoms.com) by clicking on your profile picture.
 
 You can also see charts and stats for JEWEL and all other tokens and pairings on the DeFi Kingdoms DEX at: [https://info.defikingdoms.com/](https://info.defikingdoms.com).
 
