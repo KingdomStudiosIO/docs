@@ -1,5 +1,5 @@
 ---
-description: Information about the Level 0 Gold Mining quest
+description: Information about the Level 0 Gold Mining quest.
 ---
 
 # Gold Mining

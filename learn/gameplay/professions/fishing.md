@@ -1,5 +1,5 @@
 ---
-description: Information about the Level 0 Fishing quest
+description: Information about the Level 0 Fishing quest.
 ---
 
 # Fishing

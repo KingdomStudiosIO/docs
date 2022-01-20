@@ -12,17 +12,17 @@ description: Information about the Level 0 Gardening quest.
 
 earnRate (per tick) = launchBonus\*(rewardPool\*poolAllocation_\*_LPowned\*(0.1+(**WIS**+**VIT**)/1222.22+(**GrdSkl**)/244.44))/(43,200-(7200\***geneBonus**))&#x20;
 
-rewardPool - This is the balance of the quest pool wallet.&#x20;
+**rewardPool** - This is the balance of the quest pool wallet.&#x20;
 
-poolAllocation - This is the percent of allocation a specific garden has (the allocation for JEWEL distribution).&#x20;
+**poolAllocation** - This is the percent of allocation a specific garden has (the allocation for JEWEL distribution).&#x20;
 
-LPowned - The percent of the liquidity pool that the player owns in the selected Garden.&#x20;
+**LPowned** - The percent of the liquidity pool that the player owns in the selected Garden.&#x20;
 
-GrdSkl - A hero's Gardening skill (only counts integer value (1.9 GrdSkl will have same result as 1.0 GrdSkl).&#x20;
+**GrdSkl** - A hero's Gardening skill (only counts integer value (1.9 GrdSkl will have same result as 1.0 GrdSkl).&#x20;
 
-geneBonus - Provides a 20% bonus to JEWEL returns, increases the chances of finding tears and runes, and decreases the amount of time per tick from 12 minutes to 10 minutes. These bonuses are only present if the hero has the gardening gene. If they have the gene, geneBonus = 1, if not, geneBonus = 0.&#x20;
+**geneBonus** - Provides a 20% bonus to JEWEL returns, increases the chances of finding tears and runes, and decreases the amount of time per tick from 12 minutes to 10 minutes. These bonuses are only present if the hero has the gardening gene. If they have the gene, geneBonus = 1, if not, geneBonus = 0.&#x20;
 
-launchBonus - A special multiplier applied at launch that will start at 5 at launch, and decrease by 0.5 every two weeks until the value is 1.
+**launchBonus** - A special multiplier applied at launch that will start at 5 at launch, and decrease by 0.5 every two weeks until the value is 1.
 
 ### **Level 0 item drop rates:**
 
