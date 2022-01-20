@@ -26,12 +26,12 @@ launchBonus - A special multiplier applied at launch that will start at 5 at lau
 
 ### **Level 0 item drop rates:**
 
-Spiderfruit - 6% (per 5 Stamina spent)
+**Spiderfruit** - 6% (per 5 Stamina spent)
 
-Milkweed - 4% (per 5 Stamina spent)
+**Milkweed** - 4% (per 5 Stamina spent)
 
-Bluestem - 9% (per 5 Stamina spent)
+**Bluestem** - 9% (per 5 Stamina spent)
 
-Green Egg - .02% (per 10 Stamina spent)
+**Green Egg** - .02% (per 10 Stamina spent)
 
 **Item drop rates are increased by varying combinations WIS, VIT, and, the gardening stat, and the gardening gene.**
