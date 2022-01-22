@@ -4,7 +4,7 @@ description: Q4 2021
 
 # Phase 3 - Kingdoms & Land
 
-During the third major phase, the fog of war on the world map will be rolled back to reveal mountains, oceans, deserts, dungeons, and kingdom plots available for purchase.
+During the third major phase, the fog of war on the world map will begin slowly rolling back to reveal new zones and Kingdom plots.&#x20;
 
 * Land Auction
 * World Map expansion
