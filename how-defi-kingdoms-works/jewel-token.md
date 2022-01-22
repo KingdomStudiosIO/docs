@@ -39,6 +39,8 @@ You can see the addresses of these funds here.
 **Smart Contract Owners Safe:** \
 ****[**https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances**](https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances)****
 
+**Pay Portal Vesting Wallet:** [**https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances**](https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances)****
+
 **Initial Liquidity Fund: **_****_ 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
 
 **Founding Member Addresses:** \
