@@ -1,6 +1,6 @@
 # Decentralized Exchange
 
-At its heart, DeFi Kingdoms has a decentralized exchange that uses the tried-and-true UniswapV2 Protocol. Investing is one of the main reasons we are drawn to blockchain technology, and we want to make the investing experience fun and enjoyable for all within the kingdom.
+At its heart, DeFi Kingdoms has a decentralized exchange that uses the tried-and-true UniswapV2 Protocol. Investing is one of the main reasons we are drawn to blockchain technology and we want to make the investing experience fun and enjoyable for all within the kingdom.
 
 **The Dev team is committing approximately $15k worth of ONE for to be provided to the initial ONE/JEWEL pair.**
 
