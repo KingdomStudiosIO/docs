@@ -1,5 +1,5 @@
 ---
-description: Q4 2021
+description: Initial Expansion January 2022
 ---
 
 # Phase 3 - Kingdoms & Land
