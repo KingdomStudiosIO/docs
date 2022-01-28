@@ -20,7 +20,7 @@ DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and addi
 
 DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges, including Binance, Kucoin, Crypto.com, and others.
 
-For information on how to setup your MetaMask wallet, please refer to our tutorial [here](https://defikingdoms.com/tutorial.html) or Harmony's documentation [here](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).&#x20;
+For information on how to setup your MetaMask wallet, please refer to our tutorial [here](https://defikingdoms.com/tutorial.html) or Harmony's documentation [here](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).
 
 ### What is DeFi and what is a Decentralized Exchange (DEX)?
 
@@ -108,9 +108,7 @@ Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be 
 
 ### Where do I get a Hero?
 
-Heroes are available for purchase from other players in the Tavern, and can also be rented at the Portal to assist in the summoning process!
-
-[Read more about buying, selling, and renting out heroes at the Tavern.](https://defikingdoms.medium.com/the-tavern-buy-sell-and-rent-out-heroes-85a661b23b6f)
+Heroes are available for purchase from other players in the [Tavern](gameplay/tavern.md), and can also be rented at the [Portal](gameplay/portal.md) to assist in the [Summoning](gameplay/heroes/summoning.md) process!
 
 ### What is the difference between Gen0 Heroes and later generations?
 
@@ -136,7 +134,7 @@ Gaia's Tears are available as loot drops from Professions Quests. Fishing, Forag
 
 Additionally, Gaia's Tears can be earned in the Wishing Well mini-quests, which can be accessed near the castle on the overworld map screen or within the Meditation Circle zone. As long as you have at least one hero, you can send them on a Wishing Well quest, which will deplete their stamina and gift you with a possibility to receive some of Gaia's Tears. There is a chance to receive no tears per quest.
 
-Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace.&#x20;
+Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace.
 
 ### I didn't receive a new Hero from summoning!
 
