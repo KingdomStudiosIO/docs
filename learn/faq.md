@@ -14,7 +14,7 @@ DeFi Kingdoms (DFK) is a game, a decentralized exchange (DEX), a liquidity pool 
 
 DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and additional features are constantly being added.
 
-[https://game.defikingdoms.com/](https://game.defikingdoms.com)
+{% embed url="https://www.defikingdoms.com" %}
 
 ### What blockchain is DeFi Kingdoms using?
 

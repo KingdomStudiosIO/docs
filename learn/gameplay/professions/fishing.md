@@ -14,6 +14,8 @@ After selecting the participating Heroes and choosing the number of quest attemp
 
 Heroes receive bonuses to the base drop rates of fishing items based on their **AGI**, **LCK**, and **fishing** scores as well as whether **fishing** is their main skill.&#x20;
 
+![](<../../../.gitbook/assets/bloater (1).png>)
+
 ### **Level 0 item drop rates:**
 
 **Nothing** - 50%
