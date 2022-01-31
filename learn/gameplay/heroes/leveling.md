@@ -20,7 +20,7 @@ The benefit of leveling up is an increase to a Hero’s stats. Excluding HP, MP,
 
 Primary Stat Growth and Secondary Stat Growth are important factors that the player can modify through the use of enhancement stones and summoner bonuses from spending additional Gaia’s Tears during the summoning process (more on this later).
 
-See Freya's handy [stat growth breakdown charts](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=655220330) for insight into the base growth rates of each class.
+See these [stat growth breakdown charts](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=655220330) for insight into the base growth rates of each class.
 
 In addition to these two rolls per stat, the player will be given a choice of one stat to grant an extra +1 bonus. But that is not all, players also have a chance to seek Gaia’s blessing for two other stats. Gaia’s blessing has a 50% chance of increasing each of the selected stats.
 
