@@ -108,7 +108,7 @@ As noted above, once claimed, locked tokens remain locked until the end of the 5
 
 ## **Garden Staking Deposit and Withdrawal Fees**
 
-**There are no deposit fees for staking LP tokens in the Gardens.** To protect against flash loans and pump and dumps, we do implement withdrawal fees for withdrawing staked LP tokens. Each withdrawal or deposit resets the fee timer. The withdrawal fees are listed below:
+**There are no deposit fees for staking LP tokens in the Gardens.** To protect against flash loans and pump and dumps, we do implement withdrawal fees for withdrawing staked LP tokens. Each withdrawal resets the fee timer. The withdrawal fees are listed below:
 
 * **0.01%** fee if a user withdraws after **4 Epochs**
 * **0.25%** fee if a user withdraws after **2 Epochs but before 4 Epochs**
