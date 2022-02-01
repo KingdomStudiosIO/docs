@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Defi Kingdoms](README.md)
+* [DeFi Kingdoms](README.md)
 * [How DeFi Kingdoms Works](how-defi-kingdoms-works/README.md)
   * [JEWEL Token](how-defi-kingdoms-works/jewel-token.md)
   * [Decentralized Exchange](how-defi-kingdoms-works/decentralized-exchange.md)
