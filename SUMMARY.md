@@ -44,4 +44,5 @@
 * [Audit Results](important/audit-results.md)
 * [Disclaimer](important/dyor-disclaimer.md)
 * [Credits](important/credits.md)
-* [Contact Us](https://forms.gle/E6MyGvTVC9YXD2TR7)
+* [Bug Reports](https://defikingdoms.com/bugreport.html)
+* [All Other Contact](https://defikingdoms.com/contact.html)
