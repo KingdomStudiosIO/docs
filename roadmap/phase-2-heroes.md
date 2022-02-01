@@ -2,7 +2,7 @@
 description: Q4 2021
 ---
 
-# Phase 2 - Heroes & Quests
+# Phase 2 - Heroes & Quests ✔️
 
 The second major phase will see heroes come to the world of Defi Kingdoms, along with a slew of exciting things for them to do.
 
