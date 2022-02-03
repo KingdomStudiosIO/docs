@@ -26,6 +26,7 @@
     * [Rarity](learn/gameplay/heroes/rarity.md)
     * [Leveling](learn/gameplay/heroes/leveling.md)
     * [Quests](learn/gameplay/heroes/quests.md)
+    * [Atonement Crystals](learn/gameplay/heroes/atonement-crystals.md)
   * [Professions](learn/gameplay/professions/README.md)
     * [Fishing](learn/gameplay/professions/fishing.md)
     * [Foraging](learn/gameplay/professions/foraging.md)
