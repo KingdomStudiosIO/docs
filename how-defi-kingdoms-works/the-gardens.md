@@ -4,7 +4,7 @@ At its core, the Gardens is a place to stake liquidity provider tokens to receiv
 
 ![](<../.gitbook/assets/Cute Henry.gif>)
 
-Our visualization on liquidity pool mining is unique and fresh. We’re building an epic world and gardens in which to represent token pairs and liquidity pool mining. Within each garden (i.e. LP pairing), you will be able to see your portion of the total share within the plot represented by your owned plants. The gardener busies himself with tending to your plants (this represents the countdown timer between blocks mined) and once harvested, the gardener deposits your yield in the storehouse representing your share of JEWEL tokens of the block mined. **There will be ways to augment and increase your yield through in-game items that will provide you with increased JEWEL token rewards!**
+Our visualization on liquidity pool mining is unique and fresh. We’re building an epic world and gardens in which to represent token pairs and liquidity pool mining. Within each garden (i.e. LP pairing), you will be able to see your portion of the total share within the plot represented by your owned plants. The gardener busies himself with tending to your plants (this represents the countdown timer between blocks mined) and once harvested, the gardener deposits your yield in the storehouse representing your share of JEWEL tokens of the block mined. **Gardening Heroes can earn JEWEL rewards based in part on your total stake in a specific garden, and mining Heroes can help unlock your rewards sooner, making Gardening even more rewarding!**
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/gardens.gif)
 

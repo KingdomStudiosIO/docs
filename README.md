@@ -1,8 +1,8 @@
 ---
-description: Official DeFi Kingdoms Whitepaper, last updated Jan 31, 2022
+description: Official DeFi Kingdoms Whitepaper, last updated Feb 2, 2022
 ---
 
-# Defi Kingdoms
+# DeFi Kingdoms
 
 ![Join us in the Kingdoms!](.gitbook/assets/docsgraphic.png)
 
