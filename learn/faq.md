@@ -185,15 +185,15 @@ Engaging in a profession quest uses your hero's Stamina. Mining and Gardening dr
 
 ### What are Kingdoms/Land plots?
 
-Kingdoms, or land plots, will be an additional kind of NFT that is limited in quantity and highly collectable. As the world map is revealed, players will be able to purchase plots of land where buildings can be constructed, and transactions and quests can take place. Land owners will receive a portion of the revenue generated on their plots!
+Kingdoms, or land plots, are an additional kind of NFT that is limited in quantity and highly collectable. As the world map is revealed, players will be able to acquire plots of land where buildings can be constructed, and transactions and quests can take place. Land owners will receive a portion of the revenue generated on their plots!
 
 ### How do I purchase land or participate in the land airdrop?
 
-25 Kingdom Plots will be given to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Nov 13, 2021 _(For each additional 5000 xJEWEL a player has in the bank, they will get 2 extra entries in the drawing of random winners.)_
+25 Kingdom Plots were given on 1/26/22 to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Nov 13, 2021 _(For each additional 5000 xJEWEL a player had in the bank, they received 2 extra entries in the drawing of random winners.)_
 
-25 more Kingdom Plots will be given to random winners from people who had at least 1,000 xJEWEL tokens in their bank balance by Nov 13, 2021. Additional snapshots will be taken every 8 to 12 hours for 4 weeks, ending on Dec 11, 2021. Total number of entries will be determined by average amount of xJEWEL across all snapshots for all holders who qualified during the initial snapshot. _(For each additional 1,000 xJEWEL a player has in the bank, they will receive 2 extra entries.)_
+25 more Kingdom Plots were given on 1/26/22 to random winners from people who had at least 1,000 xJEWEL tokens in their bank balance by Nov 13, 2021. Additional snapshots were taken every 8 to 12 hours for 4 weeks, ending on Dec 11, 2021. Total number of entries were determined by average amount of xJEWEL across all snapshots for all holders who qualified during the initial snapshot. _(For each additional 1,000 xJEWEL a player had in the bank, they received 2 extra entries.)_
 
-Land plots will be available for purchase during [Phase 3 of the Roadmap](../roadmap/phrase-3-world-map-and-land.md). **Only players who actively participate in the game by leveling heroes and doing quests/professions will be eligible to purchase land plots.**
+Land plots will be available for acquisition in the future. The most reliable way to prepare for land acquisition is to make your Heroes as powerful as possible, but the mechanics for acquiring any specific plot may vary.
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) MISCELLANEOUS
 
