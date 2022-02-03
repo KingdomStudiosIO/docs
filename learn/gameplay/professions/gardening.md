@@ -24,7 +24,7 @@ earnRate (per tick) = launchBonus\*(rewardPool\*poolAllocation_\*_LPowned\*(0.1+
 
 **launchBonus** - A special multiplier applied at launch that will start at 5 at launch, and decrease by 0.5 every two weeks until the value is 1.
 
-\*\*The minimum JEWEL earned per Stamina spent is .002 JEWEL.
+\*\*The minimum JEWEL earned per Stamina spent is .0002 JEWEL.
 
 Additionally, for every 15 Stamina spent, there is a 9.9% chance to receive .1 bonus JEWEL and a .1% chance to receive 1 bonus JEWEL. This bonus is halved if the Hero does not having **gardening** as their main skill and the bonus is calculated in one roll, so a Hero cannot receive both bonuses. This bonus was implemented in Beta on February 2, 2022.
 
