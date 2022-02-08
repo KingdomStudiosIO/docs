@@ -15,3 +15,7 @@ The Atonement Crystal will provide a +35 bonus to HP and +10 bonus to MP to any 
 ### Lesser Atonement Crystal
 
 The Lesser Atonement Crystal will provide a +15 bonus to HP to any Hero that uses it while leveling up. This type of crystal can only be used once per Hero. It is awarded to players who leveled up their Heroes between December 10, 2021 and December 30, 2021 _and_ received the regular HP bonus prior to a bug fix for an issue where the HP bonus acquired from VIT was being improperly calculated. These items were airdropped on 2/2/2022.
+
+### Greater Atonement Crystal
+
+The Greater Atonement Crystal is used while leveling up and only one may be used per hero. It provides a +1 bonus to two different random stats, and +1% to the primary growth values and +2% to the secondary growth values of those two selected stats. As a one-time reward, these items were airdropped on 2/7/22 to participants in the DFK Transaction Tracker bounty.
