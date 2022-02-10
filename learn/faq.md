@@ -36,7 +36,7 @@ You can read more about [decentralized finance](https://academy.binance.com/en/a
 
 The game itself is free, however there is a transaction cost (gas) every time you interact with the blockchain such as when you make a profile entering the game. Thanks to Harmony's very low fees, these are a fraction of a cent.
 
-Once you're in the game, you can spend as much or as little as you'd like by adding to the liquidity pools in the Marketplace and staking LP Tokens in the Gardens or JEWEL in the Bank.
+Once you're in the game, you can spend as much or as little as you'd like by adding to the liquidity pools in the Marketplace and staking LP Tokens in the Gardens or JEWEL at the Jeweler.
 
 You can also spend JEWEL to purchase Hero NFTs in the Tavern. They can be used to collect resources through their Professions, and can be paired with other Heroes to Summon new Heroes from the Inner Grove.
 
@@ -56,31 +56,31 @@ You can also see charts and stats for JEWEL and all other tokens and pairings on
 
 ### What do I do with my JEWEL tokens?
 
-JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](../how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](../how-defi-kingdoms-works/the-gardens.md), or depositing in the Bank vault.
+JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](../how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](../how-defi-kingdoms-works/the-gardens.md), or depositing in the Jeweler vault.
 
 You can also [read more about the JEWEL token](../how-defi-kingdoms-works/jewel-token.md) and its tokenomics.
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GAME & DEX MECHANICS
 
-### What is the difference between the Bank and the Gardens?
+### What is the difference between the Jeweler and the Gardens?
 
-[The Bank](https://defikingdoms.medium.com/the-bank-depositing-staking-and-claiming-rewards-6ff5368f91ff) is a single-staking pool for JEWEL. When you stake your JEWEL in the Bank, you receive a proportional amount of xJEWEL. Since the ratio between JEWEL and xJEWEL only goes up, when you withdraw from the Bank, you will always receive more JEWEL than you put in!
+The Jeweler is a single-staking pool for JEWEL. When you stake your JEWEL with the Jeweler, you receive a proportional amount of xJEWEL. Since the ratio between JEWEL and xJEWEL only goes up, when you withdraw from the Jeweler, you will always receive more JEWEL than you put in!
 
 [The Gardens](../how-defi-kingdoms-works/the-gardens.md) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
 
-While the Gardens provide higher returns than the Bank, this comes with greater risk, including impermanent loss (IL) if the value of the tokens in the pair changes relative to one another. You can learn more about impermanent loss from [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) or by [watching this video](https://www.youtube.com/watch?v=HPGSSkOq0-Q).
+While the Gardens provide higher returns than the Jeweler, this comes with greater risk, including impermanent loss (IL) if the value of the tokens in the pair changes relative to one another. You can learn more about impermanent loss from [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) or by [watching this video](https://www.youtube.com/watch?v=HPGSSkOq0-Q).
 
 ### What is the difference between JEWEL and xJEWEL?
 
-JEWEL is DFK's primary token, used for many in-game transactions. When you deposit JEWEL into the Bank, you receive xJEWEL, which is DFK's governance token. Holding xJEWEL also makes you eligible to receive community airdrops and other rewards.
+JEWEL is DFK's primary token, used for many in-game transactions. When you deposit JEWEL with the Jeweler, you receive xJEWEL, which is DFK's governance token. Holding xJEWEL also makes you eligible to receive community airdrops and other rewards.
 
-### What is the APR / interest rate in the Bank?
+### What is the APR / interest rate in the Jeweler?
 
-Because earnings in the Bank are derived from transaction fees that take place within the game, there is no set APR or interest rate. During periods of significant in-game activity, the JEWEL to xJEWEL ratio may rise quite a bit, while being limited at other times.
+Because earnings at the Jeweler are derived from transaction fees that take place within the game, there is no set APR or interest rate. During periods of significant in-game activity, the JEWEL to xJEWEL ratio may rise quite a bit, while being limited at other times.
 
-### What does the 'Claim' button in the bank do?
+### What does the 'Claim' button in the Jeweler do?
 
-The 'claim' button collects a portion of the fees earned from in-game transactions and market-buys JEWEL with them, increasing the ratio of JEWEL to xJEWEL. When you withdraw your JEWEL from the Bank, you will have more than you put in! Since 'claiming' is distributed at once among all players, you may not see any immediate change from pushing the button.
+The 'claim' button collects a portion of the fees earned from in-game transactions and market-buys JEWEL with them, increasing the ratio of JEWEL to xJEWEL. When you withdraw your JEWEL from the Jeweler, you will have more than you put in! Since 'claiming' is distributed at once among all players, you may not see any immediate change from pushing the button.
 
 ### Why are some of my JEWEL tokens locked?
 
@@ -102,7 +102,7 @@ The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens.md#garden-s
 
 ### What do Heroes do? Do I need a Hero?
 
-Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be sent on quests, engage in professions, and eventually fight each other in PVP. While you can still use the DEX, Gardens, and Bank without a hero, we think everyone will enjoy the opportunities that heroes bring!
+Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be sent on quests, engage in professions, and eventually fight each other in PVP. While you can still use the DEX, Gardens, and Jeweler without a hero, we think everyone will enjoy the opportunities that heroes bring!
 
 [Read more about Heroes.](../how-defi-kingdoms-works/the-heroes.md)
 
@@ -189,9 +189,9 @@ Kingdoms, or land plots, are an additional kind of NFT that is limited in quanti
 
 ### How do I purchase land or participate in the land airdrop?
 
-25 Kingdom Plots were given on 1/26/22 to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Nov 13, 2021 _(For each additional 5000 xJEWEL a player had in the bank, they received 2 extra entries in the drawing of random winners.)_
+25 Kingdom Plots were given on 1/26/22 to random winners from people who had at least 5,000 xJEWEL tokens in their wallet by Nov 13, 2021 _(For each additional 5000 xJEWEL a player had in their wallet, they received 2 extra entries in the drawing of random winners.)_
 
-25 more Kingdom Plots were given on 1/26/22 to random winners from people who had at least 1,000 xJEWEL tokens in their bank balance by Nov 13, 2021. Additional snapshots were taken every 8 to 12 hours for 4 weeks, ending on Dec 11, 2021. Total number of entries were determined by average amount of xJEWEL across all snapshots for all holders who qualified during the initial snapshot. _(For each additional 1,000 xJEWEL a player had in the bank, they received 2 extra entries.)_
+25 more Kingdom Plots were given on 1/26/22 to random winners from people who had at least 1,000 xJEWEL tokens in their wallet balance by Nov 13, 2021. Additional snapshots were taken every 8 to 12 hours for 4 weeks, ending on Dec 11, 2021. Total number of entries were determined by average amount of xJEWEL across all snapshots for all holders who qualified during the initial snapshot. _(For each additional 1,000 xJEWEL a player had in their wallet, they received 2 extra entries.)_
 
 Land plots will be available for acquisition in the future. The most reliable way to prepare for land acquisition is to make your Heroes as powerful as possible, but the mechanics for acquiring any specific plot may vary.
 

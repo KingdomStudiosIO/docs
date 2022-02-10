@@ -10,4 +10,4 @@ From the Market, you can swap tokens at the current exchange rates. You can also
 
 ![What treasures await in the vault?](../.gitbook/assets/Vault.jpg)
 
-Another unique feature that DeFi Kingdoms offers is the Bank, where you can deposit JEWEL tokens to receive xJEWEL shares. The Bank will receive fees from the DEX and periodically do a market buy for more JEWEL tokens, meaning your xJEWEL shares will always be worth more JEWELs than you put in! **Additionally, every in-game transaction of JEWELs will deposit a percentage into the Bank to further reward xJEWEL holders.**
+Another unique feature that DeFi Kingdoms offers is the Jeweler, where you can deposit JEWEL tokens to receive xJEWEL shares. The Bank will receive fees from the DEX and periodically do a market buy for more JEWEL tokens, meaning your xJEWEL shares will always be worth more JEWELs than you put in! **Additionally, every in-game transaction of JEWELs will deposit a percentage into the Jeweler to further reward xJEWEL holders.**
