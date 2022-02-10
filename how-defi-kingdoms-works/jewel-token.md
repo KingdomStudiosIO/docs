@@ -6,7 +6,7 @@ The JEWEL token is much more than your average crypto token. We’re establishin
 
 ![The JEWEL logo.](../.gitbook/assets/jewel-icon.png)
 
-With every JEWEL transaction, the proceeds are portioned for the following allocations: some are deposited into the Jeweler to reward xJEWEL holders, some are recycled back into the game into the community treasury, returning to the players as quest rewards, and some are funneled to development costs to continue to keep the development of DeFi Kingdoms strong and healthy. JEWEL is the lifeblood of our project and will allow those playing to earn actual tradeable tokens instead of playing and investing in a game with zero chance of recouping your investment. In DeFi Kingdoms, your initial investment has the potential to increase in value over time.
+With every JEWEL transaction, the proceeds are portioned for the following allocations: some are deposited with the Jeweler to reward xJEWEL holders, some are recycled back into the game into the community treasury, returning to the players as quest rewards, and some are funneled to development costs to continue to keep the development of DeFi Kingdoms strong and healthy. JEWEL is the lifeblood of our project and will allow those playing to earn actual tradeable tokens instead of playing and investing in a game with zero chance of recouping your investment. In DeFi Kingdoms, your initial investment has the potential to increase in value over time.
 
 Early adopters are provided with the highest rewards the JEWEL token will ever see!  All rewards are greatly multiplied at the start of the project to help stimulate interest and involve loyal investors.
 
