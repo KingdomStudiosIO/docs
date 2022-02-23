@@ -6,6 +6,8 @@ description: A one-stop shop for info on Atonement Crystals
 
 Atonement Crystals are an item created to make players whole if and when bugs are found in the leveling process that impact Hero stat gains. Atonement Crystals are provided by airdrop to players who owned impacted Heroes the time that they were leveled, even if that Hero has since been sold or transferred.
 
+Atonement Crystals are, functionally, a subset of [Attunement Crystals](./). Only one Atonement or Attunement Crystal may be used per leveling ritual.
+
 Below is a summary of the Atonement Crystals that have been issued to date.
 
 ### Atonement Crystal
