@@ -104,4 +104,4 @@ entries = level + (2 \* rarity) + (2 \* rank) _where_
 
 &#x20;    rank = 0 for Basic, 1 for Advanced, 2 for Elite, 3 for Exalted
 
-To discourage multi-walleting, parties that have more than one Hero die will receive additional raffle entries. The bonus entries received is equal to the total base number of entries received divided by three (rounded down), plus the total number of heroes that survived in the wallet. Each wallet may only win once per raffle.
+To discourage multi-walleting, parties that have more than one Hero die will receive additional raffle entries. The bonus entries received is equal to the total base number of entries received divided by three (rounded down), plus the total number of heroes that died in the wallet. Each wallet may only win once per raffle.
