@@ -10,6 +10,8 @@ This quest is designed to be incredibly high risk for Heroes, and many of the He
 
 This quest does not involve any bridging. All rewards except CRYSTAL for survivors will be distributed in Serendale on Harmony, and all surviving Heroes will return there upon the completion of the Journey. CRYSTAL rewards will be distributed in Crystalvale, so they will be inaccessible until the launch of DeFi Kingdoms: Crystalvale at which point an in-game mechanic will assist with RPC configuration and allow players to access the expansion, bridge JEWEL if they desire, and access their rewards.&#x20;
 
+An **increase** in the number of gen0 Heroes to be given in each reward raffle was announced on February 28, 2022 during the weekly AMA.
+
 **The information that follows is an in-depth look at the formulas behind survival and rewards. However, you will be able to view the exact survival chance and potential rewards for each of your Heroes when speaking to the quest NPC and queuing for the quest.**&#x20;
 
 ### **Dates and Times**
@@ -58,7 +60,7 @@ Survivors receive a variety of rewards:
 * Enough experience to fill their experience bar
 * A survival achievement which will unlock specific quests in the future
 * Access to a selection of land tournaments only accessible to Perilous Journey survivors
-* Entries into a raffle for 25 Crystalvale gen0 Heroes (formula below)
+* Entries into a raffle for 100 Crystalvale gen0 Heroes (formula below)
 * An airdrop of CRYSTAL when Crystalvale launches (formula below)
 
 Raffle entries are determined by this formula:
@@ -82,7 +84,7 @@ The owners of Heroes who die will receive:
 * A payout in JEWEL based on level, rank, and rarity
 * A selection of runes based on level
 * Enhancement stones and attunement crystals based on the stat array, rank, and rarity of the dead Heroes
-* Entries into a separate raffle for 25 Crystalvale gen0 Heroes
+* Entries into a separate raffle for 100 Crystalvale gen0 Heroes
 
 JEWEL payout is according to the table below. You will note that the growth per level is linear: .2 JEWEL per level. So, when determining rewards for each individual Hero, just find the closest on the chart and add or subtract .2 JEWEL per level to match your Hero's stats.
 
