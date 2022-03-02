@@ -71,7 +71,7 @@ entries = level + (2 \* rarity) + (2 \* rank) _where_
 
 &#x20;    rank = 0 for Basic, 1 for Advanced, 2 for Elite, 3 for Exalted
 
-To discourage multi-walleting, parties that have more than one Hero survive will receive additional raffle entries. The bonus entries received is equal to the total base number of entries received divided by three (rounded down), plus the total number of heroes that survived in the wallet. Each wallet may only win once per raffle.
+To discourage multi-walleting, wallets that have more than one Hero survive will receive additional raffle entries. The bonus entries received is equal to the total base number of entries received divided by three (rounded down), plus the total number of heroes that survived in the wallet. Each wallet may only win once per raffle.
 
 CRYSTAL airdrop amounts are impacted by level, rarity, and rank. The table below is for reference, and you will note that the growth per level is linear: 1 CRYSTAL per level. So, when determining rewards for each individual Hero, just find the closest on the chart and add or subtract 1 CRYSTAL per level to match your Hero's stats.
 
@@ -106,4 +106,4 @@ entries = level + (2 \* rarity) + (2 \* rank) _where_
 
 &#x20;    rank = 0 for Basic, 1 for Advanced, 2 for Elite, 3 for Exalted
 
-To discourage multi-walleting, parties that have more than one Hero die will receive additional raffle entries. The bonus entries received is equal to the total base number of entries received divided by three (rounded down), plus the total number of heroes that died in the wallet. Each wallet may only win once per raffle.
+To discourage multi-walleting, wallets that have more than one Hero die will receive additional raffle entries. The bonus entries received is equal to the total base number of entries received divided by three (rounded down), plus the total number of heroes that died in the wallet. Each wallet may only win once per raffle.
