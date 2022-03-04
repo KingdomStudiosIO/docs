@@ -4,7 +4,7 @@ Enhancement Stones can be used during Summoning to provide a bonus to a single s
 
 ### Lesser Enhancement Stones
 
-Stones that, when used during Summoning, provide the following bonuses to the associated stat: +4 bonus of the stat, +3% bonus to the primary stat growth chance of the stat, +5% bonus to the secondary growth chance of the stat.&#x20;
+Stones that, when used during Summoning, provide the following bonuses to the associated stat: +4 bonus to the stat, +3% bonus to the primary stat growth chance of the stat, +5% bonus to the secondary growth chance of the stat.&#x20;
 
 **Lesser Might Stone:** Associated with STR.&#x20;
 
@@ -26,7 +26,7 @@ Stones that, when used during Summoning, provide the following bonuses to the as
 
 ### **Enhancement Stones**
 
-Stones that, when used during Summoning, provide the following bonuses to the associated stat: +6 bonus of the stat, +5% bonus to the primary stat growth chance of the stat, +13% bonus to the secondary growth chance of the stat.&#x20;
+Stones that, when used during Summoning, provide the following bonuses to the associated stat: +6 bonus to the stat, +5% bonus to the primary stat growth chance of the stat, +13% bonus to the secondary growth chance of the stat.&#x20;
 
 **Might Stone:** Associated with STR.
 
