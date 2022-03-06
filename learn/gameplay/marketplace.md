@@ -6,4 +6,4 @@ Speaking of **seeds**, **Druid Lazarus** is found in the Marketplace as well. He
 \
 Additionally, the Marketplace hosts **Trader Zada**, who is always willing to purchase many of the items earned through [Professions Quests](professions/), which he pays for in **gold**. He also sells items for gold, including the **Golden Egg**, one of several types of eggs that will be able to hatch **pet** NFTs. The items that Zada pays gold for can also be swapped with Trader Matoya, so make sure that you choose the option that best fits your goals!
 
-There are also two other NPCs in the Marketplace. **Crier Milo** will show the most recent version of the weekly DeFi Kingdoms newsletter, and **Stylist Sandra** will soon allow players to change their profile picture.
+There are also two other NPCs in the Marketplace. **Crier Milo** will show the most recent version of the weekly DeFi Kingdoms newsletter, and **Stylist Sandra** allows players to change their profile picture to a standard picture, a portrait of a Hero that they own, or a Bored Apes Yacht Club NFT.
