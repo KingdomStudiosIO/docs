@@ -10,7 +10,7 @@ description: Information about the Level 0 Gardening quest.
 
 ### **Level 0 rewards formula:**
 
-earnRate (per tick) = launchBonus\*(rewardPool\*poolAllocation_\*_LPowned\*(0.1+ (**WIS**+**VIT**)/1222.22+(**GrdSkl**)/244.44))/(43,200-(7200\***geneBonus**)) \*\*&#x20;
+earnRate (per tick) = **launchBonus**\*(**rewardPool**\***poolAllocation**_\*_**LPowned**\*(0.1+ (**WIS**+**VIT**)/1222.22+(**GrdSkl**)/244.44))/(43,200-(7200\***geneBonus**)) \*\*&#x20;
 
 **rewardPool** - This is the balance of the quest pool wallet.&#x20;
 
