@@ -72,7 +72,7 @@ While the Gardens provide higher returns than the Jeweler, this comes with great
 
 ### What is the difference between JEWEL and xJEWEL?
 
-JEWEL is DFK's primary token, used for many in-game transactions. When you deposit JEWEL with the Jeweler, you receive xJEWEL, which is DFK's governance token. Holding xJEWEL also makes you eligible to receive community airdrops and other rewards.
+JEWEL is DFK's primary token, used for many in-game transactions. When you deposit JEWEL with the Jeweler, you receive xJEWEL, which is DFK's governance token. This means that xJEWEL holders, along with Hero owners, can participate in votes on project policy, when they are called. Holding xJEWEL is sometimes a qualifier for community airdrops and other rewards.
 
 ### What is the APR / interest rate in the Jeweler?
 
