@@ -24,7 +24,6 @@ Gardeners tend to the JEWEL gardens, and kingdoms are beginning to use the cryst
 
 A new age, the **Age of Heroes**, has begun, and the history books are yet to be written, awaiting the great deeds and stories that are just on the horizon. _Welcome to the kingdom, Hero._
 
-
 ## The Ritual of Summoning Heroes
 
 **Summoning Crystals**
@@ -41,33 +40,32 @@ The key component to creating summoning crystals is a substance known as Gaia’
 
 Gaia’s Tears attune with the heroes involved in the summoning process, gathering in the essense of the Inner Grove from within them. Those tears are then melded into a single crystal by an arch druid harnessing the energy of JEWELs. Experienced heroes have learned to attune more tears at once, creating summoning crystals capable of enhancing the power of those that come through the portal with some of their own strengths.
 
-
 ## The Runes of Power
 
 **Runes**
 
-![](https://dfk-hv.b-cdn.net/website-media/images/lore/rune_12_sm.gif)
+![](https://dfk-hv.b-cdn.net/website-media/images/lore/rune\_12\_sm.gif)
 
 Runes are plain stones that have symbols written with Irae’s ashes. When Irae sundered the world, his rage left many areas burning; scorched by the heat of his ire. This fire was imbued with his essence of renewal, and the ashes from that event remain scattered across the lands and are used by the druids for their rituals. The symbols focus his power in various ways, and when placed in key locations in the meditation circle, experienced individuals can pull that energy into themselves to transcend to the next level.
 
 **There are 10 types of recorded runes:**
 
-*Shvās (breath)* - This is the most basic rune and is required for all levels. It can be obtained occasionally as a reward for performing crafts and from quests.
+_Shvās (breath)_ - This is the most basic rune and is required for all levels. It can be obtained occasionally as a reward for performing crafts and from quests.
 
-*Moksha (liberation)* - Unknown effects
+_Moksha (liberation)_ - This rune is required to move beyond level 10. The owners of those Heroes who perish on the Perilous Journey may be rewarded with this rune, but, as of know, other methods of acquisition are unknown...
 
-*Asha (hope)* - Unknown effects
+_Asha (hope)_ - Unknown effects
 
-*Quwa (courage)* - Unknown effects
+_Quwa (courage)_ - Unknown effects
 
-*Urja (energy)* - Unknown effects
+_Urja (energy)_ - Unknown effects
 
-*Jyoti (light)* - Unknown effects
+_Jyoti (light)_ - Unknown effects
 
-*Pragya (wisdom)* - Unknown effects
+_Pragya (wisdom)_ - Unknown effects
 
-*Ātmā (soul)* - Unknown effects 
+_Ātmā (soul)_ - Unknown effects
 
-*Sātvik (purity)* - Unknown effects
+_Sātvik (purity)_ - Unknown effects
 
-*Om (om)* - Unknown effects
+_Om (om)_ - Unknown effects
