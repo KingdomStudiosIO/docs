@@ -28,7 +28,7 @@ DeFi, or Decentralized Finance, is an ecosystem of financial applications built 
 
 A decentralized exchange, or DEX, allows users to exchange funds through smart contracts without relinquishing custody over them until the exchange is finalized. Liquidity is provided to DEXes by individuals who supply a token pair (e.g. ONE and JEWEL) to a liquidity pool, which is then used by the DEX to facilitate trades on that pair.
 
-Users who provide liquidity in this way receive Liquidity Pool (LP) Tokens, which can often be staked to earn additional rewards, such as in [DFK's Gardens](../how-defi-kingdoms-works/the-gardens.md).
+Users who provide liquidity in this way receive Liquidity Pool (LP) Tokens, which can often be staked to earn additional rewards, such as in [DFK's Gardens](../how-defi-kingdoms-works/the-gardens/).
 
 You can read more about [decentralized finance](https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi) and [decentralized exchanges](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex) at Binance Academy.
 
@@ -56,9 +56,9 @@ You can also see charts and stats for JEWEL and all other tokens and pairings on
 
 ### What do I do with my JEWEL tokens?
 
-JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](../how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](../how-defi-kingdoms-works/the-gardens.md), or depositing in the Jeweler vault.
+JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](../how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](../how-defi-kingdoms-works/the-gardens/), or depositing in the Jeweler vault.
 
-You can also [read more about the JEWEL token](../how-defi-kingdoms-works/jewel-token.md) and its tokenomics.
+You can also [read more about the JEWEL token](broken-reference) and its tokenomics.
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GAME & DEX MECHANICS
 
@@ -66,7 +66,7 @@ You can also [read more about the JEWEL token](../how-defi-kingdoms-works/jewel-
 
 The Jeweler is a single-staking pool for JEWEL. When you stake your JEWEL with the Jeweler, you receive a proportional amount of xJEWEL. Since the ratio between JEWEL and xJEWEL only goes up, when you withdraw from the Jeweler, you will always receive more JEWEL than you put in!
 
-[The Gardens](../how-defi-kingdoms-works/the-gardens.md) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
+[The Gardens](../how-defi-kingdoms-works/the-gardens/) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
 
 While the Gardens provide higher returns than the Jeweler, this comes with greater risk, including impermanent loss (IL) if the value of the tokens in the pair changes relative to one another. You can learn more about impermanent loss from [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) or by [watching this video](https://www.youtube.com/watch?v=HPGSSkOq0-Q).
 
@@ -84,7 +84,7 @@ The 'claim' button collects a portion of the fees earned from in-game transactio
 
 ### Why are some of my JEWEL tokens locked?
 
-In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51 (est. Q3 2022). The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens.md)
+In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51 (est. Q3 2022). The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens/)
 
 ### How long is an Epoch?
 
@@ -96,7 +96,7 @@ JEWEL rewards from the Gardens are automatically claimed whenever you deposit or
 
 ### When does the fee schedule for the Gardens begin/reset?
 
-The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw LP Tokens from a garden.
+The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens/#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw LP Tokens from a garden.
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) HEROES & SUMMONING
 

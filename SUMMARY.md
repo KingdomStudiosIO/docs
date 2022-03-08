@@ -1,12 +1,22 @@
 # Table of contents
 
 * [DeFi Kingdoms](README.md)
-* [How DeFi Kingdoms Works](how-defi-kingdoms-works/README.md)
-  * [JEWEL Token](how-defi-kingdoms-works/jewel-token.md)
-  * [Decentralized Exchange](how-defi-kingdoms-works/decentralized-exchange.md)
-  * [The Gardens](how-defi-kingdoms-works/the-gardens.md)
-  * [The Heroes](how-defi-kingdoms-works/the-heroes.md)
-  * [Kingdoms](how-defi-kingdoms-works/land.md)
+
+## How DeFi Kingdoms Works
+
+* [Power Tokens](how-defi-kingdoms-works/power-tokens/README.md)
+  * [JEWEL Token](how-defi-kingdoms-works/power-tokens/jewel-token.md)
+  * [CRYSTAL Token](how-defi-kingdoms-works/power-tokens/crystal-token.md)
+* [Decentralized Exchange](how-defi-kingdoms-works/decentralized-exchange.md)
+* [The Jeweler](how-defi-kingdoms-works/the-jeweler.md)
+* [The Gardens](how-defi-kingdoms-works/the-gardens/README.md)
+  * [JEWEL Gardens](how-defi-kingdoms-works/the-gardens/jewel-gardens.md)
+  * [Ice Gardens](how-defi-kingdoms-works/the-gardens/ice-gardens.md)
+* [The Heroes](how-defi-kingdoms-works/the-heroes.md)
+* [DeFi Kingdoms Blockchain](how-defi-kingdoms-works/defi-kingdoms-blockchain.md)
+
+***
+
 * [Roadmap](roadmap/README.md)
   * [Phase 0.5 - Community ✔️](roadmap/phase-0.5-community.md)
   * [Phase 1 - Capital & JEWELs ✔️](roadmap/phase-1-dex.md)

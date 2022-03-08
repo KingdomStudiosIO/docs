@@ -1,19 +1,19 @@
 ---
-description: Official DeFi Kingdoms Whitepaper, last updated Feb 2, 2022
+description: Official DeFi Kingdoms Whitepaper, last updated Mar 8, 2022
 ---
 
 # DeFi Kingdoms
 
 ![Join us in the Kingdoms!](.gitbook/assets/docsgraphic.png)
 
-## Introduction
+### Introduction
 
-DeFi Kingdoms is a game, a DEX, a liquidity pool opportunity, a market of rare utility driven NFTs, and it all plays out seamlessly in the incredibly nostalgic form of fantasy pixel art. We’re excited to release the DeFi Kingdom universe to the world. Come join our lovely community!
+DeFi Kingdoms is a cross-chain, play-to-earn MMORPG built on a strong DeFi protocol. The game features DEXs, liquidity pool opportunities, and a market of rare, utility-driven NFTs, which all together create a beautiful, immersive online world in the incredibly nostalgic form of fantasy pixel art. DeFi Kingdoms lives on the Harmony and DFK Chain blockchains. Come join our amazing [community](https://www.defikingdoms.com/social.html)!
 
-### The motivation for Creating DeFi Kingdoms
+### The Motivation for Creating DeFi Kingdoms
 
-We’re big fans of the innovation happening in DeFi and in blockchain technology in general, but we've been waiting for a DeFi project to really embrace the full potential of the blockchain in game form. Investing and getting those sweet returns and moon shots is undoubtedly fun, but why can't it feel more like a game? Why can't we build an operation and level it up to increase returns? Why can't we do daily quests to collect rare NFTs that actually augment and impact the rewards and returns? Once we decided it needed to be built, we jumped head first into production, and DeFi Kingdoms was born!
+As big fans of the innovation happening in DeFi and in blockchain technology in general, our team had been waiting for a DeFi project to really embrace the full potential of the blockchain in game form. Investing, returns, and moonshots are undoubtedly fun, but why couldn't it feel more like a game? Why couldn't we build an operation and level it up to increase returns? Why couldn't we do daily quests and collect rare NFTs that actually augment and impact the rewards and returns? Once we decided it needed to be built, we jumped headfirst into production, and DeFi Kingdoms was born!
 
-#### A Dedicated Team and a Shared Vision
+### A Dedicated Team and a Shared Vision
 
-We wanted a DEX that allows holders to not just hold a monetary token, but own a token that is usable, valuable, and that gives back to holders in many fun ways. We’ve packaged DeFi elements into a fun and synergistic game, providing JEWEL token holders with an engaging and meaningful experience. We’re here for the long term, planning features for phases soon to come, and some a little further down the road to set this community and project up for maximum awesomeness. :)
+We wanted a DEX that allows holders to not just hold a monetary token, but own a token that is usable, valuable, and gives back in many fun ways. We’ve packaged DeFi elements into a fun and synergistic game, providing JEWEL and CRYSTAL token holders with an engaging and meaningful experience. We’re here for the long term; planning features for phases soon to come, and some a little further down the road to set this community and project up for maximum success.

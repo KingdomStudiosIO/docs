@@ -1,14 +1,6 @@
 # JEWEL Token
 
-## What is the Jewel Token?
-
-The JEWEL token is much more than your average crypto token. We’re establishing it to be the main token of value in our game, DeFi Kingdoms. You’ll use it to purchase the most useful items and unique NFTs such as Heroes and Kingdoms in the game, as well as various in-game buffs such as speeding up build times and refreshing stamina. Not only is the token used for in-game items and one-of-a-kind NFTs, but it will also be used in liquidity mining, allowing you to earn even more through staking. **JEWEL is also a governance token, so holders will have a say in the growth and evolution of the project.**
-
-![The JEWEL logo.](../.gitbook/assets/jewel-icon.png)
-
-With every JEWEL transaction, the proceeds are portioned for the following allocations: some are deposited with the Jeweler to reward xJEWEL holders, some are recycled back into the game into the community treasury, returning to the players as quest rewards, and some are funneled to development costs to continue to keep the development of DeFi Kingdoms strong and healthy. JEWEL is the lifeblood of our project and will allow those playing to earn actual tradeable tokens instead of playing and investing in a game with zero chance of recouping your investment. In DeFi Kingdoms, your initial investment has the potential to increase in value over time.
-
-Early adopters are provided with the highest rewards the JEWEL token will ever see!  All rewards are greatly multiplied at the start of the project to help stimulate interest and involve loyal investors.
+![JEWEL](../../.gitbook/assets/jewel\_token\_x2.png)
 
 ### JEWEL Hard Cap
 
@@ -16,10 +8,10 @@ The JEWEL token has a hard cap of 500,000,000 tokens.
 
 ### Pre-minting
 
-The **10,000,000 JEWEL** tokens will be be pre-minted and distributed as follows:
+**10,000,000 JEWEL** tokens have been pre-minted and distributed as follows:
 
-* **5,000,000 JEWEL**: Allocated to fund the future development of the game. These tokens will be time-locked and release over a set schedule as features are completed.
-* **2,000,000 JEWEL**: Allocated for promotion of the project, including marketing, airdrops, etc. These tokens are also time-locked to release slowly over the next few years, to ensure that there are always funds available to market the game and acquire new players and investors.
+* **5,000,000 JEWEL**: Allocated to fund the future development of the game. These tokens will be time-locked and released over a set schedule as features are completed.
+* **2,000,000 JEWEL**: Allocated for promotion of the project, including marketing, airdrops, etc. These tokens are also time-locked to release slowly over the next few years to ensure that there are always funds available to market the game and acquire new players and investors.
 * **2,000,000 JEWEL**: Allocated for initial liquidity. These tokens will be matched with ONE tokens to form the initial liquidity pool and will not be withdrawn or sold.
 * **1,000,000 JEWEL**: Allocated for bounties and hours for the founding team based on their work towards launch. Half of these will be awarded at launch, and the other half will vest over time.
 
@@ -48,7 +40,3 @@ _****_Frisky Fox: _****_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
 Sinstar Necro: 0xA76Ea4f96136AF0fF23e7CC426Bfc21E451ff9f5\
 Jericho Splendershoes: 0x2b45C2dF1E982E596137d49A02afC02B9fb8B8dB\
 Admiral Omicron: 0x19612e015E6bC4f5C7ba122bd4acA23646414b72
-
-
-
-#### &#x20;&#x20;
