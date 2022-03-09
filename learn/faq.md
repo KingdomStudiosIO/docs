@@ -20,6 +20,8 @@ DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and addi
 
 DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges, including Binance, Kucoin, Crypto.com, and others.
 
+DeFi Kingdoms Blockchain launches on March 30, 2022 and will host the first expansion to the game, called DeFi Kingdoms: Crystalvale. In-game bridging will be available between chains.
+
 For information on how to setup your MetaMask wallet, please refer to our tutorial [here](https://defikingdoms.com/tutorial.html) or Harmony's documentation [here](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).
 
 ### What is DeFi and what is a Decentralized Exchange (DEX)?
@@ -58,41 +60,39 @@ You can also see charts and stats for JEWEL and all other tokens and pairings on
 
 JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](../how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](../how-defi-kingdoms-works/the-gardens/), or depositing in the Jeweler vault.
 
-You can also [read more about the JEWEL token](broken-reference) and its tokenomics.
+You can also [read more about the JEWEL token](../how-defi-kingdoms-works/power-tokens/jewel-token.md) and its tokenomics.
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GAME & DEX MECHANICS
 
 ### What is the difference between the Jeweler and the Gardens?
 
-The Jeweler is a single-staking pool for JEWEL. When you stake your JEWEL with the Jeweler, you receive a proportional amount of xJEWEL. Since the ratio between JEWEL and xJEWEL only goes up, when you withdraw from the Jeweler, you will always receive more JEWEL than you put in!
+The Jeweler is a single-staking pool for JEWEL or CRYSTAL. When you stake your JEWEL or CRYSTAL with the Jeweler, you receive a proportional amount of xJEWEL or xCRYSTAL. Since the ratio between them only goes up, when you withdraw from the Jeweler, you will always receive more JEWEL or CRYSTAL than you put in!
 
-[The Gardens](../how-defi-kingdoms-works/the-gardens/) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
+[The Gardens](../how-defi-kingdoms-works/the-gardens/) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL or CRYSTAL in exchange for staking these tokens.
 
 While the Gardens provide higher returns than the Jeweler, this comes with greater risk, including impermanent loss (IL) if the value of the tokens in the pair changes relative to one another. You can learn more about impermanent loss from [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) or by [watching this video](https://www.youtube.com/watch?v=HPGSSkOq0-Q).
 
-### What is the difference between JEWEL and xJEWEL?
+### What is the difference between JEWEL/CRYSTAL and xJEWEL/xCRYSTAL?
 
-JEWEL is DFK's primary token, used for many in-game transactions. When you deposit JEWEL with the Jeweler, you receive xJEWEL, which is DFK's governance token. This means that xJEWEL holders, along with Hero owners, can participate in votes on project policy, when they are called. Holding xJEWEL is sometimes a qualifier for community airdrops and other rewards.
+JEWEL and CRYSTAL are DFK's primary tokens, used for many in-game transactions. When you deposit them with the Jeweler, you receive the "x" version, which is DFK's governance token. This means that xJEWEL and xCRYSTAL holders, along with Hero owners, can participate in votes on project policy, when they are called. Holding xJEWEL or xCRYSTAL is sometimes a qualifier for community airdrops and other rewards.
 
 ### What is the APR / interest rate in the Jeweler?
 
-Because earnings at the Jeweler are derived from transaction fees that take place within the game, there is no set APR or interest rate. During periods of significant in-game activity, the JEWEL to xJEWEL ratio may rise quite a bit, while being limited at other times.
+Because earnings at the Jeweler are derived from transaction fees that take place within the game, there is no set APR or interest rate. During periods of significant in-game activity, the JEWEL to xJEWEL ratio or CRYSTAL to xCRYSTAL ratio may rise quite a bit, while being limited at other times.
 
-### What does the 'Claim' button in the Jeweler do?
+### Why are some of my rewards locked?
 
-The 'claim' button collects a portion of the fees earned from in-game transactions and market-buys JEWEL with them, increasing the ratio of JEWEL to xJEWEL. When you withdraw your JEWEL from the Jeweler, you will have more than you put in! Since 'claiming' is distributed at once among all players, you may not see any immediate change from pushing the button.
-
-### Why are some of my JEWEL tokens locked?
-
-In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51 (est. Q3 2022). The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens/)
+In order to ensure the stability of JEWEL and CRYSTAL for the long term, a portion of the rewards earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51 on their respective chains. The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens/)
 
 ### How long is an Epoch?
 
-An epoch in DFK is 302,400 blocks on the Harmony blockchain, and the length of each epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each epoch would equal one week assuming a speed of 2 seconds per block.
+An epoch in Serendale is 302,400 blocks on the Harmony blockchain, and the length of each epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each epoch would equal one week assuming a speed of 2 seconds per block.
 
-### Why did my JEWEL in the Gardens get claimed?
+Epochs in Crystalvale are exactly one week long and are governed by timestamps.
 
-JEWEL rewards from the Gardens are automatically claimed whenever you deposit or withdraw LP Tokens into the Gardens.
+### Why did my rewards in the Gardens get claimed?
+
+Unclaimed rewards from the Gardens are automatically claimed whenever you deposit or withdraw LP Tokens into the Gardens.
 
 ### When does the fee schedule for the Gardens begin/reset?
 
