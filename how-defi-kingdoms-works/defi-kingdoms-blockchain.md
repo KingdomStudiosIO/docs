@@ -4,9 +4,9 @@ With the DeFi Kingdoms: Crystalvale expansion, DeFi Kingdoms is introducing its 
 
 ### DFK Chain Advantages
 
-DFK Chain will use JEWEL for gas. This adds additional utility to our power token, simplifies life for players so that they don't have to hold a second token just to use for gas fees, and allows us to use the JEWEL collected from gas to provide rewards to our validators.
+DFK Chain will use JEWEL for gas. This adds additional utility to our power token and simplifies life for players so that they don't have to hold a second token just to use for gas fees.
 
-Also, using JEWEL for gas means that we can better control gas prices, to ensure that transactions are as inexpensive as possible for our users.&#x20;
+Also, using JEWEL for gas means that we can better control gas prices, this mechanism will allow us to ensure greater stability in the network and keep fees as low as possible for our users.
 
 In addition, the DFK Chain will only handle DeFi Kingdoms transactions, on RPCs managed by Ava Labs and POKT, with more nodes to come. That means that block speed and transaction finality are not at the whim of the blockchain as a whole, giving us more control over user experience.&#x20;
 
