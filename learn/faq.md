@@ -14,6 +14,8 @@ DeFi Kingdoms (DFK) is a game, a decentralized exchange (DEX), a liquidity pool 
 
 DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and additional features are constantly being added.
 
+DeFi Kingomds: Crystalvale is launching on March 30, 2022. This is the first expansion to DeFi Kingdoms and will live on the new DFK Chain.
+
 {% embed url="https://www.defikingdoms.com" %}
 
 ### What blockchain is DeFi Kingdoms using?
@@ -42,7 +44,7 @@ Once you're in the game, you can spend as much or as little as you'd like by add
 
 You can also spend JEWEL to purchase Hero NFTs in the Tavern. They can be used to collect resources through their Professions, and can be paired with other Heroes to Summon new Heroes from the Inner Grove.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) JEWEL TOKEN
+## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) POWER TOKENS
 
 ### How do I purchase JEWEL?
 
@@ -50,11 +52,13 @@ After logging into [https://game.defikingdoms.com/](https://game.defikingdoms.co
 
 The contract address for JEWEL is: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
-### Where can I find the current price / market cap of JEWEL?
+### How do I purchase CRYSTAL?
 
-You can see the current price and market cap of JEWEL [in the game](https://game.defikingdoms.com) by clicking on your profile picture.
+CRYSTAL can be purchased in-game in Crystalvale at the Marketplace.
 
-You can also see charts and stats for JEWEL and all other tokens and pairings on the DeFi Kingdoms DEX at: [https://info.defikingdoms.com/](https://info.defikingdoms.com).
+### Where can I find the current price / market cap of JEWEL or CRYSTAL?
+
+You can see the current price and market cap of JEWEL and CRYSTAL in the game by clicking on your profile picture.
 
 ### What do I do with my JEWEL tokens?
 
