@@ -20,7 +20,7 @@ Gas fees are collected by a smart contract and then distributed as follows:
 
 ### Bridged JEWEL and Gas
 
-A protocol is in place to automatically exchange JEWEL bridged onto the DFK Chain for the native gas token. No special action is needed on the part of players to handle this. The implementation of DFK Chain does not impact the supply of JEWEL. There is also an option to wrap JEWEL, if needed, in Crystalvale.
+A protocol is in place to automatically exchange JEWEL bridged onto the DFK Chain for the native gas token. No special action is needed on the part of players to handle this. The implementation of DFK Chain does not impact the total cap of JEWEL. There is also an option to wrap JEWEL, if needed, in Crystalvale.
 
 ### DFK Chain Technical Specs
 
