@@ -29,6 +29,10 @@ The issuance of CRYSTAL is scheduled to change during each consecutive period of
 | 21-100 | Aug 17, 2022 |       2       |       60       |
 |  101+  | Feb 28, 2024 |       1       |       30       |
 
+### JEWEL Staking and Allocations
+
+The Ice Gardens will open with a JEWEL-based stake for CRYSTAL emissions. As the the Ice Gardens are built out over the following weeks, new incentivized pairs will be added and allocations will be adjusted to reward a wider variety of liquidity providers.
+
 ### Locking
 
 Claimed locked CRYSTAL will remain locked until March 22, 2023**,** which marks the end of Epoch 51. Locked rewards will begin unlocking ratably at that time over the following 52 Epochs.&#x20;
