@@ -1,3 +1,7 @@
+---
+description: Information about the Ice Gardens and CRYSTAL issuance.
+---
+
 # Ice Gardens
 
 ### Issuance Schedule
