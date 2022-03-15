@@ -20,11 +20,11 @@ Journey becomes available: March 2, 2022 during the weekly patch
 
 Journey registration closes: March 7, 2022 at 1400 EST
 
-Journey is complete and NFTs/rewards are available to claim: March 16, 2022 at 1400 EST
+Journey is complete and NFTs/rewards are available to claim: March 16, 2022 at 1400 EDT
 
-Reward claim deadline: March 21, 2022 at 1400 EST
+Reward claim deadline: March 21, 2022 at 1400 EDT
 
-Players may complete the quest after the deadline, but they will receive the JEWEL reward as opposed to the CRYSTAL airdrop, even if their Heroes survive. Heroes that are unclaimed at the deadline will be counted as dead for the purpose of the gen0 raffle. Additionally, the deadline for applying the stat bonuses is April 4, 2022 at 1400 EST.
+Players may complete the quest after the deadline, but they will receive the JEWEL reward as opposed to the CRYSTAL airdrop, even if their Heroes survive. Heroes that are unclaimed at the deadline will be counted as dead for the purpose of the gen0 raffle. Additionally, the deadline for applying the stat bonuses is April 4, 2022 at 1400 EDT.
 
 ### Survival Chance
 
