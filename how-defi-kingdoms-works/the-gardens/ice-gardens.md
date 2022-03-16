@@ -6,7 +6,7 @@ description: Information about the Ice Gardens and CRYSTAL issuance.
 
 ### Issuance Schedule
 
-The issuance of CRYSTAL is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is exactly one week long and begins at 20:00 EST on the date listed in the table below:
+The issuance of CRYSTAL is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is exactly one week long and begins at 20:00 Eastern Time on the date listed in the table below:
 
 |  Epoch |     Date     | CRYSTAL/block | CRYSTAL/minute |
 | :----: | :----------: | :-----------: | :------------: |
