@@ -14,9 +14,9 @@ In addition, the DFK Chain will only handle DeFi Kingdoms transactions, on RPCs 
 
 Gas fees are collected by a smart contract and then distributed as follows:
 
-* A portion will be given to the designated wallets of the validators. This allows us to attract more validators and further decentralize the chain.
-* A portion will be burnt. This will continuously increase the value of JEWEL by implementing a consistent burn mechanic and deflating the supply.
-* A portion will be sent to the Quest Fund to reward our community and players.
+* 25% is given to the designated wallets of the validators. This allows us to attract more validators and further decentralize the chain.
+* 50% is burned. This will continuously increase the value of JEWEL by implementing a consistent burn mechanic and deflating the supply.
+* 25% will be sent to the Quest Fund to reward our community and players.
 
 ### Bridged JEWEL and Gas
 
