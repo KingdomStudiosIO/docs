@@ -25,3 +25,8 @@ A protocol is in place to automatically exchange JEWEL bridged onto the DFK Chai
 ### DFK Chain Technical Specs
 
 The DFK Chain is built on Avalanche's subnet platform. More information about Avalanche subnets can be found on their [website](https://docs.avax.network/build/tutorials/platform/subnets/).
+
+### DFK Validator Fees
+
+Validator fees that are received from the DFK-owned validator being used on DFK chain will be deposited into the following wallet address:\
+0xED6dC9FD092190C08e4afF8611496774Ded19D54
