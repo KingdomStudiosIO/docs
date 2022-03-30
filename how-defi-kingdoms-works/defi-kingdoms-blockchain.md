@@ -26,6 +26,10 @@ A protocol is in place to automatically exchange JEWEL bridged onto the DFK Chai
 
 The DFK Chain is built on Avalanche's subnet platform. More information about Avalanche subnets can be found on their [website](https://docs.avax.network/build/tutorials/platform/subnets/).
 
+### DFK Chain RPC Information
+
+Please visit [Chainlist](https://chainlist.org/?search=dfk) for information on available RPCs. Chainlist will also configure these RPCs for you automatically if you choose.
+
 ### DFK Validator Fees
 
 Validator fees that are received from the DFK-owned validator being used on DFK chain will be deposited into the following wallet address:\
