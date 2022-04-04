@@ -24,7 +24,7 @@ Stones that, when used during Summoning, provide the following bonuses to the as
 
 ****![](<../../../.gitbook/assets/stone concepts new\_Lesser chaos stone.gif>)**Lesser Chaos Stone:** Applies bonuses to a randomly selected stat.
 
-### **Greater Enhancement Stones**
+### **Enhancement Stones**
 
 Stones that, when used during Summoning, provide the following bonuses to the associated stat: +6 bonus to the stat, +5% bonus to the primary stat growth chance of the stat, +13% bonus to the secondary growth chance of the stat.&#x20;
 
