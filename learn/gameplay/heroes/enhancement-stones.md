@@ -44,4 +44,4 @@ Stones that, when used during Summoning, provide the following bonuses to the as
 
 ****![](<../../../.gitbook/assets/stone concepts new\_standard fortune stone (1).gif>)**Fortune Stone:** Associated with LCK.
 
-**Chaos Stone:** Applies bonuses to a randomly selected stat.
+****![](<../../../.gitbook/assets/stone concepts new\_standard chaos stone.gif>)**Chaos Stone:** Applies bonuses to a randomly selected stat.
