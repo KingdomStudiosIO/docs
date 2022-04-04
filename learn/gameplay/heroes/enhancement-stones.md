@@ -24,7 +24,7 @@ Stones that, when used during Summoning, provide the following bonuses to the as
 
 ****![](<../../../.gitbook/assets/stone concepts new\_Lesser chaos stone.gif>)**Lesser Chaos Stone:** Applies bonuses to a randomly selected stat.
 
-### **Enhancement Stones**
+### **Greater Enhancement Stones**
 
 Stones that, when used during Summoning, provide the following bonuses to the associated stat: +6 bonus to the stat, +5% bonus to the primary stat growth chance of the stat, +13% bonus to the secondary growth chance of the stat.&#x20;
 
@@ -45,3 +45,25 @@ Stones that, when used during Summoning, provide the following bonuses to the as
 ****![](<../../../.gitbook/assets/stone concepts new\_standard fortune stone (1).gif>)**Fortune Stone:** Associated with LCK.
 
 ****![](<../../../.gitbook/assets/stone concepts new\_standard chaos stone.gif>)**Chaos Stone:** Applies bonuses to a randomly selected stat.
+
+### **Greater Enhancement Stones**
+
+Stones that, when used during Summoning, provide the following bonuses to the associated stat: +8 bonus to the stat, +7% bonus to the primary stat growth chance of the stat, +21% bonus to the secondary growth chance of the stat.&#x20;
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater might stone.gif>)**Might Stone:** Associated with STR.
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater finesse stone.gif>)**Finesse Stone:** Associated with DEX.
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater swift stone.gif>)**Swiftness Stone:** Associated with AGI.
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater vigor stone.gif>)**Vigor Stone:** Associated with VIT.
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater fortitude stone.gif>)**Fortitude Stone:** Associated with END.
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater wit stone.gif>)**Wit Stone:** Associated with INT.
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater insight stone.gif>)**Insight Stone:** Associated with WIS.
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater fortune stone.gif>)**Fortune Stone:** Associated with LCK.
+
+****![](<../../../.gitbook/assets/stone concepts new\_greater chaos stone.gif>)**Chaos Stone:** Applies bonuses to a randomly selected stat.
