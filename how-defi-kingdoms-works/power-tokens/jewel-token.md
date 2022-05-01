@@ -33,7 +33,7 @@ You can see the addresses of these funds here.
 
 **Pay Portal Vesting Wallet:** [**https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances**](https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances)****
 
-**Initial Liquidity Fund: **_****_ 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
+**Initial Liquidity Fund: **_****_ 0x6333DD17adb9171bbdF7604292490D9b75847561
 
 **Founding Member Addresses:** \
 _****_Frisky Fox: _****_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
