@@ -12,10 +12,6 @@ A CRYSTAL pre-mint of 2,500,000 will occur prior to launch. These tokens will be
 
 ### Multi-sig Wallet Treasury
 
-Addresses will be added as multi-sig wallets are established.
-
-### Multi-sig Wallet Treasury
-
 **Our funds are secured in a multi-sig wallet.** These wallets will be controlled by 4 __ members of the project, and any transaction will require 3 out of 4 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to do anything on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed.
 
 We know there has been concern with some other projects selling a large amount of tokens at launch that left some feeling frustrated in the project. We seek to help put these concerns at ease with these measures to help our community have confidence in the DeFi Kingdoms project.
