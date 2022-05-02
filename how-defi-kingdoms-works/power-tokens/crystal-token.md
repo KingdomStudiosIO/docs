@@ -8,7 +8,7 @@ The CRYSTAL token has a hard cap of 125,000,000 tokens.
 
 ### Pre-minting
 
-A CRYSTAL pre-mint of 2,500,000 will occur prior to launch. These tokens will be used in part for initial liquidity with the remainder used to fund a variety of rewards for players. Specific information on these rewards is forthcoming.
+A CRYSTAL pre-mint of 3,000,000 occurred prior to launch. These tokens were used in part for initial liquidity with the remainder used to fund a variety of rewards for players.&#x20;
 
 ### Multi-sig Wallet Treasury
 
@@ -28,7 +28,7 @@ You can see the addresses of these funds here.
 
 **Bridge Supply Fund:** 0x0B608dE616aeC05df2da2BA3179f48e318060E2c&#x20;
 
-**Initial Liquidity Fund: **_****_ 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
+**Initial Liquidity LP tokens are held in the Marketing Fund Multisig.**
 
 **Multisig Member Addresses:** \
 _****_Frisky Fox: _****_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
