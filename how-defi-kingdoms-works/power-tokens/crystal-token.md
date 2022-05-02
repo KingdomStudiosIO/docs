@@ -18,19 +18,17 @@ We know there has been concern with some other projects selling a large amount o
 
 You can see the addresses of these funds here.
 
-**Development Fund Multisig Safe:** 0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD  ****  \
-****\
-**Marketing Fund Multisig Safe:** 0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9
+**Development Fund Multisig:** 0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD  **** &#x20;
 
-**Quest Fund Multisig Safe:** 0x64a3dc745806d9d6e88ea5555F8fdA65B147A31D
+**Marketing Fund Multisig:** 0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9
 
-**Smart Contract Owners Safe:** 0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8
+**Quest Fund Multisig:** 0x64a3dc745806d9d6e88ea5555F8fdA65B147A31D
 
-**Pay Portal Vesting Wallet:** 0x0B608dE616aeC05df2da2BA3179f48e318060E2c&#x20;
+**Founders Fund Multisig:** 0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8
+
+**Bridge Supply Fund:** 0x0B608dE616aeC05df2da2BA3179f48e318060E2c&#x20;
 
 **Initial Liquidity Fund: **_****_ 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
-
-
 
 **Multisig Member Addresses:** \
 _****_Frisky Fox: _****_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
