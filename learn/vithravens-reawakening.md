@@ -4,7 +4,7 @@ description: All about Gen0 Gene Rerolling
 
 # Vithraven's Reawakening
 
-Vithraven’s Reawakening is a limited time event that allows owners of Gen0 heroes to "reroll" some of their Hero's genes. This is being done to ensure that the new basic genes introduced with the Crystalvale expansion have a similar rarity to the original 8 sets of genes. Existing Gen0 holders will be given an opportunity to reroll some of their genes, with the new Crystalvale genes being possible options. Players will have 30 days to take advantage of this opportunity in Serendale, and will be eligible to receive a series of rewards.
+Vithraven’s Reawakening is a limited time event that allows owners of Gen0 heroes to "reroll" some of their Hero's genes. This is being done to ensure that the new basic genes introduced with the Crystalvale expansion have a similar rarity to the original 8 sets of genes. Existing Gen0 holders will be given an opportunity to reroll some of their genes, with the new Crystalvale genes being possible options. Players will have 31 days to take advantage of this opportunity in Serendale, and will be eligible to receive a series of rewards.
 
 ### **Dates and Times**
 
