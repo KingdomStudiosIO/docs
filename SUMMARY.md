@@ -51,6 +51,7 @@
   * [Tavern](learn/gameplay/tavern.md)
   * [Marketplace](learn/gameplay/marketplace.md)
 * [The Perilous Journey](learn/the-perilous-journey.md)
+* [Vithraven's Reawakening](learn/vithravens-reawakening.md)
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
