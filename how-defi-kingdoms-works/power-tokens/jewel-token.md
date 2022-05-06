@@ -17,26 +17,26 @@ The JEWEL token has a hard cap of 500,000,000 tokens.
 
 ### Multi-sig Wallet Treasury
 
-**Our funds are secured in a multi-sig wallet at multisig.harmony.one.** These wallets will be controlled by 4 founding members of the project, and any transaction will require 3 out of 4 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to do anything on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed.
+**Our funds are secured in a multi-sig wallet at multisig.harmony.one.** These wallets will be controlled by 4 members of the project, and any transaction will require 3 out of 4 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to do anything on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed.
 
 We know there has been concern with some other projects selling a large amount of tokens at launch that left some feeling frustrated in the project. We seek to help put these concerns at ease with these measures to help our community have confidence in the DeFi Kingdoms project.
 
 You can see the addresses of these funds here.
 
-**Development Fund Multisig Safe:** [**https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances**](https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances)****\
+**Development Fund Multisig Safe:** 0xa4b9A93013A5590dB92062CF58D4b0ab4F35dBfB\
 ****\
-**Marketing Fund Multisig Safe:** \
-****[**https://multisig.harmony.one/#/safes/0x3875e5398766a29c1B28cC2068A0396cba36eF99/balances**](https://multisig.harmony.one/#/safes/0x3875e5398766a29c1B28cC2068A0396cba36eF99/balances)****
-
-**Smart Contract Owners Safe:** \
-****[**https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances**](https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances)****
-
-**Pay Portal Vesting Wallet:** [**https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances**](https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances)****
-
-**Initial Liquidity Fund: **_****_ The LP tokens from the initial liquidity are now held in the Marketing Fund Multisig Safe.
-
-**Founding Member Addresses:** \
-_****_Frisky Fox: _****_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
-Sinstar Necro: 0xA76Ea4f96136AF0fF23e7CC426Bfc21E451ff9f5\
-Jericho Splendershoes: 0x2b45C2dF1E982E596137d49A02afC02B9fb8B8dB\
-Admiral Omicron: 0x19612e015E6bC4f5C7ba122bd4acA23646414b72
+**Marketing Fund Multisig Safe:** 0x3875e5398766a29c1B28cC2068A0396cba36eF99\
+\
+**Founders Fund Multisig Safe:** 0x79F0d0670D17a89f509Ad1c16BB6021187964A29\
+\
+**Quest Fund Smart Contract:** 0x5ca5bcd91929c7152ca577e8c001c9b5a185f568\
+\
+**Pay Portal Vesting Contract:** 0x2b12d9a2480d6dd9f71dabaa366c87134195b679\
+\
+**Initial Liquidity Fund: **_****_ The LP tokens from the initial liquidity are now held in the Marketing Fund Multisig Safe.\
+\
+**Multisig Signer Addresses:** \
+_****_Bolon Soron: 0x2f26B3426504c28C29b6eDecae399D54717526CF\
+Castorp: 0x2B39520E375833558837f44654eaAae5B495A717\
+Sashei: 0x42C1B36BB243bFE02326473EC02a3488b55183E5\
+Professor Tango: 0x03B5c81d9759eb3ca12b2201891e61EE4bDfBB7A
