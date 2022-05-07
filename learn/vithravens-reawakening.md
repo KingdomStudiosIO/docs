@@ -8,9 +8,9 @@ Vithraven’s Reawakening is a limited time event that allows owners of Gen0 her
 
 ### **Dates and Times**
 
-Vithraven’s Reawakening becomes available: May 6, 2022 at 9PM EDT
+Vithraven’s Reawakening becomes available: TBD
 
-Vithraven’s Reawakening ends: June 6, 2022 at 9PM EDT
+Vithraven’s Reawakening ends: TBD
 
 Rewards are provided during the reroll process, and will no longer be available when the event ends.
 
@@ -37,8 +37,6 @@ Only one of these actions may be selected per Gen0 Hero. The following genes wil
 * Head appendage color dominant and recessive genes
 * Back appendage dominant and recessive genes
 * Back appendage color dominant and recessive genes
-
-![](../.gitbook/assets/9pm\_Serendale\_Gen0\_ReRoll.png)
 
 ### **Rewards**
 
