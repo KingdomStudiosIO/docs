@@ -8,9 +8,9 @@ Vithraven’s Reawakening is a limited time event that allows owners of Gen0 her
 
 ### **Dates and Times**
 
-Vithraven’s Reawakening becomes available: 05/09/2022 at&#x20;
+Vithraven’s Reawakening becomes available: 05/09/2022&#x20;
 
-Vithraven’s Reawakening ends: 6/9/2022 at 7 PM EDT
+Vithraven’s Reawakening ends: 6/10/2022 at 12 AM EDT
 
 Rewards are provided during the reroll process, and will no longer be available when the event ends.
 
