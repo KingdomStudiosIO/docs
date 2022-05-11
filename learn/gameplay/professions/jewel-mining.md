@@ -37,7 +37,7 @@ Mining quests also have a chance to reward Heroes with **Gaia's Tears**, **Shvā
 
 &#x20;    **geneBonus** = 1 if character has **mining** as their main skill, else 0
 
-Additionally, for every 15 Stamina spent by the **lead miner**, there is a 10% chance to receive bonus JEWEL. The maximum bonus is 10 JEWEL, if the wallet has at least 5,000 locked JEWEL. The bonus scales down linearly if the wallet has less than 5,000 locked JEWEL. This bonus is halved if the **lead miner** does not having **mining** as their main skill.
+Additionally, for every 15 Stamina spent by the **lead miner**, there is a 10% chance to receive bonus JEWEL. The maximum bonus is 10 JEWEL, if the wallet has at least 5,000 locked JEWEL. The bonus scales down linearly if the wallet has less than 5,000 locked JEWEL. This bonus is halved if the **lead miner** does not have **mining** as their main skill.
 
 ### Level 0 base item drop rates:
 
