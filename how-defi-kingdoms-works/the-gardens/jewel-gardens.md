@@ -26,7 +26,7 @@ The issuance of JEWEL as rewards for staking LP tokens in the Garden is schedule
 |   18  | 21,491,167 |      10     |      300     |
 |   19  | 21,793,567 |      9      |      270     |
 | 20-35 | 22,095,967 |      8      |      240     |
-|  36+  | 26,631,967 |      4      |      120     |
+|  36+  | 26,934,367 |      4      |      120     |
 
 _\*Listed emissions are spread out across all gardens. See the Seed Box for pool-specific emission rates._
 
