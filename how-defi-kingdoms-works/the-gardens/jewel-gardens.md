@@ -34,7 +34,7 @@ The current block is number is shown in the bottom right of the game screen, or 
 
 ### Locking
 
-Claimed locked JEWEL will remain **locked until block 31,470,366,** which marks the end of Epoch 51. Locked rewards will begin unlocking ratably at that time over the following 52 Epochs. At the time of writing, unlocking is estimated to begin in Q3 2022; however, network latency has already extended the duration of most Epochs and it is not possible to determine a specific date when this block will be reached.
+Claimed locked JEWEL will remain **locked until block 31,772,767,** which marks the end of Epoch 51. Locked rewards will begin unlocking ratably at that time over the following 52 Epochs. At the time of writing, unlocking is estimated to begin in Q3 2022; however, network latency has already extended the duration of most Epochs and it is not possible to determine a specific date when this block will be reached.
 
 The percentage of JEWEL that is unlocked began at 5% in Epoch 1 and increases by 2% each Epoch. Unclaimed rewards continue to unlock on this schedule until claiming, at which time unlocked rewards go directly into the player's wallet and locked rewards become fully locked until the end of Epoch 51.
 
