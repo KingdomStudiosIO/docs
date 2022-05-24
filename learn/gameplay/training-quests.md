@@ -20,6 +20,12 @@ Each Training Quest attempt consumes **5 stamina**. You can perform up to **5 at
 
 The quest completion screen will display any rewards earned ([Shvās rune](heroes/leveling.md), [lesser attunement crystals](heroes/attunement-crystals/), a Page of the Eternal Story, Gold, and XP per [Hero](heroes/)) and how many of your attempts you passed or failed, denoted by an X or a check mark.
 
+The token rewards from Training Quests have a fixed chance to drop, but only if an attempt is successful. Below are the chances for each item to drop:
+
+* Shvas Runes - 1%
+* Lesser Attunement Crystals - 0.5%
+* Pages of the Eternal Story - 0.75%
+
 ## Meet the Trainers
 
 ### Orvin - Puzzle Solving
