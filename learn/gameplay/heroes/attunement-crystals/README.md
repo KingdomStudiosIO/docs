@@ -54,12 +54,12 @@ Crystals that, when used during leveling, provide +15% to the primary stat growt
 
 ****![](../../../../.gitbook/assets/fortitude\_greater\_switness\_crystals.gif)**Greater Swiftness Crystal:** Associated with AGI.
 
-****![](<../../../../.gitbook/assets/fortitude\_greater\_vigor\_crystal (1).gif>)**Greater Vigor Crystal:** Associated with VIT.
+****![](../../../../.gitbook/assets/fortitude\_greater\_vigor\_crystal.gif)**Greater Vigor Crystal:** Associated with VIT.
 
 ****![](../../../../.gitbook/assets/ezgif.com-gif-maker.gif)**Greater Fortitude Crystal:** Associated with END.
 
-****![](../../../../.gitbook/assets/fortitude\_greater\_wit\_crystal.gif)**Greater Wit Crystal:** Associated with INT.
+****![](<../../../../.gitbook/assets/fortitude\_greater\_wit\_crystal (1).gif>)**Greater Wit Crystal:** Associated with INT.
 
 ****![](../../../../.gitbook/assets/fortitude\_greater\_insight\_crystal.gif)**Greater Insight Crystal:** Associated with WIS.
 
-****![](<../../../../.gitbook/assets/greater\_fortune\_crystal (2).gif>)**Greater Fortune Crystal:** Associated with LCK.
+****![](<../../../../.gitbook/assets/greater\_fortune\_crystal (1) (1).gif>)**Greater Fortune Crystal:** Associated with LCK.

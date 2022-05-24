@@ -2,7 +2,7 @@
 
 The **Tavern** is the place to visit if you want to **purchase** or **sell** Heroes, **rent** your Hero for Summoning, **send** a Hero to a friend, or view the **Hero Catalog**.
 
-![The Scarlet Hearth Tavern](../../.gitbook/assets/Tavern.JPG)
+![The Scarlet Hearth Tavern](<../../.gitbook/assets/Tavern (1).JPG>)
 
 Barkeep Kessing allows you to view an individual Hero by Hero # or to view the full Hero Catalog. Additionally, he hosts a **Send Hero** function that allows you to send a Hero directly to an 0x address, provided that address has a DeFi Kingdoms profile associated with it.
 

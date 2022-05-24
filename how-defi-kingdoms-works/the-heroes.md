@@ -2,7 +2,7 @@
 
 Though gardening and growing JEWEL and CRYSTAL tokens is amazing on its own, we wanted to add a bit of sword and sorcery to this fantasy kingdom, and what better way to do that than introducing one-of-a-kind pixel Hero NFTs?&#x20;
 
-![](<../.gitbook/assets/hero base showcase1.png>)
+![](../.gitbook/assets/hero-base-showcase1.png)
 
 We’re going one step further than your standard NFTs: our Hero NFTs are full RPG characters with stat blocks, consumable resources like HP, MP, and Stamina, as well as a leveling system! These NFTs aren’t meant to just sit on a shelf and look pretty, they’re one of the key features of the game. Heroes can work multiple professions for rewards (including tending gardens for additional rewards and mining locked tokens for earlier access), participate in quests, and eventually battle each other and a variety of enemies in future updates. Heroes are both central to gameplay and important tools to earn a variety of rewards.
 

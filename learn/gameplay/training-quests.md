@@ -1,6 +1,6 @@
 # Training Quests
 
-![Stats relating to the trainer NPC at a glance (Credit: Albus)](<../../.gitbook/assets/Training Quests Banner (1).PNG>)
+![Stats relating to the trainer NPC at a glance (Credit: Albus)](<../../.gitbook/assets/Training Quests Banner.PNG>)
 
 ## Overview <a href="#overview" id="overview"></a>
 
@@ -66,6 +66,6 @@ The quest completion screen will display any rewards earned ([Shvās rune](heroe
 
 ### Street Kid Carlin - Game of Ball
 
-![Stats Focus: AGI](<../../.gitbook/assets/Street Kid Carlin 1 (1).PNG>)
+![Stats Focus: AGI](<../../.gitbook/assets/Street Kid Carlin 1.PNG>)
 
 ![](<../../.gitbook/assets/Street Kid Carlin 2.PNG>)

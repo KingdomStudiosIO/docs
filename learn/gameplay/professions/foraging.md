@@ -12,7 +12,7 @@ After selecting the participating Heroes and choosing the number of quest attemp
 
 Heroes receive bonuses to the base drop rates of foraging items based on their **DEX**, **INT**, and **foraging** scores as well as whether **foraging** is their main skill.&#x20;
 
-![](<../../../.gitbook/assets/swiftthistle (1).png>)
+![](../../../.gitbook/assets/swiftthistle.png)
 
 ### **Level 0 item drop rates:**
 

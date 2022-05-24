@@ -14,7 +14,7 @@ Stones that, when used during Summoning, provide the following bonuses to the as
 
 ****![](<../../../.gitbook/assets/stone concepts new\_lesser vigor stone.gif>)**Lesser Vigor Stone:** Associated with VIT.
 
-****![](<../../../.gitbook/assets/stone concepts new\_lesser fortitude stone.gif>)**Lesser Fortitude Stone:** Associated with END.
+****![](../../../.gitbook/assets/fortitude-stone-lesser.d998b423.gif)**Lesser Fortitude Stone:** Associated with END.
 
 ****![](<../../../.gitbook/assets/stone concepts new\_lesser wit stone.gif>)**Lesser Wit Stone:** Associated with INT.
 
