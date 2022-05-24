@@ -1,6 +1,6 @@
 # Training Quests
 
-![Stats relating to the trainer NPC at a glance (Credit: Albus)](<../../.gitbook/assets/Training Quests Banner.PNG>)
+![Stats relating to the trainer NPC at a glance (Credit: Albus)](<../../.gitbook/assets/Training Quests Banner (1).PNG>)
 
 ## Overview <a href="#overview" id="overview"></a>
 
@@ -22,9 +22,16 @@ The quest completion screen will display any rewards earned ([Shvās rune](heroe
 
 The token rewards from Training Quests have a fixed chance to drop, but only if an attempt is successful. Below are the chances for each item to drop:
 
+The token rewards from Training Quests have a fixed chance to drop, but only if an attempt is successful. Below are the chances for each item to drop:
+
+* Shvas rune - 1%&#x20;
+* Lesser Attunement Crystals - 0.5%&#x20;
+* Pages of the Eternal Story - 0.75%
 * Shvas Runes - 1%
 * Lesser Attunement Crystals - 0.5%
 * Pages of the Eternal Story - 0.75%
+
+
 
 ## Meet the Trainers
 
@@ -72,6 +79,6 @@ The token rewards from Training Quests have a fixed chance to drop, but only if 
 
 ### Street Kid Carlin - Game of Ball
 
-![Stats Focus: AGI](<../../.gitbook/assets/Street Kid Carlin 1.PNG>)
+![Stats Focus: AGI](<../../.gitbook/assets/Street Kid Carlin 1 (1).PNG>)
 
 ![](<../../.gitbook/assets/Street Kid Carlin 2.PNG>)
