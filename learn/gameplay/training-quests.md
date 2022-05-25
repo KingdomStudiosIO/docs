@@ -22,16 +22,9 @@ The quest completion screen will display any rewards earned ([Shvās rune](heroe
 
 The token rewards from Training Quests have a fixed chance to drop, but only if an attempt is successful. Below are the chances for each item to drop:
 
-The token rewards from Training Quests have a fixed chance to drop, but only if an attempt is successful. Below are the chances for each item to drop:
-
-* Shvas rune - 1%&#x20;
-* Lesser Attunement Crystals - 0.5%&#x20;
-* Pages of the Eternal Story - 0.75%
 * Shvas Runes - 1%
 * Lesser Attunement Crystals - 0.5%
 * Pages of the Eternal Story - 0.75%
-
-
 
 ## Meet the Trainers
 

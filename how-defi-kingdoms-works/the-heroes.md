@@ -34,7 +34,7 @@ Heroes have the opportunity to compete for the right to purchase land, which is 
 
 ### **Pets**
 
-Heroes can sometimes find eggs that may hatch into rare pets that will accompany them on their adventures. These pets can grant stat bonuses, passive abilities, and more. Pets are still in development.
+Heroes can sometimes find eggs that may hatch into rare pets that will accompany them on their adventures. These pets can grant stat bonuses, passive ability bonuses, and more. Each pet that is hatched has a chance of being different rarities similar to Heroes, and the number and magnitude of bonuses they receive are based on that rarity and randomness.
 
 ### **PvP**
 
