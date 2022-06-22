@@ -39,15 +39,4 @@ Claimed locked CRYSTAL will remain locked until March 22, 2023**,** which marks 
 
 The percentage of CRYSTAL that is unlocked begins at 5% in Epoch 1 and increases by 2% each Epoch. Unclaimed rewards continue to unlock on this schedule until claiming, at which time unlocked rewards go directly into the player's wallet and locked rewards become fully locked until the end of Epoch 51.
 
-### **Garden Staking Deposit and Withdrawal Fees**
-
-**There are no deposit fees for staking LP tokens in the Gardens.** To protect against flash loans and pump and dumps, we do implement withdrawal fees for withdrawing staked LP tokens. Each withdrawal resets the fee timer. The withdrawal fees are listed below:
-
-* **0.01%** fee if a user withdraws after **4 Epochs**
-* **0.25%** fee if a user withdraws after **2 Epochs but before 4 Epochs**
-* **0.5%** fee if a user withdraws after **5 days but before 2 Epochs**
-* **1%** fee if a user withdraws under **5 days.**&#x20;
-* **2%** fee if a user withdraws under **3 days.**&#x20;
-* **4%** fee if a user withdraws under **24 hours.**&#x20;
-* **8%** fee if a user withdraws under **1 hour.**&#x20;
-* **25%** slashing fee if a user withdraws **during the same block.**
+****
