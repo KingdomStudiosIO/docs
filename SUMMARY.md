@@ -19,7 +19,7 @@
 
 * [Roadmap](roadmap/README.md)
   * [Phase 0.5 - Community ✔️](roadmap/phase-0.5-community.md)
-  * [Phase 1 - Capital & JEWELs ✔️](roadmap/phase-1-dex.md)
+  * [Phase 1 - Serendale & JEWELs ✔️](roadmap/phase-1-dex.md)
   * [Phase 2 - Heroes & Quests ✔️](roadmap/phase-2-heroes.md)
   * [Phase 3 - Kingdoms & Land ✔️](roadmap/phase-3-world-map-and-land.md)
   * [Phase 4 - Buildings](roadmap/phase-4-buildings.md)
