@@ -1,14 +1,14 @@
 # DeFi Kingdoms Blockchain
 
-With the DeFi Kingdoms: Crystalvale expansion, DeFi Kingdoms is introducing its own chain, which will handle gameplay transactions in Crystalvale and host the Crystalvale DEX. The DeFi Kingdoms Blockchain, or DFK Chain, is being built in partnership with Avalanche using their subnet technology.
+With the DeFi Kingdoms: Crystalvale expansion, DeFi Kingdoms introduced its own blockchain, which handles gameplay transactions in Crystalvale and hosts the Crystalvale DEX. The DeFi Kingdoms Blockchain, or DFK Chain, is being built in partnership with Avalanche using their subnet technology.
 
 ### DFK Chain Advantages
 
-DFK Chain will use JEWEL for gas. This adds additional utility to our power token and simplifies life for players so that they don't have to hold a second token just to use for gas fees.
+DFK Chain uses JEWEL for gas. This adds additional utility to the JEWEL power token and simplifies life for players so that they don't have to hold a second token just to use for gas fees.&#x20;
 
-Also, using JEWEL for gas means that we can better control gas prices. This mechanism will allow us to ensure greater stability in the network and keep fees as low as possible for our users.
+Using JEWEL for gas means that we can better control gas prices. This mechanism will allow us to ensure greater stability in the network and keep fees as low as possible for our users.&#x20;
 
-In addition, the DFK Chain will only handle DeFi Kingdoms transactions, on RPCs managed by Ava Labs and POKT, with more nodes to come. That means that block speed and transaction finality are not at the whim of the blockchain as a whole, giving us more control over user experience.&#x20;
+In addition, the DFK Chain will only handle DeFi Kingdoms transactions, on RPCs managed by Ava Labs and POKT, with more nodes to come. That means that block speed and transaction finality are not placed at the whim of the blockchain as a whole, giving us more control over user experience.
 
 ### Gas Fee Distribution
 

@@ -1,14 +1,14 @@
 # The Heroes
 
-Though gardening and growing JEWEL and CRYSTAL tokens is amazing on its own, we wanted to add a bit of sword and sorcery to this fantasy kingdom, and what better way to do that than introducing one-of-a-kind pixel art Hero NFTs?&#x20;
+Though gardening and growing JEWEL and CRYSTAL tokens is amazing on its own, we wanted to add a bit of sword and sorcery to this fantasy kingdom, and what better way to do that than introducing one-of-a-kind pixel Hero NFTs?&#x20;
 
 ![](../.gitbook/assets/hero-base-showcase1.png)
 
-Going one step further than the standard NFTs, DFK Hero NFTs are full RPG characters with stat blocks, consumable resources like HP, MP, and Stamina, as well as a leveling system! These NFTs  are one of the key features of the game. Heroes can work multiple professions for rewards (including tending gardens for additional rewards and mining locked tokens for earlier access), participate in quests, and eventually battle each other and a variety of enemies in future updates. Heroes are both central to gameplay and important tools to earn a variety of rewards.
+We’re going one step further than your standard NFTs: our Hero NFTs are full RPG characters with stat blocks, consumable resources like HP, MP, and Stamina, as well as a leveling system! These NFTs aren’t meant to just sit on a shelf and look pretty, they’re one of the key features of the game. Heroes can work multiple professions for rewards (including tending gardens for additional rewards and mining locked tokens for earlier access), participate in quests, and eventually battle each other and a variety of enemies in future updates. Heroes are both central to gameplay and important tools to earn a variety of rewards.
 
 ### **Hero Genes**
 
-Heroes have two sets of genes, one for appearance and another for their playable attributes, such as profession, class, subclass, passive and active abilities, and more. During Summoning, the newly summoned Hero will acquire genes from both source Heroes used in the summoning. **There is also a chance of mutations in genes, resulting in new, rare abilities, classes, and aesthetics!**
+Heroes have two sets of genes, one for appearance and another for their playable attributes, such as profession, class, subclass, passive and active abilities, and more. During Summoning, the newly summoned hero will randomly acquire genes from both source heroes used in the summoning. **There is also a chance of mutations in genes, resulting in new, rare abilities and classes!**
 
 ### **Summoning and Trading**
 
@@ -16,25 +16,25 @@ Heroes are summoned through a dimensional portal by combining the genes of two e
 
 Heroes can be purchased or listed for sale in the Tavern. Players may also offer their Heroes up for hire in the Tavern, to be used by other players for Summoning.
 
+### **Equipment**
+
+Heroes will be able to find and equip valuable equipment NFTs that will grant them special passive and active abilities, and increase their stats. The equipment system is still in development.
+
 ### **Stats**
 
 Heroes have various stats that impact their performance in each profession and their strength in combat. These stats can be increased as Heroes gain experience and level up.
 
 ### **Quests**
 
-Heroes are able to go on various quests within the kingdom. Professions Quests allow Heroes to gather in-game resources, earn additional tokens from the Gardens, and unlock tokens early, all while gaining experience and increasing their profession skill. Heroes can also participate in quests that require them to utilize their stats to achieve certain goals, engage in dialogue with NPCs, and travel the map to successfully complete. Eventually, Heroes will battle enemies as well. The latter features are currently in development.
-
-### **Equipment**
-
-Heroes will be able to find and equip valuable equipment NFTs that will grant them special passive and active abilities, and increase their stats. The equipment system is currently in development.
+Heroes are able to go on various quests within the kingdom. Professions Quests allow Heroes to gather in-game resources, earn additional tokens from the Gardens, and unlock tokens early, all while gaining experience and increasing their profession skill. Heroes can also participate in quests that require them to utilize their stats to achieve certain goals, engage in dialogue with NPCs, and travel the map to successfully complete. Eventually, Heroes will battle enemies as well. The latter features are still in development.
 
 ### **Land**
 
-Heroes have the opportunity to compete for the right to purchase land, which is a special kind of upgradeable and limited NFT**.** Land can be bought and sold, built on, and visited by traveling Heroes.
+Heroes have the opportunity to compete for the right to purchase land, which is a special kind of upgradeable and limited NFT**.**  Land can be bought and sold, built on, and visited by traveling Heroes.
 
 ### **Pets**
 
-Heroes can sometimes find eggs that they may hatch into rare Pet NFTs that will accompany them on their adventures. These pets can grant stat bonuses, provide bonuses to abilities, and more. Each pet that is hatched has a chance of being a different rarity, similar to Heroes, and the number and magnitude of bonuses they receive is based on that rarity and randomness.
+Heroes can sometimes find eggs that may hatch into rare pets that will accompany them on their adventures. These pets can grant stat bonuses, passive ability bonuses, and more. Each pet that is hatched has a chance of being different rarities similar to Heroes, and the number and magnitude of bonuses they receive are based on that rarity and randomness.
 
 ### **PvP**
 
