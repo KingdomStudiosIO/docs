@@ -30,25 +30,25 @@ The issuance of JEWEL as rewards for staking LP tokens in the Garden is schedule
 
 _\*Listed emissions are spread out across all gardens. See the Seed Box for pool-specific emission rates._
 
-The current block number is shown in the bottom right of the game screen, or players may visit the[ Harmony Blockchain Explorer](https://explorer.harmony.one/) to see the current Harmony block. Please note that Harmony block speeds fluctuate and should be viewed on an average (i.e. daily or weekly basis) when trying to plan your Garden farming strategies.
+The current block is number is shown in the bottom right of the game screen, or players may visit the [Harmony Blockchain Explorer](https://explorer.harmony.one) to see what the current block is and the current block speed (latency). Please note that block speed fluctuates and should be viewed on an average (i.e. daily or weekly basis) when trying to plan your Garden farming strategies.
 
 ### Locking
 
 Claimed locked JEWEL will remain **locked until block 31,772,767,** which marks the end of Epoch 51. Locked rewards will begin unlocking ratably at that time over the following 52 Epochs. At the time of writing, unlocking is estimated to begin in Q3 2022; however, network latency has already extended the duration of most Epochs and it is not possible to determine a specific date when this block will be reached.
 
-The percentage of JEWEL that is unlocked when claimed began at 5% in Epoch 1 and increases by 2% each Epoch. Unclaimed rewards continue to unlock on this schedule until claiming, at which time unlocked rewards go directly into the player's wallet and locked rewards become fully locked until the end of Epoch 51.
+The percentage of JEWEL that is unlocked began at 5% in Epoch 1 and increases by 2% each Epoch. Unclaimed rewards continue to unlock on this schedule until claiming, at which time unlocked rewards go directly into the player's wallet and locked rewards become fully locked until the end of Epoch 51.
 
 ### Locking Model - Simplified Examples
 
-Below are two simplified examples that show how the locking model works. For the sake of simplicity, **the examples assume no compounding** of unlocked claimed rewards into additional LP positions and that a player earned 100 JEWEL in Garden rewards during Epoch 1, 50 JEWEL in Epoch 2 and so on to reflect the reduced JEWEL emission per Epoch. In both scenarios, 301.6 JEWEL is earned, but the amount unlocked versus locked is different. This locking model provides players the opportunity to choose a strategy that suits their style and risk appetite.
+Below are two simplified examples that show how the locking model works. For the sake of simplicity, **the examples assume no reinvestment** of unlocked claimed rewards into additional LP positions and that a player earned 100 JEWEL in Garden rewards during Epoch 1, 50 JEWEL in Epoch 2 and so on to reflect the reduced JEWEL emission per Epoch. In both scenarios, 301.6 JEWEL is earned, but the amount unlocked versus locked is different. This locking model provides players the opportunity to choose a strategy that suits their style and risk appetite.
 
-**Illustrative Example A**: Rewards earned during each Epoch are claimed during each Epoch (and not compounded).
+**Illustrative Example A**: Rewards earned during each Epoch are claimed during each Epoch (and not reinvested).
 
 * _10 Epoch Summary_:
   * Total unlocked JEWEL: **29.8** JEWEL
   * Total locked JEWEL: **271.8** JEWEL (inaccessible until after Epoch 51 unless unlocked earlier via Heroes)
   * Total rewards: **301.6** JEWEL
-  * _Lower unlocked JEWEL over the sample period, but allows for use of and potential compounding of unlocked JEWEL during sample period, which could result in more unlocked JEWEL than not claiming over the same period depending on what you choose to do with such unlocked claimed rewards. The choice is yours!_
+  * _Lower unlocked JEWEL over the sample period, but allows for use of and potential recompounding/reinvestment of unlocked JEWEL during sample period, which could result in more unlocked JEWEL than not claiming over the same period depending on what you choose to do with such unlocked claimed rewards. The choice is yours!_
 
 |   Epoch  | Unlocked at time of claiming | Locked at time of claiming | Example JEWEL Earned during Epoch | Unlocked Claimed during Epoch | Locked Claimed During Epoch | Unlocked Cumulative | Locked Cumulative |
 | :------: | :--------------------------: | :------------------------: | :-------------------------------: | :---------------------------: | :-------------------------: | :-----------------: | :---------------: |
@@ -84,4 +84,17 @@ Below are two simplified examples that show how the locking model works. For the
 |  Epoch 9 |              21%             |             79%            |                10.9               |              61.4             |            230.8            |             0.0             |            0.0            |
 | Epoch 10 |              23%             |             77%            |                9.4                |              69.4             |            232.2            |             69.4            |           232.2           |
 
-****
+### **Garden Staking Deposit and Withdrawal Fees**
+
+**There are no deposit fees for staking LP tokens in the Gardens.** To protect against flash loans and pump and dumps, we do implement withdrawal fees for withdrawing staked LP tokens. Each withdrawal resets the fee timer. The withdrawal fees are listed below:
+
+* **0.01%** fee if a user withdraws after **4 Epochs**
+* **0.25%** fee if a user withdraws after **2 Epochs but before 4 Epochs**
+* **0.5%** fee if a user withdraws after **5 days but before 2 Epochs**
+* **1%** fee if a user withdraws under **5 days. \***
+* **2%** fee if a user withdraws under **3 days. \***&#x20;
+* **4%** fee if a user withdraws under **24 hours. \***&#x20;
+* **8%** fee if a user withdraws under **1 hour. \***
+* **25%** slashing fee if a user withdraws **during the same block.**
+
+_\*Days/Hours listed assume a 2 seconds per block speed during such period and will depend on Harmony Blockchain speed._
