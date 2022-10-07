@@ -1,6 +1,10 @@
 # Table of contents
 
 * [DeFi Kingdoms](README.md)
+* [Realms](realms/README.md)
+  * [Serendale 1.0](realms/serendale-1.0.md)
+  * [Crystalvale](realms/crystalvale.md)
+  * [Serendale 2.0](realms/serendale-2.0.md)
 
 ## How DeFi Kingdoms Works
 
