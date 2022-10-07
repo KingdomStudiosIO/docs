@@ -12,9 +12,9 @@ description: >-
 
 DeFi Kingdoms (DFK) is a game, a decentralized exchange (DEX), a liquidity pool (LP) opportunity, and a market of rare utility-driven NFTs, that all plays out seamlessly in the incredibly nostalgic form of fantasy pixel art.
 
-DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and additional features are constantly being added.
+DeFi Kingdoms: Serendale launched on August 22, 2021 on the Harmony network as a DEX with LP farming opportunities, and additional features are constantly being added.
 
-DeFi Kingomds: Crystalvale is launching on March 30, 2022. This is the first expansion to DeFi Kingdoms and will live on the new DFK Chain.
+DeFi Kingdoms: Crystalvale launched on March 30, 2022. This is the first expansion to DeFi Kingdoms and lives on the new DFK Chain.
 
 {% embed url="https://www.defikingdoms.com" %}
 
