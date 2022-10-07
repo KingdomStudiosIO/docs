@@ -1,6 +1,6 @@
 # Enhancement Stones
 
-Enhancement Stones can be used during Summoning to provide a bonus to a single stat, along with increases its growth chances on leveling. Only one Enhancement Stone may be used during a single Summoning ritual.
+Enhancement Stones can be used during Summoning to provide a permanent bonus to a single stat, along with increases to that stat's primary and secondary growth chances on leveling. Only one Enhancement Stone may be used during a single Summoning ritual.
 
 ### Lesser Enhancement Stones
 
