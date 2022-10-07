@@ -1,5 +1,5 @@
 ---
-description: The lore of Defi Kingdoms
+description: The lore of DeFi Kingdoms
 ---
 
 # Lore
