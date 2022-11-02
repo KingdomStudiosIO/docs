@@ -1,5 +1,5 @@
 ---
-description: Official DeFi Kingdoms Whitepaper, last updated June 16, 2022
+description: Official DeFi Kingdoms Whitepaper, last updated November 2, 2022
 ---
 
 # DeFi Kingdoms
