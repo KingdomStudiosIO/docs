@@ -4,7 +4,7 @@ description: Information about the Level 0 Foraging quest.
 
 # Foraging
 
-**Foraging quests** can yield **plants**, **Gaia's Tears**, **Shvās runes**, **Grey Eggs**, **experience** toward a Hero's next level, and foraging **skill increases**. All plants may be sold in the [Marketplace](../marketplace.md) to Vendor Zada for **gold** or swapped with Trader Matoya for **JEWEL**. Some plants are ingredients in **potions**, which can be crafted with Alchemist Herbert. All plants may have uses that are yet unknown.
+**Foraging quests** can yield **plants**, **Gaia's Tears**, **Shvās runes**, **Grey Eggs**, **experience** toward a Hero's next level, and foraging **skill increases**. All plants may be sold in the [Marketplace](../../locations/marketplace.md) to Vendor Zada for **gold** or swapped with Trader Matoya for **JEWEL**. Some plants are ingredients in **potions**, which can be crafted with Alchemist Herbert. All plants may have uses that are yet unknown.
 
 Foraging quests cost 7 Stamina per attempt, reduced to 5 Stamina for Heroes with **foraging** as their main profession. Groups of up to 6 Heroes can be sent to forage at once and the number of attempts that each Hero will make is chosen in the quest window. Every member in the group is limited to the highest number of quest attempts that any given member can attempt, so it is most efficient to group Heroes wisely.
 

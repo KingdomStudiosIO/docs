@@ -1,8 +1,8 @@
 # Summoning
 
-![The Summoning Portal](../../../.gitbook/assets/Capture.JPG)
+![The Summoning Portal](../../.gitbook/assets/Capture.JPG)
 
-To summon, two heroes must visit the **Arch Druid** and infuse a Summoning Crystal with their combined essence. **Infused Crystals** are then used at the [Portal](../portal.md) to seek Heroes from far away lands that are in tune with the heroes that infused the crystal.
+To summon, two heroes must visit the **Arch Druid** and infuse a Summoning Crystal with their combined essence. **Infused Crystals** are then used at the [Portal](../locations/portal.md) to seek Heroes from far away lands that are in tune with the heroes that infused the crystal.
 
 ![Infused Crystal](https://dfk-hv.b-cdn.net/art-assets/crystal-yellow.gif)
 
@@ -46,7 +46,7 @@ What’s this? Yes, unfortunately only Gen0 heroes are able to maintain their at
 
 Higher ranked heroes have begun to arrive at the kingdom!!!
 
-![Hero Rank Summoning Chart](../../../.gitbook/assets/Summoning.png)
+![Hero Rank Summoning Chart](../../.gitbook/assets/Summoning.png)
 
 Summoning with Heroes that have the appropriate genes can result in genetic mutation that results in a higher ranked Hero being Summoned from the Portal. The chart above displays the genetic combinations needed to Summon each possible Hero class.
 
@@ -64,6 +64,6 @@ Exalted - DreadKnight
 
 The rarity level of a Summoned Hero is impacted by the rarity of the two Heroes used to infuse the Summoning Crystal.
 
-![Summoning Rarity](<../../../.gitbook/assets/Summoner Combo.png>)
+![Summoning Rarity](<../../.gitbook/assets/Summoner Combo.png>)
 
 The chart above illustrates the likelihood that pairing Heroes of given rarities will result in a Summoned Hero of a given rarity. For further information on this topic, visit the [Rarity](rarity.md) topic page.

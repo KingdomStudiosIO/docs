@@ -29,4 +29,4 @@ Additionally, JEWEL is used for gas fees on the [DFK Chain](../defi-kingdoms-blo
 
 Specific information about each token can be found on the [JEWEL Token](jewel-token.md) and [CRYSTAL Token](crystal-token.md) pages and issuance schedules for each can be found on the [JEWEL Gardens](../the-gardens/jewel-gardens.md) and [Ice Gardens](../the-gardens/ice-gardens.md) pages.
 
-Additionally, each token may be staked at the Jeweler for governance tokens, and used to cast votes on major decisions when such votes are called. More information on governance votes can be found on the [Jeweler](../../learn/gameplay/jeweler.md) page.
+Additionally, each token may be staked at the Jeweler for governance tokens, and used to cast votes on major decisions when such votes are called. More information on governance votes can be found on the [Jeweler](../../gameplay/locations/jeweler.md) page.

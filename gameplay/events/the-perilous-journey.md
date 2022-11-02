@@ -34,7 +34,7 @@ Rarity is indicated by the color of the Hero card and the icon in the center of 
 
 Rank refers to where on the Summoning chart Heroes fall:&#x20;
 
-![ Summoning Chart](<../.gitbook/assets/Albus Class Tree.png>)
+![ Summoning Chart](<../../.gitbook/assets/Albus Class Tree.png>)
 
 The formula for Hero survival is:
 
@@ -50,7 +50,7 @@ Additionally, players will have the option to group their Heroes together, under
 
 The survival chance for each Hero is calculated individually. The following charts don't account for every Hero, but can be used for easy guidance to understand the variability between Heroes based on level, rank, and rarity.
 
-![Survival Chance](../.gitbook/assets/survchance.png)
+![Survival Chance](../../.gitbook/assets/survchance.png)
 
 ### Survival Rewards
 
@@ -75,7 +75,7 @@ To discourage multi-walleting, wallets that have more than one Hero survive will
 
 CRYSTAL airdrop amounts are impacted by level, rarity, and rank. The table below is for reference, and you will note that the growth per level is linear: 1 CRYSTAL per level. So, when determining rewards for each individual Hero, just find the closest on the chart and add or subtract 1 CRYSTAL per level to match your Hero's stats.
 
-![CRYSTAL Rewards](../.gitbook/assets/crystreward.png)
+![CRYSTAL Rewards](../../.gitbook/assets/crystreward.png)
 
 ### Death Rewards
 
@@ -88,15 +88,15 @@ The owners of Heroes who die will receive:
 
 JEWEL payout is according to the table below. You will note that the growth per level is linear: .2 JEWEL per level. So, when determining rewards for each individual Hero, just find the closest on the chart and add or subtract .2 JEWEL per level to match your Hero's stats.
 
-![JEWEL Rewards](../.gitbook/assets/jewelreward.png)
+![JEWEL Rewards](../../.gitbook/assets/jewelreward.png)
 
 Rune rewards are determined according to the table below. Note that this is the first opportunity to receive Moksha runes.
 
-![Rune Rewards](<../.gitbook/assets/runereward (1).png>)
+![Rune Rewards](<../../.gitbook/assets/runereward (1).png>)
 
-[Enhancement Stones](gameplay/heroes/enhancement-stones.md) and [Attunement Crystals](gameplay/heroes/attunement-crystals/) are awarded based on the rank and rarity of the hero, as seen in the table below. The type of enhancement stones and attunement crystals received are determined based on the highest one or two stats (depending on rank) of the burned hero. In case of ties for highest stat, primary and secondary growth percentages are used as tiebreakers.
+[Enhancement Stones](../items/enhancement-stones.md) and [Attunement Crystals](../items/attunement-crystals/) are awarded based on the rank and rarity of the hero, as seen in the table below. The type of enhancement stones and attunement crystals received are determined based on the highest one or two stats (depending on rank) of the burned hero. In case of ties for highest stat, primary and secondary growth percentages are used as tiebreakers.
 
-![Enhancement Stone and Attunement Crystal Rewards](../.gitbook/assets/death-enhancement-attunement-reward.png)
+![Enhancement Stone and Attunement Crystal Rewards](../../.gitbook/assets/death-enhancement-attunement-reward.png)
 
 Raffle entries are determined by this formula:
 

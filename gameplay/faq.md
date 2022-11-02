@@ -112,7 +112,7 @@ Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be 
 
 ### Where do I get a Hero?
 
-Heroes are available for purchase from other players in the [Tavern](gameplay/tavern.md), and can also be rented at the [Portal](gameplay/portal.md) to assist in the [Summoning](gameplay/heroes/summoning.md) process!
+Heroes are available for purchase from other players in the [Tavern](locations/tavern.md), and can also be rented at the [Portal](locations/portal.md) to assist in the [Summoning](heroes/summoning.md) process!
 
 ### What is the difference between Gen0 Heroes and later generations?
 
@@ -130,7 +130,7 @@ If you have two heroes, you can go to the Portal and summon another one. You wil
 
 If you only have one hero, you can rent one from another player at the Portal to assist in the summoning process.
 
-[Read more about Hero Summoning.](gameplay/heroes/summoning.md)
+[Read more about Hero Summoning.](heroes/summoning.md)
 
 ### Where can I get Gaia's Tears to summon Heroes?
 
@@ -183,7 +183,7 @@ Four different professions are available to heroes: Gardening, Mining, Fishing, 
 
 Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a fixed rate every 10 minutes, as indicated in the quest menu, allowing the hero to work these quests over longer periods of time until they run out of stamina or until you stop them. Foraging and Fishing quests are shorter, consuming a larger amount of mana over a minimal duration, as shown in the quest menu. Fishing and foraging quests allow you to queue multiple quest attempts in one transaction, up to the maximum amount allowed by your hero's stamina. Heroes recover stamina at a rate of 1 every 20 minutes. _Note: Heroes cannot recover stamina while engaged in a quest._
 
-[Read more about Professions.](gameplay/professions/)
+[Read more about Professions.](quests/professions/)
 
 ## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) KINGDOMS / LANDS
 

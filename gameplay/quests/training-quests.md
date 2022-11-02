@@ -10,7 +10,7 @@ There are eight training quests available to heroes, each corresponding to one o
 
 Each Trainer specializes in a specific discipline (Stat). The Hero competes against the Trainer in their specific discipline. Once the Hero grows too strong in that specific stat they can surpass their Trainer and will be encouraged to seek a stronger trainer elsewhere (tier 2 training quest).
 
-When a training attempt is successful, the Hero receives a flat amount of Gold and a roll for a [Shvās rune](heroes/leveling.md), an lesser [attunement crystal](heroes/attunement-crystals/), and a Page of the Eternal Story. **NOTE:** Unsuccessful attempts do not receive any of these rolls.
+When a training attempt is successful, the Hero receives a flat amount of Gold and a roll for a [Shvās rune](../heroes/leveling.md), an lesser [attunement crystal](../items/attunement-crystals/), and a Page of the Eternal Story. **NOTE:** Unsuccessful attempts do not receive any of these rolls.
 
 Each Training Quest attempt consumes **5 stamina**. You can perform up to **5 attempts per transaction** and up to **6 Heroes per transaction**. Each Hero must be able to perform the same number of attempts when grouped.
 
@@ -18,7 +18,7 @@ Each Training Quest attempt consumes **5 stamina**. You can perform up to **5 at
 
 ![Quest completion, rewards and performance screen](<../../.gitbook/assets/training quest completion screen reward.PNG>)
 
-The quest completion screen will display any rewards earned ([Shvās rune](heroes/leveling.md), [lesser attunement crystals](heroes/attunement-crystals/), a Page of the Eternal Story, Gold, and XP per [Hero](heroes/)) and how many of your attempts you passed or failed, denoted by an X or a check mark.
+The quest completion screen will display any rewards earned ([Shvās rune](../heroes/leveling.md), [lesser attunement crystals](../items/attunement-crystals/), a Page of the Eternal Story, Gold, and XP per [Hero](../heroes/)) and how many of your attempts you passed or failed, denoted by an X or a check mark.
 
 The token rewards from Training Quests have a fixed chance to drop, but only if an attempt is successful. Below are the chances for each item to drop:
 

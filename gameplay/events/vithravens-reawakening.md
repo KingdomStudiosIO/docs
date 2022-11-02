@@ -38,12 +38,12 @@ Only one of these actions may be selected per Gen0 Hero. The following genes wil
 * Back appendage dominant and recessive genes
 * Back appendage color dominant and recessive genes
 
-![](../.gitbook/assets/Serendale\_Gen0\_Reroll\_5-9-22.png)
+![](../../.gitbook/assets/Serendale\_Gen0\_Reroll\_5-9-22.png)
 
 ### **Rewards**
 
 Each of the three reroll options provide a number of rewards, with the greatest rewards coming from rerolling both Game and Appearance genes. Rewards include experience bonuses, stat bonuses, bonus items, an effective summon reset, and achievement rewards. The rewards as they relate to the three options available are detailed in the table below:
 
-![Vithraven's Reawakening Rewards](../.gitbook/assets/C9B74EE0-7106-400E-98A6-98A59DDCCDE1.jpeg)
+![Vithraven's Reawakening Rewards](../../.gitbook/assets/C9B74EE0-7106-400E-98A6-98A59DDCCDE1.jpeg)
 
 Rerolling your Gen0 Hero’s genes will help balance the gene pool and kickstart the appearance of new genes across Gaia.
