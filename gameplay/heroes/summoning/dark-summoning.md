@@ -67,6 +67,10 @@ Example: a Common Hero paired with a Rare would have a floor rarity of Uncommon,
 
 Players may spend extra CRYSTAL and Gaia’s Tears to increase the chances of getting higher rarity Heroes. The amount extra allowed to be paid is based on the sum of the remaining summons of the two summoning Heroes. For each remaining summon, players may pay 0.625 CRYSTAL and 20 Gaia’s Tears to receive 1/5th of the bonus that is gained by summoning with a rarer Hero. So, for example, if they have 20 remaining summons, it would be as if both Heroes were two rarity levels higher than they actually are.
 
+{% hint style="info" %}
+Rarity overcharging does not affect the number of summons that the new Hero will have.
+{% endhint %}
+
 #### Rarity Calculations
 
 The calculations for Dark Summoning rarity are as follows:
