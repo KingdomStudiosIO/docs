@@ -2,22 +2,24 @@
 
 ### JEWEL
 
-When DeFi Kingdoms: Serendale launched on Harmony, the JEWEL token launched alongside it. Unlike the average crypto token, JEWEL acts as the main token of value in a metaverse game, giving it utility above and beyond that of a regular coin. JEWEL can be used to purchase Hero NFTs, which can themselves be used to earn JEWEL and other rewards. JEWEL can also be combined with existing Heroes and other items to mint new Heroes, and be swapped through the DEX for other tokens and in-game items. This is all in addition to fee sharing opportunities, liquidity pooling, and [governance rights](../the-jeweler.md#governance-votes).
+When DeFi Kingdoms: Serendale launched on Harmony, the JEWEL token launched alongside it. Unlike the average crypto token, JEWEL acts as the main token of value in a metaverse game, giving it utility above and beyond that of a regular coin. JEWEL can be used to purchase Hero NFTs, which can themselves be used to earn JEWEL and other rewards. JEWEL can also be combined with existing Heroes and other items to mint new Heroes, and be swapped through the DEX for other tokens and in-game items. This is all in addition to fee distribution opportunities, liquidity pooling, and [governance rights](../the-jeweler.md#governance-votes).
 
 ### CRYSTAL
 
-With the expansion of DeFi Kingdoms: Crystalvale onto the DFK Chain we created a new power token, CRYSTAL. CRYSTAL fills the same roles that JEWEL does in Serendale, but within Crystalvale. It can be spent to purchase and mint Hero NFTs, swapped on the in-game DEX, staked for fee sharing, pooled for liquidity, and applied to applicable [governance votes](../the-jeweler.md#governance-votes). he total supply of CRYSTAL is one-fourth that of JEWEL.
+With the expansion of DeFi Kingdoms: Crystalvale onto the DFK Chain we created a new power token, CRYSTAL. CRYSTAL fills the same roles that JEWEL does in Serendale, but within Crystalvale. It can be spent to purchase and mint Hero NFTs, swapped on the in-game DEX, staked for fee distribution, pooled for liquidity, and applied to applicable [governance votes](../the-jeweler.md#governance-votes). he total supply of CRYSTAL is one-fourth that of JEWEL.
 
-### Transactions & Rewards
+### Transactions & Fee Distribution
 
-Unless otherwise specified throughout these documents, the JEWEL or CRYSTAL fees, as applicable, from every in-game transaction are apportioned to the applicable wallets for each realm as follows:&#x20;
+Unless otherwise specified throughout these documents, the Power Token fees from every in-game transaction, as applicable, are apportioned to the respective wallets for each realm as follows:
 
-* 1% - Burned&#x20;
-* 10% - Sent to the Jeweler to reward xJEWEL/xCRYSTAL holders
-* 30% - Sent to the Quest Rewards Fund&#x20;
-* 25% - Sent to the Development Fund, to pay for future game development and bounties&#x20;
-* 17% - Sent to the Marketing Fund, to pay for advertising, airdrops, etc&#x20;
-* 17% - Sent to the Founders Fund, to pay milestone bonuses to the dev team&#x20;
+{% hint style="info" %}
+These percentages were last adjusted on 11/4/2022, increasing the amounts allocated to token burn and fee distribution.
+{% endhint %}
+
+* 5% - Burned
+* 15% - [Jeweler Rewards](../the-jeweler.md#fee-sharing) (cJEWEL / sJEWEL)
+* 30% - Quest Rewards Fund
+* 50% - Development Fund
 
 JEWEL and CRYSTAL are the lifeblood of our project and have features that provide players the opportunity to earn while playing rather than buying games and subscriptions with no potential to recoup costs spent. In DeFi Kingdoms, good gameplay decisions and a little luck have the potential to reward players with actual crypto tokens while they play a game they enjoy.
 

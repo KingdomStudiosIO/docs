@@ -32,7 +32,7 @@
 
 ## Gameplay
 
-* [Getting Started](learn/gameplay/README.md)
+* [Getting Started](gameplay/getting-started.md)
 * [Heroes](learn/gameplay/heroes/README.md)
   * [Stats](learn/gameplay/heroes/stats.md)
   * [Rarity](learn/gameplay/heroes/rarity.md)
