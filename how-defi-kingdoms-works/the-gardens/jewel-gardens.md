@@ -1,5 +1,25 @@
 # JEWEL Gardens
 
+{% hint style="warning" %}
+In accordance with the [updated tokenomics](https://medium.com/defi-kingdoms-official/serendale-2-0-e9db21d46178) adopted by [community governance vote](https://vote.defikingdoms.com/#/proposal/0x2a83ec79bf88a5d8170b831b4c941a934e47ca0c569a40bb8d240666978b73e6) on 9/1/2022, **JEEL emissions on Harmony have ended and locked JEWEL will not unlock according to the original schedule.**
+
+Existing locked JEWEL tokens will be automatically redistributed as CRYSTAL, JADE and JEWEL on Crystalvale and Serendale 2.0. This airdrop will take place alongside the launch of Serendale 2.0. Vested tokens will unlock retroactively to the start of the original Locked JEWEL unlocking schedule.
+
+![](../../.gitbook/assets/locked\_jewel\_distribution.png)
+
+Following the image above, for example, if a user has 100 Locked JEWEL, they will receive approximately:&#x20;
+
+* 44 Locked Crystal (CV)&#x20;
+* 44 Locked Jade (SD 2.0)&#x20;
+* 5.4 Vested Locked Jewel (CV)&#x20;
+* 5.04 Vested Locked Jade (SD 2.0)&#x20;
+* 1.56 Unlocked Jade (SD 2.0)
+{% endhint %}
+
+{% hint style="info" %}
+On account of the above, the information below about the original Serendale JEWEL Gardens is no longer applicable, but has been left here for reference.
+{% endhint %}
+
 ### Issuance Schedule
 
 The issuance of JEWEL as rewards for staking LP tokens in the Garden is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is 302,400 blocks on the Harmony Blockchain, and the length of each Epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block on the Harmony Blockchain. However, if block speeds are longer than 2 seconds per block on average, an Epoch will last longer than a week.
