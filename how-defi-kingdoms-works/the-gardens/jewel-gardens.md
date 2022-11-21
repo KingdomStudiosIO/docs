@@ -1,7 +1,7 @@
 # JEWEL Gardens
 
 {% hint style="warning" %}
-In accordance with the [updated tokenomics](https://medium.com/defi-kingdoms-official/serendale-2-0-e9db21d46178) adopted by [community governance vote](https://vote.defikingdoms.com/#/proposal/0x2a83ec79bf88a5d8170b831b4c941a934e47ca0c569a40bb8d240666978b73e6) on 9/1/2022, **JEEL emissions on Harmony have ended and locked JEWEL will not unlock according to the original schedule.**
+In accordance with the [updated tokenomics](https://medium.com/defi-kingdoms-official/serendale-2-0-e9db21d46178) adopted by [community governance vote](https://vote.defikingdoms.com/#/proposal/0x2a83ec79bf88a5d8170b831b4c941a934e47ca0c569a40bb8d240666978b73e6) on 9/1/2022, **JEWEL emissions on Harmony have ended and locked JEWEL will not unlock according to the original schedule.**
 
 Existing locked JEWEL tokens will be automatically redistributed as CRYSTAL, JADE and JEWEL on Crystalvale and Serendale 2.0. This airdrop will take place alongside the launch of Serendale 2.0. Vested tokens will unlock retroactively to the start of the original Locked JEWEL unlocking schedule.
 
