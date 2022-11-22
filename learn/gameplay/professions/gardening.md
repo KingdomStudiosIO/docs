@@ -6,9 +6,9 @@ coverY: 17.238183503243746
 
 # Gardening
 
-> A friend of the gardens is a friend of mine. Please, let me show you our ways. Together, we can grow a beautiful field.
-
 **Gardening Quests** can be performed by up to two Heroes at a time in each of the incentivized liquidity pools listed in the **Seed Box** in the Gardens. These quests award **Power Tokens** and **JEWEL**, as well as **Plants** and other rare items.
+
+> _A friend of the gardens is a friend of mine. Please, let me show you our ways. Together, we can grow a beautiful field._
 
 Gardening Quests are begun in the **Professions** area by speaking to the **Gardener**. Heroes may Garden in any of the available Gardens, but increased **Token Rewards** are only available from those in which the player has planted seeds, and the Token _****_ yield increases with the number of seeds planted by the player in that particular garden.
 
