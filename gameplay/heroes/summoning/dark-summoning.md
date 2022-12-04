@@ -53,7 +53,7 @@ Dark Summoned Heroes are eligible to immediately [level up](../../../learn/gamep
 
 The base rarity chances for Dark Summoned Heroes are increased from regular Summoning as follows:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Base Rarity chances for Dark Summoned Heroes</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Base Rarity chances for Dark Summoned Heroes</p></figcaption></figure>
 
 #### Rarity Floor
 

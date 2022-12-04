@@ -1,13 +1,10 @@
 # Table of contents
 
 * [DeFi Kingdoms](README.md)
-* [Realms](realms/README.md)
-  * [Serendale 1.0](realms/serendale-1.0.md)
-  * [Crystalvale](realms/crystalvale.md)
-  * [Serendale 2.0](realms/serendale-2.0.md)
 
 ## How DeFi Kingdoms Works
 
+* [Realms](how-defi-kingdoms-works/realms.md)
 * [Power Tokens](how-defi-kingdoms-works/power-tokens/README.md)
   * [JEWEL Token](how-defi-kingdoms-works/power-tokens/jewel-token.md)
   * [CRYSTAL Token](how-defi-kingdoms-works/power-tokens/crystal-token.md)
