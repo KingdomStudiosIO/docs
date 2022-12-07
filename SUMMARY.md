@@ -56,7 +56,7 @@
 * [Pets](learn/gameplay/heroes/pets.md)
 * [Events](gameplay/events/README.md)
   * [The Perilous Journey](learn/the-perilous-journey.md)
-  * [Vithraven's Reawakening](learn/vithravens-reawakening.md)
+  * [Adelyn's Reawakening](gameplay/events/gen0-reroll.md)
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
