@@ -33,4 +33,4 @@ Since both CRYSTAL and JADE share much of the same utility (for example, they ca
 
 Additionally, JEWEL is used for gas fees on the [DFK Chain](../defi-kingdoms-blockchain.md), where the gameplay transactions for Crystalvale take place.&#x20;
 
-Specific information about each token can be found on the [JEWEL Token](jewel-token.md), [CRYSTAL Token](crystal-token.md), and [JADE Token](crystal-token-1.md) pages and issuance schedules for each can be found on the [Ice Gardens](../the-gardens/ice-gardens.md) and [JADE Gardens](../the-gardens/ice-gardens-1.md) pages.
+Specific information about each token can be found on the [JEWEL Token](jewel-token.md), [CRYSTAL Token](crystal-token.md), and [JADE Token](jade-token.md) pages and issuance schedules for each can be found on the [Ice Gardens](../the-gardens/ice-gardens.md) and [JADE Gardens](../the-gardens/jade-gardens.md) pages.
