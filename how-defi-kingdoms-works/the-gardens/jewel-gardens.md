@@ -3,17 +3,17 @@
 {% hint style="warning" %}
 In accordance with the [updated tokenomics](https://medium.com/defi-kingdoms-official/serendale-2-0-e9db21d46178) adopted by [community governance vote](https://vote.defikingdoms.com/#/proposal/0x2a83ec79bf88a5d8170b831b4c941a934e47ca0c569a40bb8d240666978b73e6) on 9/1/2022, **JEWEL emissions on Harmony have ended and locked JEWEL will not unlock according to the original schedule.**
 
-Existing locked JEWEL tokens will be automatically redistributed as CRYSTAL, JADE and JEWEL on Crystalvale and Serendale 2.0. This airdrop will take place alongside the launch of Serendale 2.0. Vested tokens will unlock retroactively to the start of the original Locked JEWEL unlocking schedule.
+Existing locked JEWEL tokens will be automatically redistributed as CRYSTAL, JADE and JEWEL on Crystalvale and Serendale 2.0. This airdrop will take place alongside the launch of Serendale 2.0. Vested tokens will unlock retroactively to the start of the original Locked JEWEL unlocking schedule on September 24, 2022 ([Harmony Block #31,772,767](https://explorer.harmony.one/block/31772767)).
 
 ![](../../.gitbook/assets/locked\_jewel\_distribution.png)
 
-Following the image above, for example, if a user has 100 Locked JEWEL, they will receive approximately:&#x20;
+The final percentages of this redistribution are as follows:
 
-* 44 Locked Crystal (CV)&#x20;
-* 44 Locked Jade (SD 2.0)&#x20;
-* 5.4 Vested Locked Jewel (CV)&#x20;
-* 5.04 Vested Locked Jade (SD 2.0)&#x20;
-* 1.56 Unlocked Jade (SD 2.0)
+* **Locked CRYSTAL**: 44.07342236579% (DFK Chain)
+* **Locked JADE**: 44.07342236579% (Klaytn)
+* **Vested JADE**: 5.806824466532% (Klaytn)
+* **Vested JEWEL**: 4.283393907257% (DFK Chain)
+* **Liquid JADE**: 1.762936894631% (Klaytn)
 {% endhint %}
 
 {% hint style="info" %}

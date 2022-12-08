@@ -17,7 +17,7 @@ Players receive cJEWEL or sJEWEL tokens by **locking their JEWEL** in the Jewele
 
 cJEWEL/sJEWEL tokens are **soulbound** to the wallet that generates them and cannot be transferred or traded. Players may hold their cJEWEL/sJEWEL after the locking period has expired and still receive rewards and governance power.&#x20;
 
-### &#x20;**Benefits to Holding**
+### **Benefits to Holding**
 
 The four main benefits to holding cJEWEL are: Governance, fee distribution, in-game enhancements and premium feature access (Power-Ups), and token locking.
 
@@ -109,7 +109,7 @@ Power-Up rewards may include bonuses to Hero experience, reduced in-game fees, a
 ### Contract Addresses
 
 * cJEWEL (DFK Chain): [`0x9ed2c155632C042CB8bC20634571fF1CA26f5742`](https://subnets.avax.network/defi-kingdoms/address/0x9ed2c155632C042CB8bC20634571fF1CA26f5742)
-* sJEWEL (Klaytn): Coming Soon
+* sJEWEL (Klaytn): [`0xaA8548665bCC12C202d5d0C700093123F2463EA6`](https://scope.klaytn.com/token/0xaa8548665bcc12c202d5d0c700093123f2463ea6)
 
 ## Jeweler 1.0
 

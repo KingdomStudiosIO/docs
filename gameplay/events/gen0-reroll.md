@@ -48,6 +48,6 @@ Only one of these actions may be selected per Gen0 Hero. The following genes wil
 
 Each of the three reroll options provide a number of rewards, with the greatest rewards coming from rerolling both Game and Appearance genes. Rewards include experience bonuses, stat bonuses, bonus items, an effective summon reset, and achievement rewards. The rewards as they relate to the three options available are detailed in the table below:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Rerolling your Gen0 Hero’s genes will help balance the gene pool and kickstart the appearance of new genes across all DeFi Kingdoms realms.

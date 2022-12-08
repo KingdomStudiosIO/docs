@@ -4,11 +4,15 @@
 
 ### CRYSTAL Hard Cap
 
-The CRYSTAL token has a hard cap of 125,000,000 tokens.
+{% hint style="info" %}
+The CRYSTAL cap was raised from 125m as part of the project's [updated tokenomics](https://medium.com/defi-kingdoms-official/serendale-2-0-e9db21d46178). The additional 125m CRYSTAL are being converted from Locked JEWEL into Locked CRYSTAL.
+{% endhint %}
+
+The CRYSTAL token has a hard cap of **250,000,000** tokens.
 
 ### Pre-minting
 
-A pre-mint of 3,000,000 CRYSTAL occurred prior to launch of Crystalvale. These tokens were used in part for initial liquidity with the remainder used to fund a variety of rewards for players.
+A pre-mint of **3,000,000 CRYSTAL** occurred prior to launch of Crystalvale. These tokens were used in part for initial liquidity with the remainder used to fund a variety of rewards for players.
 
 ### Multi-sig Wallet Treasury
 
@@ -16,23 +20,23 @@ A pre-mint of 3,000,000 CRYSTAL occurred prior to launch of Crystalvale. These t
 
 We know there has been concern with some other projects selling a large amount of tokens at launch that left some feeling frustrated in the project. We seek to help put these concerns at ease with these measures to help our community have confidence in the DeFi Kingdoms project.
 
-You can see the addresses of these funds here.
+You can see the addresses of these funds here:
 
-**CRYSTAL Development Fund Multisig:** 0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD  **** &#x20;
+{% hint style="info" %}
+The original [CRYSTAL Quest Fund Multisig](https://subnets.avax.network/defi-kingdoms/address/0x64a3dc745806d9d6e88ea5555F8fdA65B147A31D) has been phased out and replaced with a new [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) smart contract.
+{% endhint %}
 
-**CRYSTAL Marketing Fund Multisig:** 0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9
+* **CRYSTAL Development Fund Multisig:** [`0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD`](https://subnets.avax.network/defi-kingdoms/address/0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD)  **** &#x20;
+* **CRYSTAL Marketing Fund Multisig:** [`0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9`](https://subnets.avax.network/defi-kingdoms/address/0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9)****
+* **CRYSTAL Founders Fund Multisig:** [`0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8`](https://subnets.avax.network/defi-kingdoms/address/0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8)****
+* **Bridge Supply Fund:** [`0x0B608dE616aeC05df2da2BA3179f48e318060E2c`](https://subnets.avax.network/defi-kingdoms/address/0x0B608dE616aeC05df2da2BA3179f48e318060E2c)&#x20;
 
-**CRYSTAL Quest Fund Multisig:** 0x64a3dc745806d9d6e88ea5555F8fdA65B147A31D
+Initial Liquidity LP tokens are held in the Marketing Fund Multisig.
 
-**CRYSTAL Founders Fund Multisig:** 0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8
+#### **Multisig Signer Addresses:**&#x20;
 
-**Bridge Supply Fund:** 0x0B608dE616aeC05df2da2BA3179f48e318060E2c&#x20;
-
-**Initial Liquidity LP tokens are held in the Marketing Fund Multisig.**
-
-**Multisig Member Addresses:** \
-_****_Frisky Fox (Geraldi): _****_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
-Dreamer (Dre4mer): 0x4843D7c40D65f7bdb90706255052b714C5bfB78A\
-Bolon Soron: 0x2f26B3426504c28C29b6eDecae399D54717526CF\
-Professor Tango: 0xca29713bca46e6854d50fe5e6c48b6e763c93f47\
-Mr. Faun: 0x0ad746c71AA4a329F0232997C8db4467EC033e14
+* Frisky Fox (Geraldi): _****_ `0x17D717EB3DD20a202dce9e8e396A444db1Af1D28`
+* Professor Tango: `0x03B5c81d9759eb3ca12b2201891e61EE4bDfBB7A`
+* Bolon Soron: `0x3F0Ef7Db4C124E1Cb377DB1Ff398ab43DA9b57EA`&#x20;
+* Sashei: `0x42C1B36BB243bFE02326473EC02a3488b55183E5`&#x20;
+* Pine Cone: `0x826c3c6946cAF394c8811814Bb54B56480E39aa9`
