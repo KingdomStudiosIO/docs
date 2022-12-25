@@ -36,5 +36,5 @@ For full information on Summoning, visit the main [Summoning](../../../gameplay/
 
 ## Shininess
 
-In addition to rarity, every Hero has a small chance of being shiny, which increases if the Summoning Heroes are also shiny. Being shiny makes heroes more popular among the ladies and gentlemen of the court, ensures they never step in dung, and makes their character card shiny. It has no other use in the game.
+In addition to rarity, every Hero has a small chance of being Shiny, which increases if the Summoning Heroes are also Shiny. Being Shiny makes heroes more popular among the ladies and gentlemen of the court, ensures they never step in dung, and makes their character card Shiny. It has no other use in the game and is purely aesthetic.
 

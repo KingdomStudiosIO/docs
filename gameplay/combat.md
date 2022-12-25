@@ -1,0 +1,114 @@
+---
+description: Details about the DeFi Kingdoms Hero Combat System
+cover: ../.gitbook/assets/archer_volley.gif
+coverY: 0
+---
+
+# Combat
+
+This page details information about the upcoming DeFi Kingdoms Hero combat system that will be used in Player-vs-Player (PVP) and Player-vs-Environment (PVE) combat environments.
+
+{% hint style="warning" %}
+All information on this page is considered "Pre-Alpha" and preliminary, and is therefore subject to change.
+
+_Last Update: 12/25/2022_
+{% endhint %}
+
+## Combat Keywords
+
+**Keywords** have set meanings and impacts on Combat. They define various portions of actions that can be taken and the effects of **Abilities**. The Keyword itself is used as a shorthand to reference its definition.
+
+| Keyword              | Definition                                                                                                                                                                                                                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Action               | A Basic Attack, using an Ability, using a Trait, using an Item, or Repositioning.                                                                                                                                                                |
+| AOE                  | Deal damage to enemies in Position 1, Position 2, and Position 3.                                                                                                                                                                                |
+| Backfire             | <p>If target received Magical damage, mitigate X% of that damage.</p><p>The source of the damage receives damage equal to the mitigated value.</p>                                                                                               |
+| Banish               | <p>Target is removed from the battlefield.</p><p>Target cannot attack or cast an ability.</p><p>Neither ally nor enemy abilities or basic attacks can target this target.</p><p>Interrupts.</p>                                                  |
+| Battle               | A complete PVP/PVE instance.                                                                                                                                                                                                                     |
+| Berserk              | <p>This Hero cannot be controlled for 1 Round and casts a random ability targeting a random enemy or ally target.</p><p>Cannot target self.</p>                                                                                                  |
+| Bleed                | Physical damage that persists over additional Rounds.                                                                                                                                                                                            |
+| Blind                | <p>Hero's accuracy is reduced by 50%.</p><p>This status effect persists until removed.</p>                                                                                                                                                       |
+| Block                | <p>Negates incoming damage from a Hit.</p><p>If an attack has achieved a Hit via Accuracy check, the Block instance reduces that damage to 0%.</p>                                                                                               |
+| Burn                 | Magical damage that persists over additional Rounds after initial damage instance.                                                                                                                                                               |
+| Channel              | A Hero casts a spell so powerful that it requires a full turn (or more) to charge prior to casting the spell.                                                                                                                                    |
+| Cleanse              | Remove all negative status effects from target.                                                                                                                                                                                                  |
+| Cleave               | Deal damage to enemies in Position 1 and Position 2.                                                                                                                                                                                             |
+| Combo                | If a prerequisite action is achieved, a special buff or action can take place upon casting an ability with COMBO.                                                                                                                                |
+| Confused             | <p>Target's Abilities have a 50% chance to target a random alternate target, including self_target.</p><p>Interrupts.</p>                                                                                                                        |
+| Daze                 | <p>Target's next turn is moved to the last in the Round.</p><p>Interrupts.</p>                                                                                                                                                                   |
+| Degree of Difficulty | An ability so complex that its difficulty results in decreased accuracy.                                                                                                                                                                         |
+| Disarm               | <p>Target is unable to Basic Attack or cast an Ability this Round.</p><p>Interrupts.</p>                                                                                                                                                         |
+| Ethereal             | Target cannot be moved, can only cast Magical Abilities and receive only Magic damage.                                                                                                                                                           |
+| Execute              | When a target has less than X% of remaining HP, kill target.                                                                                                                                                                                     |
+| Exhausted            | <p>Hero cannot take an action next turn (for 1 Round).</p><p>Interrupts.</p>                                                                                                                                                                     |
+| Evasion              | <p>EVA creates a chance for target to avoid an incoming attack, whether it be Magic or Physical.</p><p>A 50% EVA would reduce the incoming accuracy of an attack by 50%.</p>                                                                     |
+| Fear                 | <p>If a target is Feared, target is Pushed 1.</p><p>Target cannot perform any action which deals Physical damage for 2 Rounds.</p><p>Interrupts.</p>                                                                                             |
+| First Strike         | <p>Target acts first next Round.</p><p>If more than one target has First Strike, the target with the highest AGI acts first.</p>                                                                                                                 |
+| Interrupt            | An ability that stops a target from Channeling an Ability and resets the Ability and Mana cost.                                                                                                                                                  |
+| Item                 | A non-weapon physical object usable in battle. Stored in inventory like Potions and Tinctures.                                                                                                                                                   |
+| Lifesteal            | Each Basic Attack or Ability Damage returns X% of damage dealt as HP.                                                                                                                                                                            |
+| Mana Burn            | Damage dealt to target reduces target's Mana.                                                                                                                                                                                                    |
+| Pierce               | If target has damage resistance, deal damage as if that resistance is X% less, where X = the ability's Pierce.                                                                                                                                   |
+| Poison               | <p>Physical damage that accelerates over time.</p><p>Deal damage equal to 2% of Hero's max HP at the beginning of each Round.</p><p>Each Round it persists stacks an additional 2% of max HP damage.</p><p>Capped at 20% of max HP per turn.</p> |
+| Pull                 | <p>An ability that moves target 1 Position forward.</p><p>Interrupts.</p>                                                                                                                                                                        |
+| Push                 | <p>An ability that moves target 1 Position backward.</p><p>Interrupts.</p>                                                                                                                                                                       |
+| Reposition           | A Hero can spend its turn moving to a different Position that is one (1) Position away: P1 to P2, P2 to P3, P3 to P2, etc.                                                                                                                       |
+| Riposte              | <p>If target received Physical damage, mitigate X% of that damage.</p><p>The source of the damage receives damage equal to the mitigated value.</p>                                                                                              |
+| Round                | Starting with 1 Hero, fully rotating through all Hero turns until the starting Hero is up again.                                                                                                                                                 |
+| Sanjo Hair           | Target Monster with Sanjo Hair cannot be Pushed, Pulled, Dazed, or Stunned.                                                                                                                                                                      |
+| Silence              | <p>If a Hero is Silenced, it cannot deal Magical damage, Heal, or cast a Magical ability for 2 Rounds.</p><p>Interrupts.</p>                                                                                                                     |
+| Sleep                | <p>Target enemy is unable to take actions until targeted by an ability from either an enemy or ally.</p><p>Interrupts.</p>                                                                                                                       |
+| Slow                 | <p>Reduces the target's AGI.</p><p>A 50% Slow would result in a Hero with 10 AGI to function with an effective AGI of 5 in combat.</p>                                                                                                           |
+| Stacks               | <p>A value that is additive.</p><p>Example, an ability that adds 1% damage over 3 instances, adds 3% damage.</p>                                                                                                                                 |
+| Status Effect        | Any lasting ability that buffs or debuffs a target.                                                                                                                                                                                              |
+| Stun                 | <p>Target's next turn is skipped (one Round skipped).</p><p>Interrupts.</p>                                                                                                                                                                      |
+| Turn                 | 1 Hero Action. 1 round is over after all participants have taken 1 turn.                                                                                                                                                                         |
+| Unstoppable          | Cannot be affected by negative Status Effects.                                                                                                                                                                                                   |
+| Untargetable         | Neither ally nor enemy abilities or basic attacks can target this Hero.                                                                                                                                                                          |
+
+## Genetic Traits
+
+Heroes all have **Genetic Traits**, some of which are **Active** and some **Passive**, all of which are broken down into Basic, Advanced, Elite, and Exalted tiers.&#x20;
+
+### **Active Traits**
+
+A Hero’s **Active Traits** can be activated once per Battle and use an Action. They have no Mana cost.
+
+| Trait     | Name            | Function                                                                                                                                                            |
+| --------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Basic1    | Poisoned Blade  | <p>Deal damage to target enemy equal to (<code>1.0*Basic</code>).</p><p>This attack has an 80% chance to Poison target enemy.</p>                                   |
+| Basic2    | Blinding Winds  | <p>Deal damage to target enemy equal to (<code>1.0*Basic</code>).</p><p>This attack has an 80% chance to Blind target enemy.</p>                                    |
+| Basic3    | Heal            | Heal target Hero for 20% of max HP.                                                                                                                                 |
+| Basic4    | Cleanse         | Cleanse target Hero.                                                                                                                                                |
+| Basic5    | Iron Skin       | Reduce Physical damage taken by 20% for 4 Rounds.                                                                                                                   |
+| Basic6    | Speed           | Gain First Strike in each of the next 2 Rounds.                                                                                                                     |
+| Basic7    | Critical Aim    | <p>Activate to gain an additional 70% chance to Crit for 2 Rounds.</p><p>Deal damage to target enemy equal to (<code>1.0*Basic</code>).</p>                         |
+| Basic8    | Deathmark       | <p>Target enemy receives 20% increased damage from allies for 2 Rounds.</p><p>Deal damage to target enemy equal to (<code>1.0*Basic</code>).</p>                    |
+| Advanced1 | Exhaust         | <p>Deal damage to target enemy equal to (<code>1.0*Basic</code>).</p><p>Exhaust target enemy.</p>                                                                   |
+| Advanced2 | Daze            | <p>Deal damage to target enemy equal to (<code>1.0*Basic</code>).</p><p>Daze target enemy.</p>                                                                      |
+| Advanced3 | Explosion       | <p>Deal damage to target enemy equal to (<code>1.0*Basic</code>).</p><p>This attack explodes for 100% of damage dealt in an AOE, dealing damage to all enemies.</p> |
+| Advanced4 | Hardened Shield | Reduce Physical damage taken by 30% for 4 Rounds.                                                                                                                   |
+| Elite1    | Stun            | <p>Deal damage to target enemy equal to (<code>1.0*Basic</code>).</p><p>Stun target enemy for 1 Round.</p>                                                          |
+| Elite2    | Second Wind     | <p>Hero heals itself for 50% of missing HP.</p><p>All party members are healed for 75% of that value.</p>                                                           |
+| Exalted1  | Resurrection    | <p>Return target ally to life.</p><p>Target ally returns Exhausted and with 50% max HP.</p>                                                                         |
+
+### **Passive Traits**
+
+A Hero’s **Passive Traits** are applied while the Hero is present on the battlefield. These Traits can stack, but some have limits.
+
+| Basic1    | Duelist      | When fighting 1v1, gain 20% bonus damage.                                                                                        |
+| --------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Basic2    | Clutch       | Increase damage dealt by 30% when below 30% health.                                                                              |
+| Basic3    | Foresight    | Permanently gain 8% Evasion.                                                                                                     |
+| Basic4    | Headstrong   | 40% chance to not be affected by Daze.                                                                                           |
+| Basic5    | Clear Vision | 40% chance to not be affected by Blind.                                                                                          |
+| Basic6    | Fearless     | 40% chance to not be affected by Fear.                                                                                           |
+| Basic7    | Chatterbox   | 40% chance to not be affected by Silence.                                                                                        |
+| Basic8    | Stalwart     | 40% chance to not be affected by Poison.                                                                                         |
+| Advanced1 | Leadership   | <p>Allies deal 5% bonus damage.</p><p>This bonus cannot exceed 15% team-wide.</p>                                                |
+| Advanced2 | Efficient    | Reduce Mana consumption by 10%.                                                                                                  |
+| Advanced3 | Intimidation | <p>Enemies deal 5% less damage.</p><p>This reduction cannot exceed 15% team-wide.</p>                                            |
+| Advanced4 | Toxic        | Each instance this Hero does damage has a 2% chance to apply Poison.                                                             |
+| Elite1    | Giant Slayer | If target enemy possesses greater HP currently than this Hero, deal 30% bonus damage to Heroes and 10% bonus damage to Monsters. |
+| Elite2    | Last Stand   | <p>When this Hero's health drops below 20%, become Invulnerable for 1 Round.</p><p>Can only occur once per Battle per gene.</p>  |
+| Exalted1  | Second Life  | <p>Upon death, return this Hero to life Exhausted and with 50% max HP.</p><p>Can only occur once per Battle per gene.</p>        |

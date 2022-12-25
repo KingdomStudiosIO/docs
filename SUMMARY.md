@@ -59,6 +59,7 @@
 * [Events](gameplay/events/README.md)
   * [The Perilous Journey](learn/the-perilous-journey.md)
   * [Adelyn's Reawakening](gameplay/events/gen0-reroll.md)
+* [Combat](gameplay/combat.md)
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 

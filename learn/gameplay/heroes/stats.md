@@ -1,18 +1,18 @@
 # Stats
 
-Heroes come in many varieties, and it would help to understand more about them before picking one. Let’s start with a hero's stats. The capabilities of all heroes are governed by the same set of stats. Each hero’s starting stats will be determined by their class, their stat bonus genes, their rarity, and bonuses applied during the summoning process (granted by the summoners spending extra Gaia’s tears and/or certain enhancement stones).
+Heroes come in many varieties, and it would help to understand more about them before picking one. Let’s start with a Hero's stats. The capabilities of all Heroes are governed by the same set of stats. Each Hero’s starting stats will be determined by their class, their stat bonus genes, their rarity, and bonuses applied during the summoning process (granted by the summoners spending extra Gaia’s Tears and/or certain Enhancement Stones).
 
 ## Hit Points (HP)
 
-Hit Points is the measure of how alive a hero is. If they become injured, they will need to rest or use potions to recover HP. If this goes to 0, the hero can become exhausted, or worse…
+Hit Points are the measure of how alive a Hero is. If they become injured, they will need to rest or use potions to recover HP. If this goes to 0, the Hero can become exhausted, or worse…
 
 ## Mana Points (MP)
 
-Mana Points are used to cast spells and use skills. When this reaches zero, the hero can no longer use spells or skills until they use a potion.
+Mana Points are used to cast spells and use skills. When this reaches zero, the Hero can no longer use spells or skills until they use a Mana Potion.
 
 ## Stamina
 
-Stamina is used to perform quests. If the hero has no stamina, they must rest naturally (1 stamina recovered every 20 minutes) or go to the inn and pay JEWELs to drastically increase their stamina recovery rate.
+Stamina is used to perform Quests. If the Hero has no stamina, they must rest naturally (1 stamina recovered every 20 minutes) or go to the inn and pay JEWELs to drastically increase their stamina recovery rate.
 
 ## Strength (STR)
 
@@ -24,7 +24,7 @@ Dexterity plays a lesser role in defense, and modifies attack damage from certai
 
 ## Agility (AGI)
 
-Agility determines the time between a hero’s actions in combat. It also plays a role in evasion.
+Agility determines the time between a Hero’s actions in combat. It also plays a role in Evasion.
 
 ## Vitality (VIT)
 
@@ -36,12 +36,12 @@ Endurance adds to defense, and increases debuff resistance.
 
 ## Intelligence (INT)
 
-Intelligence adds a multiplier to various actions, especially skills and magic, and modifies magic evasion. This stat also plays into how much MP is gained when leveling up.
+Intelligence adds a multiplier to various actions, especially skills and magic, and modifies Magic Evasion. This stat also plays into how much MP is gained when leveling up.
 
 ## Wisdom (WIS)
 
-Adds a multiplier to magic attacks and skills and increases magic defense. This stat also plays into how much MP is gained when leveling up (to a lesser extent than INT).
+Adds a multiplier to magic attacks and skills and increases Magic Defense. This stat also plays into how much MP is gained when leveling up (to a lesser extent than INT).
 
 ## Luck (LCK)
 
-The higher a hero’s luck, the more likely it is for a hero to land a critical strike. Luck also slightly increases chances to get rare items and plays a small role in evasion.
+The higher Hero’s luck, the more likely it is for a Hero to land a critical strike. Luck also slightly increases chances to find rare items during Quests and plays a small role in Evasion.
