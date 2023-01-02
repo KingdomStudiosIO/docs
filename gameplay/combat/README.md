@@ -1,6 +1,6 @@
 ---
 description: Details about the DeFi Kingdoms Hero Combat System
-cover: ../.gitbook/assets/archer_volley.gif
+cover: ../../.gitbook/assets/archer_volley.gif
 coverY: 0
 ---
 
