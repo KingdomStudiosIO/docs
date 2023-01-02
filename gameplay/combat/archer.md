@@ -20,7 +20,7 @@ A formidable choice for those who possess the ability to make swift decisions an
 
 Wary of close-quarters combat, Archers observe their enemies from afar with keen eyes and dexterous fingers, making split-second decisions to help their companions against man or beast. Having an Archer in a party can tilt the odds before the battle begins as they rain arrows on their foes.
 
-Three familiar archetypes guide the class fantasy of the Archer, all of which keep the enemy at a safe distance. The Flurry path honors those who seek to deliver death through a thousand cuts, while the Precision path speaks to the patient Heroes who wait for the optimal moment to strike. And for those with piercing minds and more than a sprinkle of Luck on their side, the Marksmanship path offers unique rewards.
+Three familiar archetypes guide the class fantasy of the Archer, all of which keep the enemy at a safe distance. The **Flurry** path honors those who seek to deliver death through a thousand cuts, while the **Precision** path speaks to the patient Heroes who wait for the optimal moment to strike. And for those with piercing minds and more than a sprinkle of Luck on their side, the **Marksmanship** path offers unique rewards.
 
 Skill and cunning are required to master the Archer class, whether you prefer to strike quickly or wait for the perfect opportunity.
 
