@@ -2,27 +2,29 @@
 
 ## Ecosystem Token
 
-When DeFi Kingdoms: Serendale launched on Harmony, the JEWEL token launched alongside it. Unlike the average crypto token, JEWEL acts as the main token of value in a metaverse game, giving it utility above and beyond that of a regular coin.&#x20;
+When DeFi Kingdoms: Serendale launched on Harmony, the [JEWEL](jewel-token.md) token launched alongside it. Unlike the average crypto token, JEWEL acts as the main token of value in a metaverse game, giving it utility above and beyond that of a regular coin.&#x20;
 
-With recent changes to the DeFi Kingdoms tokenomics, JEWEL is now the Ecosystem token that is used across realms. In addition to being the native gas token on DFK Chain, JEWEL is used for in-game Power-Ups, fee distribution opportunities, liquidity pooling, and [governance rights](../the-jeweler.md#governance-votes).
+With recent changes to the DeFi Kingdoms tokenomics, JEWEL is now the Ecosystem token that is used across realms. In addition to being the native gas token on [DFK Chain](../defi-kingdoms-blockchain.md), JEWEL is used for [liquidity pooling in the Gardens](../the-gardens/), and [staking at the Jeweler](../the-jeweler.md) for governance rights, fee distribution opportunities, and in-game Power-Ups.
+
+Players who [stake JEWEL tokens](../the-jeweler.md) receive cJEWEL and sJEWEL on Crystalvale and Serendale, respectively.
 
 ## Power Tokens
 
 With the expansion of DeFi Kingdoms: Crystalvale onto the DFK Chain, each realm now also has its own dedicated Power Token, which is used for all game transactions, such as purchasing Hero and Pet NFTs, summoning new Heroes and hatching Pets, leveling Heroes, and more. Power Tokens can be swapped in the DEX for other tokens and in-game items, pooled for liquidity, and are emitted by the Gardens in each realm.
 
-The Power Token in Crystalvale is CRYSTAL, while the Power Token in Serendale is JADE.
+The Power Token in Crystalvale is [CRYSTAL](crystal-token.md), while the Power Token in Serendale on Klaytn is [JADE](jade-token.md).
 
 ### Transactions & Fee Distribution
 
 Unless otherwise specified throughout these documents, the Power Token fees from every in-game transaction, as applicable, are apportioned to the respective wallets for each realm as follows:
 
 {% hint style="info" %}
-These percentages were last adjusted on 11/4/2022, increasing the amounts allocated to token burn and fee distribution.
+These percentages were last adjusted on November 4, 2022, increasing the amounts allocated to token burn and Jeweler Rewards/fee distribution.
 {% endhint %}
 
 * 5% - Burned
-* 15% - [Jeweler Rewards](../the-jeweler.md#fee-sharing) (cJEWEL / sJEWEL)
-* 30% - Quest Rewards Fund
+* 15% - [Jeweler Rewards](../the-jeweler.md#fee-distribution) (cJEWEL / sJEWEL)
+* 30% - Quest Rewards Fund ([DFK Chain](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) / [Klaytn](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049))
 * 50% - Development Fund
 
 CRYSTAL and JADE are the lifeblood of our project and have features that provide players the opportunity to earn while playing rather than buying games and subscriptions with no potential to recoup costs spent. In DeFi Kingdoms, good gameplay decisions and a little luck have the potential to reward players with actual crypto tokens while they play a game they enjoy.
