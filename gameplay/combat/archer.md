@@ -4,6 +4,8 @@ description: Archer Class Combat Skills
 
 # Archer
 
+<figure><img src="../../.gitbook/assets/archers.png" alt=""><figcaption></figcaption></figure>
+
 This page details information about the Archer class combat skills that will be used in Player-vs-Player (PVP) and Player-vs-Environment (PVE) combat environments.
 
 {% hint style="warning" %}
