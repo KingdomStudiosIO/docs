@@ -64,6 +64,6 @@ Skill and cunning are required to master the Archer class, whether you prefer to
 
 ### Notes
 
-* 10+ point skills cost 10 minus the cost of the basic version of the skill
+* 10+ point skills cost 10 minus the cost of the basic version of the skill and require having the basic version
 * 15 point skills are only available to Heroes with a matching Class/Subclass
 

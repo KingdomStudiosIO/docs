@@ -61,6 +61,7 @@
   * [Adelyn's Reawakening](gameplay/events/gen0-reroll.md)
 * [Combat](gameplay/combat.md)
   * [Archer](gameplay/combat/archer.md)
+  * [Knight](gameplay/combat/knight.md)
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
