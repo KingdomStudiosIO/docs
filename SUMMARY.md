@@ -62,6 +62,7 @@
 * [Combat](gameplay/combat.md)
   * [Archer](gameplay/combat/archer.md)
   * [Knight](gameplay/combat/knight.md)
+  * [Priest](gameplay/combat/priest.md)
 * [Lore](learn/lore.md)
 * [FAQ](learn/faq.md)
 
