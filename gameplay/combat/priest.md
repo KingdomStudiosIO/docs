@@ -16,7 +16,7 @@ _Last Update: 1/16/2023_
 
 ## Class Description
 
-The Priest, a holy warrior anointed with the ancient and mystical power of the divine, is a powerful and versatile class of devoted spellcasters. Each warrior of light wields the magic of prayer, the holy light itself, and an array of gods-given blessings to heal and protect their allies, while channeling the authority of the heavens to smite and vanquish their foes.
+The **Priest**, a holy warrior anointed with the ancient and mystical power of the divine, is a powerful and versatile class of devoted spellcasters. Each warrior of light wields the magic of prayer, the holy light itself, and an array of gods-given blessings to heal and protect their allies, while channeling the authority of the heavens to smite and vanquish their foes.
 
 The codex of the Priest may be easy to stumble upon, but it is not filled with mere trifling incantations. Deep within each holy grimoire dwells formidable blessings that call forth the celestial forces of the light to aid them in battle. While adept in magical weaponry, their faith in the divine is their greatest strength, and it empowers them to become an unrivaled support to their comrades in battle.
 

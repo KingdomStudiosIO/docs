@@ -16,7 +16,7 @@ _Last Update: 1/2/2023_
 
 ## Class Description
 
-Ah, the Archer class.
+Ah, the **Archer** class.
 
 A formidable choice for those who possess the ability to make swift decisions and strike with deadly precision.
 
