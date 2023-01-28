@@ -25,7 +25,7 @@ In order to fund the project and sustain rewards to players, and to avoid passin
 * Development Fund, Marketing Fund, Jeweler - 45% locked
 * Founders Fund - 95% locked
 
-These locking rates allow for the stability and development of the project over time, while continuing to incentivize its long-term growth and success. They also provide guaranteed rewards over a lengthy period of time to players who [stake in the Jeweler](../the-jeweler.md) on each realm.
+These locking rates allow for the stability and development of the project over time, while continuing to incentivize its long-term growth and success. They also provide guaranteed rewards over a lengthy period of time to players who [stake in the Jeweler](../the-jeweler/) on each realm.
 
 ### Locking Model
 
