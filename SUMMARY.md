@@ -63,6 +63,7 @@
 * [Combat](gameplay/combat.md)
   * [Archer](gameplay/combat/archer.md)
   * [Knight](gameplay/combat/knight.md)
+  * [Pirate](gameplay/combat/pirate.md)
   * [Priest](gameplay/combat/priest.md)
   * [Seer](gameplay/combat/seer.md)
   * [Warrior](gameplay/combat/warrior.md)
