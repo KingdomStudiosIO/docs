@@ -62,6 +62,7 @@
   * [Adelyn's Reawakening](gameplay/events/gen0-reroll.md)
 * [Combat](gameplay/combat.md)
   * [Archer](gameplay/combat/archer.md)
+  * [Berserker](gameplay/combat/berserker.md)
   * [Knight](gameplay/combat/knight.md)
   * [Pirate](gameplay/combat/pirate.md)
   * [Priest](gameplay/combat/priest.md)
