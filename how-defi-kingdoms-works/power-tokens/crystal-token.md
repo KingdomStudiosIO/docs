@@ -2,7 +2,7 @@
 
 ![CRYSTAL](../../.gitbook/assets/crystal\_token\_x2.png)
 
-### CRYSTAL Hard Cap
+### CRYSTAL Maximum Supply
 
 The CRYSTAL token has a hard cap of **250,000,000** tokens.
 
@@ -27,7 +27,7 @@ CRYSTAL has the following token allocations:
 
 A pre-mint of **3,000,000 CRYSTAL** occurred prior to launch of Crystalvale. These tokens were used in part for initial liquidity with the remainder used to fund a variety of rewards for players.
 
-### Multisig Wallet Treasury
+### DFK Chain Multisig Wallets
 
 **Our funds are secured in multisig wallets.** These wallets are controlled by 5 members of the project, which may change from time to time. Any transaction requires 3 out of 5 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to make any changes on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed, including the executing wallets.
 

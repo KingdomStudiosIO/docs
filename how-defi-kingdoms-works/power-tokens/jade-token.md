@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/jade_coin_v1-1_scaled_3x_pngcrushed.png" alt=""><figcaption><p>JADE</p></figcaption></figure>
 
-### JADE Hard Cap
+### JADE Maximum Supply
 
 The JADE token has a hard cap of **250,000,000** tokens.
 
@@ -29,9 +29,9 @@ A small amount of JADE was pre-minted prior to launch and distributed as follows
 
 ### **Initial Liquidity**
 
-In addition to the pre-mint of 37,500 JADE, an additional 300,000 JADE (from the liquid JADE distribution to the Dev Fund) plus the equivalent of JEWEL from project funds was allocated toward initial liquidity for the JADE–JEWEL and JADE-KLAY Liquidity Pairs. **These LP Tokens and others created by the project are held in the** [**Liquidity Fund Multisig**](https://scope.klaytn.com/account/0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0) **and never placed in the Gardens.**
+In addition to the pre-mint of 37,500 JADE, an additional 300,000 JADE (from the liquid JADE distribution to the Dev Fund) plus the equivalent of JEWEL from project funds was allocated toward initial liquidity for the JADE–JEWEL and JADE–KLAY Liquidity Pairs. **These LP Tokens and others created by the project are held in the** [**Liquidity Fund Multisig**](https://scope.klaytn.com/account/0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0) **and never placed in the Gardens.**
 
-### **Multisig Wallet Treasury**
+### **Klaytn Multisig Wallets**
 
 Development funds on Klaytn are held in a **single multisig wallet** that requires 3 out of 4 signatures for any transactions to execute. A [portion of fees from in-game transactions](./#transactions-and-fee-distribution) are sent to this address. Additional multisigs are used for other purposes, like holding LP Tokens.
 
