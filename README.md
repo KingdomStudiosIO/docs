@@ -8,7 +8,7 @@ description: Official DeFi Kingdoms Whitepaper, last updated February 21, 2023
 
 ### Introduction
 
-DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol with plans to become a fully-fledged MMORPG in later phases of the Roadmap. The game features DEXs, liquidity pool opportunities, and a market of rare, utility-driven NFTs, which all together create a beautiful, immersive online world in the incredibly nostalgic form of fantasy pixel art. DeFi Kingdoms currently lives on the DFK Chain--an Avalanche subnet--and Klaytn blockchains. Come join our amazing [community](https://www.defikingdoms.com/social.html)!
+DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol with plans to become a fully-fledged MMORPG in later phases of the Roadmap. The game features DEXs, liquidity pool opportunities, and a market of rare, utility-driven NFTs, which all together create a beautiful, immersive online world in the incredibly nostalgic form of fantasy pixel art. DeFi Kingdoms: Crystalvale lives on [DFK Chain](how-defi-kingdoms-works/defi-kingdoms-blockchain.md), an Avalanche subnet, while DeFi Kingdoms: Serendale can be found on the Klaytn blockchain. Come join our amazing [community](https://www.defikingdoms.com/social.html)!
 
 ### The Motivation for Creating DeFi Kingdoms
 
