@@ -6,7 +6,7 @@ description: >-
 
 # FAQ
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GENERAL
+## <img src="https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png" alt="" data-size="line"> GENERAL
 
 ### What is DeFi Kingdoms?
 
@@ -44,7 +44,7 @@ Once you're in the game, you can spend as much or as little as you'd like by add
 
 You can also spend JEWEL to purchase Hero NFTs in the Tavern. They can be used to collect resources through their Professions, and can be paired with other Heroes to Summon new Heroes from the Inner Grove.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) POWER TOKENS
+## <img src="https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png" alt="" data-size="line"> POWER TOKENS
 
 ### How do I purchase JEWEL?
 
@@ -66,7 +66,7 @@ JEWEL is the lifeblood of the DFK economy, and most in-game actions involve eith
 
 You can also [read more about the JEWEL token](../how-defi-kingdoms-works/power-tokens/jewel-token.md) and its tokenomics.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GAME & DEX MECHANICS
+## <img src="https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png" alt="" data-size="line"> GAME & DEX MECHANICS
 
 ### What is the difference between the Jeweler and the Gardens?
 
@@ -102,7 +102,7 @@ Unclaimed rewards from the Gardens are automatically claimed whenever you deposi
 
 The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens/#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw LP Tokens from a garden.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) HEROES & SUMMONING
+## <img src="https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png" alt="" data-size="line"> HEROES & SUMMONING
 
 ### What do Heroes do? Do I need a Hero?
 
@@ -146,7 +146,7 @@ Once you infuse a crystal with the essence of two heroes, it must be brought to 
 
 If you do not see the Infused Crystal after the summoning transaction successfully goes through, please try to refresh the page and open MetaMask for a few seconds (preferably on the Asset overview). You may have to try several times, but this should allow you to see the Infused Crystal.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) HERO STATS, QUESTS, AND PROFESSIONS
+## <img src="https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png" alt="" data-size="line"> HERO STATS, QUESTS, AND PROFESSIONS
 
 ### What are the different Hero rarities and what do they do?
 
@@ -185,7 +185,7 @@ Engaging in a profession quest uses your hero's Stamina. Mining and Gardening dr
 
 [Read more about Professions.](gameplay/professions/)
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) KINGDOMS / LANDS
+## <img src="https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png" alt="" data-size="line"> KINGDOMS / LANDS
 
 ### What are Kingdoms/Land plots?
 
@@ -199,7 +199,7 @@ Kingdoms, or land plots, are an additional kind of NFT that is limited in quanti
 
 Land plots will be available for acquisition in the future. The most reliable way to prepare for land acquisition is to make your Heroes as powerful as possible, but the mechanics for acquiring any specific plot may vary.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) MISCELLANEOUS
+## <img src="https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png" alt="" data-size="line"> MISCELLANEOUS
 
 ### Is DeFi Kingdoms being audited?
 

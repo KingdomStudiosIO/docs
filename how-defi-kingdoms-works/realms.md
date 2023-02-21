@@ -18,4 +18,4 @@ DeFi Kingdoms: Crystalvale launched on March 30, 2022. This was the first expans
 
 <figure><img src="../.gitbook/assets/dfk_serendale2_logo 480.png" alt=""><figcaption></figcaption></figure>
 
-DeFi Kingdoms: Serendale will re-launch on the Klaytn blockchain on December 7, 2022, using the new Power Token, JADE, and bringing additional Hero classes and an updated flavor to match its new home.
+DeFi Kingdoms: Serendale relaunched on the Klaytn blockchain on December 7, 2022, using the new Power Token, JADE, and bringing additional Hero classes and an updated flavor to match its new home.

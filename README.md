@@ -1,5 +1,5 @@
 ---
-description: Official DeFi Kingdoms Whitepaper, last updated January 27, 2023
+description: Official DeFi Kingdoms Whitepaper, last updated February 21, 2023
 ---
 
 # DeFi Kingdoms
@@ -8,7 +8,7 @@ description: Official DeFi Kingdoms Whitepaper, last updated January 27, 2023
 
 ### Introduction
 
-DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol with plans to become a fully-fledged MMORPG in later phases of the Roadmap. The game features DEXs, liquidity pool opportunities, and a market of rare, utility-driven NFTs, which all together create a beautiful, immersive online world in the incredibly nostalgic form of fantasy pixel art. DeFi Kingdoms currently lives on the Harmony and DFK Chain blockchains. Come join our amazing [community](https://www.defikingdoms.com/social.html)!
+DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol with plans to become a fully-fledged MMORPG in later phases of the Roadmap. The game features DEXs, liquidity pool opportunities, and a market of rare, utility-driven NFTs, which all together create a beautiful, immersive online world in the incredibly nostalgic form of fantasy pixel art. DeFi Kingdoms currently lives on the DFK Chain--an Avalanche subnet--and Klaytn blockchains. Come join our amazing [community](https://www.defikingdoms.com/social.html)!
 
 ### The Motivation for Creating DeFi Kingdoms
 
@@ -16,4 +16,4 @@ As big fans of the innovation happening in DeFi and in blockchain technology in 
 
 ### A Dedicated Team and a Shared Vision
 
-We wanted a DEX that allows holders to not just hold a monetary token, but own a token that is usable, valuable, and gives back in many fun ways. We’ve packaged DeFi elements into a fun and synergistic game, providing JEWEL and CRYSTAL token holders with an engaging and meaningful experience. We’re here for the long term, planning features for phases soon to come–and some a little further down the road–to set this community and project up for maximum success.
+We wanted a DEX that allows holders to not just hold a monetary token, but own a token that is usable, valuable, and gives back in many fun ways. We’ve packaged DeFi elements into a fun and synergistic game, providing JEWEL, CRYSTAL, and JADE token holders with an engaging and meaningful experience. We’re here for the long term, planning features for phases soon to come–and some a little further down the road–to set this community and project up for maximum success.

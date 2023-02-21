@@ -4,6 +4,6 @@ Much of the gameplay in DeFi Kingdoms is centered around [Heroes](../learn/gamep
 
 ![The Tavern](../.gitbook/assets/Tavern.JPG)
 
-If you don't have enough JEWEL yet to purchase a Hero, that's ok, too! You can invest what you do have through the [Jeweler](../learn/gameplay/jeweler.md) (DEX fee distribution) or in the Gardens (liquidity pooling) to begin earning more JEWEL. Of course, you'll need to visit the [Marketplace](../learn/gameplay/marketplace.md) to trade for JEWEL in the first place.
+If you don't have enough CRYSTAL or JADE yet to purchase a Hero, that's ok, too! You can deposit what you do have through the [Jeweler](../learn/gameplay/jeweler.md) (DEX & game fee distribution) or in the Gardens (liquidity pooling) to begin earning more tokens. Of course, you'll need to visit the [Marketplace](../learn/gameplay/marketplace.md) to trade for JEWEL in the first place.
 
 The possibilities for gameplay and earning in DeFi Kingdoms are many and varied, so don't hesitate to explore this guide further to learn more about the options available to you!
