@@ -4,9 +4,9 @@
 
 When DeFi Kingdoms: Serendale launched on Harmony, the [JEWEL](jewel-token.md) token launched alongside it. Unlike the average crypto token, JEWEL acts as the main token of value in a metaverse game, giving it utility above and beyond that of a regular coin.&#x20;
 
-With recent changes to the DeFi Kingdoms tokenomics, JEWEL is now the Ecosystem token that is used across realms. In addition to being the native gas token on [DFK Chain](../defi-kingdoms-blockchain.md), JEWEL is used for [liquidity pooling in the Gardens](../the-gardens/), and [staking at the Jeweler](../the-jeweler/) for governance rights, fee distribution opportunities, and in-game Power-Ups.
+With recent changes to the DeFi Kingdoms tokenomics, JEWEL is now the Ecosystem token that is used across realms. In addition to being the native gas token on [DFK Chain](../defi-kingdoms-blockchain.md), JEWEL is used for [liquidity pooling in the Gardens](../the-gardens/), and [staking at the Jeweler](../the-jeweler/) for governance rights, fee distribution opportunities, and in-game [Power-Ups](../the-jeweler/power-ups.md).
 
-Players who [stake JEWEL tokens](../the-jeweler/) receive cJEWEL and sJEWEL on Crystalvale and Serendale, respectively.
+Players who [stake JEWEL tokens](../the-jeweler/) receive cJEWEL in Crystalvale and sJEWEL in Serendale.
 
 ## Power Tokens
 
