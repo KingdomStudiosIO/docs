@@ -45,7 +45,7 @@
     * [Foraging](learn/gameplay/professions/foraging.md)
     * [Gardening](learn/gameplay/professions/gardening.md)
     * [Gold Mining](learn/gameplay/professions/gold-mining.md)
-    * [Token Mining](learn/gameplay/professions/jewel-mining.md)
+    * [Token Mining](gameplay/quests/professions/token-mining.md)
   * [Training Quests](learn/gameplay/training-quests.md)
 * [Items](gameplay/items/README.md)
   * [Attunement Crystals](learn/gameplay/heroes/attunement-crystals/README.md)

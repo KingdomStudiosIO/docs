@@ -12,7 +12,7 @@ coverY: 0
 
 Token Mining Quests are begun in the **Professions** zone by speaking to the **Miner** or **Pickman**, depending on the realm. Heroes may only begin Token Mining Quests if the player has a locked balance of the realm's Power Token. The token yield increases with the locked balance of the player—up to a specific limit—as well as the stats of the Heroes that are sent on the quest.
 
-Token Mining Quests also have a chance to reward Heroes with **Gaia's Tears**, **Runes**, and **Yellow Pet Eggs**. All of these items may be swapped at the Trader for other tokens or items. Some items are also used as reagents in **Potions** and [Enhancement Stones](../heroes/enhancement-stones.md), for hatching [Pets](../heroes/pets.md), and for [leveling Heroes](../heroes/leveling.md).
+Token Mining Quests also have a chance to reward Heroes with **Gaia's Tears**, **Runes**, and **Yellow Pet Eggs**. All of these items may be swapped at the Trader for other tokens or items. Some items are also used as reagents in **Potions** and [Enhancement Stones](../../../learn/gameplay/heroes/enhancement-stones.md), for hatching [Pets](../../../learn/gameplay/heroes/pets.md), and for [leveling Heroes](../../../learn/gameplay/heroes/leveling.md).
 
 ### **Mining Basics**
 
