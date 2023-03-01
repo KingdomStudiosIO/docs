@@ -12,13 +12,15 @@ coverY: 17.238183503243746
 
 Gardening Quests are begun in the **Professions** area by speaking to the **Gardener**. Heroes may Garden in any of the available Gardens, but increased **Token Rewards** are only available from those in which the player has planted seeds, and the Token _****_ yield increases with the number of seeds planted by the player in that particular garden.
 
-The Gardening Quest also has a chance to reward Heroes with **Plants**, **Gaia's Tears**, **Runes**, and **Green Pet Eggs** whether the player has seeds in the garden or not. All plants may be sold to the Vendor in the [Marketplace](../marketplace.md) for **Gold** or swapped at the Trader for other tokens or items. Some items are also used as reagents in **Potions** and [Enhancement Stones](../heroes/enhancement-stones.md), for hatching [Pets](../heroes/pets.md), and for [leveling Heroes](../heroes/leveling.md).
+Any Hero can attempt Gardening Quests, but Heroes with the **Gardening profession gene** will use their Stamina more efficiently and have increased chances of item rewards. Successfully completing a Gardening Quest will grant each Hero a small amount of XP, and a chance toward increasing their **Gardening skill**.
+
+These quests also have a chance to reward Heroes with **Plants**, **Gaia's Tears**, **Runes**, and **Green Pet Eggs** whether the player has seeds in the garden or not. All plants may be sold to the Vendor in the [Marketplace](../marketplace.md) for **Gold** or swapped at the Trader for other tokens or items. Some items are also used as reagents in **Potions** and [Enhancement Stones](../heroes/enhancement-stones.md), for hatching [Pets](../heroes/pets.md), and for [leveling Heroes](../heroes/leveling.md).
 
 ### **Gardening Basics**
 
 #### Duration per Stamina
 
-12 minutes (10 with **Gardening profession gene**)
+12 minutes (10 with the **Gardening profession gene**)
 
 #### Stamina Required
 
@@ -27,6 +29,10 @@ The Gardening Quest also has a chance to reward Heroes with **Plants**, **Gaia's
 #### Required Hero Range
 
 1-2 Heroes per Garden
+
+#### Minimum XP Reward
+
+4 XP per Stamina spent + 8 XP per 5 Stamina spent
 
 ### **Token Rewards**
 

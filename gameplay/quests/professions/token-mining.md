@@ -8,17 +8,19 @@ coverY: 0
 
 **Token Mining Quests** can be performed by up to six Heroes at a time in each realm. These quests unlock [**Power Tokens**](../../../how-defi-kingdoms-works/power-tokens/) from your locked balance, and can award other rare items.
 
-> Ready to start doing some mining for some real treasure, are ye? Let's get ta diggin'! I'll treat ya to some ale if we come back alive!
+> _Ready to start doing some mining for some real treasure, are ye? Let's get ta diggin'! I'll treat ya to some ale if we come back alive!_
 
-Token Mining Quests are begun in the **Professions** zone by speaking to the **Miner** or **Pickman**, depending on the realm. Heroes may only begin Token Mining Quests if the player has a locked balance of the realm's Power Token. The token yield increases with the locked balance of the player—up to a specific limit—as well as the stats of the Heroes that are sent on the quest.
+Token Mining Quests are begun in the **Professions** zone by speaking to the **Miner** or **Pickman**, depending on the realm. Heroes may only begin Token Mining Quests if the player has a locked balance of the realm's Power Token. The token yield increases with the locked balance of the player—up to a specific limit.
 
-Token Mining Quests also have a chance to reward Heroes with **Gaia's Tears**, **Runes**, and **Yellow Pet Eggs**. All of these items may be swapped at the Trader for other tokens or items. Some items are also used as reagents in **Potions** and [Enhancement Stones](../../../learn/gameplay/heroes/enhancement-stones.md), for hatching [Pets](../../../learn/gameplay/heroes/pets.md), and for [leveling Heroes](../../../learn/gameplay/heroes/leveling.md).
+Any Hero can attempt Token Mining Quests, but Heroes with the **Mining profession gene** will use their Stamina more efficiently and have increased chances of item rewards. Successfully completing a Token Mining Quest will grant each Hero a small amount of XP, and a chance toward increasing their **Mining skill**.
+
+These quests also have a chance to reward Heroes with **Gaia's Tears**, **Runes**, and **Yellow Pet Eggs**. All of these items may be swapped at the Trader in the [Marketplace](../../../learn/gameplay/marketplace.md) for other tokens or items. Some items are also used as reagents in **Potions** and [Enhancement Stones](../../../learn/gameplay/heroes/enhancement-stones.md), for hatching [Pets](../../../learn/gameplay/heroes/pets.md), and for [leveling Heroes](../../../learn/gameplay/heroes/leveling.md).
 
 ### **Mining Basics**
 
 #### Duration per Stamina
 
-12 minutes (10 with **Mining profession gene**)
+12 minutes (10 with the **Mining profession gene**)
 
 #### Stamina Required
 
@@ -27,6 +29,10 @@ Token Mining Quests also have a chance to reward Heroes with **Gaia's Tears**, *
 #### Required Hero Range
 
 1-6 Heroes
+
+#### Minimum XP Reward
+
+4 XP per Stamina spent + 8 XP per 5 Stamina spent
 
 ### **Token Rewards**
 
