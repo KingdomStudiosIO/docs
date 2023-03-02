@@ -46,9 +46,16 @@ Gardening Token Rewards use the following formula, which applies to both Power T
 
 Calculated from these variables:
 
-* **`annealingFactor` ** - A multiplier applied at launch that gradually decreases over time, letting the Quest Fund continue to grow. **`annealingFactor`** begins at `50` and decreases every two weeks to a minimum of `1` after 26 weeks.
-  * **`annealingFactor`**` ``= (9100 - 49 * (`**`daysSinceLaunch`**`/ 14) * 14) / 182`
+* **`annealingFactor` ** - A multiplier applied at launch that gradually decreases over time, letting the Quest Fund continue to grow. **`annealingFactor`** begins at `50` and decreases every two weeks to a minimum of `1`.
   * For the purposes of calculating **`daysSinceLaunch`**, Gardening Quests on Crystalvale and Serendale launched on 9/15/2022.
+
+```python
+if daysSinceLaunch < 168:
+    annealingFactor = (9100 - 49 * (daysSinceLaunch / 14) * 14) / 182
+else:
+    annealingFactor = (850 - 25 * ((daysSinceLaunch / 14) - 11)) / 100
+```
+
 * **`rewardPool` ** - The relevant token balance in the [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316).&#x20;
 * **`poolAllocation` ** - The percent of token emissions allocated to the specific garden (in decimals, e.g. `0.1` for 10%).&#x20;
 * **`LPowned` ** - The percent of the Liquidity Pool that the player owns in the selected Garden (in decimals, e.g. `0.0015` for 0.15%).&#x20;

@@ -50,12 +50,11 @@ These values are calculated from the following formulas and variables:
   `heroUnlockRate = (1000 * (0.25 + (`**`STR`**`+`**`END`**`) * 0.000625 + (`**`MinSkl`**`) * 0.0025)) / (6 * (1000 - 166 *`` `**`geneBonus`**`))`
 * **`lockedRatio`** - The ratio between **`minLocked`** and **`lockedPT`**:
 
-```javascript
-if lockedPT > minLocked {
+```python
+if lockedPT > minLocked:
     lockedRatio = (1000 - 166 * geneBonus)
-else
+else:
     lockedRatio = ((1000 - 166 * geneBonus) * minLocked) / lockedPT
-}
 ```
 
 * **`lockedPT`** - The number of locked Power Tokens in the player's wallet.
