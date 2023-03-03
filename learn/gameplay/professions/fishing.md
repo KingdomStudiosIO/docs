@@ -14,7 +14,7 @@ coverY: 0
 
 Fishing Quests are begun in the **Professions** zone by speaking to the **Fisher**. Any Hero can attempt Fishing Quests, but Heroes with the **Fishing profession gene** will use their Stamina more efficiently and have increased chances of item rewards. Successfully completing a Fishing Quest will grant each Hero a small amount of XP, and a chance toward increasing their **Fishing skill**.
 
-These quests have a chance to reward Heroes with **Fish**, **Gaia's Tears**, **Runes**, and **Blue Pet Eggs**. All plants may be sold to the Vendor in the [Marketplace](../marketplace.md) for **Gold** or swapped at the Trader for other tokens or items. Some items are also used as reagents in crafting **Potions** and [Enhancement Stones](../heroes/enhancement-stones.md), for hatching [Pets](../heroes/pets.md), and for [leveling Heroes](../heroes/leveling.md).
+These quests have a chance to reward Heroes with **Fish**, **Gaia's Tears**, **Runes**, and **Blue Pet Eggs**. All fish may be sold to the Vendor in the [Marketplace](../marketplace.md) for **Gold** or swapped at the Trader for other tokens or items. Some items are also used as reagents in crafting **Potions** and [Enhancement Stones](../heroes/enhancement-stones.md), for hatching [Pets](../heroes/pets.md), and for [leveling Heroes](../heroes/leveling.md).
 
 ### Fishing Basics
 
