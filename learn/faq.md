@@ -207,4 +207,4 @@ Yes, an audit by [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms
 
 ### Is the team doxxed?
 
-The team is not currently doxxed for personal reasons, though many of them would like to do so in the future. They encourage you to view their [track record of development](../roadmap/) and commitment to the project, examine the [smart contract audit](../important/audit-results.md), attend the weekly team AMAs (Mondays at 18:00 UTC) on our [Discord server](https://discord.gg/defikingdoms), and, of course, to [DYOR](../important/dyor-disclaimer.md).
+The team is not currently doxxed for personal reasons, though many of them would like to do so in the future. They encourage you to view their [track record of development](../roadmap.md) and commitment to the project, examine the [smart contract audit](../important/audit-results.md), attend the weekly team AMAs (Mondays at 18:00 UTC) on our [Discord server](https://discord.gg/defikingdoms), and, of course, to [DYOR](../important/dyor-disclaimer.md).
