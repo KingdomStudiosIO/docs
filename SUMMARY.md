@@ -60,6 +60,7 @@
   * [Pirate](gameplay/combat/pirate.md)
   * [Priest](gameplay/combat/priest.md)
   * [Seer](gameplay/combat/seer.md)
+  * [Thief](gameplay/combat/thief.md)
   * [Warrior](gameplay/combat/warrior.md)
   * [Wizard](gameplay/combat/wizard.md)
 * [Lore](learn/lore.md)
