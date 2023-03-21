@@ -20,7 +20,7 @@ At the time that Harmony emissions ceased, approximately 112,851,539 JEWEL was c
 
 To account for the reduction in maximum supply and existing locked JEWEL, this difference was  redistributed as CRYSTAL, JADE and JEWEL on Crystalvale and Serendale 2.0. This airdrop took place alongside the launch of Serendale 2.0. Vested tokens are unlocking retroactively to the start of the original Locked JEWEL unlocking schedule on September 24, 2022 ([Harmony Block #31,772,767](https://explorer.harmony.one/block/31772767)).
 
-As of 12/8/2022, all of these distributions except for Locked CRYSTAL have taken place.
+As of 3/20/2023, all of these distributions have taken place.
 
 <img src="../../.gitbook/assets/locked_jewel_distribution.png" alt="" data-size="original">
 

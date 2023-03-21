@@ -7,7 +7,7 @@
 The CRYSTAL token has a hard cap of **250,000,000** tokens.
 
 {% hint style="info" %}
-The CRYSTAL cap was raised from 125m as part of the project's [updated tokenomics](https://medium.com/defi-kingdoms-official/serendale-2-0-e9db21d46178). The additional 125m CRYSTAL tokens are being converted from Locked JEWEL into Locked CRYSTAL.
+The CRYSTAL cap was raised from 125m as part of the project's [updated tokenomics](jewel-token.md#updated-tokenomics). The additional 125m CRYSTAL tokens are being converted from Locked JEWEL into Locked CRYSTAL.
 {% endhint %}
 
 ### Allocations
