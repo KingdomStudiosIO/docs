@@ -106,6 +106,12 @@ Holders of cJEWEL/sJEWEL will be able to activate **in-game enhancements and rew
 
 Power-Up rewards may include bonuses to Hero experience, reduced in-game fees, and access to premium features. These Power-Ups will be implemented over time after the release of cJEWEL.
 
+Learn more:
+
+{% content-ref url="power-ups.md" %}
+[power-ups.md](power-ups.md)
+{% endcontent-ref %}
+
 ### Contract Addresses
 
 * cJEWEL (DFK Chain): [`0x9ed2c155632C042CB8bC20634571fF1CA26f5742`](https://subnets.avax.network/defi-kingdoms/address/0x9ed2c155632C042CB8bC20634571fF1CA26f5742)

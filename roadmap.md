@@ -45,6 +45,14 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### 2023
 
+#### March
+
+* :white\_check\_mark: **Combat Testing Grounds**: Pre-Alpha access to our upcoming PVP combat feature, developed in collaboration with [Wisdom Gaming](https://www.wisdom.gg/). Try out Hero skills and abilities and provide valuable testing and feedback, all while battling a pack of ravenous blubs! New Hero classes and additional functionality will be consistently added to this initial release.
+
+#### February
+
+* :white\_check\_mark: **Deferred Fees & Token Offerings**: The new Deferred Fee Structure allows players to defer game fees by using locked tokens. Token Offerings give players the chance to win Blessings of rare items in exchange for Offerings of locked or unlocked tokens.
+
 #### January
 
 * :white\_check\_mark: **Power-Ups**: Use your cJEWEL and sJEWEL to unlock additional features! The first two Power-Ups allow your Heroes to earn more experience and regain their stamina faster, and many more Power-Ups are slated to launch in the future.
@@ -59,7 +67,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 #### November
 
-* :white\_check\_mark: **Jeweler 2.0 (cJEWEL/sJEWEL)**: Our single staking xJEWEL is replaced with cJewel (Crystalvale) and sJewel (Serendale). Lock your JEWEL to receive ingame fees – the longer you lock, the more cJEWEL/sJEWEL you receive, and with it higher rewards.
+* :white\_check\_mark: **Jeweler 2.0 (cJEWEL/sJEWEL)**: Our single staking xJEWEL is replaced with cJewel (Crystalvale) and sJewel (Serendale). Lock your JEWEL to receive in-game fees – the longer you lock, the more cJEWEL/sJEWEL you receive, and with it higher rewards.
 * :white\_check\_mark: **Dark Summoning**: This feature allows players to sacrifice two Heroes to summon a new Hero. The reward for paying the blood price is that this summoning ritual has lower costs, higher chances for rarer Heroes and some of the parents’ levels carry over.
 
 #### October
