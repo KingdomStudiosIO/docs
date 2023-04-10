@@ -139,34 +139,34 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 #### December
 
-* ****:white\_check\_mark: **Gold Mining Quest**: Mining, the fourth and last Profession Quest kicks off with Gold Mining, allowing players to have their Heroes mine valuable Gold.
-* ****:white\_check\_mark: **Alchemist Zone**: Visit the Alchemist to craft powerful potions that aid your Hero in battle or refresh their Stamina.
-* ****:white\_check\_mark: **Gardening Quest**: Our third Profession Quest, Gardening, is available and allows players to earn rewards based on the amount of Seeds (LP Tokens) they have staked in the Gardens.
-* ****:white\_check\_mark: **Hero Leveling**: Once your Hero’s experience bar is full, they can now visit the **Meditation Circle** zone to level up and improve their stats.
-* ****:white\_check\_mark: **Item Vendor**: The Item Vendor opens shop and allows for the selling of quest rewards for Gold. He also has some valuable items in stock for the player to purchase!
-* ****:white\_check\_mark: **Meditation Circle Zone**: A new zone has been discovered – the Meditation Circle is still charging, but soon your Heroes will be able to use this zone to level up.
-* ****:white\_check\_mark: **Fishing and Foraging Quests**: Our first set of Profession Quests kick off with Fishing and Foraging! Send your Heroes on quests to earn experience, valuable rewards, and materials.
+* :white\_check\_mark: **Gold Mining Quest**: Mining, the fourth and last Profession Quest kicks off with Gold Mining, allowing players to have their Heroes mine valuable Gold.
+* :white\_check\_mark: **Alchemist Zone**: Visit the Alchemist to craft powerful potions that aid your Hero in battle or refresh their Stamina.
+* :white\_check\_mark: **Gardening Quest**: Our third Profession Quest, Gardening, is available and allows players to earn rewards based on the amount of Seeds (LP Tokens) they have staked in the Gardens.
+* :white\_check\_mark: **Hero Leveling**: Once your Hero’s experience bar is full, they can now visit the **Meditation Circle** zone to level up and improve their stats.
+* :white\_check\_mark: **Item Vendor**: The Item Vendor opens shop and allows for the selling of quest rewards for Gold. He also has some valuable items in stock for the player to purchase!
+* :white\_check\_mark: **Meditation Circle Zone**: A new zone has been discovered – the Meditation Circle is still charging, but soon your Heroes will be able to use this zone to level up.
+* :white\_check\_mark: **Fishing and Foraging Quests**: Our first set of Profession Quests kick off with Fishing and Foraging! Send your Heroes on quests to earn experience, valuable rewards, and materials.
 
 #### November
 
-* ****:white\_check\_mark: **Docks Zone**: The Docks open – in the future ships will allow for traveling other regions on other blockchains.
-* ****:white\_check\_mark: **World Map Release**: Players are now able to explore the World Map and directly navigate between zones.
-* ****:white\_check\_mark: **Marketplace Rework #1**: Our Marketplace zone received its first visual rework!
+* :white\_check\_mark: **Docks Zone**: The Docks open – in the future ships will allow for traveling other regions on other blockchains.
+* :white\_check\_mark: **World Map Release**: Players are now able to explore the World Map and directly navigate between zones.
+* :white\_check\_mark: **Marketplace Rework #1**: Our Marketplace zone received its first visual rework!
 
 #### October
 
-* ****:white\_check\_mark: **Tavern & Hero Sales**: The **Scarlet Hearth Tavern** opens it doors, allowing for the buying, selling, and renting of Heroes.
-* ****:white\_check\_mark: **Portal Zone & Hero Summoning**: Players are now able to use two Heroes to summon a new Hero, featuring the genetic traits of the parent Heroes in the newly added Portal zone.
+* :white\_check\_mark: **Tavern & Hero Sales**: The **Scarlet Hearth Tavern** opens it doors, allowing for the buying, selling, and renting of Heroes.
+* :white\_check\_mark: **Portal Zone & Hero Summoning**: Players are now able to use two Heroes to summon a new Hero, featuring the genetic traits of the parent Heroes in the newly added Portal zone.
 
 #### September
 
-* ****:white\_check\_mark: **Genesis Gen0 Sale**: The Gen0 Hero genesis mint marked the launch of our Hero NFTs. The limited 2000 Gen0 Heroes, which sold out in just a few minutes, were the genetic ancestors of all future Serendale Heroes.
+* :white\_check\_mark: **Genesis Gen0 Sale**: The Gen0 Hero genesis mint marked the launch of our Hero NFTs. The limited 2000 Gen0 Heroes, which sold out in just a few minutes, were the genetic ancestors of all future Serendale Heroes.
 
 #### **August**
 
 <figure><img src=".gitbook/assets/DFK Serendale Full Logo DIGITAL.png" alt=""><figcaption></figcaption></figure>
 
-* ****:white\_check\_mark: **DeFi Kingdoms Launch**: On August 22, 2021 DeFi Kingdoms officially launched, featuring a pixel art interface, a decentralized exchange via the **Trader**, and the **Gardens**, allowing for the staking of LP seeds and earning of **JEWEL**.
+* :white\_check\_mark: **DeFi Kingdoms Launch**: On August 22, 2021 DeFi Kingdoms officially launched, featuring a pixel art interface, a decentralized exchange via the **Trader**, and the **Gardens**, allowing for the staking of LP seeds and earning of **JEWEL**.
 
 &#x20;
 

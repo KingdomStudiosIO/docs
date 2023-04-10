@@ -10,7 +10,7 @@ coverY: 17.238183503243746
 
 > _A friend of the gardens is a friend of mine. Please, let me show you our ways. Together, we can grow a beautiful field._
 
-Gardening Quests are begun in the **Professions** area by speaking to the **Gardener**. Heroes may Garden in any of the available Gardens, but increased **Token Rewards** are only available from those in which the player has planted seeds, and the Token _****_ yield increases with the number of seeds planted by the player in that particular garden.
+Gardening Quests are begun in the **Professions** area by speaking to the **Gardener**. Heroes may Garden in any of the available Gardens, but increased **Token Rewards** are only available from those in which the player has planted seeds, and the Token yield increases with the number of seeds planted by the player in that particular garden.
 
 Any Hero can attempt Gardening Quests, but Heroes with the **Gardening profession gene** will use their Stamina more efficiently and have increased chances of item rewards. Successfully completing a Gardening Quest will grant each Hero a small amount of XP, and a chance toward increasing their **Gardening skill**.
 
@@ -46,7 +46,7 @@ Gardening Token Rewards use the following formula, which applies to both Power T
 
 Calculated from these variables:
 
-* **`annealingFactor` ** - A multiplier applied at launch that gradually decreases over time, letting the Quest Fund continue to grow. **`annealingFactor`** begins at `50` and decreases every two weeks to a minimum of `1`.
+* **`annealingFactor`** - A multiplier applied at launch that gradually decreases over time, letting the Quest Fund continue to grow. **`annealingFactor`** begins at `50` and decreases every two weeks to a minimum of `1`.
   * For the purposes of calculating **`daysSinceLaunch`**, Gardening Quests on Crystalvale and Serendale launched on 9/15/2022.
 
 ```python
@@ -56,16 +56,16 @@ else:
     annealingFactor = (850 - 25 * ((daysSinceLaunch / 14) - 11)) / 100
 ```
 
-* **`rewardPool` ** - The relevant token balance in the [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316).&#x20;
-* **`poolAllocation` ** - The percent of token emissions allocated to the specific garden (in decimals, e.g. `0.1` for 10%).&#x20;
-* **`LPowned` ** - The percent of the Liquidity Pool that the player owns in the selected Garden (in decimals, e.g. `0.0015` for 0.15%).&#x20;
+* **`rewardPool`** - The relevant token balance in the [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316).&#x20;
+* **`poolAllocation`** - The percent of token emissions allocated to the specific garden (in decimals, e.g. `0.1` for 10%).&#x20;
+* **`LPowned`** - The percent of the Liquidity Pool that the player owns in the selected Garden (in decimals, e.g. `0.0015` for 0.15%).&#x20;
 * **`WIS`** / **`VIT`** - The value of the Hero's **Wisdom** and **Vitality** stats, respectively.
-* **`GrdSkl` ** - The Hero's **Gardening** skill, rounded down (e.g. use `15` for 15.9 Gardening).&#x20;
-* **`geneBonus` ** - If a Hero has the **Gardening profession gene**, it provides a 20% bonus to Token returns, increases the chances of finding Gaia's Tears and Runes, and decreases the amount of time spent Gardening per stamina from 12 minutes to 10 minutes. If the Hero has this gene, **`geneBonus`**`= 1`, if not, **`geneBonus`**`= 0`.&#x20;
+* **`GrdSkl`** - The Hero's **Gardening** skill, rounded down (e.g. use `15` for 15.9 Gardening).&#x20;
+* **`geneBonus`** - If a Hero has the **Gardening profession gene**, it provides a 20% bonus to Token returns, increases the chances of finding Gaia's Tears and Runes, and decreases the amount of time spent Gardening per stamina from 12 minutes to 10 minutes. If the Hero has this gene, **`geneBonus`**`= 1`, if not, **`geneBonus`**`= 0`.&#x20;
 
 #### Minimum Reward
 
-The minimum Token Reward earned per Stamina spent is .0002. If **`earnRate` ** is below this threshold, it will be raised to .0002.
+The minimum Token Reward earned per Stamina spent is .0002. If **`earnRate`** is below this threshold, it will be raised to .0002.
 
 Minimum rewards are only active when there is at least 420,000 of the appropriate token available in the Quest Reward Fund.
 

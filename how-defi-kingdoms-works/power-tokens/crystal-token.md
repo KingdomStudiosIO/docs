@@ -39,16 +39,16 @@ You can see the addresses of these funds here:
 The original [CRYSTAL Quest Fund Multisig](https://subnets.avax.network/defi-kingdoms/address/0x64a3dc745806d9d6e88ea5555F8fdA65B147A31D) has been phased out and replaced with a new [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) smart contract.
 {% endhint %}
 
-* **Development Fund Multisig:** [`0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD`](https://subnets.avax.network/defi-kingdoms/address/0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD)  **** &#x20;
-* **Marketing Fund Multisig:** [`0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9`](https://subnets.avax.network/defi-kingdoms/address/0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9)****
-* **Founders Fund Multisig:** [`0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8`](https://subnets.avax.network/defi-kingdoms/address/0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8)****
+* **Development Fund Multisig:** [`0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD`](https://subnets.avax.network/defi-kingdoms/address/0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD) &#x20;
+* **Marketing Fund Multisig:** [`0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9`](https://subnets.avax.network/defi-kingdoms/address/0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9)
+* **Founders Fund Multisig:** [`0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8`](https://subnets.avax.network/defi-kingdoms/address/0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8)
 * **Bridge Supply Fund:** [`0x0B608dE616aeC05df2da2BA3179f48e318060E2c`](https://subnets.avax.network/defi-kingdoms/address/0x0B608dE616aeC05df2da2BA3179f48e318060E2c)&#x20;
 
 Initial Liquidity LP tokens are held in the Marketing Fund Multisig.
 
 #### **Multisig Signer Addresses**&#x20;
 
-* Frisky Fox (Geraldi): _****_ `0x17D717EB3DD20a202dce9e8e396A444db1Af1D28`
+* Frisky Fox (Geraldi): `0x17D717EB3DD20a202dce9e8e396A444db1Af1D28`
 * Professor Tango: `0x03B5c81d9759eb3ca12b2201891e61EE4bDfBB7A`
 * Bolon Soron: `0x3F0Ef7Db4C124E1Cb377DB1Ff398ab43DA9b57EA`
 * Sashei: `0x42C1B36BB243bFE02326473EC02a3488b55183E5`

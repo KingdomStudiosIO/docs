@@ -24,8 +24,8 @@ JADE has the following token allocations:
 
 A small amount of JADE was pre-minted prior to launch and distributed as follows:
 
-* ****[**Klaytn Utility Wallet**](https://scope.klaytn.com/account/0xfECBd8Dd13fB958594Ad5d22d477786622A58Bca)**: 37,500  JADE**— for initial LP Liquidity
-* ****[**Klaytn Quest Reward Fund**](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049)**: 750,000 JADE** — for Gardening Quest rewards
+* [**Klaytn Utility Wallet**](https://scope.klaytn.com/account/0xfECBd8Dd13fB958594Ad5d22d477786622A58Bca)**: 37,500  JADE**— for initial LP Liquidity
+* [**Klaytn Quest Reward Fund**](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049)**: 750,000 JADE** — for Gardening Quest rewards
 
 ### **Initial Liquidity**
 
@@ -35,8 +35,8 @@ In addition to the pre-mint of 37,500 JADE, an additional 300,000 JADE (from the
 
 Development funds on Klaytn are held in a **single multisig wallet** that requires 3 out of 4 signatures for any transactions to execute. A [portion of fees from in-game transactions](./#transactions-and-fee-distribution) are sent to this address. Additional multisigs are used for other purposes, like holding LP Tokens.
 
-* **Development Fund Multisig:** [`0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D`](https://scope.klaytn.com/account/0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D)****
-* **Liquidity Fund Multisig:** [`0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0`](https://scope.klaytn.com/account/0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0)****
+* **Development Fund Multisig:** [`0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D`](https://scope.klaytn.com/account/0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D)
+* **Liquidity Fund Multisig:** [`0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0`](https://scope.klaytn.com/account/0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0)
 
 #### **Multisig Signer Addresses:**
 

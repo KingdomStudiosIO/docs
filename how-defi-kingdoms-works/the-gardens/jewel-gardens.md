@@ -94,4 +94,3 @@ Below are two simplified examples that show how the locking model works. For the
 |  Epoch 9 |              21%             |             79%            |                10.9               |              61.4             |            230.8            |             0.0             |            0.0            |
 | Epoch 10 |              23%             |             77%            |                9.4                |              69.4             |            232.2            |             69.4            |           232.2           |
 
-****

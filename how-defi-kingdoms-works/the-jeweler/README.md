@@ -132,4 +132,4 @@ When the player withdrew, they exchanged their xToken for the Power Token. The l
 #### DFK Chain&#x20;
 
 * xCRYSTAL: [`0x6e7185872bcdf3f7a6cbbe81356e50daffb002d2`](https://subnets.avax.network/defi-kingdoms/address/0x6e7185872bcdf3f7a6cbbe81356e50daffb002d2)
-* xJEWEL: [`0x77f2656d04E158f915bC22f07B779D94c1DC47Ff`](https://subnets.avax.network/defi-kingdoms/token/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff)``
+* xJEWEL: [`0x77f2656d04E158f915bC22f07B779D94c1DC47Ff`](https://subnets.avax.network/defi-kingdoms/token/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff)

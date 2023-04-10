@@ -77,7 +77,7 @@ JEWEL initially had the following token allocations:
 * **5,000,000 JEWEL**: Allocated to the Development Fund Multisig Safe to fund the future development of the game. These tokens were time-locked and released over a set schedule as features are completed.
 * **2,000,000 JEWEL**: Allocated to the Marketing Fund Multisig Safe for promotion of the project, including marketing, airdrops, etc. These tokens were also time-locked to release slowly over the next few years to ensure that there are always funds available to market the game and acquire new players and traders.
 * **2,000,000 JEWEL**: Allocated for initial liquidity. These tokens were matched with ONE tokens to form the initial liquidity pool and will not be withdrawn or sold.
-  * **Initial Liquidity Fund: **_****_ The LP tokens from the initial liquidity are permanently held in the [Marketing Fund Multsig Safe](https://explorer.harmony.one/address/0x3875e5398766a29c1b28cc2068a0396cba36ef99), and will never be broken.
+  * **Initial Liquidity Fund:** The LP tokens from the initial liquidity are permanently held in the [Marketing Fund Multsig Safe](https://explorer.harmony.one/address/0x3875e5398766a29c1b28cc2068a0396cba36ef99), and will never be broken.
 * **1,000,000 JEWEL**: Allocated to the Founders Fund Multisig Safe for bounties and hours for the founding team based on their work towards launch. Half of these tokens were awarded at launch, and the other half will vest over time.
 
 ## Harmony Multisig Wallets
@@ -92,14 +92,14 @@ We know there has been concern with some other projects selling a large amount o
 
 You can see the addresses of these funds here:
 
-* **Development Fund Multisig Safe:** [`0xa4b9A93013A5590dB92062CF58D4b0ab4F35dBfB`](https://explorer.harmony.one/address/0xa4b9a93013a5590db92062cf58d4b0ab4f35dbfb)****
-* **Marketing Fund Multisig Safe:** [`0x3875e5398766a29c1B28cC2068A0396cba36eF99`](https://explorer.harmony.one/address/0x3875e5398766a29c1b28cc2068a0396cba36ef99)****
-* **Founders Fund Multisig Safe:** [`0x79F0d0670D17a89f509Ad1c16BB6021187964A29`](https://explorer.harmony.one/address/0x79f0d0670d17a89f509ad1c16bb6021187964a29)****
+* **Development Fund Multisig Safe:** [`0xa4b9A93013A5590dB92062CF58D4b0ab4F35dBfB`](https://explorer.harmony.one/address/0xa4b9a93013a5590db92062cf58d4b0ab4f35dbfb)
+* **Marketing Fund Multisig Safe:** [`0x3875e5398766a29c1B28cC2068A0396cba36eF99`](https://explorer.harmony.one/address/0x3875e5398766a29c1b28cc2068a0396cba36ef99)
+* **Founders Fund Multisig Safe:** [`0x79F0d0670D17a89f509Ad1c16BB6021187964A29`](https://explorer.harmony.one/address/0x79f0d0670d17a89f509ad1c16bb6021187964a29)
 
 Additional notable project smart contracts on Harmony include:
 
-* **Quest Fund Smart Contract:** [`0x5ca5bcd91929c7152ca577e8c001c9b5a185f568`](https://explorer.harmony.one/address/0x5ca5bcd91929c7152ca577e8c001c9b5a185f568)****
-* **Pay Portal Vesting Contract:** [`0x2b12d9a2480d6dd9f71dabaa366c87134195b679`](https://explorer.harmony.one/address/0x2b12d9a2480d6dd9f71dabaa366c87134195b679)__
+* **Quest Fund Smart Contract:** [`0x5ca5bcd91929c7152ca577e8c001c9b5a185f568`](https://explorer.harmony.one/address/0x5ca5bcd91929c7152ca577e8c001c9b5a185f568)
+* **Pay Portal Vesting Contract:** [`0x2b12d9a2480d6dd9f71dabaa366c87134195b679`](https://explorer.harmony.one/address/0x2b12d9a2480d6dd9f71dabaa366c87134195b679)
 
 #### **Multisig Signer Addresses**&#x20;
 
