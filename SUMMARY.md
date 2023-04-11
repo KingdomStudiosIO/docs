@@ -65,7 +65,6 @@
   * [Warrior](gameplay/combat/warrior.md)
   * [Wizard](gameplay/combat/wizard.md)
 * [Lore](learn/lore.md)
-* [FAQ](learn/faq.md)
 
 ## Important
 
