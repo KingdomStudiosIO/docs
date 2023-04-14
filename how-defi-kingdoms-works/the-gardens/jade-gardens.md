@@ -38,13 +38,11 @@ The issuance of JADE is scheduled to change during each consecutive period of ti
 | 52-100 | Nov 30, 2023 |     1    |    60    |    100%    |    0%    |
 |  101+  |  Nov 7, 2024 |    .5    |    30    |    100%    |    0%    |
 
-### Locking Mechanism
-
-To balance the high emissions rates in earlier Epochs and to provide price stability, JADE tokenomics include a locking model on Garden rewards. When rewards are claimed, a certain portion goes directly into the player’s wallet, while the remainder is allocated to the player’s wallet but locked.
-
-The percentage of JADE that is unlocked begins at 5% in Epoch 1 and increases by 2% each Epoch. Unclaimed rewards continue to unlock on this schedule until claiming, at which time unlocked rewards go directly into the player’s wallet and locked rewards become **fully locked until the end of Epoch 51.**
+### Locking
 
 Claimed locked JADE will remain locked until approximately **November 30, 2023**, which marks the end of **Epoch 51.** Locked rewards will begin unlocking ratably at that time over the following 52 Epochs.
+
+The percentage of JADE that is unlocked begins at 5% in Epoch 1 and increases by 2% each Epoch. Unclaimed rewards continue to unlock on this schedule until claiming, at which time unlocked rewards go directly into the player’s wallet and locked rewards become **fully locked until the end of Epoch 51.**
 
 \
 

@@ -1,12 +1,12 @@
 # The Gardens
 
-In each realm, the Gardens is a place to stake liquidity pool tokens (referred to herein as “LP tokens”) to receive a share of Power Token emissions. In the JADE gardens of Serendale, players can stake to receive JADE emissions, while in the Ice Gardens of Crystalvale, CRYSTAL emissions are on offer for those who stake.
+In each realm, the Gardens is a place to stake Liquidity Pool tokens (“LP tokens”) in select pools to receive a share of Power Token emissions. In the JADE gardens of Serendale, players can stake to receive JADE emissions, while in the Ice Gardens of Crystalvale, CRYSTAL emissions are rewarded to those who stake.
 
-![](<../../.gitbook/assets/Cute Henry.gif>)
-
-Additionally, players can assign their Hero NFTs to work in their gardens through [Gardening Quests](https://docs.defikingdoms.com/learn/gameplay/professions/gardening). Those Heroes earn additional rewards in JEWEL, CRYSTAL, or JADE based on the skill of the Hero and the amount of LP tokens staked in the garden they're tending, so players who stake LP tokens in the Gardens and quest Heroes in those same gardens have synergistic utility for their NFTs right away.
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-14 at 9.40.44 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### Epochs and Emissions
+
+Additionally, players can assign their [Hero](../../learn/gameplay/heroes/) NFTs to work in their gardens through [Gardening Quests](https://docs.defikingdoms.com/learn/gameplay/professions/gardening). Those Heroes earn additional rewards in JEWEL, CRYSTAL, or JADE based on the skill of the Hero and the amount of LP tokens staked in the garden they're tending, so players who stake LP tokens in the Gardens and quest Heroes in those same gardens have synergistic utility for their NFTs right away.
 
 Each Power Token has its own emissions schedule. Generally speaking, emissions per minute/block are higher when the token launches, and decrease over time. This decrease in emissions is not linear, so it is important to review the emissions schedules for each token in its related Gardens subpage.
 
@@ -29,13 +29,13 @@ These locking rates allow for the stability and development of the project over 
 
 ### Locking Model
 
-To balance the high emissions rates in earlier Epochs and to provide price stability, our tokenomics include a locking model on Gardens rewards. Until a certain point in each emission schedule, only a portion of the tokens grown, harvested, and distributed as Gardens rewards to LP token stakers is unlocked. Once claimed, these unlocked reward tokens transfer directly into the player’s wallet and are immediately usable. However, a portion of Gardens rewards are also locked deep underground. These rewards are allocated to the player's wallet, but cannot be accessed or used in any way until they become unlocked.
+To balance the high emissions rates in earlier Epochs and to provide price stability, our tokenomics include a locking model on Gardens rewards. Until a certain point in each emission schedule, only a portion of the tokens grown, harvested, and distributed as Gardens rewards to LP token stakers is unlocked. Once claimed, these unlocked reward tokens transfer directly into the player’s wallet and are immediately usable. However, a portion of Gardens rewards are also locked deep underground. These rewards are allocated to the player's wallet, but cannot be traded and can only be used for certain in-game activities.
 
 For each token, starting in Epoch 1, 5% of claimed rewards are unlocked while 95% are locked. Each Epoch, the percentage of claimed rewards that are unlocked increases by 2%, so in Epoch 2, 7% are unlocked and 93% are locked, and so on. It is important to note that these percentages are based on the Epoch at the time that the player chooses to claim, not when the rewards were allocated. If a player chooses not to claim right away, the percentage of tokens that will be unlocked that they will be able to claim increases by 2% each Epoch. Once a player does claim, however, the remainder of the claimed rewards, which are locked, remain locked until the end of Epoch 51, at which point they begin unlocking ratably over the next 52 Epochs, unless unlocked through other means, such as [Mining Quests](https://docs.defikingdoms.com/learn/gameplay/professions/jewel-mining). After Epoch 51, no further locking will occur and all newly generated rewards will be fully unlocked immediately.
 
 #### Early Unlocking with Hero NFTs
 
-One of the most unique features of DeFi Kingdoms is our Hero NFTs that provide true in-game utility. The Mining profession is one such use-case. Players who have locked rewards can send their Heroes on mining quests to unlock some of those tokens early, granting access to locked rewards before their natural unlock.
+One of the most unique features of DeFi Kingdoms is our NFTs, our [Heroes](../../learn/gameplay/heroes/), that provide true in-game utility. The Mining profession is one such use-case. Players who have locked rewards can send their Heroes on Mining Quests to unlock some of those tokens early, granting access to locked rewards before their natural unlock.
 
 Not all Heroes will have the same level of proficiency in Mining, so it is important to learn about the various stats that Heroes use and how each profession works when looking to buy and use them. You can find more details about that in the [Profession Quests](https://docs.defikingdoms.com/learn/gameplay/professions) section of the documents.
 

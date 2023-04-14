@@ -23,7 +23,7 @@ The four main benefits to holding cJEWEL are: Governance, fee distribution, in-g
 
 * [Governance](./#governance-votes) will utilize the cJEWEL/sJEWEL balance of users for voting on proposals.&#x20;
 * Rewards will come by way of [fee distribution](./#fee-sharing), but also regular airdrops can be implemented thanks to the safer timelock nature of cJEWEL/sJEWEL.
-* In-game [Power-Ups](./#power-ups) will allow players to allocate a certain amount of their cJEWEL/sJEWEL in order to gain access to bonuses, enhancements, and premium features.
+* In-game [Power-Ups](./#power-ups) will allow players to allocate a certain amount of their cJEWEL/sJEWEL in order to gain access to bonuses, enhancements, and premium features, all while still earning the normal rewards.
 * Due to cJEWEL and sJEWEL requiring some period of **JEWEL** token locking in order to be created, the expected outcome of this system is an overall reduction of the available liquid supply of JEWEL (depending on user engagement with the system).
 
 ### Locking Mechanism
@@ -104,13 +104,9 @@ For more technical detail on how these fees are apportioned to token holders, se
 
 Holders of cJEWEL/sJEWEL will be able to activate **in-game enhancements and rewards** by allocating a portion of their holdings toward activating them. Power-Ups use your “available Power-Up balance,” which is the total amount of cJEWEL you hold minus the cJEWEL requirements of each of your active Power-Ups. Activating Power-Ups does not consume cJEWEL or the JEWEL used to produce it. Power-Ups can be deactivated at any time, or automatically, if the player's cJEWEL balance drops below the minimum necessary to keep them active.
 
-Power-Up rewards may include bonuses to Hero experience, reduced in-game fees, and access to premium features. These Power-Ups will be implemented over time after the release of cJEWEL.
+Power-Up rewards may include bonuses to Hero experience, reduced in-game fees, and access to premium features. These Power-Ups are being continuously implemented over time.
 
-Learn more:
-
-{% content-ref url="power-ups.md" %}
-[power-ups.md](power-ups.md)
-{% endcontent-ref %}
+Learn more about [Power-Ups](./#power-ups).
 
 ### Contract Addresses
 

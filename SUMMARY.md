@@ -16,7 +16,7 @@
   * [JEWEL Gardens](how-defi-kingdoms-works/the-gardens/jewel-gardens.md)
   * [Ice Gardens](how-defi-kingdoms-works/the-gardens/ice-gardens.md)
   * [JADE Gardens](how-defi-kingdoms-works/the-gardens/jade-gardens.md)
-* [The Heroes](how-defi-kingdoms-works/the-heroes.md)
+* [Heroes & NFTs](how-defi-kingdoms-works/the-heroes.md)
 * [DeFi Kingdoms Blockchain](how-defi-kingdoms-works/defi-kingdoms-blockchain.md)
 
 ***
