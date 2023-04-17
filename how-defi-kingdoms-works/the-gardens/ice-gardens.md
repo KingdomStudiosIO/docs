@@ -39,3 +39,7 @@ Claimed locked CRYSTAL will remain locked until March 22, 2023**,** which marks 
 
 The percentage of CRYSTAL that is unlocked begins at 5% in Epoch 1 and increases by 2% each Epoch. Unclaimed rewards continue to unlock on this schedule until claiming, at which time unlocked rewards go directly into the player's wallet and locked rewards become fully locked until the end of Epoch 51.
 
+### Transferring Locked CRYSTAL
+
+The Locked CRYSTAL balance of a wallet can be transferred to another wallet once every 72 hours by visiting the Manager in the [Jeweler zone](../../learn/gameplay/jeweler.md). The recipient wallet will first need to Allow Transfer from the source wallet. Receiving Locked CRYSTAL in this way will also claim any unlockable CRYSTAL.
+

@@ -2,7 +2,7 @@
 
 In each realm, the Gardens is a place to stake Liquidity Pool tokens (“LP tokens”) in select pools to receive a share of Power Token emissions. In the JADE gardens of Serendale, players can stake to receive JADE emissions, while in the Ice Gardens of Crystalvale, CRYSTAL emissions are rewarded to those who stake.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-14 at 9.40.44 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/serendale-gardens.png" alt=""><figcaption></figcaption></figure>
 
 ### Epochs and Emissions
 

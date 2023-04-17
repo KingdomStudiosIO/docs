@@ -8,7 +8,7 @@ coverY: 48.227360026226236
 
 # Dark Summoning
 
-**Dark Summoning** allows players to sacrifice two Heroes in order to summon a new one. There are reduced costs and restrictions on the summon, and in exchange, benefits to the new Hero.
+**Dark Summoning** allows players to sacrifice two Heroes in order to summon a new one. There are reduced costs and restrictions on the summon, and in exchange, benefits to the new Hero. Dark Summoning is only available in Crystalvale.
 
 > _"What do we have here? Hrrgh... A new face. Yesss... and there, behind the eyes, a darkness... deepening. Come, young one, stand with me and look into the void. There is pain there, yesss... but also great power."_
 
