@@ -17,7 +17,6 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 * **Level 10 Fishing & Foraging**: Our first set of Level 10 Profession Quests will kick off with Fishing and Foraging and will allow more experienced Heroes to earn greater rewards than with the base quests.
 * **Pet Feeding & Pet Utility**: Equip your beloved Pets to your Heroes to boost their performance in questing. But beware: Pets need to be fed and looked after to serve as helpful companions!
-* **Green Egg Hatching (Gardening Pets)**: Following Blue and Grey Pet Egg hatching, we will release our third set of unique Gardening Pets in various rarities and odd variants. Equip them to a Hero to boost their Gardening skills!
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
 * **Auction House**: Trade materials or rare items in our Auction House, which will allow bulk trading between players.
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
@@ -44,6 +43,10 @@ The list below is meant as reference for new and old users, and a new interactiv
 ## Completed
 
 ### 2023
+
+#### May
+
+* :white\_check\_mark: **Green Egg Hatching (Gardening Pets)**: Our third set of unique Pets in various rarities and odd variants. Equip them to a Hero to boost their Gardening skills!
 
 #### March
 
