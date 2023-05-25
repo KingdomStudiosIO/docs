@@ -15,14 +15,11 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ## Coming Next
 
-* **Level 10 Fishing & Foraging**: Our first set of Level 10 Profession Quests will kick off with Fishing and Foraging and will allow more experienced Heroes to earn greater rewards than with the base quests.
-* **Pet Utility**: Boost your Heroes' performance in questing while they have a bonded Pet companion. But beware: Pets need to be fed and looked after to serve as helpful partners!
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
 * **Auction House**: Trade materials or rare items in our Auction House, which will allow bulk trading between players.
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
 * **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: recruit guild members, trade Heroes, challenge players and more!
 * **Player vs Player (PVP) Combat**: Our core game mode will allow players to fight other players in an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
-* **Level 10 Gardening Quests**: Send your experienced Heroes on the more challenging Level 10 Gardening Quest for increased rewards.
 * **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
 * **Achievements**: Earn and collect unique achievements with a variety of challenging tasks and show them off to other players!
 * **Yellow Egg Hatching (Mining Pets)**: Explore many new mining-themed pets and equip them to your Heroes to help them yield the best rewards while down in the mines.
@@ -50,6 +47,8 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 * :white\_check\_mark: **Pet Treats, Feeding, and Equipping**: Craft Pet Treats and keep your Pets fed while they are bonded to a Hero! Bonding Pets is the first iteration of Hero Equipment and sets the stage for more to come.
 * :white\_check\_mark: **Green Egg Hatching (Gardening Pets)**: Our third set of unique Pets in various rarities and odd variants. Equip them to a Hero to boost their Gardening skills!
+* :white\_check\_mark: **Skill 10 Fishing, Foraging, & Gardening**: Our first Skill 10 Profession Quests kicked off with Fishing, Foraging, and Gardening, allowing more experienced Heroes to earn greater rewards than with the base quests.
+* :white\_check\_mark: **Pet Utility**: Boost your Heroes' performance in questing while they have a bonded Pet companion. But beware: Pets need to be fed and looked after to serve as helpful partners!
 
 #### March
 
