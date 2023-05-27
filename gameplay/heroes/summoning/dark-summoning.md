@@ -12,7 +12,11 @@ coverY: 48.227360026226236
 
 > _"What do we have here? Hrrgh... A new face. Yesss... and there, behind the eyes, a darkness... deepening. Come, young one, stand with me and look into the void. There is pain there, yesss... but also great power."_
 
+<div align="center">
+
 <figure><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/dark-crystal.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Mechanics
 

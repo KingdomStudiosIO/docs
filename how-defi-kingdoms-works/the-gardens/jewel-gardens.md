@@ -14,29 +14,7 @@ On account of the above, the information below about the original Serendale JEWE
 
 The issuance of JEWEL as rewards for staking LP tokens in the Garden is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is 302,400 blocks on the Harmony Blockchain, and the length of each Epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block on the Harmony Blockchain. However, if block speeds are longer than 2 seconds per block on average, an Epoch will last longer than a week.
 
-| Epoch |    Block   | JEWEL/block | JEWEL/minute |
-| :---: | :--------: | :---------: | :----------: |
-|   1   | 16,350,367 |     256     |     7680     |
-|   2   | 16,652,767 |     128     |     3840     |
-|   3   | 16,955,167 |      96     |     2880     |
-|   4   | 17,257,567 |      64     |     1920     |
-|   5   | 17,559,967 |      56     |     1680     |
-|   6   | 17,862,367 |      48     |     1440     |
-|   7   | 18,164,767 |      40     |     1200     |
-|   8   | 18,467,167 |      32     |      960     |
-|   9   | 18,769,567 |      28     |      840     |
-|   10  | 19,071,967 |      24     |      720     |
-|   11  | 19,374,367 |      20     |      600     |
-|   12  | 19,676,767 |      16     |      480     |
-|   13  | 19,979,167 |      15     |      450     |
-|   14  | 20,281,567 |      14     |      420     |
-|   15  | 20,583,967 |      13     |      390     |
-|   16  | 20,886,367 |      12     |      360     |
-|   17  | 21,188,767 |      11     |      330     |
-|   18  | 21,491,167 |      10     |      300     |
-|   19  | 21,793,567 |      9      |      270     |
-| 20-35 | 22,095,967 |      8      |      240     |
-|  36+  | 26,934,367 |      4      |      120     |
+<table><thead><tr><th width="150" align="center">Epoch</th><th width="150" align="center">Block</th><th width="150" align="center">JEWEL/block</th><th align="center">JEWEL/minute</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">16,350,367</td><td align="center">256</td><td align="center">7680</td></tr><tr><td align="center">2</td><td align="center">16,652,767</td><td align="center">128</td><td align="center">3840</td></tr><tr><td align="center">3</td><td align="center">16,955,167</td><td align="center">96</td><td align="center">2880</td></tr><tr><td align="center">4</td><td align="center">17,257,567</td><td align="center">64</td><td align="center">1920</td></tr><tr><td align="center">5</td><td align="center">17,559,967</td><td align="center">56</td><td align="center">1680</td></tr><tr><td align="center">6</td><td align="center">17,862,367</td><td align="center">48</td><td align="center">1440</td></tr><tr><td align="center">7</td><td align="center">18,164,767</td><td align="center">40</td><td align="center">1200</td></tr><tr><td align="center">8</td><td align="center">18,467,167</td><td align="center">32</td><td align="center">960</td></tr><tr><td align="center">9</td><td align="center">18,769,567</td><td align="center">28</td><td align="center">840</td></tr><tr><td align="center">10</td><td align="center">19,071,967</td><td align="center">24</td><td align="center">720</td></tr><tr><td align="center">11</td><td align="center">19,374,367</td><td align="center">20</td><td align="center">600</td></tr><tr><td align="center">12</td><td align="center">19,676,767</td><td align="center">16</td><td align="center">480</td></tr><tr><td align="center">13</td><td align="center">19,979,167</td><td align="center">15</td><td align="center">450</td></tr><tr><td align="center">14</td><td align="center">20,281,567</td><td align="center">14</td><td align="center">420</td></tr><tr><td align="center">15</td><td align="center">20,583,967</td><td align="center">13</td><td align="center">390</td></tr><tr><td align="center">16</td><td align="center">20,886,367</td><td align="center">12</td><td align="center">360</td></tr><tr><td align="center">17</td><td align="center">21,188,767</td><td align="center">11</td><td align="center">330</td></tr><tr><td align="center">18</td><td align="center">21,491,167</td><td align="center">10</td><td align="center">300</td></tr><tr><td align="center">19</td><td align="center">21,793,567</td><td align="center">9</td><td align="center">270</td></tr><tr><td align="center">20-35</td><td align="center">22,095,967</td><td align="center">8</td><td align="center">240</td></tr><tr><td align="center">36+</td><td align="center">26,934,367</td><td align="center">4</td><td align="center">120</td></tr></tbody></table>
 
 _\*Listed emissions are spread out across all gardens. See the Seed Box for pool-specific emission rates._
 
