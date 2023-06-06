@@ -58,6 +58,7 @@
   * [Berserker](gameplay/combat/berserker.md)
   * [Knight](gameplay/combat/knight.md)
   * [Legionnaire](gameplay/combat/legionnaire.md)
+  * [Monk](gameplay/combat/monk.md)
   * [Pirate](gameplay/combat/pirate.md)
   * [Priest](gameplay/combat/priest.md)
   * [Seer](gameplay/combat/seer.md)
