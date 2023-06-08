@@ -15,9 +15,9 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ## Coming Next
 
-* **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
-* **Auction House**: Trade materials or rare items in our Auction House, which will allow bulk trading between players.
+* **Bazaar**: Trade materials or rare items in our order book marketplace, which will allow bulk trading between players.
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
+* **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
 * **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: recruit guild members, trade Heroes, challenge players and more!
 * **Player vs Player (PVP) Combat**: Our core game mode will allow players to fight other players in an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
 * **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
@@ -40,6 +40,12 @@ The list below is meant as reference for new and old users, and a new interactiv
 ## Completed
 
 ### 2023
+
+#### June
+
+<figure><img src=".gitbook/assets/Heroes New Clothes.png" alt="" width="563"><figcaption></figcaption></figure>
+
+* :white\_check\_mark: **Hero Art & Animation Updates**: All new Hero art and background images, plus a complete rewrite of the system powering Hero animations that will be used in combat and elsewhere going forward.&#x20;
 
 #### May
 
