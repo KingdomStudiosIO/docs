@@ -41,6 +41,6 @@ Development funds on Klaytn are held in a **single multisig wallet** that requir
 #### **Multisig Signer Addresses:**
 
 * Professor Tango: `0x03B5c81d9759eb3ca12b2201891e61EE4bDfBB7A`
-* Bolon Soron: `0x3F0Ef7Db4C124E1Cb377DB1Ff398ab43DA9b57EA`&#x20;
-* Sashei: `0x42C1B36BB243bFE02326473EC02a3488b55183E5`&#x20;
+* Bolon Soron: `0xa1ebf6eb5966332f8fee1f1eab4b5c91f92e727b`&#x20;
+* Sashei: `0x011ebdFD1Fe16F619F8470dc42D6875CB084984c`
 * Pine Cone: `0x826c3c6946cAF394c8811814Bb54B56480E39aa9`
