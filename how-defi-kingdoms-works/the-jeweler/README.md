@@ -22,7 +22,7 @@ cJEWEL/sJEWEL tokens are **soulbound** to the wallet that generates them and can
 The four main benefits to holding cJEWEL are: Governance, fee distribution, in-game enhancements and premium feature access (Power-Ups), and token locking.
 
 * [Governance](./#governance-votes) will utilize the cJEWEL/sJEWEL balance of users for voting on proposals.&#x20;
-* Rewards will come by way of [fee distribution](./#fee-sharing), but also regular airdrops can be implemented thanks to the safer timelock nature of cJEWEL/sJEWEL.
+* Rewards will come by way of [fee distribution](./#fee-distribution), but also regular airdrops can be implemented thanks to the safer timelock nature of cJEWEL/sJEWEL.
 * In-game [Power-Ups](./#power-ups) will allow players to allocate a certain amount of their cJEWEL/sJEWEL in order to gain access to bonuses, enhancements, and premium features, all while still earning the normal rewards.
 * Due to cJEWEL and sJEWEL requiring some period of **JEWEL** token locking in order to be created, the expected outcome of this system is an overall reduction of the available liquid supply of JEWEL (depending on user engagement with the system).
 
