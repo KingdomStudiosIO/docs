@@ -8,24 +8,33 @@ With recent changes to the DeFi Kingdoms tokenomics, JEWEL is now the Ecosystem 
 
 Players who [stake JEWEL tokens](../the-jeweler/) receive cJEWEL in Crystalvale and sJEWEL in Serendale.
 
+### Fee Distribution
+
+Unless otherwise specified throughout these documents, the JEWEL fees from in-game transactions, as applicable, are apportioned to the respective wallets for each realm as follows:
+
+* 5% - Burned
+* 15% - [Jeweler Rewards](../the-jeweler/#fee-distribution) (cJEWEL / sJEWEL)
+* 30% - Quest Reward Fund ([DFK Chain](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) / [Klaytn](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049))
+* 50% - Development Fund
+
 ## Power Tokens
 
 With the expansion of DeFi Kingdoms: Crystalvale onto the DFK Chain, each realm now also has its own dedicated Power Token, which is used for all game transactions, such as purchasing Hero and Pet NFTs, summoning new Heroes and hatching Pets, leveling Heroes, and more. Power Tokens can be swapped in the DEX for other tokens and in-game items, pooled for liquidity, and are emitted by the Gardens in each realm.
 
 The Power Token in Crystalvale is [CRYSTAL](crystal-token.md), while the Power Token in Serendale on Klaytn is [JADE](jade-token.md).
 
-### Transactions & Fee Distribution
+### Fee Distribution
 
 Unless otherwise specified throughout these documents, the Power Token fees from every in-game transaction, as applicable, are apportioned to the respective wallets for each realm as follows:
 
 {% hint style="info" %}
-These percentages were last adjusted on November 4, 2022, increasing the amounts allocated to token burn and Jeweler Rewards/fee distribution.
+These percentages were last adjusted on July 26, 2023, increasing the amount allocated to token burn and reducing the amount allocated to the Development Fund.
 {% endhint %}
 
-* 5% - Burned
+* 25% - Burned
 * 15% - [Jeweler Rewards](../the-jeweler/#fee-distribution) (cJEWEL / sJEWEL)
-* 30% - Quest Rewards Fund ([DFK Chain](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) / [Klaytn](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049))
-* 50% - Development Fund
+* 30% - Quest Reward Fund ([DFK Chain](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) / [Klaytn](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049))
+* 30% - Development Fund
 
 CRYSTAL and JADE are the lifeblood of our project and have features that provide players the opportunity to earn while playing rather than buying games and subscriptions with no potential to recoup costs spent. In DeFi Kingdoms, good gameplay decisions and a little luck have the potential to reward players with actual crypto tokens while they play a game they enjoy.
 
