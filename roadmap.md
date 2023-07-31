@@ -15,7 +15,6 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ## Coming Next
 
-* **Bazaar**: Trade materials or rare items in our order book marketplace, which will allow bulk trading between players.
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
 * **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: recruit guild members, trade Heroes, challenge players and more!
