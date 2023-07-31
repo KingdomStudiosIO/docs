@@ -41,6 +41,12 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### 2023
 
+#### July
+
+<figure><img src=".gitbook/assets/bazaar_banner.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+* :white\_check\_mark: **The Bazaar**: Trade materials, rare items, and tokens in our decentralized order book marketplace, which allows players to set their own prices.
+
 #### June
 
 <figure><img src=".gitbook/assets/Heroes New Clothes.png" alt="" width="563"><figcaption></figcaption></figure>
