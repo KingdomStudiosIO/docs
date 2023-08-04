@@ -29,7 +29,7 @@ A pre-mint of **3,000,000 CRYSTAL** occurred prior to launch of Crystalvale. The
 
 ### DFK Chain Multisig Wallets
 
-**Our funds are secured in multisig wallets.** These wallets are controlled by 4 members of the project, which may change from time to time. Any transaction requires 3 out of 4 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to make any changes on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed, including the executing wallets.
+**Our funds are secured in multisig wallets.** These wallets are controlled by 5 members of the project, which may change from time to time. Any transaction requires 3 out of 5 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to make any changes on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed, including the executing wallets.
 
 We know there has been concern with some other projects selling a large amount of tokens at launch that left some feeling frustrated in the project. We seek to help put these concerns at ease with these measures to help our community have confidence in the DeFi Kingdoms project.
 
@@ -52,3 +52,4 @@ Initial Liquidity LP tokens are held in the Marketing Fund Multisig.
 * Bolon Soron: `0xa1ebf6eb5966332f8fee1f1eab4b5c91f92e727b`
 * Sashei: `0x011ebdFD1Fe16F619F8470dc42D6875CB084984c`
 * Pine Cone: `0x826c3c6946cAF394c8811814Bb54B56480E39aa9`
+* Cabby: `0x18644254ADE30800bfbf9f4140C6a47Bf4465A2f`

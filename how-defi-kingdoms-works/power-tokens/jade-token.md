@@ -33,7 +33,7 @@ In addition to the pre-mint of 37,500 JADE, an additional 300,000 JADE (from the
 
 ### **Klaytn Multisig Wallets**
 
-Development funds on Klaytn are held in a **single multisig wallet** that requires 3 out of 4 signatures for any transactions to execute. A [portion of fees from in-game transactions](./#transactions-and-fee-distribution) are sent to this address. Additional multisigs are used for other purposes, like holding LP Tokens.
+Development funds on Klaytn are held in a **single multisig wallet** that requires 3 out of 5 signatures for any transactions to execute. A [portion of fees from in-game transactions](./#transactions-and-fee-distribution) are sent to this address. Additional multisigs are used for other purposes, like holding LP Tokens.
 
 * **Development Fund Multisig:** [`0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D`](https://scope.klaytn.com/account/0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D)
 * **Liquidity Fund Multisig:** [`0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0`](https://scope.klaytn.com/account/0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0)
@@ -44,3 +44,4 @@ Development funds on Klaytn are held in a **single multisig wallet** that requir
 * Bolon Soron: `0xa1ebf6eb5966332f8fee1f1eab4b5c91f92e727b`&#x20;
 * Sashei: `0x011ebdFD1Fe16F619F8470dc42D6875CB084984c`
 * Pine Cone: `0x826c3c6946cAF394c8811814Bb54B56480E39aa9`
+* Cabby: `0x18644254ADE30800bfbf9f4140C6a47Bf4465A2f`

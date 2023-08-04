@@ -86,7 +86,7 @@ JEWEL initially had the following token allocations:
 _Note: Most liquid funds from these multisigs have been moved to their counterparts on DFK Chain. Locked JEWEL held in these wallets was redistributed according to the project's updated tokenomics, above._
 {% endhint %}
 
-**Our funds are secured in multisig wallets at** [**https://multisig.harmony.one**](https://multisig.harmony.one)**.** These wallets will be controlled by 4 members of the core team, which may change from time to time. Any transaction will require 3 out of 4 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to make any changes on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed, including the executing wallets.&#x20;
+**Our funds are secured in multisig wallets at** [**https://multisig.harmony.one**](https://multisig.harmony.one)**.** These wallets will be controlled by 5 members of the core team, which may change from time to time. Any transaction will require 3 out of 5 signatures to execute. This helps to protect against hacks that would target the treasuries, ensuring that there is no single point of failure. Additionally, this protects against any one member of the team having the power to make any changes on their own, without the rest of the team being aware of and agreeing to it. It also gives 100% transparency, as anyone can view all of the transactions that are proposed before they are executed, as well as a history of every past transaction that was executed, including the executing wallets.&#x20;
 
 We know there has been concern with some other projects selling a large amount of tokens at launch that left some feeling frustrated in the project. We seek to help put these concerns at ease with these measures to help our community have confidence in the DeFi Kingdoms project.&#x20;
 
@@ -107,3 +107,4 @@ Additional notable project smart contracts on Harmony include:
 * Sashei: `0x42C1B36BB243bFE02326473EC02a3488b55183E5`
 * Bolon Soron: `0x2f26B3426504c28C29b6eDecae399D54717526CF`
 * Professor Tango: `0x03B5c81d9759eb3ca12b2201891e61EE4bDfBB7A`
+* Cabby: `0x18644254ADE30800bfbf9f4140C6a47Bf4465A2f`
