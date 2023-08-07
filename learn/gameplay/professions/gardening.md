@@ -52,7 +52,7 @@ Heroes that are bonded with a fed Pet that has the **Gardening Gathering Profess
 
 ### **Token Rewards**
 
-The first Hero sent to quest in each Garden will be rewarded in the realm's **Power Token**, while the second Hero will earn **JEWEL**. These rewards are funded by the [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) wallet on each realm. Gardening yields rely heavily on the player's share of the **Liquidity Pools** that their Heroes will work in, the overall balance of the Quest Fund, and the stats of the questing Heroes. Consequently, there will be a large variance in yields between players and pools as well as a variance in yields over time as the Quest Fund grows or shrinks.
+The first Hero sent to quest in each Garden will be rewarded in the realm's **Power Token**, while the second Hero will earn **JEWEL**. These rewards are funded by the Quest Reward Fund wallet ([Crystalvale](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) / [Serendale](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049)) on each realm. Gardening yields rely heavily on the player's share of the **Liquidity Pools** that their Heroes will work in, the overall balance of the Quest Fund, and the stats of the questing Heroes. Consequently, there will be a large variance in yields between players and pools as well as a variance in yields over time as the Quest Fund grows or shrinks.
 
 #### Formula
 
@@ -72,7 +72,7 @@ else:
     annealingFactor = (850 - 25 * ((daysSinceLaunch / 14) - 11)) / 100
 ```
 
-* **`rewardPool`** - The relevant token balance in the [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316).&#x20;
+* **`rewardPool`** - The relevant token balance in the Quest Reward Fund ([Crystalvale](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) / [Serendale](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049)).&#x20;
 * **`poolAllocation`** - The percent of token emissions allocated to the specific garden (in decimals, e.g. `0.1` for 10%).&#x20;
 * **`LPowned`** - The percent of the Liquidity Pool that the player owns in the selected Garden (in decimals, e.g. `0.0015` for 0.15%).&#x20;
 * **`WIS`** / **`VIT`** - The value of the Hero's **Wisdom** and **Vitality** stats, respectively.
