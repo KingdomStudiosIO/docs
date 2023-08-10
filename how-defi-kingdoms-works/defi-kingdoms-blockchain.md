@@ -24,9 +24,13 @@ Gas fees are collected by a smart contract and then distributed as follows:
 * 50% is burned. This will continuously increase the value of JEWEL by implementing a consistent burn mechanic and deflating the supply.
 * 25% will be sent to the [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) to reward our community and players.
 
-### Bridged JEWEL and Gas
+### Gas Token, Bridged JEWEL and Wrapped JEWEL
 
-A protocol is in place to automatically exchange JEWEL bridged onto the DFK Chain for the native gas token. No special action is needed on the part of players to handle this. The implementation of DFK Chain does not impact the total cap of JEWEL. There is also an option to wrap JEWEL into wJEWEL, as needed, in Crystalvale. This process is handled automatically when trading on the Crystalvale DEX.
+A protocol is in place to automatically exchange JEWEL bridged onto the DFK Chain for the native JEWEL gas token. No special action is needed on the part of players to handle this. The implementation of DFK Chain does not impact the total cap of JEWEL.
+
+The native gas token JEWEL can also be wraped into an ERC-20 wJEWEL, as needed, in Crystalvale. This process is handled automatically when trading on the Crystalvale DEX, as well as by other contracts.
+
+As the native gas token on DFK Chain, JEWEL has no contract address. However, the contract address for wJEWEL is: [`0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260`](https://subnets.avax.network/defi-kingdoms/address/0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260).
 
 ### DFK Chain Technical Specs
 
