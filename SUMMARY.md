@@ -61,6 +61,7 @@
   * [Monk](gameplay/combat/monk.md)
   * [Pirate](gameplay/combat/pirate.md)
   * [Priest](gameplay/combat/priest.md)
+  * [Scholar](gameplay/combat/scholar.md)
   * [Seer](gameplay/combat/seer.md)
   * [Thief](gameplay/combat/thief.md)
   * [Warrior](gameplay/combat/warrior.md)
