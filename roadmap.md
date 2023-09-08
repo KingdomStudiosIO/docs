@@ -15,30 +15,40 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ## Coming Next
 
+* **Void Hunt: Mad Boar**: Our first Player vs Environment (PvE) offering, players will pit three of their Heroes in head-to-head combat against a pack of corrupted wild boars in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
+* **Equipment**: Earn new weapon, armor, and accessory Equipment NFTs to boost your Heroes' stats in their battles.
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
-* **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: recruit guild members, trade Heroes, challenge players and more!
 * **Player vs Player (PVP) Combat**: Our core game mode will allow players to fight other players in an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
 * **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
-* **Achievements**: Earn and collect unique achievements with a variety of challenging tasks and show them off to other players!
 * **Yellow Egg Hatching (Mining Pets)**: Explore many new mining-themed pets and equip them to your Heroes to help them yield the best rewards while down in the mines.
+* **Traveling System**: Heroes will now be able to travel with their Heroes and Pets between different regions on the map to visit lands and complete quests.
+* **Achievements**: Earn and collect unique achievements with a variety of challenging tasks and show them off to other players!
 
 ## Long-Term Roadmap Features
 
-* **Basic Equipment**: Earn new equipment to boost your Heroes in their PvP battles.
-* **Traveling System**: Heroes will now be able to travel with their Heroes and Pets between different regions on the map to visit lands and complete quests.
+* **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: -recruit guild members, trade Heroes, challenge players and mo
 * **Golden Egg Hatching**: The fifth and final egg type will be available for hatching new Pets.
 * **Land Functionality**: DeFi Kingdoms Lands will receive a new set of features – more details following soon!
 * **Guild Implementation**: Players will be able to create and manage guilds, and access guild-unique features.
 * **Limited Quests**: Send your Heroes on unique, limited quests to earn special rewards.
 * **Crafting**: Use your Heroes to harvest and craft various items and equipment!
-* **Player vs Environment (PvE) Combat**: Following the PvP release, Heroes can now brawl and test their strength against various NPC enemies.
 * **Dungeons**: Send your Heroes out to fight and explore unique Dungeons.
 * **Large-Scale PvP**: Compete with your Heroes in large-scale world events and challenge frightening enemies!
 
 ## Completed
 
 ### 2023
+
+#### September
+
+:white\_check\_mark: **Onboarding Flow Updates**: Fiat-to-Crypto Onramps, DFK Smart Wallets powered by ERC-4337 account abstraction, Combat Demos, and a new Tutorial feature all welcome new players and reduce friction to the Web3 onboarding process.
+
+#### August
+
+:white\_check\_mark: **Multi-Meditation Feature**: Level all of your Heroes in a single transaction through the re-designed Meditation Circle.
+
+:white\_check\_mark: **DFK Duel Champion Matches**: Who is the Champion? _You_ are! Send your Heroes to topple the existing Champion in an all-out competition for dominance, and earn a percentage of the fees collected from DFK Duels.
 
 #### July
 
@@ -60,6 +70,10 @@ The list below is meant as reference for new and old users, and a new interactiv
 * :white\_check\_mark: **Green Egg Hatching (Gardening Pets)**: Our third set of unique Pets in various rarities and odd variants. Equip them to a Hero to boost their Gardening skills!
 * :white\_check\_mark: **Skill 10 Fishing, Foraging, & Gardening**: Our first Skill 10 Profession Quests kicked off with Fishing, Foraging, and Gardening, allowing more experienced Heroes to earn greater rewards than with the base quests.
 * :white\_check\_mark: **Pet Utility**: Boost your Heroes' performance in questing while they have a bonded Pet companion. But beware: Pets need to be fed and looked after to serve as helpful partners!
+
+#### April
+
+* :white\_check\_mark: **Hero Crafting Gene Reveal**: Bring your Heroes to the Meditation Circle to reveal their Crafting Profession Genes. Plus major behind-the-scenes changes to the Hero NFT contract.
 
 #### March
 
