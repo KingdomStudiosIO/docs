@@ -47,6 +47,15 @@ Heroes that are bonded with a fed Pet that has the **Foraging Gathering Professi
 
 <figure><img src="../../../.gitbook/assets/Pet Profession Bonuses - Foraging.png" alt=""><figcaption></figcaption></figure>
 
+#### Plant Rarity
+1. Rare plants
+    * Serendale : Swift-Thistle, Goldvein
+    * Crystalvale : Skunkshade, Shaggy Cap
+
+2. High value plants 
+    * Serendale : Goldvein, Redleaf
+    * Crystalvale : Shaggy Cap, Knaproot
+
 ### **Item Rewards**
 
 {% hint style="info" %}

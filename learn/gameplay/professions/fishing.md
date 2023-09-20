@@ -49,6 +49,15 @@ Heroes that are bonded with a fed Pet that has the **Fishing Gathering Professio
 
 <figure><img src="../../../.gitbook/assets/Pet Profession Bonuses - Fishing.png" alt=""><figcaption></figcaption></figure>
 
+#### Fish Rarity
+1. Rare fishes
+    * Serendale : Shimmerskin, Sailfish, Silverfin
+    * Crystalvale : Shimmerskin, King Pincer, Three-Eyed Eel
+
+2. High value fishes 
+    * Serendale : Silverfin, Redgill 
+    * Crystalvale : King Pincer, Speckle Tail
+
 ### **Item Rewards**
 
 {% hint style="info" %}
