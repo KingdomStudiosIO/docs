@@ -32,7 +32,7 @@ The **Avalanche C-Chain Outpost** was launched on March 30, 2022 as part of the 
 
 ### Harmony
 
-<figure><img src="broken-reference" alt=""><figcaption><p>“The thread of this reality has finally snapped and has begun to sag under the enormity of its own weight. Yes, the <strong>Portal</strong> remains intact but no one can say for how long. Please, save yourself…” — Druid Lisa</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/harmony_outpost.png" alt=""><figcaption><p>“The thread of this reality has finally snapped and has begun to sag under the enormity of its own weight. Yes, the <strong>Portal</strong> remains intact but no one can say for how long. Please, save yourself…” — Druid Lisa</p></figcaption></figure>
 
 DeFi Kingdoms: Serendale was converted into an Outpost on **Harmony** on October 12, 2022. Players can withdraw remaining liquidity from the Gardens by speaking with **Druid Lazarus**, convert remaining xJEWEL back to JEWEL through **Banker Ian**, and Bridge any remaining Heroes, Tokens, or Items through **Dockmaster Maria**.
 
