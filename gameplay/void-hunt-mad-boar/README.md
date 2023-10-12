@@ -47,7 +47,9 @@ Consumes 25 Stamina upon completion
 
 ### Rewards
 
-<table><thead><tr><th width="233.69851729818782">Name</th><th width="184">Base Drop Rate</th><th width="170">Quantity</th><th data-hidden align="center"></th></tr></thead><tbody><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/gaias-tear.png" alt="" data-size="original"> Gaia's Tear</td><td>??</td><td>??</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/moksha-rune.gif" alt=""> Moksha Rune</td><td>??</td><td>??</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/void.gif" alt="Green Pet Egg"> Void Shard</td><td>??</td><td>??</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr><tr><td>??</td><td>??</td><td>??</td><td align="center"></td></tr></tbody></table>
+<table><thead><tr><th width="372.44245696361145">Name</th><th width="184">Base Drop Rate</th><th width="170">Quantity</th><th data-hidden align="center"></th></tr></thead><tbody><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/gaias-tear.png" alt="" data-size="original"> Gaia's Tear</td><td>100%</td><td>1-10</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/moksha-rune.gif" alt="" data-size="original"> Moksha Rune</td><td>5%</td><td>1-3</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/void.gif" alt="Green Pet Egg"> Void Shard</td><td>10%</td><td>1</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr><tr><td><img src="../../.gitbook/assets/equipment_box_small.gif" alt="" data-size="original"> Mysterious Equipment Box</td><td>1%*</td><td>1</td><td align="center"></td></tr></tbody></table>
+
+The drop rate of equipment is increased by the total Luck score of your combat party's Heroes. The full formula is `1% + (0.02% * partyLCK)`.
 
 ## Void Hunt Status Effects & Keywords
 
