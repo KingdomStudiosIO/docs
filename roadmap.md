@@ -15,8 +15,6 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ## Coming Next
 
-* **Void Hunt: Mad Boar**: Our first Player vs Environment (PvE) offering, players will pit three of their Heroes in head-to-head combat against a pack of corrupted wild boars in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
-* **Equipment**: Earn new weapon, armor, and accessory Equipment NFTs to boost your Heroes' stats in their battles.
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
 * **Player vs Player (PVP) Combat**: Our core game mode will allow players to fight other players in an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
@@ -39,6 +37,14 @@ The list below is meant as reference for new and old users, and a new interactiv
 ## Completed
 
 ### 2023
+
+#### October
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Void Hunt: Mad Boar**: Our first Player vs Environment (PvE) offering, players will pit three of their Heroes in head-to-head combat against a pack of corrupted wild boars in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
+
+:white\_check\_mark: **Equipment**: Earn new weapon, armor, and accessory Equipment NFTs to boost your Heroes' stats in their battles.
 
 #### September
 
@@ -64,7 +70,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 #### May
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * :white\_check\_mark: **Pet Treats, Feeding, and Equipping**: Craft Pet Treats and keep your Pets fed while they are bonded to a Hero! Bonding Pets is the first iteration of Hero Equipment and sets the stage for more to come.
 * :white\_check\_mark: **Green Egg Hatching (Gardening Pets)**: Our third set of unique Pets in various rarities and odd variants. Equip them to a Hero to boost their Gardening skills!

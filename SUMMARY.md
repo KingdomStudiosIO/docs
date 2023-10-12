@@ -40,6 +40,8 @@
     * [Gold Mining](learn/gameplay/professions/gold-mining.md)
     * [Token Mining](gameplay/quests/professions/token-mining.md)
   * [Training Quests](learn/gameplay/training-quests.md)
+* [Void Hunt: Mad Boar](gameplay/void-hunt-mad-boar/README.md)
+  * [Status Effects & Mechanics Glossary](gameplay/void-hunt-mad-boar/status-effects-and-mechanics-glossary.md)
 * [Items](gameplay/items/README.md)
   * [Attunement Crystals](learn/gameplay/heroes/attunement-crystals/README.md)
     * [Atonement Crystals](learn/gameplay/heroes/attunement-crystals/atonement-crystals.md)
