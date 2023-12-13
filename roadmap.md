@@ -18,7 +18,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
 * **Bring Your Own Potions:** The Hunter's Guild is running low on supplies, and players will need to craft and bring their own Potions for use in combat encounters, bringing additional utility to these items and the materials required to brew them.
 * **Additional PvE Experiences**: New Void Hunts and other PvE Experiences are in the works.
-* **Additional Combat Classes**: We are actively adding additional Class Skills tto combat, and all classes can be used now with their basic attacks.
+* **Additional Combat Classes**: We are actively adding additional Class Skills to combat, and all classes can be used now with their basic attacks.
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
 * **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
 * **Yellow Egg Hatching (Mining Pets)**: Explore many new mining-themed pets and equip them to your Heroes to help them yield the best rewards while down in the mines.
