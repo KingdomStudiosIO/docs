@@ -16,21 +16,24 @@ The list below is meant as reference for new and old users, and a new interactiv
 ## Coming Next
 
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
+* **Bring Your Own Potions:** The Hunter's Guild is running low on supplies, and players will need to craft and bring their own Potions for use in combat encounters, bringing additional utility to these items and the materials required to brew them.
+* **Additional PvE Experiences**: New Void Hunts and other PvE Experiences are in the works.
+* **Additional Combat Classes**: We are actively adding additional Class Skills tto combat, and all classes can be used now with their basic attacks.
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
-* **Player vs Player (PVP) Combat**: Our core game mode will allow players to fight other players in an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
 * **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
 * **Yellow Egg Hatching (Mining Pets)**: Explore many new mining-themed pets and equip them to your Heroes to help them yield the best rewards while down in the mines.
+* **Player vs Player (PVP) Combat**: Our core game mode will allow players to fight other players in an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
 * **Traveling System**: Heroes will now be able to travel with their Heroes and Pets between different regions on the map to visit lands and complete quests.
 * **Achievements**: Earn and collect unique achievements with a variety of challenging tasks and show them off to other players!
 
 ## Long-Term Roadmap Features
 
-* **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: -recruit guild members, trade Heroes, challenge players and mo
+* **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: -recruit guild members, trade Heroes, challenge players and more.
+* **Crafting**: Use your Heroes to harvest and craft various items and equipment!
 * **Golden Egg Hatching**: The fifth and final egg type will be available for hatching new Pets.
-* **Land Functionality**: DeFi Kingdoms Lands will receive a new set of features – more details following soon!
+* **Land Functionality**: DeFi Kingdoms Lands will receive a full set of features, including the release of land in Crystalvale.
 * **Guild Implementation**: Players will be able to create and manage guilds, and access guild-unique features.
 * **Limited Quests**: Send your Heroes on unique, limited quests to earn special rewards.
-* **Crafting**: Use your Heroes to harvest and craft various items and equipment!
 * **Dungeons**: Send your Heroes out to fight and explore unique Dungeons.
 * **Large-Scale PvP**: Compete with your Heroes in large-scale world events and challenge frightening enemies!
 
@@ -38,17 +41,33 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### 2023
 
+#### November
+
+<figure><img src=".gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **DFK Duel Season 6:** The newest season brings even better features to the Champion System, plus five unique equippable items to boost your Duel prowess!
+
+<figure><img src=".gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Warrior Combat Skills:** The Warrior joins the Knight, Archer, and Priest as fully playable classes in combat with all of the skills
+
 #### October
+
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Halloween Spooktacular Event**: Win limited-time only cosmetics, and Dark Summon Heroes for a chance to Summon with all new skin colors!
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Void Hunt: Mad Boar**: Our first Player vs Environment (PvE) offering, players will pit three of their Heroes in head-to-head combat against a pack of corrupted wild boars in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
+:white\_check\_mark: **Void Hunt: Mad Boar**: Our first **Player vs Environment (PvE)** offering, players will pit three of their Heroes in head-to-head combat against a pack of corrupted wild boars in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
 
 :white\_check\_mark: **Equipment**: Earn new weapon, armor, and accessory Equipment NFTs to boost your Heroes' stats in their battles.
 
 #### September
 
-:white\_check\_mark: **Onboarding Flow Updates**: Fiat-to-Crypto Onramps, DFK Smart Wallets powered by ERC-4337 account abstraction, Combat Demos, and a new Tutorial feature all welcome new players and reduce friction to the Web3 onboarding process.
+<figure><img src=".gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Onboarding Flow Updates**: Fiat-to-Crypto Onramps, DFK Smart Wallets using ERC-4337 account abstraction powered by [Halliday](https://www.halliday.xyz/), Combat Demos, and a new Tutorial feature all welcome new players and reduce friction to the Web3 onboarding process.
 
 #### August
 
