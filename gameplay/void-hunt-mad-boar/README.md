@@ -27,9 +27,10 @@ layout:
 
 ### Void Hunt Basics
 
-#### Required Heroes
+#### Required Heroes & Level
 
-3 Heroes per Hunt
+* 3 Heroes per Hunt
+* Difficulty scales from Hero Level 10+
 
 #### Stamina Required per Attempt
 
