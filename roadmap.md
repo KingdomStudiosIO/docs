@@ -41,6 +41,16 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### 2023
 
+#### December
+
+<figure><img src=".gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Visages & Visage Shop:** Spice up your Heroes’ style with a selection of custom, limited Visages! These items are purely cosmetic and can be equipped over combat weapons, armor, and accessories.
+
+:white\_check\_mark: **DFK Smart Wallets on Klaytn:** DFK Smart Wallets provided by Halliday now fully support Serendale on Klaytn! Bridge your Heroes, tokens, and items back and forth, and get the full DFK experience in both realms.
+
+:white\_check\_mark: **Quick Trade:** Buy items from the Bazaar or Trader with one-click-access from your inventory or crafting NPCs. Now you don't need to walk all the way across town if you're short one Bloater!
+
 #### November
 
 <figure><img src=".gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -49,7 +59,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 <figure><img src=".gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Warrior Combat Skills:** The Warrior joins the Knight, Archer, and Priest as fully playable classes in combat with all of the skills
+:white\_check\_mark: **Warrior Combat Skills:** The Warrior joins the Knight, Archer, and Priest as fully playable classes in combat with all of their available skills.
 
 #### October
 
