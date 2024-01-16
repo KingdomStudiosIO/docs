@@ -28,10 +28,11 @@ The Power Token in Crystalvale is [CRYSTAL](crystal-token.md), while the Power T
 Unless otherwise specified throughout these documents, the Power Token fees from every in-game transaction, as applicable, are apportioned to the respective wallets for each realm as follows:
 
 {% hint style="info" %}
-These percentages were last adjusted on July 26, 2023, increasing the amount allocated to token burn and reducing the amount allocated to the Development Fund.
+These percentages were last adjusted on January 16, 2024, reallocating a portion of the amount previously burned to reward LP stakers instead.
 {% endhint %}
 
-* 25% - Burned
+* 15% - Burned
+* 10% - LP Staking Rewards
 * 15% - [Jeweler Rewards](../the-jeweler/#fee-distribution) (cJEWEL / sJEWEL)
 * 30% - Quest Reward Fund ([DFK Chain](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) / [Klaytn](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049))
 * 30% - Development Fund

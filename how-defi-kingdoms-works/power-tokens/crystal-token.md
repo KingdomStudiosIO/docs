@@ -7,6 +7,10 @@
 The CRYSTAL token has a hard cap of **250,000,000** tokens.
 
 {% hint style="info" %}
+As of December 30, 2023, all 250mm CRYSTAL has been fully emitted through the Gardens.
+{% endhint %}
+
+{% hint style="info" %}
 The CRYSTAL cap was raised from 125m as part of the project's [updated tokenomics](jewel-token.md#updated-tokenomics). The additional 125m CRYSTAL tokens were converted from Locked JEWEL into Locked CRYSTAL.
 {% endhint %}
 
