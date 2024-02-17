@@ -41,6 +41,18 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### 2023
 
+#### February
+
+:white\_check\_mark: **Quest Re-Queue Feature:** Automatically re-queue your quests once they have completed, and manage them in a single location!
+
+#### January
+
+:white\_check\_mark: **LP Staking:** With CRYSTAL fully emitted, LP Stakers are now incentivized by a percentage of fees collected through in-game features, providing a sustainable model. A new interface allows for easy migration from the old staking system to the new one.
+
+:white\_check\_mark: **Visage Auctions:** Trade or sell your Visages to other players with the Visage Auction feature. Visages can be sold once they've left the shop for good!
+
+### 2023
+
 #### December
 
 <figure><img src=".gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
