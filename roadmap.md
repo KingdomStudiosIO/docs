@@ -39,7 +39,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ## Completed
 
-### 2023
+### 2024
 
 #### February
 
