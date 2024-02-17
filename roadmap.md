@@ -49,6 +49,8 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 :white\_check\_mark: **LP Staking:** With CRYSTAL fully emitted, LP Stakers are now incentivized by a percentage of fees collected through in-game features, providing a sustainable model. A new interface allows for easy migration from the old staking system to the new one.
 
+:white\_check\_mark: **Hunt Daily Raffle:** Every Void Hunt you win now enters you into a daily raffle to earn 1000 CRYSTAL. Defeat those Boars and walk away with the jackpot!
+
 :white\_check\_mark: **Visage Auctions:** Trade or sell your Visages to other players with the Visage Auction feature. Visages can be sold once they've left the shop for good!
 
 ### 2023
