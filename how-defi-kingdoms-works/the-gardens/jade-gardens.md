@@ -4,6 +4,10 @@ description: Information about the JADE Gardens and JADE issuance.
 
 # JADE Gardens
 
+{% hint style="info" %}
+As of March 4, 2024, all 250mm JADE has been fully emitted through the Gardens.
+{% endhint %}
+
 ### Issuance Schedule
 
 The issuance of JADE is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is exactly one week long and begins at 5pm EST on the date listed in the table below:

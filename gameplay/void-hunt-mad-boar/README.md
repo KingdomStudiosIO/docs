@@ -23,7 +23,7 @@ layout:
 
 > _There have been reports of a mama boar and her piglets infected with manshroom spores terrorizing villages in the snowy cliffs above Reyalin Mountain Pass. We are calling on all able-bodied Heroes to go investigate._
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Void Hunt Basics
 

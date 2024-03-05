@@ -6,6 +6,10 @@
 
 The JADE token has a hard cap of **250,000,000** tokens.
 
+{% hint style="info" %}
+As of March 4, 2024, all 250mm JADE has been fully emitted through the Gardens.
+{% endhint %}
+
 ### **Token Allocations**
 
 JADE has the following token allocations:

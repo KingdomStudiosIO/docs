@@ -9,26 +9,28 @@ DeFi Kingdoms will continue to grow with new features, systems, maps, and cross-
 
 {% hint style="info" %}
 This roadmap lists many, but not all feature releases currently planned. While they are generally in the order in which we expect them to be released, some items may shift and be released earlier or later, and others will be subdivided into additional parts.
-
-The list below is meant as reference for new and old users, and a new interactive roadmap is slated to be released in the near future.
 {% endhint %}
 
 ## Coming Next
 
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
-* **Bring Your Own Potions:** The Hunter's Guild is running low on supplies, and players will need to craft and bring their own Potions for use in combat encounters, bringing additional utility to these items and the materials required to brew them.
-* **Additional PvE Experiences**: New Void Hunts and other PvE Experiences are in the works.
 * **Additional Combat Classes**: We are actively adding additional Class Skills to combat, and all classes can be used now with their basic attacks.
-* **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style DFK Duel tournaments and compete for lucrative prizes.
+
+<figure><img src=".gitbook/assets/1_KWKpZPRfUSjuMWiQUHH88w.gif" alt=""><figcaption></figcaption></figure>
+
+* **Player vs Player (PVP) Combat**: Launching with initial exclusivity on the [Metis](https://www.metis.io/) blockchain, our core game mode will allow players to fight other players in the **Colosseum** -- an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
+* **Hero Combat Traits:** Use your Heroes' Active and Passive Ability Traits in PvE and PvP combat.
+* **Pet Combat Bonuses:** Reveal your Pets' combat bonuses and use them in PvE & PvP combat.
+* **Additional Player vs Environment (PVE) Experiences**: New Void Hunts and other PvE Experiences are in the works.
+* **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style PVP tournaments and compete for lucrative prizes.
 * **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
 * **Yellow Egg Hatching (Mining Pets)**: Explore many new mining-themed pets and equip them to your Heroes to help them yield the best rewards while down in the mines.
-* **Player vs Player (PVP) Combat**: Our core game mode will allow players to fight other players in an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
 * **Traveling System**: Heroes will now be able to travel with their Heroes and Pets between different regions on the map to visit lands and complete quests.
-* **Achievements**: Earn and collect unique achievements with a variety of challenging tasks and show them off to other players!
 
 ## Long-Term Roadmap Features
 
 * **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: -recruit guild members, trade Heroes, challenge players and more.
+* **Achievements**: Earn and collect unique achievements with a variety of challenging tasks and show them off to other players!
 * **Crafting**: Use your Heroes to harvest and craft various items and equipment!
 * **Golden Egg Hatching**: The fifth and final egg type will be available for hatching new Pets.
 * **Land Functionality**: DeFi Kingdoms Lands will receive a full set of features, including the release of land in Crystalvale.
@@ -41,9 +43,27 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 ### 2024
 
+#### March
+
+:white\_check\_mark: **LP Staking - Serendale:** With JADE fully emitted, LP Stakers in Serendale are now incentivized by a percentage of fees collected through in-game features, providing a sustainable model to token redistribution.
+
 #### February
 
-:white\_check\_mark: **Quest Re-Queue Feature:** Automatically re-queue your quests once they have completed, and manage them in a single location!
+<div data-full-width="false">
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+:white\_check\_mark: **Void Hunt: Bad Motherclucker:** Our newest **Player vs Environment (PvE)** offering, players must face off against a trio of vicious Rocbocs in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
+
+:white\_check\_mark: **Bring Your Own Potions (BYOP):** Players must now craft and bring their own Potions for use in Void Hunts, bringing additional utility to these items and the materials required to brew them. As part of this update, _all_ combat Potions are now usable during combat.
+
+:white\_check\_mark: **New Equipment:** All new equipment drops, including brand new Weapon types and first-ever Armor and Off-Hand items.
+
+:white\_check\_mark: **Sponsored Hunt Raffles:** Now even more prizes are available through the Daily Hunt Raffles, made possible by donations from generous sponsors. Our first Sponsored Raffle from the [Klaytn Foundation](https://klaytn.foundation/) totals 50,000 KLAY in prizes!
+
+:white\_check\_mark: **Quest Re-Queue Feature:** Automatically re-queue your Quests once they have completed, and manage them in a single location!
 
 #### January
 
@@ -81,7 +101,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 :white\_check\_mark: **Halloween Spooktacular Event**: Win limited-time only cosmetics, and Dark Summon Heroes for a chance to Summon with all new skin colors!
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 :white\_check\_mark: **Void Hunt: Mad Boar**: Our first **Player vs Environment (PvE)** offering, players will pit three of their Heroes in head-to-head combat against a pack of corrupted wild boars in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
 
@@ -146,7 +166,7 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 #### November
 
-* :white\_check\_mark: **Jeweler 2.0 (cJEWEL/sJEWEL)**: Our single staking xJEWEL is replaced with cJewel (Crystalvale) and sJewel (Serendale). Lock your JEWEL to receive in-game fees – the longer you lock, the more cJEWEL/sJEWEL you receive, and with it higher rewards.
+* :white\_check\_mark: **Jeweler 2.0 (cJEWEL/sJEWEL)**: Our single staking xJEWEL is replaced with cJEWEL (Crystalvale) and sJEWEL (Serendale). Lock your JEWEL to receive in-game fees – the longer you lock, the more cJEWEL/sJEWEL you receive, and with it higher rewards.
 * :white\_check\_mark: **Dark Summoning**: This feature allows players to sacrifice two Heroes to summon a new Hero. The reward for paying the blood price is that this summoning ritual has lower costs, higher chances for rarer Heroes and some of the parents’ levels carry over.
 
 #### October
@@ -245,8 +265,4 @@ The list below is meant as reference for new and old users, and a new interactiv
 
 <figure><img src=".gitbook/assets/DFK Serendale Full Logo DIGITAL.png" alt=""><figcaption></figcaption></figure>
 
-* :white\_check\_mark: **DeFi Kingdoms Launch**: On August 22, 2021 DeFi Kingdoms officially launched, featuring a pixel art interface, a decentralized exchange via the **Trader**, and the **Gardens**, allowing for the staking of LP seeds and earning of **JEWEL**.
-
-&#x20;
-
-\
+* :white\_check\_mark: **DeFi Kingdoms Launch**: On August 22, 2021 DeFi Kingdoms officially launched, featuring a pixel art interface, a decentralized exchange via the **Trader**, and the **Gardens**, allowing for the staking of LP seeds and earning of **JEWEL**.\
