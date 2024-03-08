@@ -43,11 +43,7 @@ Not all Heroes will have the same level of proficiency in Mining, so it is impor
 
 **There are no deposit fees for staking LP tokens in the Gardens.** To protect against flash loans and pump and dumps, we have implemented withdrawal fees for withdrawing staked LP tokens. The first deposit and every subsequent withdrawal resets the fee timer. The withdrawal fees are listed below:
 
-* **0.01%** fee if a user withdraws after **4 Epochs**
-* **0.25%** fee if a user withdraws after **2 Epochs but before 4 Epochs**
-* **0.5%** fee if a user withdraws after **5 days but before 2 Epochs**
-* **1%** fee if a user withdraws in under **5 days.**
-* **2%** fee if a user withdraws in under **3 days.**
-* **4%** fee if a user withdraws in under **24 hours.**
-* **8%** fee if a user withdraws in under **1 hour.**
 * **25%** slashing fee if a user withdraws **during the same block.**
+* **8%** fee if a user withdraws in under **1 hour.**
+* **4%** fee if a user withdraws in under **24 hours.**
+* **0%** fee if a user withdraws after **24 hours.**
