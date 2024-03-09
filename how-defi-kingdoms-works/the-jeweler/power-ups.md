@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Power-Ups
 
 ## **What are Power-Ups?**
@@ -26,5 +40,5 @@ A **Hero Slot Hold Time** of the same duration as the Cancellation Hold Time als
 
 ## Available Power-Ups
 
-<table data-view="cards"><thead><tr><th>Name</th><th>Cost</th><th>Description</th><th>Minimum Lock Time</th><th>Cancellation Hold Time</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Quick Study</strong></td><td>30 per 6 Heroes</td><td>Grants a 15% bonus to experience gained from questing to each assigned Hero.</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/quick-study.png">quick-study.png</a></td></tr><tr><td><strong>Rapid Renewal</strong></td><td>20 per 6 Heroes</td><td>Reduces the stamina recharge rate of assigned Heroes by an additional 3 seconds per Hero level.</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/rapid-renewal.png">rapid-renewal.png</a></td></tr><tr><td><strong>Backstage Pass</strong></td><td>50</td><td>Grants access to the Combat Testing Grounds.</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/backstage_pass.png">backstage_pass.png</a></td></tr><tr><td>Premium Provisions</td><td>500</td><td>Increases the duration of well-fed time gained from Regular Pet Treats by 1 day and Premium Pet Treats by 4 days</td><td>14 days</td><td>14 days</td><td><a href="../../.gitbook/assets/premium-provisions.png">premium-provisions.png</a></td></tr><tr><td>Master Merchant</td><td>500 / 5000</td><td>Provides a 0.1% / 0.5% discount on Bazaar Trading Fees</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/master-merchant.png">master-merchant.png</a></td></tr><tr><td>Thrifty</td><td>500 / 1500</td><td>Provides a chance to randomly recover used items after combat</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/thrifty.png">thrifty.png</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th>Name</th><th>Cost</th><th>Description</th><th>Minimum Lock Time</th><th>Cancellation Hold Time</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Quick Study</strong></td><td>30 per 6 Heroes</td><td>Grants a 15% bonus to experience gained from questing to each assigned Hero.</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/quick-study.png">quick-study.png</a></td></tr><tr><td><strong>Rapid Renewal</strong></td><td>20 per 6 Heroes</td><td>Reduces the stamina recharge rate of assigned Heroes by an additional 3 seconds per Hero level.</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/rapid-renewal.png">rapid-renewal.png</a></td></tr><tr><td><strong>Backstage Pass</strong></td><td>50</td><td>Grants access to the Combat Testing Grounds.</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/backstage_pass.png">backstage_pass.png</a></td></tr><tr><td><strong>Premium Provisions</strong></td><td>500</td><td>Increases the duration of well-fed time gained from Regular Pet Treats by 1 day and Premium Pet Treats by 4 days</td><td>14 days</td><td>14 days</td><td><a href="../../.gitbook/assets/premium-provisions.png">premium-provisions.png</a></td></tr><tr><td><strong>Master Merchant</strong></td><td>500 / 5000</td><td>Provides a 0.1% / 0.5% discount on Bazaar Trading Fees</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/master-merchant.png">master-merchant.png</a></td></tr><tr><td><strong>Thrifty</strong></td><td>500 / 1500</td><td>Provides a chance to randomly recover used items after combat</td><td>7 days</td><td>1 day</td><td><a href="../../.gitbook/assets/thrifty.png">thrifty.png</a></td></tr></tbody></table>
 
