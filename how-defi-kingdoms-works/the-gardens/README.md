@@ -41,7 +41,7 @@ Not all Heroes will have the same level of proficiency in Mining, so it is impor
 
 ### **Garden Staking Deposit and Withdrawal Fees**
 
-**There are no deposit fees for staking LP tokens in the Gardens.** To protect against flash loans and pump and dumps, we have implemented withdrawal fees for withdrawing staked LP tokens. The first deposit and every subsequent withdrawal resets the fee timer. The withdrawal fees are listed below:
+**There are no deposit fees for staking LP tokens in the Gardens.** To protect against flash loans and price manipulation, we have implemented withdrawal fees for withdrawing staked LP tokens. Each deposit a player makes to a pool resets the fee timer. The withdrawal fees are listed below:
 
 * **25%** slashing fee if a user withdraws **during the same block.**
 * **8%** fee if a user withdraws in under **1 hour.**
