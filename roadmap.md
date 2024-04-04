@@ -19,16 +19,20 @@ This roadmap lists many, but not all feature releases currently planned. While t
 <figure><img src=".gitbook/assets/1_KWKpZPRfUSjuMWiQUHH88w.gif" alt=""><figcaption></figcaption></figure>
 
 * **Player vs Player (PVP) Combat**: Launching with initial exclusivity on the [Metis](https://www.metis.io/) blockchain, our core game mode will allow players to fight other players in the **Colosseum** -- an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
+* **Basic Equipment Shop:** A shop for players to acquire starter gear for their Heroes, until better can be found.
+* **Equipment Durability:** A major aspect of the Equipment system, items will wear down and break over time if not repaired.
+* **Hero Burn Mechanic:** A mysterious new mechanic that will require Hero lives as a cost in exchange for... ?
+* **Additional Hunts Reward System:** A way to incentivize the grinder, this reward system will be backdated to include all victorious Hunts from the Void Hunt: Mad Boar launch up until the system is introduced.
 * **Hero Combat Traits:** Use your Heroes' Active and Passive Ability Traits in PvE and PvP combat.
 * **Pet Combat Bonuses:** Reveal your Pets' combat bonuses and use them in PvE & PvP combat.
-* **Additional Player vs Environment (PVE) Experiences**: New Void Hunts and other PvE Experiences are in the works.
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style PVP tournaments and compete for lucrative prizes.
-* **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
-* **Yellow Egg Hatching (Mining Pets)**: Explore many new mining-themed pets and equip them to your Heroes to help them yield the best rewards while down in the mines.
-* **Traveling System**: Heroes will now be able to travel with their Heroes and Pets between different regions on the map to visit lands and complete quests.
 
 ## Long-Term Roadmap Features
 
+* **Additional Player vs Environment (PVE) Experiences**: New Void Hunts and other PvE Experiences are in the works.
+* **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
+* **Yellow Egg Hatching (Mining Pets)**: Explore many new mining-themed pets and equip them to your Heroes to help them yield the best rewards while down in the mines.
+* **Traveling System**: Heroes will now be able to travel with their Heroes and Pets between different regions on the map to visit lands and complete quests.
 * **In-Game Chat**: Communicate with other players around the world with our in-game chat feature: -recruit guild members, trade Heroes, challenge players and more.
 * **Achievements**: Earn and collect unique achievements with a variety of challenging tasks and show them off to other players!
 * **Crafting**: Use your Heroes to harvest and craft various items and equipment!
