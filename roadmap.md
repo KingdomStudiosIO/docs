@@ -13,6 +13,8 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 ## Coming Next
 
+<figure><img src=".gitbook/assets/priorities_graphic.png" alt="" width="375"><figcaption></figcaption></figure>
+
 * **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
 * **Additional Combat Classes**: We are actively adding additional Class Skills to combat, and all classes can be used now with their basic attacks.
 
