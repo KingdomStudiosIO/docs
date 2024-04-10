@@ -24,6 +24,8 @@ Crystals that, when used during leveling, provide +5% to the primary stat growth
 
 ![](../../../../.gitbook/assets/fortune-crystal-lesser.gif)**Lesser Fortune Crystal:** Associated with LCK.
 
+![](https://defi-kingdoms.b-cdn.net/art-assets/items/chaos-crystal-lesser.gif)**Lesser Chaos Crystal:** Chooses a random stat when used.
+
 ### Attunement Crystals
 
 Crystals that, when used during leveling, provide +10% to the primary stat growth chance of the associated stat and +30% to the secondary stat growth chance of the associated stat.
@@ -44,6 +46,8 @@ Crystals that, when used during leveling, provide +10% to the primary stat growt
 
 ![](../../../../.gitbook/assets/fortune-crystal.gif)**Fortune Crystal:** Associated with LCK.
 
+![](https://defi-kingdoms.b-cdn.net/art-assets/items/chaos-crystal.gif)**Chaos Crystal:** Chooses a random stat when used.
+
 ### Greater Attunement Crystals
 
 Crystals that, when used during leveling, provide +15% to the primary stat growth chance of the associated stat and +45% to the secondary stat growth chance of the associated stat.
@@ -63,3 +67,5 @@ Crystals that, when used during leveling, provide +15% to the primary stat growt
 ![](../../../../.gitbook/assets/fortitude\_greater\_insight\_crystal.gif)**Greater Insight Crystal:** Associated with WIS.
 
 ![](<../../../../.gitbook/assets/greater\_fortune\_crystal (1) (1).gif>)**Greater Fortune Crystal:** Associated with LCK.
+
+![](https://defi-kingdoms.b-cdn.net/art-assets/items/chaos-crystal-greater.gif)**Greater Chaos Crystal:** Chooses a random stat when used.

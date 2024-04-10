@@ -6,7 +6,7 @@ coverY: 0
 
 # Foraging
 
-**Foraging Quests** can be performed by up to five or six Heroes at a time in each realm. These quests yield **Plants** and other rare items.
+**Foraging Quests** can be performed by up to six Heroes at a time in each realm. These quests yield **Plants** and other rare items.
 
 > _Barren our valley may appear; however, you will find many surprises within the nooks and crannies of the white expanse._
 
@@ -26,7 +26,7 @@ These quests have a chance to reward Heroes with **Plants**, **Gaia's Tears**, *
 
 #### Required Hero Range
 
-1-6 Heroes (currently 5 max in Serendale)
+1-6 Heroes
 
 #### Minimum XP Reward
 

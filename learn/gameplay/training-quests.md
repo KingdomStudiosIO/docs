@@ -12,7 +12,7 @@ Each Trainer specializes in a specific discipline (Stat). The Hero competes agai
 
 When a training attempt is successful, the Hero receives a flat amount of Gold and a roll for a [Shvās rune](heroes/leveling.md), an lesser [attunement crystal](heroes/attunement-crystals/), and a Page of the Eternal Story. **NOTE:** Unsuccessful attempts do not receive any of these rolls.
 
-Each Training Quest attempt consumes **5 stamina**. You can perform up to **5 attempts per transaction** and up to **6 Heroes per transaction**. Each Hero must be able to perform the same number of attempts when grouped.
+Each Training Quest attempt consumes **5 stamina**. You can send up to **6 Heroes per transaction** with attempts limited only by stamina. Each Hero must be able to perform the same number of attempts when grouped.
 
 ## Reward Screen
 

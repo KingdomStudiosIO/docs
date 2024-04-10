@@ -6,7 +6,7 @@ coverY: 0
 
 # Fishing
 
-**Fishing Quests** can be performed by up to five or six Heroes at a time in each realm. These quests yield **Fish** and other rare items.
+**Fishing Quests** can be performed by up to six Heroes at a time in each realm. These quests yield **Fish** and other rare items.
 
 > _Beautiful lake, isn't it? Looking over the water will do miracles for your soul. When my wife and kids come down to join me, there's no other place I would rather be._
 >
@@ -28,7 +28,7 @@ These quests have a chance to reward Heroes with **Fish**, **Gaia's Tears**, **R
 
 #### Required Hero Range
 
-1-6 Heroes (currently 5 max in Serendale)
+1-6 Heroes
 
 #### Minimum XP Reward
 
