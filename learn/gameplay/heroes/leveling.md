@@ -36,3 +36,34 @@ In summary, when a Hero levels up the following will happen:&#x20;
 Stamina has a fixed growth rate for all Heroes. It increases by 1 every even level.
 
 Lastly, HP and MP increases are calculated after other stat bonuses are applied. Each class has its own chances for small, regular, or large increases in HP and MP. For example, a Wizard has higher chances for large MP increases, but lower chances for large HP increases.
+
+### Rarity Bonus
+
+Heroes with rarity above Common receive additional stat bonuses when they are first summoned and then every 5 levels thereafter (at Level 5, Level 10, etc.). These bonuses increase with Hero rarity and are distributed as follows:
+
+#### Uncommon <a href="#id-473a" id="id-473a"></a>
+
+* \+1 to two random, mutually exclusive stats
+
+#### Rare <a href="#id-1ad5" id="id-1ad5"></a>
+
+* \+1 to three random, mutually exclusive stats
+* \+1 to a random stat (including any that received a bonus already)
+
+#### Legendary <a href="#id-9763" id="id-9763"></a>
+
+* \+1 to three random, mutually exclusive stats
+* \+1 to two random, mutually exclusive stats (including any that received a bonus already)
+* \+2 to a random stat (including any that received a bonus already)
+
+#### Mythic <a href="#id-8525" id="id-8525"></a>
+
+* \+2 to three random, mutually exclusive stats
+* \+1 to three random, mutually exclusive stats (including any that received a bonus already)
+* \+1 to a random stat (including any that received a bonus already)
+
+This chart shows an average breakdown of stats at Level 100, by Hero rarity, using a Knight/Knight Hero as a reference:
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*DQ8r4M3FZIGSX1UP.png" alt="" height="388" width="700"><figcaption><p>Average stat distribution of a Level 100 Knight/Knight of each rarity</p></figcaption></figure>
+
+For reference, Level 100 Mythic Heroes will have, on average, **200 more** stat points than Level 100 Common Heroes do.
