@@ -11,7 +11,7 @@ DeFi Kingdoms will continue to grow with new features, systems, maps, and cross-
 This roadmap lists many, but not all feature releases currently planned. While they are generally in the order in which we expect them to be released, some items may shift and be released earlier or later, and others will be subdivided into additional parts.
 {% endhint %}
 
-## Coming Next
+## Current Priorities
 
 <figure><img src=".gitbook/assets/priorities_graphic.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -49,6 +49,20 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 ### 2024
 
+#### May
+
+<figure><img src=".gitbook/assets/Screenshot 2024-05-07 at 9.32.57 AM (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Berserker Combat Skills:** Unleash your inner rage with the [Berserker](gameplay/combat/berserker.md), the latest class to join the fray with a full combat codex!
+
+#### April
+
+:white\_check\_mark: **DFK Duel Season 7:** The newest season of DFK Duel launches with a brand new contract, Pack (5v5) Mode, and new Keepsies and Deathmatch private challenges.
+
+<figure><img src=".gitbook/assets/SeerClassBioX-ezgif.com-video-to-gif-converter.gif" alt="" width="450"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Seer Combat Skills:** The [Seer](gameplay/combat/seer.md) joins the lineup of Heroes with full combat codices, bending time to their will and harnessing powerful stones to either heal or destroy.
+
 #### March
 
 :white\_check\_mark: **LP Staking - Serendale:** With JADE fully emitted, LP Stakers in Serendale are now incentivized by a percentage of fees collected through in-game features, providing a sustainable model to token redistribution.
@@ -64,6 +78,8 @@ This roadmap lists many, but not all feature releases currently planned. While t
 :white\_check\_mark: **Void Hunt: Bad Motherclucker:** Our newest **Player vs Environment (PvE)** offering, players must face off against a trio of vicious Rocbocs in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
 
 :white\_check\_mark: **Bring Your Own Potions (BYOP):** Players must now craft and bring their own Potions for use in Void Hunts, bringing additional utility to these items and the materials required to brew them. As part of this update, _all_ combat Potions are now usable during combat.
+
+<figure><img src=".gitbook/assets/BMC Equipment (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 :white\_check\_mark: **New Equipment:** All new equipment drops, including brand new Weapon types and first-ever Armor and Off-Hand items.
 
@@ -99,7 +115,7 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 <figure><img src=".gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Warrior Combat Skills:** The Warrior joins the Knight, Archer, and Priest as fully playable classes in combat with all of their available skills.
+:white\_check\_mark: **Warrior Combat Skills:** The [Warrior](gameplay/combat/warrior.md) joins the Knight, Archer, and Priest as fully playable classes in combat with all of their available skills.
 
 #### October
 
