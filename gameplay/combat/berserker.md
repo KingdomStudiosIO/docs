@@ -9,9 +9,9 @@ description: Berserker Class Combat Skills
 This page details information about the Berserker class combat skills that will be used in Player-vs-Player (PVP) and Player-vs-Environment (PVE) combat environments.
 
 {% hint style="warning" %}
-All information on this page is considered "Pre-Alpha" and preliminary, and is therefore subject to change.
+All information on this page is subject to change.&#x20;
 
-_Last Update: 2/13/2023_
+_Last Update: 5/8/2024. Note that skills beyond Tier 5 have not yet been revised or balanced._
 {% endhint %}
 
 ## Class Description
