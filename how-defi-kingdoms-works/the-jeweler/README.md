@@ -81,9 +81,14 @@ When this happens, the vote is announced on Discord and through the other DeFi K
 Governance votes allow the holders of the token to have an active voice in decision-making, and the developers view this as a key component to a successful DeFi project.
 
 {% hint style="info" %}
-In addition to cJEWEL and sJEWEL holders being able to vote, holders of Hero NFTs and Land NFTs also have voting rights.&#x20;
+**Governance Weighting**\
+In addition to cJEWEL and sJEWEL holders being able to vote, holders of Hero NFTs and Land NFTs also grant Voting Power.&#x20;
 
-Hero NFTs have the voting power of 10 cJEWEL/sJEWEL as the result of a [community governance vote](https://vote.defikingdoms.com/#/proposal/0xd74484526e93cd325e853aea1444d0c6d3019749beb31b65ee03f1a52e18e04f) held on 2/23/2022, and Land NFTs have the voting power of 100 cJEWEL/sJEWEL tokens.
+* Hero NFTs have the Voting Power of 10 cJEWEL/sJEWEL&#x20;
+* Gen0 Heroe NFTs have an additional 990 voting power for a total of 1000
+* Land NFTs have the voting power for 5000 cJEWEL/sJEWEL tokens
+
+These weightings were adopted by [community governance vote](https://vote.defikingdoms.com/#/proposal/0x5eb9d24ca5b67c4e033b7b0c4fa3673b8a0f6eb31143edce678964ef8fba9636) on 6/4/2024.
 {% endhint %}
 
 ### Fee Distribution
