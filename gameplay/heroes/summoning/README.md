@@ -12,9 +12,9 @@ To infuse a crystal, Heroes pour their energy into **Gaia’s Tears** and the **
 
 #### Summoning Cooldown
 
-The act of Summoning is an exhausting process, and that exhaustion compounds with each act of Summoning. For each Summon a Hero performs, they must wait for a **cooldown period** before they can Summon again.&#x20;
+The act of summoning is an exhausting process, and that exhaustion compounds with each act of summoning. For each summon a Hero performs, they must wait for a **cooldown period** before they can summon again.&#x20;
 
-Gen0 Heroes have a base cooldown of 4 hours, and each summon increases that cooldown by an addition 4 hours, up to a maximum of 14 days.
+Gen0 Heroes have a base cooldown of 4 hours, and each summon increases that cooldown by an additional 4 hours, up to a maximum of 14 days.
 
 Gen1+ Heroes use the following cooldown formula, in which there is a minimum of 32 hours after they are first summoned before they can summon themselves:
 
@@ -28,7 +28,7 @@ This cooldown structure was changed by [governance vote](https://vote.defikingdo
 
 #### Summoning Costs
 
-The exhaustion of Summoning doesn’t end at just a cooldown. The amount of Power Tokens needed to for each Hero to infuse the next Summoning Crystal also increases by 2 Power Tokens after each Summon. Gen0 Heroes have the lowest starting cost for Summoning (6 Power Tokens), and each generation above 0 will see an increase of 10 Power Tokens per generation in cost for their Summons compared to lower generations.
+The exhaustion of summoning doesn’t end at just a cooldown. The amount of Power Tokens needed for each Hero to infuse the next Summoning Crystal also increases by 2 Power Tokens after each Summon. Gen0 Heroes have the lowest starting cost for summoning (6 Power Tokens), and each generation above 0 will see an increase of 10 Power Tokens per generation in cost for their summons compared to lower generations.
 
 $$
 powerTokenCost = 6+2*summonCount + 10*generation
@@ -40,17 +40,17 @@ Note: Gen0 Heroes have a maximum Power Token cost of 30.
 
 #### Generations & Maximum Summons
 
-What’s this? Yes, unfortunately only Gen0 Heroes are able to maintain their attunement to Gaia Summon after Summon. **All later generations simply have a limit to how many times they can focus their energies into Gaia’s Tears.** Once they have expended the last of their attunement energies, they can no longer Summon.
+What’s this? Yes, unfortunately only Gen0 Heroes are able to maintain their attunement to Gaia summon after summon. **All later generations simply have a limit to how many times they can focus their energies into Gaia’s Tears.** Once they have expended the last of their attunement energies, they can no longer summon.
 
-Another quirk of the Summoning process is that the portal seeks those who have similar Gaia attunement strength as the weakest Summoner. So if a Gen0 summoner Hero infuses a crystal with a Gen1 summoner Hero with only four remaining summons worth of attunement, then the summoned Gen2 will only be able to summon three times (the same number of remaining summons as the weakest summoner after summoning this new hero). Two Gen0 summoners will Summon a Gen1 with ten Summons worth of attunement.
+Another quirk of the summoning process is that the Portal seeks those who have similar attunement strength as the weakest summoner. So if a Gen0 summoner Hero infuses a crystal with a Gen1 summoner Hero with only four remaining summons worth of attunement, then the summoned Gen2 will only be able to summon three times (the same number of remaining summons as the weakest summoner after summoning this new hero). Two Gen0 summoners will Summon a Gen1 with ten summons' worth of attunement.
 
 #### Attunement Limitations
 
-Summoned Heroes are too similar to the Heroes that summoned them to be able to properly attune a new Summoning Crystal. This is also true for pairs of Heroes that were Summoned by one or two of the the same Heroes. All other combinations of Heroes will not encounter any trouble attuning a Summoning Crystal so long as they have remaining attunement energy.
+Summoned Heroes are too similar to the Heroes that summoned them to be able to properly attune a new Summoning Crystal. This is also true for pairs of Heroes that were summoned by one or two of the the same Heroes. All other combinations of Heroes will not encounter any trouble attuning a Summoning Crystal so long as they have remaining attunement energy.
 
 ### Boosted Summons
 
-For every 5 levels a summoning Hero has reached, the player may increase the Gaia's Tear cost by 10 to provide bonuses to the Summoned Hero. Those bonuses are applied to the Summoned Hero’s stats, Primary Stat Growth, and Secondary Stat Growth. The bonuses are based on the summoning Hero’s top three stats, and each summoning Hero may provide their own bonuses if they use extra tears.
+For every 5 levels a summoning Hero has reached, the player may increase the Gaia's Tear cost by 10 to provide bonuses to the Summoned Hero. Those bonuses are applied to the summoned Hero’s stats, Primary Stat Growth, and Secondary Stat Growth. The bonuses are based on the summoning Hero’s top three stats, and each summoning Hero may provide their own bonuses if they use extra tears.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-04-11 at 11.26.19 PM.png" alt="" width="223"><figcaption><p>Tears Bonus</p></figcaption></figure>
 
@@ -79,7 +79,7 @@ These bonuses are **per** summoning Hero, so the maximum possible for two Level 
 
 ### Enhancement Stones
 
-[**Enhancement Stones**](../../../learn/gameplay/heroes/enhancement-stones.md) can also be used during Summoning to further improve the starting stats and stat growth values of the summoned Hero! Each Enhancement Stone is attuned to a particular stat. Rarer and more potent Enhancement Stones will increase these values even further.
+[**Enhancement Stones**](../../../learn/gameplay/heroes/enhancement-stones.md) can also be used during summoning to further improve the starting stats and stat growth values of the summoned Hero! Each Enhancement Stone is attuned to a particular stat. Rarer and more potent Enhancement Stones will increase these values even further.
 
 ### Hero Ranks
 
