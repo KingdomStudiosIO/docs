@@ -15,7 +15,6 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 <figure><img src=".gitbook/assets/priorities_graphic.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* **Expeditions**: This feature will allow players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
 * **Additional Combat Classes**: We are actively adding additional Class Skills to combat, and all classes can be used now with their basic attacks.
 
 <figure><img src=".gitbook/assets/1_KWKpZPRfUSjuMWiQUHH88w.gif" alt=""><figcaption></figcaption></figure>
@@ -25,7 +24,6 @@ This roadmap lists many, but not all feature releases currently planned. While t
 * **Equipment Durability:** A major aspect of the Equipment system, items will wear down and break over time if not repaired.
 * **Hero Burn Mechanic:** A mysterious new mechanic that will require Hero lives as a cost in exchange for... ?
 * **Additional Hunts Reward System:** A way to incentivize the grinder, this reward system will be backdated to include all victorious Hunts from the Void Hunt: Mad Boar launch up until the system is introduced.
-* **Hero Combat Traits:** Use your Heroes' Active and Passive Ability Traits in PvE and PvP combat.
 * **Pet Combat Bonuses:** Reveal your Pets' combat bonuses and use them in PvE & PvP combat.
 * **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style PVP tournaments and compete for lucrative prizes.
 
@@ -49,6 +47,22 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 ### 2024
 
+#### August
+
+* :white\_check\_mark: **Hero Combat Traits:** Use your Heroes' genetic Active and Passive Ability Traits in PvE and PvP combat.
+
+<figure><img src=".gitbook/assets/1_l59Pkmn0KtPul2mDoeAdsA.webp" alt="" width="563"><figcaption></figcaption></figure>
+
+* :white\_check\_mark: **Expeditions**: This feature allows players to send their Heroes questing for longer periods of time. Until the user ends the Expedition, the Heroes will automatically farm materials for the player.
+
+#### July
+
+* :white\_check\_mark: **DFK Duel Season 8:** This season of DFK Duel launched with a completely re-written contract that automates future seasons. No more extended between-season downtime! This release brings DFK Duel to a "feature complete" state.
+
+#### June
+
+* :white\_check\_mark: **In-Game Governance Voting:** Powered by Snapshot, players can now vote on governance proposals through a native, in-game interface.
+
 #### May
 
 <figure><img src=".gitbook/assets/Screenshot 2024-05-07 at 9.32.57 AM (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -61,11 +75,11 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 <figure><img src=".gitbook/assets/SeerClassBioX-ezgif.com-video-to-gif-converter.gif" alt="" width="450"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Seer Combat Skills:** The [Seer](gameplay/combat/seer.md) joins the lineup of Heroes with full combat codices, bending time to their will and harnessing powerful stones to either heal or destroy.
+* :white\_check\_mark: **Seer Combat Skills:** The [Seer](gameplay/combat/seer.md) joins the lineup of Heroes with full combat codices, bending time to their will and harnessing powerful stones to either heal or destroy.
 
 #### March
 
-:white\_check\_mark: **LP Staking - Serendale:** With JADE fully emitted, LP Stakers in Serendale are now incentivized by a percentage of fees collected through in-game features, providing a sustainable model to token redistribution.
+* :white\_check\_mark: **LP Staking - Serendale:** With JADE fully emitted, LP Stakers in Serendale are now incentivized by a percentage of fees collected through in-game features, providing a sustainable model to token redistribution.
 
 #### February
 
@@ -75,25 +89,20 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 </div>
 
-:white\_check\_mark: **Void Hunt: Bad Motherclucker:** Our newest **Player vs Environment (PvE)** offering, players must face off against a trio of vicious Rocbocs in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
-
-:white\_check\_mark: **Bring Your Own Potions (BYOP):** Players must now craft and bring their own Potions for use in Void Hunts, bringing additional utility to these items and the materials required to brew them. As part of this update, _all_ combat Potions are now usable during combat.
+* :white\_check\_mark: **Void Hunt: Bad Motherclucker:** Our newest **Player vs Environment (PvE)** offering, players must face off against a trio of vicious Rocbocs in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
+* :white\_check\_mark: **Bring Your Own Potions (BYOP):** Players must now craft and bring their own Potions for use in Void Hunts, bringing additional utility to these items and the materials required to brew them. As part of this update, _all_ combat Potions are now usable during combat.
 
 <figure><img src=".gitbook/assets/BMC Equipment (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **New Equipment:** All new equipment drops, including brand new Weapon types and first-ever Armor and Off-Hand items.
-
-:white\_check\_mark: **Sponsored Hunt Raffles:** Now even more prizes are available through the Daily Hunt Raffles, made possible by donations from generous sponsors. Our first Sponsored Raffle from the [Klaytn Foundation](https://klaytn.foundation/) totals 50,000 KLAY in prizes!
-
-:white\_check\_mark: **Quest Re-Queue Feature:** Automatically re-queue your Quests once they have completed, and manage them in a single location!
+* :white\_check\_mark: **New Equipment:** All new equipment drops, including brand new Weapon types and first-ever Armor and Off-Hand items.
+* :white\_check\_mark: **Sponsored Hunt Raffles:** Now even more prizes are available through the Daily Hunt Raffles, made possible by donations from generous sponsors. Our first Sponsored Raffle from the [Klaytn Foundation](https://klaytn.foundation/) totals 50,000 KLAY in prizes!
+* :white\_check\_mark: **Quest Re-Queue Feature:** Automatically re-queue your Quests once they have completed, and manage them in a single location!
 
 #### January
 
-:white\_check\_mark: **LP Staking:** With CRYSTAL fully emitted, LP Stakers are now incentivized by a percentage of fees collected through in-game features, providing a sustainable model. A new interface allows for easy migration from the old staking system to the new one.
-
-:white\_check\_mark: **Hunt Daily Raffle:** Every Void Hunt you win now enters you into a daily raffle to earn 1000 CRYSTAL. Defeat those Boars and walk away with the jackpot!
-
-:white\_check\_mark: **Visage Auctions:** Trade or sell your Visages to other players with the Visage Auction feature. Visages can be sold once they've left the shop for good!
+* :white\_check\_mark: **LP Staking - Crystalvale:** With CRYSTAL fully emitted, LP Stakers are now incentivized by a percentage of fees collected through in-game features, providing a sustainable model. A new interface allows for easy migration from the old staking system to the new one.
+* :white\_check\_mark: **Hunt Daily Raffle:** Every Void Hunt you win now enters you into a daily raffle to earn 1000 CRYSTAL. Defeat those Boars and walk away with the jackpot!
+* :white\_check\_mark: **Visage Auctions:** Trade or sell your Visages to other players with the Visage Auction feature. Visages can be sold once they've left the shop for good!
 
 ### 2023
 
@@ -101,45 +110,41 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 <figure><img src=".gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Visages & Visage Shop:** Spice up your Heroes’ style with a selection of custom, limited Visages! These items are purely cosmetic and can be equipped over combat weapons, armor, and accessories.
-
-:white\_check\_mark: **DFK Smart Wallets on Klaytn:** DFK Smart Wallets provided by Halliday now fully support Serendale on Klaytn! Bridge your Heroes, tokens, and items back and forth, and get the full DFK experience in both realms.
-
-:white\_check\_mark: **Quick Trade:** Buy items from the Bazaar or Trader with one-click-access from your inventory or crafting NPCs. Now you don't need to walk all the way across town if you're short one Bloater!
+* :white\_check\_mark: **Visages & Visage Shop:** Spice up your Heroes’ style with a selection of custom, limited Visages! These items are purely cosmetic and can be equipped over combat weapons, armor, and accessories.
+* :white\_check\_mark: **DFK Smart Wallets on Klaytn:** DFK Smart Wallets provided by Halliday now fully support Serendale on Klaytn! Bridge your Heroes, tokens, and items back and forth, and get the full DFK experience in both realms.
+* :white\_check\_mark: **Quick Trade:** Buy items from the Bazaar or Trader with one-click-access from your inventory or crafting NPCs. Now you don't need to walk all the way across town if you're short one Bloater!
 
 #### November
 
 <figure><img src=".gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **DFK Duel Season 6:** The newest season brings even better features to the Champion System, plus five unique equippable items to boost your Duel prowess!
+* :white\_check\_mark: **DFK Duel Season 6:** The newest season brings even better features to the Champion System, plus five unique equippable items to boost your Duel prowess!
 
 <figure><img src=".gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Warrior Combat Skills:** The [Warrior](gameplay/combat/warrior.md) joins the Knight, Archer, and Priest as fully playable classes in combat with all of their available skills.
+* :white\_check\_mark: **Warrior Combat Skills:** The [Warrior](gameplay/combat/warrior.md) joins the Knight, Archer, and Priest as fully playable classes in combat with all of their available skills.
 
 #### October
 
 <figure><img src=".gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Halloween Spooktacular Event**: Win limited-time only cosmetics, and Dark Summon Heroes for a chance to Summon with all new skin colors!
+* :white\_check\_mark: **Halloween Spooktacular Event**: Win limited-time only cosmetics, and Dark Summon Heroes for a chance to Summon with all new skin colors!
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Void Hunt: Mad Boar**: Our first **Player vs Environment (PvE)** offering, players will pit three of their Heroes in head-to-head combat against a pack of corrupted wild boars in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
-
-:white\_check\_mark: **Equipment**: Earn new weapon, armor, and accessory Equipment NFTs to boost your Heroes' stats in their battles.
+* :white\_check\_mark: **Void Hunt: Mad Boar**: Our first **Player vs Environment (PvE)** offering, players will pit three of their Heroes in head-to-head combat against a pack of corrupted wild boars in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
+* :white\_check\_mark: **Equipment**: Earn new weapon, armor, and accessory Equipment NFTs to boost your Heroes' stats in their battles.
 
 #### September
 
 <figure><img src=".gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
-:white\_check\_mark: **Onboarding Flow Updates**: Fiat-to-Crypto Onramps, DFK Smart Wallets using ERC-4337 account abstraction powered by [Halliday](https://www.halliday.xyz/), Combat Demos, and a new Tutorial feature all welcome new players and reduce friction to the Web3 onboarding process.
+* :white\_check\_mark: **Onboarding Flow Updates**: Fiat-to-Crypto Onramps, DFK Smart Wallets using ERC-4337 account abstraction powered by [Halliday](https://www.halliday.xyz/), Combat Demos, and a new Tutorial feature all welcome new players and reduce friction to the Web3 onboarding process.
 
 #### August
 
-:white\_check\_mark: **Multi-Meditation Feature**: Level all of your Heroes in a single transaction through the re-designed Meditation Circle.
-
-:white\_check\_mark: **DFK Duel Champion Matches**: Who is the Champion? _You_ are! Send your Heroes to topple the existing Champion in an all-out competition for dominance, and earn a percentage of the fees collected from DFK Duels.
+* :white\_check\_mark: **Multi-Meditation Feature**: Level all of your Heroes in a single transaction through the re-designed Meditation Circle.
+* :white\_check\_mark: **DFK Duel Champion Matches**: Who is the Champion? _You_ are! Send your Heroes to topple the existing Champion in an all-out competition for dominance, and earn a percentage of the fees collected from DFK Duels.
 
 #### July
 
