@@ -13,19 +13,20 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 ## Current Priorities
 
-<figure><img src=".gitbook/assets/priorities_graphic.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Priority_List_October_2024.png" alt="" width="375"><figcaption></figcaption></figure>
+
+* **Divine Essence:** Transcend (burn) your Heroes in exchange for Divine Essence and other rewards, which can be used to reroll Hero level-ups, restore equipment, and more. See the full presentation in our [Governance and Alpha Roundtable](https://www.youtube.com/live/1A1BEGx3g18?si=XXCAqegFYF9CVM07) from May 29th on YouTube.
+* **Equipment Durability:** A major aspect of the Equipment system, items will begin to degrade through use, eventually becoming unusable unless repaired or restored.
+* **Mysterious Bannerman Activity:** The city of Submersia will call upon your Pleged Heroes in a new and interactive way...
+* **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style PVP tournaments and compete for lucrative prizes.
+
+### Secondary Priorities
 
 * **Additional Combat Classes**: We are actively adding additional Class Skills to combat, and all classes can be used now with their basic attacks.
-
-<figure><img src=".gitbook/assets/1_KWKpZPRfUSjuMWiQUHH88w.gif" alt=""><figcaption></figcaption></figure>
-
-* **Player vs Player (PVP) Combat**: Launching with initial exclusivity on the [Metis](https://www.metis.io/) blockchain, our core game mode will allow players to fight other players in the **Colosseum** -- an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
-* **Basic Equipment Shop:** A shop for players to acquire starter gear for their Heroes, until better can be found.
-* **Equipment Durability:** A major aspect of the Equipment system, items will wear down and break over time if not repaired.
-* **Hero Burn Mechanic:** A mysterious new mechanic that will require Hero lives as a cost in exchange for... ?
 * **Additional Hunts Reward System:** A way to incentivize the grinder, this reward system will be backdated to include all victorious Hunts from the Void Hunt: Mad Boar launch up until the system is introduced.
 * **Pet Combat Bonuses:** Reveal your Pets' combat bonuses and use them in PvE & PvP combat.
-* **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style PVP tournaments and compete for lucrative prizes.
+* **Glory and Honor:** Battle opponents with Glory on the line! Stake your Honor on the outcome of Bouts against other Commanders! Those with the most Glory and/or Honor will be rewarded!
+* **PVP Experience Enhancements:** We are always working on improvements to both combat itself and the surrounding systems. Upgrades and updates will be coming!
 
 ## Long-Term Roadmap Features
 
@@ -46,6 +47,13 @@ This roadmap lists many, but not all feature releases currently planned. While t
 ## Completed
 
 ### 2024
+
+#### October
+
+<figure><img src=".gitbook/assets/PvP-1000-x-424.webp" alt="" width="563"><figcaption></figcaption></figure>
+
+* :white\_check\_mark: **Player vs Player (PVP) Combat**: Launched with initial exclusivity on the [Metis](https://www.metis.io/) blockchain, our core game mode allows players to fight other players in the **Colosseum** -- an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
+* :white\_check\_mark: **Basic Equipment Shop:** A shop for players to acquire starter gear for their Heroes, until better can be found.
 
 #### August
 
