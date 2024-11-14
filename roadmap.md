@@ -48,11 +48,18 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 ### 2024
 
+#### November
+
+<figure><img src=".gitbook/assets/Submersian Shells Bulletin.png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Submersian Shell, Raffle, & Quest System**: Earn Submersian Shells from doing activities throughout the Colosseum and use those Shells as raffle tickets for a variety of prizes. Collect enough Shells to complete daily and other quests for bonus Shells!
+
 #### October
 
 <figure><img src=".gitbook/assets/PvP-1000-x-424.webp" alt="" width="563"><figcaption></figcaption></figure>
 
-* :white\_check\_mark: **Player vs Player (PVP) Combat**: Launched with initial exclusivity on the [Metis](https://www.metis.io/) blockchain, our core game mode allows players to fight other players in the **Colosseum** -- an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
+* :white\_check\_mark: **Player vs Player (PVP) Combat**: Launched with initial exclusivity on the [Metis](https://www.metis.io/) blockchain, this core game mode allows players to fight other players in the **Colosseum** -- an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
+* :white\_check\_mark: **Hero Spectating System:** Pledge (stake) your Heroes as Bannermen to earn Influence & fee sharing. Use that Influence to vote on the outcome of Bouts, and win a portion of the rewards!
 * :white\_check\_mark: **Basic Equipment Shop:** A shop for players to acquire starter gear for their Heroes, until better can be found.
 
 #### August
