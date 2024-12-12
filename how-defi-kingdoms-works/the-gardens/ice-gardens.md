@@ -22,7 +22,7 @@ The issuance of CRYSTAL is scheduled to change during each consecutive period of
 
 ### Locking
 
-Claimed locked CRYSTAL will remain locked until March 22, 2023**,** which marks the end of Epoch 51. Locked rewards will begin unlocking ratably at that time over the following 52 Epochs.&#x20;
+Claimed locked CRYSTAL will remain locked until March 22, 202&#x33;**,** which marks the end of Epoch 51. Locked rewards will begin unlocking ratably at that time over the following 52 Epochs.&#x20;
 
 The percentage of CRYSTAL that is unlocked begins at 5% in Epoch 1 and increases by 2% each Epoch. Unclaimed rewards continue to unlock on this schedule until claiming, at which time unlocked rewards go directly into the player's wallet and locked rewards become fully locked until the end of Epoch 51.
 

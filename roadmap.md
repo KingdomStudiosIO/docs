@@ -56,7 +56,7 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 #### October
 
-<figure><img src=".gitbook/assets/PvP-1000-x-424.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/PvP Launch - full.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * :white\_check\_mark: **Player vs Player (PVP) Combat**: Launched with initial exclusivity on the [Metis](https://www.metis.io/) blockchain, this core game mode allows players to fight other players in the **Colosseum** -- an animated, action-packed, turn-based combat mode featuring near endless possibilities with an extensive skill tree, Hero equipment, and Hero team variations.
 * :white\_check\_mark: **Hero Spectating System:** Pledge (stake) your Heroes as Bannermen to earn Influence & fee sharing. Use that Influence to vote on the outcome of Bouts, and win a portion of the rewards!
@@ -98,11 +98,7 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 #### February
 
-<div data-full-width="false">
-
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * :white\_check\_mark: **Void Hunt: Bad Motherclucker:** Our newest **Player vs Environment (PvE)** offering, players must face off against a trio of vicious Rocbocs in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
 * :white\_check\_mark: **Bring Your Own Potions (BYOP):** Players must now craft and bring their own Potions for use in Void Hunts, bringing additional utility to these items and the materials required to brew them. As part of this update, _all_ combat Potions are now usable during combat.

@@ -44,7 +44,7 @@ Heroes can sometimes find eggs that they may hatch into rare [Pet NFTs](../learn
 
 <figure><img src="../.gitbook/assets/land_plot_0004.png" alt=""><figcaption></figcaption></figure>
 
-Heroes will have the opportunity to compete for the right to purchase land, which is a special kind of upgradeable and limited NFT**.** Land can be bought and sold, and will be able to be built on, and visited by traveling Heroes. The latter features are currently in development.
+Heroes will have the opportunity to compete for the right to purchase land, which is a special kind of upgradeable and limited NF&#x54;**.** Land can be bought and sold, and will be able to be built on, and visited by traveling Heroes. The latter features are currently in development.
 
 ## **Equipment**
 

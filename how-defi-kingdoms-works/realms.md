@@ -1,14 +1,8 @@
 # Realms
 
-DeFi Kingdoms has always been envisioned as a **cross-chain game** with **multiple realms** that have their own unique flavors and different opportunities for players. Currently, there are two realms: **Serendale** and **Crystalvale**, with more planned in the future. Other blockchains will have [**Outposts**](realms.md#outposts) allowing players to easily onboard and bridge tokens from the chain of their choice into one of our realms.
+DeFi Kingdoms has always been envisioned as a **cross-chain game** with **multiple realms** that have their own unique flavors and different opportunities for players. Currently, there are two realms: **Serendale** and **Crystalvale**, with more planned in the future. The **DFK Colosseum**, exclusively on Metis, is where PVP combat takes place.  Other blockchains will have [**Outposts**](realms.md#outposts) allowing players to easily onboard and bridge tokens from the chain of their choice into one of our realms.
 
 ## Realms
-
-### Serendale 1.0 (Harmony)
-
-<figure><img src="../.gitbook/assets/DFK Serendale Full Logo DIGITAL.png" alt=""><figcaption></figcaption></figure>
-
-DeFi Kingdoms: Serendale originally launched on the Harmony network on August 22, 2021 as a DEX with LP farming opportunities. Heroes and Quests came soon after. Serendale on Harmony officially closed on October 12, 2022, and was converted into an Outpost.
 
 ### Crystalvale (DFK Chain)
 
@@ -22,6 +16,12 @@ DeFi Kingdoms: Crystalvale launched on March 30, 2022. This was the first expans
 
 DeFi Kingdoms: Serendale relaunched on the Klaytn blockchain on December 7, 2022, using the new Power Token, JADE, and bringing additional Hero classes and an updated flavor to match its new home.
 
+## DFK Colosseum (Metis)
+
+<figure><img src="../.gitbook/assets/PvP Launch - full.png" alt="" width="563"><figcaption></figcaption></figure>
+
+The **DFK Colosseum** launched on October 4, 2024, bringing our exclusive Player-vs-Player Combat System to the Metis blockchain. Bring your best Heroes and compete head-to-head against other players, with an on-chain Tournament system coming soon!
+
 ## Outposts
 
 ### Avalanche C-Chain
@@ -32,7 +32,13 @@ The **Avalanche C-Chain Outpost** was launched on March 30, 2022 as part of the 
 
 ### Harmony
 
+### Serendale 1.0
+
+<figure><img src="../.gitbook/assets/DFK Serendale Full Logo DIGITAL.png" alt=""><figcaption></figcaption></figure>
+
+DeFi Kingdoms: Serendale originally launched on the Harmony network on August 22, 2021 as a DEX with LP farming opportunities. Heroes and Quests came soon after. Serendale on Harmony officially closed on October 12, 2022, and was converted into an Outpost.
+
 <figure><img src="../.gitbook/assets/harmony_outpost.png" alt=""><figcaption><p>“The thread of this reality has finally snapped and has begun to sag under the enormity of its own weight. Yes, the <strong>Portal</strong> remains intact but no one can say for how long. Please, save yourself…” — Druid Lisa</p></figcaption></figure>
 
-DeFi Kingdoms: Serendale was converted into an Outpost on **Harmony** on October 12, 2022. Players can withdraw remaining liquidity from the Gardens by speaking with **Druid Lazarus**, convert remaining xJEWEL back to JEWEL through **Banker Ian**, and Bridge any remaining Heroes, Tokens, or Items through **Dockmaster Maria**.
+Players can withdraw remaining liquidity from the Gardens by speaking with **Druid Lazarus**, convert remaining xJEWEL back to JEWEL through **Banker Ian**, and Bridge any remaining Heroes, Tokens, or Items through **Dockmaster Maria**.
 

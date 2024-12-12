@@ -1,5 +1,5 @@
 ---
-description: Official DeFi Kingdoms Whitepaper, last updated March 28, 2024
+description: Official DeFi Kingdoms Whitepaper, last updated December 12, 2024
 ---
 
 # DeFi Kingdoms
@@ -8,7 +8,17 @@ description: Official DeFi Kingdoms Whitepaper, last updated March 28, 2024
 
 ### Introduction
 
-DeFi Kingdoms is a cross-chain, play-to-earn game built on a strong DeFi protocol with plans to become a fully-fledged MMORPG in later phases of the Roadmap. The game features DEXs, liquidity pool opportunities, and a market of rare, utility-driven NFTs, which all together create a beautiful, immersive online world in the incredibly nostalgic form of fantasy pixel art. DeFi Kingdoms: Crystalvale lives on [DFK Chain](how-defi-kingdoms-works/defi-kingdoms-blockchain.md), an Avalanche subnet, while DeFi Kingdoms: Serendale can be found on the Klaytn blockchain. Come join our amazing [community](https://www.defikingdoms.com/social.html)!
+DeFi Kingdoms is a cross-chain, fantasy RPG game built on a strong DeFi protocol. The game features DEXs, liquidity pool opportunities, and a market of rare, utility-driven NFTs, which all together create a beautiful, immersive online world in the incredibly nostalgic form of fantasy pixel art.&#x20;
+
+DeFi Kingdoms gameplay is live on the following blockchains:
+
+* **DeFi Kingdoms: Crystalvale** lives on [DFK Chain](how-defi-kingdoms-works/defi-kingdoms-blockchain.md), an [Avalanche](https://www.avax.network/) L1
+* **DeFi Kingdoms: Serendale** can be found on the [Kaia](https://www.kaia.io/) blockchain
+* The **DFK Colosseum**, featuring exclusive PVP content, is built on [Metis](https://www.metis.io/)
+
+<figure><picture><source srcset=".gitbook/assets/partner_logos_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/partner_logos_light.png" alt=""></picture><figcaption></figcaption></figure>
+
+Come join our amazing [community](https://www.defikingdoms.com/social.html)!
 
 ### The Motivation for Creating DeFi Kingdoms
 
