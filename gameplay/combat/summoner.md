@@ -1,42 +1,1003 @@
 ---
-description: Summoner Class Combat Skills
+description: Shapeshifter Class Combat Skills
 ---
 
-# Summoner
+# Shapeshifter
 
-<figure><img src="../../.gitbook/assets/summoner.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shapeshifter.png" alt="" width="375"><figcaption></figcaption></figure>
 
 This page details information about the Summoner class combat skills that will be used in Player-vs-Player (PVP) and Player-vs-Environment (PVE) combat environments.
 
 {% hint style="warning" %}
 All information on this page is considered "Pre-Alpha" and preliminary, and is therefore subject to change.
 
-_Last Update: 8/19/2024_
+_Last Update: 12/19/2024_
 {% endhint %}
 
 ## Class Description
 
-On the perilous frontiers of Gaia, few can match the magical prowess of the **Summoner**. Through ancient rituals and arcane knowledge, these masters of conjuration call forth beings and energies of unimaginable power to fight by their side and protect allies. Whether summoning celestial entities, commanding dark energies, or forging bonds with the everpresent ethereal spirits of this plane, the Summoner's path is one of uncharted exploration, mystical study, and profound potential.
+> **“There are many who wear the face of man but hold within them the heart of the wild. They are neither wholly beast nor wholly human, but something born of both — and more.”**\
+>  _— Excerpt from an unnamed Journal, Adelyn Archives_
 
-When it comes to harnessing trans-realm magicks, the Summoner is both the weaver and the loom. Their abilities draw from the very fabric of the universe, intertwining elements of creation, destruction, and spirit. A Summoner does not merely cast spells - they commune with otherworldly forces, binding them to their will either in partnership or in servitude. This delicate balance between control and chaos defines the Summoner, making them a singular and potent presence on the battlefield. They unlock the mysteries of summoning, shaping reality with a flick of their wrist and a whisper of borrowed power.
+In the shadowed woods and ancient hills of Gaia, where mortal paths seldom tread, dwell those touched by primal forces untamed by civilization. Known by most as **Shapeshifters**, these beings stand as a bridge between man and nature, wielding powers that reshape not only their bodies but the very flow of battle. To see one in their element is to witness the raw, unyielding essence of the world, unbound by the confines of flesh or reason.
 
-A Summoner's journey is shaped by three distinct disciplines, one academic, one practical, and one forbidden - each offering a different approach to harnessing their magical potential. These paths are the essence of their training, allowing them to specialize in summoning celestial, dark, or spirit entities.&#x20;
+The Shapeshifter is no mere spellcaster nor hardened warrior. They are conduits of instinct, emotion, and fury, able to transform into forms that embody the wild's many faces: the swift and deadly **Beast**, the cunning and venomous **Fiend**, and the towering, unyielding **Behemoth**. Each form serves a purpose, whether to rend, outmaneuver, or overwhelm, and all are tied to the Shapeshifter's volatile connection to the natural order - and the chaos it embodies.
 
-The **Summon** Aspect discipline accesses the power of the celestial and elemental realms, uniting planes to make summoning an extension of their will. Summoners attune to the raw energies of creation, calling forth entities from other realms to embrace our own. These summoned entities embody both purity and power, but also a situational partnership. Whether conjuring a celestial being to strike down foes with radiant light or summoning a clay golem to reshape the very battlefield under the feet of their foe, Summoners of this discipline wield the forces of the universe with precision and grace. Their connection to transient energies allows them to weaken their opponents defenses, restrict enemy movements, and deliver punishing wide area spell damage, making them potent offensive mages who can turn the tide of battle with a single invocation.
+But the Shapeshifter's power is not without a cost. Each transformation exacts a toll upon their vitality and spirit, and the more they linger in a form, the harder it becomes to return to their humanity. In their innate mastery lies their very peril - for the wild does not give without taking, and to lose oneself in the call of the Beast or the wrath of the Behemoth is to risk never returning. Yet, those who walk this path understand that such risks are the price of true power, the price of becoming exactly what the battle needs, precisely when it needs it.
 
-But where there is light, one can always find the dark. Embracing the shadows and the void, the **Dark Summoner** delves into the forbidden arts to command powers that others dare not approach. Dark Summoners are reminiscent of those Scholars who delved too deep and touched the void, the difference is that Dark Summoners kept delving. As masters of debilitation and control, Dark Summoners wield dark energy to bend the will of their enemies and sow chaos on the battlefield. An advanced Dark Summoner even has the potential to call forth demonic entities from the abyss to wreak havoc and instill terror, and they'd gladly do so even without complete control over their invited guest. This perspective on how magic could be used, rather than how it should be used, results in a path fraught with danger, for the void demands a price for its near-infinite power. Yet, those who can master this dark art find themselves capable of feats beyond the reach of mere mortals and they'll gladly pay that price, or find someone who will.
+**Beast, Fiend, Behemoth** - these are not simply transformations but deep and primal manifestations of the truths that dwell within all things.
 
-On the other end of the umbral spectrum are those Summoners who walk the path of the **Spirit Bond**. These Summoners forge deep, mystical connections with the spirits that inhabit the ethereal planes. These Summoners are not only conjurers but also healers and protectors, using their abilities to shield their allies and mend their wounds. Through the use of ritualistic summoning circles and umbral magic, they channel the essence of benevolent entities to provide both physical and magical fortitude to their companions. This discipline emphasizes the importance of preparation and strategy, as each summoning and spellcasting action is meticulously planned to maximize its benefit. If you see a Summoner drawing glyphs on the ground, you must decide whether to run to the safe haven they create or run far away to escape the pending destruction they will soon unleash.
+Swifter than the springing wolf, **the Beast's** claws rend flesh and leave wounds that bleed beyond mending. The Beast embodies raw instinct, feeding off lifeblood and harnessing the savage hunger of the wild. In the Beast, there is no room for hesitation - only the hunt, the strike, the kill.
 
-As a Summoner, you transcend the traditional boundaries of magic and physical might. Your journey is one of perpetual discovery, where each summon and spell is a step towards ultimate enlightenment - whether for good or for… not so good. By harmonizing each force pulled or invited from the celestial, void, and spirit realms, you can unlock magic woven into magnitudes of power. Woven by your own hands.
+Silent and patient as a shadow creeping over moonlit ground, **the Fiend** is cunning made flesh. Its poison seeps unseen, unraveling even the stoutest foe's will. To face the Fiend is to know despair - for the bite of its venom is slow but inevitable, and its precision in combat is unmatched.
+
+Massive and indomitable, **the Behemoth** strides forth as a living bulwark. Where it treads, the ground quakes, and the air grows heavy with fear. The Behemoth is the embodiment of endurance and might, capable of crushing shields, shattering ranks, and standing unmoved in the face of chaos.
+
+Each form is a weapon, each form has its own way of getting what it wants - and the Shapeshifter wields them all with terrifying precision. Yet, between each transformation lies the **human form** - a state of balance and planning, where the Shapeshifter gathers strength and prepares for the next surge of primal fury. The mortal shape is not weak, but strategic, the calm before the storm of shifting flesh and clawed fury.
+
+To live the life of a Shapeshifter is no simple thing. It requires one to embrace constant flux, to surrender to instinct, and to face the wild truths of their own soul. To walk this path is to live in a state of balance - between man and beast, reason and instinct, power and restraint.
+
+And yet, it is this very struggle that makes the Shapeshifter who they are. Through every shift, every battle, and every transformation, they remind the world of what it has forgotten: that beneath the trappings of civilization, the wild heart of Gaia still beats, untamed and eternal.
+
+> **“For some, the wild is a thing to be tamed. For others, it is a thing to become.”**\
+> \- From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
 ## Class Skills
 
-<table><thead><tr><th width="80">Skill Points</th><th width="157">Discipline</th><th width="164">Skill Name</th><th width="112">Damage Type</th><th width="97">Range</th><th width="66">DOD</th><th width="467">Description</th><th width="415">Flavor Text</th></tr></thead><tbody><tr><td>1</td><td>Summon Aspect</td><td>Lesser Celestial</td><td>MAGICAL</td><td>3</td><td>X</td><td>Channel X Initiative.<br><br>Deal <code>(X*SPELL + X*INT)</code> damage to target enemy.<br><code>(X*INT.S)</code>% chance to reduce target's M.DEF by <code>(X*WIS.S)</code>% for X ticks.<br><br>Generate X charges of Arcane Power.<br><br><strong>COMBO</strong>: If target is currently Slowed, generate X additional charges of Arcane Power.</td><td>"Upon your first summon, do not concern yourself with the potency of the entity that arrives. The fact that it arrived at all is what is remarkable. It's a first step, a first step of many."<br><br>- From Aetherweilding on the Frontier by Master Arthur Fontwell, Professor of Summoning at the Mages College of Serendale</td></tr><tr><td>1</td><td>Dark Summoner</td><td>Dark Energy</td><td>MAGICAL</td><td>3</td><td>X</td><td>Channel X Initiative.<br><br>Deal <code>(X*SPELL + X*INT)</code> damage to target enemy.<br><code>(X*INT.S)</code>% chance to reduce target's P.DEF by <code>(X*WIS.S)</code>% for X ticks.<br><br>Generate X charges of Void Power.<br><br><strong>COMBO</strong>: If target has been previously Banished in this battle, generate X additional charges of Void Power.</td><td>"Did you see that?!"<br><br>- Xaden Eldenmorne, First Year, moments after the Void answered</td></tr><tr><td>1</td><td>Spirit Bond</td><td>Summoning Circle</td><td>MAGICAL</td><td>Self</td><td>X</td><td>Generate X charges of Arcane Power.<br>Generate X charges of Void Power.<br>The next skill this Hero casts gains <code>(X*INT.S)</code>% SPELL.<br>If that skill requires a Channel, reduce the Channel length by <code>(X*INT.S + X*WIS.S)</code>% Initiative.<br><br><strong>COMBO</strong>: If this Hero cast "Summoning Circle" on its last turn, gain:<br>Heal each Party Member for <code>(X*SPELL +X*WIS)</code> HP.</td><td>"To be frank, you are not special. I don't care how good you are at hasty visualizations, nothing beats taking the time to do it right. Get on your knees, draw the glyph, and outclass every mage who thinks they can do it better because 'the magic speaks to them'. It's all rubbish."<br><br>- Terrine Wethermont, Head Scribe at the Mages College of Serendale at the first day of class</td></tr><tr><td>2</td><td>Summon Aspect</td><td>Aetherwalker</td><td>-</td><td>Passive</td><td>X</td><td>Reduce Channel Initiative by X% on all skills.<br>Reduce SPELL and ATTACK by -X%.<br><br>Each instance this Hero deals basic attack damage, gain X charges of Arcane Power.</td><td>"When speed is of the essence, there is a technique that allows you to cast a spell without the need of the incantation itself to be spoken aloud. Although the result is not nearly as potent, a swift surprise may sometimes be more valuable than a proper wallop."<br>- From Aetherweilding on the Frontier by Master Arthur Fontwell, Professor of Summoning at the Mage College of Serendale</td></tr><tr><td>2</td><td>Dark Summoner</td><td>Voidwalker</td><td>-</td><td>Passive</td><td>X</td><td>Increase Channel Initiative by X% on all skills.<br>Gain +X% SPELL on Channeled skills.<br>Reduce Max HP by -X%.<br><br>Each instance this Hero deals basic attack damage, gain X charges of Void Power.</td><td>"There is always more power available to a talented summoner. You just need to decide if you're willing to pay the price to take it."<br><br>- Excerpt from a letter written by Unknown Author to Xaden Eldenmorne</td></tr><tr><td>2</td><td>Spirit Bond</td><td>Spiritwalker</td><td>-</td><td>Passive</td><td>X</td><td>Each instance this Hero does not deal damage on its own turn, gain:<br><br>+X% P.DEF for X ticks.<br>+X% M.DEF for X ticks.<br>Generate X charges of Arcane Power.<br>Generate X charges of Void Power.</td><td>"Preparation is key to any deliberate action. Measure twice, cut once."<br><br>- From Do This, Not That: A Guide to Spiritwalking by Terrine Wethermont</td></tr><tr><td>3</td><td>Summon Aspect</td><td>Clay Golem</td><td>MAGICAL</td><td>3</td><td>X</td><td>Empower this skill by consuming X charges of Arcane Power (AP).<br><br>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal <code>((X*AP)*SPELL + X*INT + X*VIT)</code> damage to each enemy.<br><code>(X + X*VIT.S + X*INT.S)</code>% chance to Slow each target by X% for X ticks.<br><br><strong>COMBO</strong>: If "Summon Lesser Celestial" was cast by this Hero in the last X turns, gain:<br>UNLOCK X AP:<br><code>(X*WIS.S)</code>% chance to chance to Push X P1<br><code>(X*WIS.S)</code>% chance to chance to Pull X P2.<br><code>(X*WIS.S)</code>% chance to chance to Pull X P3.<br></td><td>"Clay is a beautiful thing. It can be shaped in so many ways with just a brief channel of vitality. I prefer to shape clay into a weapon, for no one suspects a giant, sturdy, immoveable golem to leap from the earth in the midst of a fight between mages."<br><br>- From Practical Summons in a Melee Environment by Arthur Fontwell</td></tr><tr><td>3</td><td>Dark Summoner</td><td>Void Grasp</td><td>MAGICAL</td><td>3</td><td>X</td><td>Empower this skill by consuming all charges of Void Power (VP).<br><br>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal <code>((X*VP)*SPELL + X*INT)</code> damage to target enemy.<br><code>(X*VP + X*INT.S)</code>% chance to Banish target for X ticks.<br>Target returns to the Battlefield in P1.<br><br>If Banish misses, this Hero gains a <code>(X - X*INT.S)</code>% chance to be inflicted with Berserk for X ticks.<br><br>If this Hero is inflicted with Berserk, gain X charges of Void Power.<br><br><strong>COMBO</strong>: If this Hero cast "Summon Dark Energy" in the last X turns, gain:<br>Increase chance to Banish target by +<code>(X*WIS.S)</code>%.</td><td>"Void Power is limitless, but it doesn't come without its unique constraints. Arcane Power is like a faucet, its flow can be controlled. Void Power, however, is an all-or-nothing proposition. As a result, timing is everthing."<br><br>- From The Void Speaks by Unknown Author</td></tr><tr><td>3</td><td>Spirit Bond</td><td>Umbral Siren</td><td>MAGICAL</td><td>Party Member</td><td>X</td><td>Target party member gains +<code>(X*VIT.S)</code>% P.DEF, and +<code>(X*WIS.S)</code>% M.DEF for X ticks.<br><br>Target Party Member performs the following action immediately:<br><br>Target each enemy. On hit:<br><br><code>(X*Summoner_WIS.S + X*Summoner_VIT.S)</code>% chance to Taunt target for X ticks.<br>Generate X charges of Arcane Power and Void Power per enemy Taunted.<br><br>Amnesia X.<br><br>UNLOCK X AP:<br>Target Party Member gains <code>(X*WIS.S)</code>% EVA for X ticks.<br><br>UNLOCK X VP:<br>Target Party Member gains <code>(X*WIS.S)</code>% Riposte for X ticks.</td><td>"Umbral magic is very old, beyond ancient, really. Shrouding yourself or an ally in the energy of an arcane spirit is a remarkable thing to behold. Most believe this is achieved when a bargain is struck between the summoner and the spirit, but I believe it is empowered by a deeper bond, by a true partnership."<br><br>- From Forgotten Magic for a Modern Battlefield by Terrine Wethermont</td></tr><tr><td>4</td><td>Summon Aspect</td><td>Treant</td><td>MAGICAL</td><td>3</td><td>X</td><td>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal <code>(X*SPELL + X*INT)</code> to each target enemy.<br><code>(X*WIS.S)</code>% chance to Root each target for X turns.<br>Generate X charges of Arcane Power per enemy Rooted.<br><br>Delay X, heal each Party Member for<br><code>(X*SPELL + X*WIS)</code> HP.<br><code>(X*WIS.S)</code>% chance to Generate X charges of Arcane Power per healed Party Member.<br><br><strong>COMBO</strong>: If "Summon Lesser Celestial" was cast by this Hero in the last X turns, gain:<br>Delay X, heal each Party Member for<br><code>(X*SPELL + X*WIS)</code> HP.<br><code>(X*WIS.S)</code>% chance to Cleanse each target.<br>Generate X charges of Arcane Power per Cleansed status effect.<br><br><strong>COMBO</strong>: If "Summon Dark Energy" was cast in the last X turns, gain:<br>Delay X, deal <code>(X*SPELL + X*INT)</code> damage to each target.<br><code>(X*WIS.S)</code>% chance to Dispel each target.<br>Generate X charges of Void Power per Dispelled status effect.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast by this Hero in the last X turns, gain X Initiative after channel resolves and heal this Hero for <code>(X*SPELL)</code> for each Rooted target.</td><td>"I met Howard in my Second Year and it was love at first sight. He was just so cute with his little leaves and crunchy bark that I knew I just needed to take him home with me."<br><br>- Liannda Lunaweave, Graduate of Mages College of Serendale</td></tr><tr><td>4</td><td>Dark Summoner</td><td>Void Shield</td><td>MAGICAL</td><td>Party Member</td><td>X</td><td>Target party member gains a Pure Ward for X ticks.<br><br>If this Pure Ward expires, generate X charges of Void Power.<br>If this Pure Ward breaks, heal target for (X*SPELL + X*WIS).<br><br>Amnesia X.<br><br><strong>COMBO</strong>: If "Lesser Celestial" was cast by this Hero last turn, gain:<br>If Pure Ward breaks, deal (X*SPELL + X*INT) damage to a random enemy.<br><br><strong>COMBO</strong>: If "Dark Energy" was cast by this Hero last turn, gain:<br>If Pure Ward expires, generate X additional charges of Void Power.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast by this Hero last turn, gain:<br>Delay X, cast a Pure Ward on a random Party Member.</td><td>"I discovered something truly unexpected today: objects can siphon Void Power. I think it works like an energy well, but only seems to work if a certain condition -- or promise -- is met. The more complex -- the more taxing -- the promise, the greater the power siphoned."<br><br>- Excerpt from a letter written by Xaden Eldenmorne to Unknown Recipient</td></tr><tr><td>4</td><td>Spirit Bond</td><td>Umbral Guardian</td><td>MAGICAL</td><td>Party Member</td><td>X</td><td>Amnesia X.<br><br>Channel X Initiative.<br><br>Heal each Party Member for<br><code>(X*SPELL + X*WIS)</code> HP and gains:<br>+<code>(X*WIS.S)</code>% P.DEF for X ticks.<br>+<code>(X*WIS.S)</code>% M.DEF for X ticks.<br><br><strong>COMBO</strong>: If "Summon Lesser Celestial" was cast by this Hero in the last X turns, gain:<br>Delay X, Heal each Party Member for<br>(X*SPELL + X*WIS) HP.<br>Generate X charges of Arcane Power for each healed Party Member.<br><br><strong>COMBO</strong>: If "Summon Dark Energy" was cast in the last X turns, gain:<br>Delay X, all Party Members gain a Barrier with <code>(X*SPELL)</code> HP.<br>Generate X charges of Void Power for each targeted Party Member.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast by this Hero in the last X turns, gain:<br>Each Party Member is healed for an additional <code>(X*SPELL)</code> and gains X% Haste for X ticks.<br>Generate X charges of Arcane Power and Void Power for each healed Party Member.<br></td><td>"Umbral energy can be found everywhere. All you need to do is open the door but a tiny crack and the magic will flow into our realm. As it flows, you can guide its intent. It's purpose. Heal, protect, empower, it's up to you."<br><br>- From Forgotten Magic for a Modern Battlefield by Terrine Wethermont</td></tr><tr><td>5</td><td>Summon Aspect</td><td>Cryopyre Elemental</td><td>MAGICAL</td><td>3</td><td>X</td><td>Empower this skill by consuming X charges of Arcane Power (AP).<br><br>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal <code>((X*AP)*SPELL + X*INT)</code> damage to target enemy in X.<br><code>(X*INT.S + X*WIS.S)</code>% chance to Daze target.<br><br>Delay X, deal <code>((X*AP)*SPELL + X*INT)</code> damage to target enemy in X.<br><code>(X*INT.S + X*WIS.S)</code>% chance to Daze target.<br><br>Delay X, deal <code>((X*AP)*SPELL + X*INT)</code> damage to target enemy in P1.<br><code>(X*INT.S + X*WIS.S)</code>% chance to Daze target.<br><br>UNLOCK X AP:<br><code>(X*INT.S)</code>% chance to apply X stacks of Burn to each target.<br><br>UNLOCK X AP:<br><code>(X*INT.S)</code>% chance to apply X stacks of Chill to each target.<br><br><strong>COMBO</strong>: If this Hero cast "Summoning Circle" in the last X turns, gain X Initiative after channel resolves and deal an additional <code>(X*SPELL + X*INT)</code> damage to each target.</td><td>"I summoned the Cryopyre completely by accident at first. In mere moments it ended up setting everything in my chambers on fire while in a complete panic; from my bed to my drapes, it was chaos. It was quite a relief when it put everything out with a cool frost once it calmed down. It's safe to say I still lost my deposit."<br>- Excerpt from the personal journal of Liannda Lunaweave</td></tr><tr><td>5</td><td>Dark Summoner</td><td>Lesser Demon</td><td>MAGICAL</td><td>3</td><td>X</td><td>Empower this skill by consuming all charges of Void Power (VP).<br><br>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal <code>((X*VP)*SPELL + X*INT)</code> damage to each enemy.<br><code>(X*INT.S + X*WIS.S + X*LCK.S)</code>% chance to Banish target in P1 for X ticks.<br><code>(X*INT.S + X*WIS.S + X*LCK.S)</code>% chance to Banish target in P2 for X ticks.<br><code>(X*INT.S + X*WIS.S + X*LCK.S)</code>% chance to Banish target in P3 for X ticks.<br><br>Each Banished target suffers <code>(X*VIT.S)</code>% reduced current MP (rounded up) and returns in a random Position.<br><br>If all Banishes miss, this Hero loses <code>(X - X*VIT.S)</code>% of its current MP (rounded up) and gains a <code>(X - X*WIS.S)</code>% chance to become Exhausted for X turns.<br><br><strong>COMBO</strong>: If this Hero cast "Summoning Circle" in the last X turns, gain X Initiative after channel resolves and deal an additional <code>(X*SPELL + X*INT)</code> damage to each target.</td><td>“When summoning a demon of any size or order, one must understand there is a price to be paid. That price doesn’t necessarily need to be paid by you, but you will pay it if you do not provide the demon with a... reasonable alternative.”<br><br>- Excerpt from Demons and their Demons by Xaden Eldenmorne</td></tr><tr><td>5</td><td>Spirit Bond</td><td>Ethereal Gatekeeper</td><td>Passive</td><td>Passive</td><td>X</td><td>Each instance a combatant is Banished, generate X charges each of Arcane Power and Void Power.<br><br>Each instance an enemy is Banished, gain a <code>(X*INT.S + X*WIS.S)</code>% chance to automatically spend <code>(X + X*LVL)</code> Mana (rounded up) to cause each Party Member to gain +X% ATTACK and SPELL for X ticks.<br><br>Each instance a Party Member is Banished, gain a <code>(X*INT.S + X*WIS.S)</code>% chance to automatically spend <code>(X + X*LVL)</code> Mana (rounded up) to cause each Party Member to be healed for <code>(X*SPELL + X*WIS)</code> HP.</td><td>"It took several centuries for mages to realize that there was more than meets the eye when it comes to banishment. It's not just the target that comes and goes, but another morsel of magic 'piggybacks' onto the target to enter our realm -- and that energy can be convinced to be helpful, or harmful."<br><br>- Excerpt from the personal journal of Terrine Wethermont</td></tr><tr><td>10+</td><td>Summon Aspect</td><td>Lesser Celestial +</td><td>MAGICAL</td><td>3</td><td>X</td><td>Channel X Initiative.<br><br>Deal <code>(X*SPELL + X*INT)</code> damage to target enemy.<br><code>(X*INT.S)</code>% chance to reduce target's M.DEF by <code>(X*WIS.S)</code>% for X ticks.<br><br>Generate X charges of Arcane Power.<br><br><strong>COMBO</strong>: If Aetherwalker is active, gain:<br>Deal an additional <code>(X*SPELL + X*INT)</code> damage to target.<br><br><strong>COMBO</strong>: If Spiritwalker is active, gain:<br>Gain X Initiative after channel resolves.</td><td>"Upon your first summon, do not concern yourself with the potency of the entity that arrives. The fact that it arrived at all is what is remarkable. It's a first step, a first step of many.<br><br>Once you've learned how to aetherwalk, you'll begin to understand how to coax more substantial energy from the exchange, bringing more potent celestials into our realm."<br><br><br>- From Aetherweilding on the Frontier by Master Arthur Fontwell, Professor of Summoning at the Mages College of Serendale</td></tr><tr><td>10+</td><td>Summon Aspect</td><td>Clay Golem +</td><td>MAGICAL</td><td>3</td><td>X</td><td>Empower this skill by consuming X charges of Arcane Power (AP).<br><br>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal <code>((X*AP)*SPELL + X*INT + X*VIT)</code> damage to each enemy.<br><code>(X + X*VIT.S + X*INT.S)</code>% chance to Slow each target by X% for X ticks.<br><br>UNLOCK X AP:<br><code>(X*WIS.S)</code>% chance to chance to Push X P1<br><code>(X*WIS.S)</code>% chance to chance to Pull X P2.<br><code>(X*WIS.S)</code>% chance to chance to Pull X P3.</td><td>"Clay is a beautiful thing. It can be shaped in so many ways with just a brief channel of vitality. I prefer to shape clay into a weapon, for no one suspects a giant, sturdy, immoveable golem to leap from the earth in the midst of a fight between mages.<br><br>On another note related to the topic, I've also taken a shine to a new hobby that I call 'spinning' pottery. It's not like any technique you'd see a true potter use, but I think it's rather neat."<br><br>- From Practical Summons in a Melee Environment by Arthur Fontwell</td></tr><tr><td>10+</td><td>Dark Summoner</td><td>Dark Energy +</td><td>MAGICAL</td><td>3</td><td>X</td><td>Channel X Initiative.<br><br>Deal <code>(X*SPELL + X*INT)</code> damage to target enemy.<br><code>(X*INT.S)</code>% chance to reduce target's P.DEF by <code>(X*WIS.S)</code>% for X ticks.<br><br>Generate X charges of Void Power.<br><br><strong>COMBO</strong>: If Voidwalker is active, gain:<br>Deal an additional <code>(X*SPELL + X*INT)</code> damage to target.<br><br><strong>COMBO</strong>: If Spiritwalker is active, gain:<br>Gain X Initiative after channel resolves.</td><td>"It is reported that the first moment Xaden Eldenmorne shaped void energy into a weapon marked a turning point for magic users who wished not to conform to the mainstream methods of spellwork. It is said it was an 'accident', but most individuals close to the situation believe Elendmorne had been attempting to access the void through summoning magic for some time. How he knew the connection could be made or to what purpose initially was unknown, but it certainly ended in new movement for magic users. A movement that resulted in the deaths of many who both embraced this change and also feared it."<br><br>- From The Historical Impact of Void Magic by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives"</td></tr><tr><td>10+</td><td>Dark Summoner</td><td>Void Grasp +</td><td>MAGICAL</td><td>3</td><td>X</td><td>Empower this skill by consuming all charges of Void Power (VP).<br><br>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal <code>((X*VP)*SPELL + X*INT)</code> damage to target enemy.<br><code>(X*VP + X*INT.S + X*WIS.S)</code>% chance to Banish target for X ticks.<br>Target returns to the Battlefield in P1.</td><td>"Summoning and banishment are actually just two sides of the same coin. Don't take your textbooks as undeniable fact, you cannot have one without the other. In both cases, energy enters or exits. In both cases, that energy can be leveraged."<br><br>- Excerpt from Demons and their Demons by Xaden Eldenmorne</td></tr><tr><td>10+</td><td>Spirit Bond</td><td>Summoning Circle +</td><td>MAGICAL</td><td>3</td><td>X</td><td>Generate X charges of Arcane Power.<br>Generate X charges of Void Power.<br>The next skill this Hero casts gains <code>(X*INT.S)</code>% SPELL.<br>The next skill this Hero casts costs -<code>(X*INT.S)</code>% MP.<br>If that skill requires a Channel, reduce the Channel length by <code>(X*INT.S + X*WIS.S)</code>% Initiative.<br><br>This Hero gains:<br>+X% P.DEF for X ticks.<br>+X% M.DEF for X ticks.</td><td>"The first mages of our age knew the power of summoning circles and it is they who have to thank for understanding the space between our realm and all others. From their teachings we must derive a greater understanding of what makes a summoner a 'summoner' and it all starts with summoning circles.<br><br>To be frank, you are not special. I don't care how good you are at hasty visualizations, nothing beats taking the time to do it right. Get on your knees, draw the glyph, and outclass every mage who thinks they can do it better because 'the magic speaks to them'. It's all rubbish."<br><br>- Terrine Wethermont, Head Scribe at the Mages College of Serendale at the first day of class</td></tr><tr><td>10+</td><td>Spirit Bond</td><td>Spiritwalker +</td><td>-</td><td>-</td><td>-</td><td>For each action this Hero performs that deals damage, this Hero gains:<br><br>+X Haste and +X% EVA until this Hero's next turn.<br>Generate X charges of Arcane Power.<br>Generate X charges of Void Power.</td><td>"Preparation is key to any deliberate action. Measure twice, cut once.<br><br>If you don't you may end up losing your advantage, or worse, falling behind."<br><br>- From Do This, Not That: A Guide to Spiritwalking by Terrine Wethermont</td></tr><tr><td>10</td><td>Summon Aspect</td><td>Summoner's Pact</td><td>-</td><td>-</td><td>-</td><td>UNLOCK X AP:<br><br>For each instance this Hero uses a Summon Aspect discipline skill, gain a <code>(X*WIS.S)</code>% chance to automatically spend <code>(X + X*LVL)</code> MP to heal each Party Member for <code>(X*SPELL)</code> HP.<br><br><code>(X*WIS.S)</code>% chance to Cleanse each Healed target.<br><br>Generate X charges of Arcane Power for each status effect Cleansed.</td><td>"As you've learned, the precise moment a summoned entity enters our plane, there is an opportunity to capture the energy released when the planar boundary opens. But what you don't know is that if you have a kinship with the same few summons you bring into our realm, they may just grow to appeciate the attention and even share a bit of that energy with you and your allies."<br><br>- Excerpt from Summons Are Really Something by Arthur Fontwell</td></tr><tr><td>10</td><td>Summon Aspect</td><td>Celestial Light</td><td>MAGICAL</td><td>3</td><td>X</td><td>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal (0) damage to target enemy in P1.<br><code>(X*INT.S)</code>% chance to inflict target with Blind.<br><br>Deal (0) damage to target enemy in P2.<br><code>(X*INT.S)</code>% chance to inflict target with Confuse.<br><br>Deal (0) damage to target enemy in P3.<br><code>(X*INT.S)</code>% chance to inflict target with Silence for X turns.<br><br>Generate X charges of Arcane Power for each inflicted target.<br><br><strong>COMBO</strong>: If "Summon CryoPyre Elemental" was cast by this Hero in the last X turns and "Aetherwalker" is active and "Summoner's Pact" is not active, gain:<br><code>(X*INT.S)</code>% chance to apply X stacks of Burn to each target.<br><code>(X*INT.S)</code>% chance to apply X stacks of Chill to each target.<br>Generate X charges of Arcane Power for each inflicted target.<br><br><strong>COMBO</strong>: If "Summon CryoPyre Elemental" was cast by this Hero in the last X turns and both "Aetherwalker" and "Summoner's Pact" are active, gain:<br>Deal an additional <code>(X*SPELL + X*INT)</code> damage to each target.<br><code>(X*WIS.S)</code>% chance to Daze each target.<br><code>(X*INT.S)</code>% chance to apply X stacks of Burn to each target.<br><code>(X*INT.S)</code>% chance to apply X stacks of Chill to each target.<br>Generate X charges of Arcane Power for each inflicted target.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast by this Hero in the last X turns and "Aetherwalker" is active, gain:<br>Generate X charges of Arcane Power for each status effect inflicted.<br>Deal an additional <code>(X*SPELL + X*INT)</code> damage to each target.</td><td>"What surprises me most of all about this new generation of Summoners is their ability to weave different spells together, like some kind of magical alchemist mixing potions in a pot. I admit that I am a bit jealous of this innovation. Back in my day, we summoned the biggest monster we could, aimed it at the bad guys, and hoped for the best."<br><br>- Arthur Fontwell, overheard by a faculty member</td></tr><tr><td>10</td><td>Summon Aspect</td><td>Spectral Chains</td><td>MAGICAL</td><td>3</td><td>X</td><td>Empower this skill by consuming X charges of Arcane Power (AP).<br><br>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal <code>((X*AP)*SPELL + X*INT)</code> damage to target enemy.<br><code>(X*INT.S + X*WIS.S)</code>% chance to Stun target for X turns.<br><code>(X*INT.S + X*WIS.S)</code>% chance to Silence target for X ticks.<br><code>(X*INT.S + X*WIS.S)</code>% chance to Root target for X ticks.<br><br>Generate X charges of Arcane Power for each inflicted debuff.<br><br><strong>COMBO</strong>: If "Treant" was cast by this Hero in the last X turns, gain:<br>UNLOCK X AP:<br>+<code>(X*INT.S)</code>% increased chance to Root target and extend duration by X ticks.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast by this Hero in the last X turns and "Aetherwalker" is active, gain:<br>UNLOCK X AP:<br>Repeat X.</td><td>"Clink-"</td></tr><tr><td>10</td><td>Dark Summoner</td><td>Dark Deal</td><td>-</td><td>-</td><td>-</td><td>This Hero gains Poisoned at the start of Battle.<br>This Hero cannot be Cleansed, Purified, Recovered, or Dispelled.<br>Each skill this Hero casts costs X% more MP.<br>This Hero receives X% more damage from all sources.<br>Gain X charges of Void Power for each instance this Hero takes damage.<br>Gain X charges of Void Power for each instance an Enemy dies.<br>Gain X charges of Void Power for each instance an Ally dies.<br>Whenever Void Power is spent by this Hero, gain X% of the VP spent (rounded up).</td><td>"I woke up this morning and chose violence... let's see if it works."<br><br>- Excerpt from the personal journal of Xaden Eldenmorne</td></tr><tr><td>10</td><td>Dark Summoner</td><td>Void Prison</td><td>MAGICAL</td><td>3</td><td>X</td><td>Amnesia X.<br><br>Channel X Initiative.<br><br>Deal (0) damage to target enemy in P2.<br><code>(X*INT.S)</code>% chance to inflict target with Blind.<br><code>(X*INT.S)</code>% chance to Banish target for X ticks.<br>Generate X charges of Void Power for each inflicted debuff.<br><br><strong>COMBO</strong>: If "Void Grasp" was cast by this Hero in the last X turns, gain:<br>Deal an additional (X*SPELL + X*INT) damage to target.<br>Generate X charges of Void Power.<br><br><strong>COMBO</strong>: If "Ethereal Gatekeeper" is active, gain:<br>Delay X, Deal (0) damage to target enemy in P3.<br><code>(X*INT.S)</code>% chance to inflict target with Blind.<br><code>(X*INT.S)</code>% chance to Banish target for X ticks.<br>Generate X charges of Void Power for each inflicted debuff.</td><td>"We don't know where they go, either."<br><br>- Excerpt from a letter written by Unknown Author to Xaden Eldenmorne</td></tr><tr><td>10</td><td>Dark Summoner</td><td>Greater Demon</td><td>MAGICAL</td><td>3</td><td>X</td><td>Amnesia X.<br><br>Empower this skill by consuming all charges of Void Power (VP).<br><br>Channel X Initiative.<br><br>Reduce current HP by X%.<br><br>Deal <code>((X*VP)*SPELL + X*INT + X*VIT)</code> damage to each enemy.<br><code>(X*INT.S + X*WIS.S + X*LCK.S)</code>% chance to Fear target in P3 for X turns.<br><code>(X*INT.S + X*WIS.S + X*LCK.S)</code>% chance to Fear target in P2 for X turns.<br><code>(X*INT.S + X*WIS.S + X*LCK.S)</code>% chance to Fear target in P1 for X turns.<br><br>If Fear was not inflicted, this Hero loses <code>(X - X*VIT.S)</code>% of its current MP (rounded up) and gains a <code>(X - X*INT.S)</code>% chance to become Exhausted for X turns.<br><br><strong>COMBO</strong>: If "Summon Lesser Demon" was cast by this Hero in the last X turns, gain:<br>Delay X, target each enemy inflicted with Fear. X% chance to inflict each target with Confuse.<br><br><strong>COMBO</strong>: If "Summon Lesser Demon" was cast by this Hero in the last X turns and "Dark Deal" is active, gain:<br>Delay X, target each enemy inflicted with Fear. X% chance to inflict each target with Amnesia X on a random skill.</td><td>"Most view Xaden Eldenmorne as a plague to the class of summoning magic, but others see him as a visionary that paved a path into realms of forbidden magic that deserve mainstream consideration. Prominent Dark Knights, Dreadknights, and even some Scholars pay homage to Eldenmorne as a key luminary who was integral to the advancements of void magic. Personally, I believe that without his work, we'd still be weilding magicless metal swords or shooting unremarkable wooden arrows."<br><br>- From The Historical Impact of Void Magic by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives</td></tr><tr><td>10</td><td>Spirit Bond</td><td>Binding Contract</td><td>-</td><td>-</td><td>-</td><td>Gain X charges of Arcane Power each turn.<br>Gain X charges of Void Power each turn.<br><br>UNLOCK X AP:<br>Each instance a party member or enemy is Banished, gain X% Haste for X ticks.<br><br>UNLOCK X AP:<br>Reduce channel length by X% for all skills that require Arcane Power to cast.<br>Gain X% resistance to Negate.<br>Gain X% resistance to Dispel.<br><br>UNLOCK X AP:<br>All skills that require Arcane Power to cast gain a <code>(X*INT.S + X*WIS.S + X*LCK.S)</code>% chance to Repeat X.<br><br>UNLOCK X VP:<br>Gain +X% Status Effect Resistance while Channeling.<br><br>UNLOCK X VP:<br>For each instance this Hero channels, gain a <code>(X*WIS.S)</code>% chance to automatically spend <code>(X + X*LVL)</code> MP to gain a Pure Ward for X ticks.<br><br>UNLOCK X VP:<br>Gain +X% resistance to Negate.<br>Gain +X% resistance to Dispel.<br>The next skill that requires Void Power to cast has X% reduced channel length.</td><td>"I once saw my roommate Terrine talking to a summoned spirit. So, I figured I'd give it a shot. Turns out, they are chatty and like to do business."<br><br>- Excerpt from the personal journal of Liannda Lunaweave</td></tr><tr><td>10</td><td>Spirit Bond</td><td>Ancestral Guide</td><td>MAGICAL</td><td>Self</td><td>X</td><td>Amnesia X.<br><br>Channel X Initiative.<br><br>Heal X% of this Hero's missing HP.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast in this Hero's last X turns and "Aetherwalker" is active, gain:<br>Heal each ally for X% of the HP restored.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast in this Hero's last X turns and "Voidwalker" is active, gain:<br>Deal damage to each enemy equal X% of the HP restored.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast in this Hero's last X turns and "Spiritwalker" is active, gain:<br><code>(X*WIS.S)</code>% chance to heal a random ally for X% of target's missing HP.</td><td>"Despite being essentially unique, each umbral spirit is deeply connected to those that share the same lineage. Summoning an ancestor is quite difficult and not something I recommend one does regulalry. Not only is it a very complex incantation, but it also requires immense energy to make the connection. In turn, I have only cast this spell twice in my lifetime, but when I cast it, it saved lives."<br><br>- From Do This, Not That, A Guide to Spiritwalking by Terrine Wethermont</td></tr><tr><td>10</td><td>Spirit Bond</td><td>Ethereal Sanctuary</td><td>MAGICAL</td><td>Allies</td><td>X</td><td>Banish target ally for X ticks.<br><br>Target gains <code>(X*INT.S)</code>% Haste for X ticks and is healed for <code>(X*SPELL + X*WIS)</code> HP.<br><br>Amnesia X.<br><br><strong>COMBO</strong>: If "Summoning Circle" was cast by this Hero last turn, gain:<br>UNLOCK X AP:<br>Target gains X charges of Arcane Power and gains +<code>(X*INT.S)</code>% SPELL for X ticks.<br><br>UNLOCK X VP:<br>Target gains X chrages of Void Power and gains a Pure Ward for X ticks.</td><td>"Banishment is seen almost exclusively as offensive skill, but I consider that narrowminded."<br><br>- From Do This, Not That, A Guide to Spiritwalking by Terrine Wethermont</td></tr><tr><td>15</td><td>Spirit Bond</td><td>Greater Summoning Circle</td><td>MAGICAL</td><td>Self</td><td>X</td><td>Amnesia X.<br><br>At the start of the next X turns:<br><br>Generate X charges of Arcane Power.<br>Generate X charges of Void Power.<br>Gain +<code>(X*INT.S)</code>% SPELL for X turns.<br>If that skill requires Channeling, reduce the Channel length by <code>(X*INT.S + X*WIS.S)</code>% Initiative.<br>This Hero is considered to have cast "Summoning Circle" in its last turn in addition to any other actions taken.</td><td>"Like I said: measure twice, cut once."<br><br>- Said by Terrine Wethermont moments after killing Xaden Eldenmorne</td></tr></tbody></table>
+### Skill Points 0
+
+#### Shifter
+
+**Range:** Passive
+
+**Description:**
+
+**While the Beast:**\
+Gain a X% chance to Retaliate X.\
+All attacks gain +(X\*VIT.S)% Lifesteal.
+
+Basic Attack becomes Slash.\
+Slash deals (X\*ATTACK) damage. Slash gains a +(X\*DEX.S)% chance to inflict target with Bleed.
+
+**While the Fiend:** \
+Gain +X% SPD.\
+All attacks gain X% Pierce.
+
+Basic Attack becomes Bite.\
+Bite deals (X\*ATTACK) damage.\
+Bite gains (X\*VIT.S)% chance to Delay X, deal (X\*ATTACK) damage.
+
+**While the Behemoth:**\
+Gain +X% BLK.\
+Gain +(X\*VIT.S)% P.RED and +(X\*VIT.S)% M.RED. Reduce SPD by -X%.
+
+Basic Attack becomes Womp.\
+Womp deals (X\*ATTACK) damage.\
+Womp gains a +(X\*END.S)% chance to Slow target by X% for X turns.
+
+**While in any non-Human form:**\
+Pass Turn becomes Shift, which allows the Hero to transform back into a Human.\
+Cannot use non-Shapeshifter skills while transformed. Abilities can still be used.\
+Subclass active skills can only be used while in Human form.
+
+**Status Effects:**
+
+_Beast Instinct:_\
+If this Hero transforms into the Beast while the "Beast Instinct" status effect is active, this Hero gains:&#x20;
+
+* +(X\*DEX.S)% Retaliate X for X turns.
+* +(X\*DEX.S)% P.ACC for X turns.
+
+_Fiend Instinct:_\
+If this Hero transforms into the Fiend while the "Fiend Instinct" status effect is active, this Hero gains:
+
+* +(XAGI.S)% Haste for X turns.&#x20;
+* +(XAGI.S)% EVA for X turns.
+
+_Behemoth Instinct:_\
+If this Hero transforms into the Behemoth while the "Behemoth Instinct" status effect is active, this Hero gains:
+
+* +(XEND.S)% P.RED for X turns.
+* +(XEND.S)% M.RED for X turns.
+* +(X\*STR.S)% ATTACK for X turns.
+
+### Skill Points 1
+
+#### Swipe
+
+**Discipline:** The Beast\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+(X\*STR.S + X\*DEX.S)% chance to inflict target with Bleed.
+
+COMBO:\
+While in Human Form, if this Hero used "Swipe" last turn, gain Beast Instinct for X turns.
+
+COMBO:\
+While the Beast, gain +(X\*VIT.S)% Lifesteal and increase damage by +(X\*ATTACK).
+
+COMBO:\
+While the Fiend, this attack gains a +(X\*DEX.S)% chance to inflict target with Poison.
+
+COMBO:\
+While the Behemoth, this attack gains a +(X\*STR.S)% chance to Daze target.
+
+> _The Beast's claws are an extension of its will._
+>
+> _Better stay on its good side._
+
+#### **Gnash**
+
+**Discipline:** The Fiend\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Deal (X\*ATTACK + X\*AGI + X\*DEX) damage to target enemy.
+
+(X\*AGI.S + X\*DEX.S)% chance to Blind target.
+
+COMBO:\
+While in Human Form, if this Hero used "Gouge" last turn, gain Fiend Instinct for X turns.
+
+COMBO:\
+While the Beast, this attack gains +X Range and increase damage by +(X\*ATTACK).
+
+COMBO:\
+While the Fiend, this attack gains +(X\*DEX.S)% CSC.
+
+COMBO:\
+While the Behemoth, this attack gains a (X\*STR.S)% chance to Fear target for X turn and increase damage by +(X\*ATTACK).
+
+> _The Fiend hunts differently than the others._
+>
+> _Its poison takes hold slowly, painfully._
+>
+> _Until its prey can go on no longer._
+
+#### **Slam**
+
+**Discipline:** The Behemoth\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Deal (X\*ATTACK + X\*STR + X\*END) damage to target enemy.
+
+(X\*STR.S + X\*END.S)% chance to Dispel target.
+
+COMBO:\
+While in Human Form, if this Hero used "Slam" last turn, gain Behemoth Instinct for X turns.
+
+COMBO:\
+While the Beast, this attack gains a (X\*STR.S)% chance to Silence target for X turns.
+
+COMBO:\
+While the Fiend, this attack gains +(X\*DEX.S)% chance to Blind target.
+
+COMBO:\
+While the Behemoth, gain a (X\*END.S)% chance to Slow target by X% for X ticks.
+
+> _The Behemoth’s strikes are not crafted -- they are carved from raw emotion._
+>
+> _Each earth-shaking slam echoes the will to dominate._
+
+### Skill Points 2
+
+#### The Beast
+
+**Range:** Passive
+
+**Description:**
+
+All attacks gain +X% chance to inflict target with Bleed.
+
+"Slash", "Bite", and "Womp" gain +X% Lifesteal. - From
+
+> "Shifters are born with the gift of transformation. That gift activates with a single emotion and that single emotion is what determines what the shifter transforms 'into'.
+>
+> Once transformed, the shifter becomes the form at the deepest of levels. Identity, attitude, size, strength, it all changes.
+>
+> All of these forms live in harmony, until an emotion, an instinct pushes a form into dominance over the others. This could last a moment or forever, but once that key is turned, it is absolutely core to who they are for as long is they choose."
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+#### The Fiend
+
+**Range:** Passive
+
+**Description:**
+
+All attacks gain +X% chance to Poison target.
+
+"Slash", "Bite", and "Womp" gain +X% Pierce.
+
+> "The energy used to change shape is deeply primal. It pulls from an unseen well within the shifter, based purely upon instinct. It appears to be very exhausting as it seemingly pulls from the shifter's very own vitality."
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+#### The Behemoth
+
+**Range:** Passive
+
+**Description:**
+
+Gain +X% P.RED Gain +X% M.RED.
+
+"Slash", "Bite", and "Womp" gain +X% damage.
+
+> "If you ask a shifter how they transform, they'll simply look at you with a confused expression as if to say, 'What do you mean? I just do it.'"
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+### Skill Points 3
+
+#### **Savage Leap**
+
+**Discipline:** The Beast\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Beast for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+(X\*STR.S + X\*DEX.S)% chance to inflict target with Bleed.
+
+Conditional Reposition:\
+If target was in P3, Reposition to P1. If target was in P2, Reposition to P2. If target was in P1, Reposition to P3.
+
+COMBO:\
+If target is currently inflicted with Bleed, gain a (X\*STR.S)% chance to Silence target for X ticks.
+
+COMBO:\
+If this Hero used "Slash" on its last turn, gain +X% EVA for X ticks.
+
+> _Within each shifter resides the Beast._
+>
+> _The Beast is an entity of hunger, instinct, and fury._
+>
+> _The Beast is the part of every shifter that remembers the wilds before adventurers and heroes; a fragment of raw, unshaped chaos._
+
+#### **Jawbreaker**
+
+**Discipline:** The Beast\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Beast for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+(X\*STR.S + X\*DEX.S)% chance to Silence target for X turn.
+
+Conditional Reposition:\
+If target was in P3, Reposition to P1. If target was in P2, Reposition to P2. If target was in P1, Reposition to P3.
+
+COMBO:\
+If target is Silenced, gain a (X\*STR.S)% chance to reduce the Range of all target's attacks by X (to a minimum of 1) for X ticks.
+
+COMBO:\
+If "Maul" refreshed the Beast, gain +X% P.ACC for X turns.
+
+> _The Beast's prey won't understand, but it's already too late._
+>
+> _When the Beast’s jaws close around its prey, the world is reduced to silence._
+>
+> _Bones crack, screams cease, and it doesn't let go._
+
+#### **Rend**
+
+**Discipline:** The Beast\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Beast for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
++(X\*VIT.S)% Lifesteal.
+
+Conditional Reposition:\
+If target was in P3, Reposition to P1. If target was in P2, Reposition to P2. If target was in P1, Reposition to P3.
+
+COMBO:\
+If target is inflicted with Silence or Bleed, increase Lifesteal by +(X\*VIT.S)%.
+
+COMBO:\
+If "Rend" refreshed the Beast, gain +(X\*VIT.S)% Lifesteal for X turns.
+
+> _To tear flesh is not a choice for the Beast -- it is a necessity._
+>
+> _Each strike nourishes its body and spirit, feeding the relentless hunger within. The lifeblood of its prey is not wasted -- it is the Beast’s rightful claim._
+
+### Skill Points 4
+
+#### **Chomp**
+
+**Discipline:** The Fiend\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Fiend for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+X% Pierce.
+
+Reposition to P3.
+
+COMBO:\
+If target is currently inflicted with Poison, Delay X, deal (X\*ATTACK) damage target.
+
+COMBO:\
+If this Hero used "Bite" last turn, gain +X% Pierce for X turns.
+
+> _The Fiend’s fangs are not meant for tearing flesh alone -- they are vessels of venom._
+>
+> _Their bite is not about delivering pain, but creating inevitability, leaving their prey helpless as poison claims them._
+
+#### **Sight Bite**
+
+**Discipline:** The Fiend\
+**Damage Type:** Physical\
+**Range:** 2\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Fiend for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*VIT) damage to target enemy.
+
+X% Pierce.
+
+(X\*AGI.S + X\*DEX.S)% chance to Blind target.
+
+Reposition to P2.
+
+COMBO:\
+If target is inflicted with Blind, gain a (X\*DEX.S + X\*AGI.S)% chance to Poison target.
+
+COMBO:\
+If "Sight Bite" refreshed the Fiend, gain a +X% EVA for X turns.
+
+> _The Fiend strikes not to kill outright, but to sow confusion and fear._
+>
+> _A single bite robs its prey of vision, leaving them stumbling in darkness as the venom works its way through their veins._
+>
+> _The Fiend is patient. It can wait._
+
+#### **Lunge**
+
+**Discipline:** The Fiend\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Fiend for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*AGI) damage to target enemy.
+
+X% Pierce.
+
+(X\*AGI.S + X\*DEX.S)% chance to Poison target.
+
+Reposition to P1.
+
+COMBO:\
+If target is inflicted with Poison or Bleed, this attack gains +X% Pierce.
+
+COMBO:\
+If "Lunge" refreshed the Fiend, gain +X% Haste for X turns.
+
+> _To a shifter, distance is only an illusion._
+>
+> _It's never really cornered._
+
+### Skill Points 5
+
+#### **Crush**
+
+**Discipline:** The Behemoth\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Behemoth for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+(X\*END.S + X\*VIT.S)% chance to Slow target by X% for X ticks.
+
+COMBO:\
+If target is inflicted with Blind, Bleed, or Poison, gain (X\*END.S)% chance to increase Slow duration by X ticks.
+
+COMBO:\
+If this Hero used "Womp" last turn, gain +X% P.RED for X turns.
+
+> _The Behemoth’s strike lands like a landslide, crushing all in its path._
+>
+> _Each blow seems to slow the world around it, leaving foes unable to escape the inexorable force of its wrath._
+>
+> _To be struck by the Behemoth is to feel the entire weight of Gaia crashing upon you._
+
+#### **Rack**
+
+**Discipline:** The Behemoth\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Behemoth for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+(X\*END.S + X\*VIT.S)% chance to Fear target for X turns.
+
+COMBO:\
+If target is inflicted with Fear, gain a (X\*END.S + X\*STR.S)% chance to Dispel target.
+
+COMBO:\
+If "Rack" refreshed the Behemoth, gain +X% BLK for X turns.
+
+> _The Behemoth is an unyielding monument to primal power._
+>
+> _When a Behemoth strikes, the ground trembles and lesser beings cower._
+
+#### **Shove**
+
+**Discipline:** The Behemoth\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Transform into the Behemoth for X turns.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+(X\*END.S + X\*VIT.S)% chance to Daze target.
+
+COMBO:\
+If target is Dazed, gain a (X\*END.S + X\*VIT.S)% chance to Push X target.
+
+COMBO:\
+If "Shove" refreshed the Behemoth, gain +X% M.RED for X turns.
+
+> _The Behemoth moves not with grace, but with unrelenting force._
+>
+> _To stand in its way is to be moved, willingly or not, by the force of its will._
+
+### Skill Points 10+
+
+#### **Swipe +**
+
+**Discipline:** The Beast\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+(X\*STR.S + X\*DEX.S)% chance to inflict target with Bleed.
+
+COMBO:\
+While in Human Form, gain "Beast Instinct" for X turns.
+
+COMBO:\
+While the Beast, gain +(X\*VIT.S)% Lifesteal and increase damage by +(X\*ATTACK).
+
+COMBO:\
+While the Fiend, this attack gains a +(X\*DEX.S)% chance to inflict target with Poison.
+
+COMBO:\
+While the Behemoth, this attack gains a +(X\*STR.S)% chance to Daze target.
+
+> _To shift back is not to retreat, but to recalibrate._
+>
+> _For the shifter, humanity is the eye of the storm -- the moment before instinct takes hold again, before its will must be imposed._
+>
+> _The Beast's claws are an extension of its will._
+>
+> _Better stay on its good side._
+
+#### **The Beast +**
+
+**Discipline:** The Beast\
+**Range:** Passive
+
+**Description:**
+
+All attacks gain +X% chance to inflict target with Bleed.
+
+"Slash", "Bite", and "Womp" gain +X% Lifesteal.
+
+At the start of each turn, gain a X% chance to gain "Beast Instinct" for X turns.
+
+> "Shifters are born with the gift of transformation. That gift activates with a single emotion and that single emotion is what determines what the shifter transforms 'into'.
+>
+> Once transformed, the shifter becomes the form at the deepest of levels. Identity, attitude, size, strength, it all changes.
+>
+> All of these forms live in harmony, until an emotion, an instict pushes a form into dominance over the others. This could last a moment or forever, but once that key is turned, it is absolutely core to who they are for as long is they choose.
+>
+> There are accounts of some shifters who spent too much time as the Beast, however. This particular form seems to take hold of shifters in a very primal way and sometimes refuses to let go. When that happens, the shifter could lose themselves entirely."
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+#### **Gnash +**
+
+**Discipline:** The Fiend\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Deal (X\*ATTACK + X\*AGI + X\*DEX) damage to target enemy.
+
+(X\*AGI.S + X\*DEX.S)% chance to Blind target.
+
+COMBO:\
+While in Human Form, gain "Fiend Instinct" for X turns.
+
+COMBO:\
+While the Beast, this attack gains +X Range and increase damage by +(X\*ATTACK).
+
+COMBO:\
+While the Fiend, this attack gains +(X\*DEX.S)% CSC.
+
+COMBO:\
+While the Behemoth, this attack gains a (X\*STR.S)% chance to Fear target for X turn and increase damage by +(X\*ATTACK).
+
+> _The Fiend is a master of precision. It knows just the right amount of how, the exact moment of when, and most vulnerable where._
+>
+> _One bite is all it takes... if it's in the right place._
+>
+> _The Fiend hunts differently than the others._
+>
+> _Its poison takes hold slowly, painfully._
+>
+> _Until its prey can go on no longer._&#x20;
+
+#### **The Fiend +**
+
+**Discipline:** The Fiend\
+**Range:** Passive
+
+**Description:**
+
+All attacks gain +X% chance to Poison target.
+
+"Slash", "Bite", and "Womp" gain +X% Pierce.
+
+At the start of each turn, gain a X% chance to gain "Fiend Instinct" for X turns.
+
+> "There comes a moment in battle where a shifter appears to 'pre-shift', as if something internally has clicked deep within and the rules have changed.
+>
+> It's not something that can be easily quantified, but when you see it, you'll know it -- the shift is coming.
+>
+> The energy used to change shape is deeply primal. It pulls from an unseen well within the shifter, based purely upon instinct. It appears to be very exhausting as it seemlingly pulls from the shifter's very own vitality.
+>
+> Every shift draws on the deepest wells of a Shapeshifter’s vitality, leaving behind traces of raw instinct and unbridled will."
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+#### **Slam +**
+
+**Discipline:** The Behemoth\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Deal (X\*ATTACK + X\*STR + X\*END) damage to target enemy.
+
+(X\*STR.S + X\*END.S)% chance to Dispel target.
+
+COMBO:\
+While in Human Form, gain "Behemoth Instinct" for X turns.
+
+COMBO:\
+While the Beast, this attack gains a (X\*STR.S)% chance to Silence target for X turns.
+
+COMBO:\
+While the Fiend, this attack gains +(X\*DEX.S)% chance to Blind target.
+
+COMBO:\
+While the Behemoth, gain a (X\*END.S)% chance to Slow target by X% for X turns.
+
+> _When the need to intimidate and overwhelm converges, the Behemoth emerges._
+>
+> _The Behemoth’s strikes are not crafted -- they are carved from raw emotion._
+>
+> _Each quaking slam echoes the will to dominate._
+>
+> _Each slam shatters the ground and defies all opposition._
+>
+> _Each slam an end for those who have wandered too close._
+
+#### **The Behemoth +**
+
+**Discipline:** The Behemoth\
+**Range:** Passive
+
+**Description:**
+
+Gain +X% P.RED Gain +X% M.RED.
+
+"Slash", "Bite", and "Womp" gain +X% damage.
+
+At the start of each turn, gain a X% chance to gain "Behemoth Instinct" for X turn.
+
+> "If you ask a shifter how they do transform, they'll simply look at you with a confused expression as if to say, 'What do you mean? I just do it.'
+>
+> This commonality has led many to believe that the reason why shifters don't understand their powers, but simply use them, is because their transformations are emotion-based. If a shifter is backed into a corner, they lash out in all directions. If they seek to protect and intimidate, they grow in bulk and size to enforce their will. If they are filled with rage, the Beast emerges.
+>
+> If the Behemoth emerges, it's best to remove oneself from the situation."
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+### Skill Points 10
+
+#### **Ark Eye**
+
+**Discipline:** The Beast\
+**Range:** Passive
+
+**Description:**
+
+While in Human Form, all attacks gain (X\*VIT.S)% Lifesteal.
+
+Whenever this Hero becomes the Beast, gain the follow effect:
+
+For X turns, "Slash" gains:
+
+* +(X\*STR.S)% ATTACK
+* (X\*VIT.S)% chance to Silence target for X turn.
+* (X\*DEX.S)% chance to inflict target with Bleed.
+
+> "Most perceive Beasts as 'wild' or 'untamed'. This stereotype stems from overly publicized incidents of particular shifters who spent too much time in that form. If one stays too long on the other side, their mind tends to stay there longer than their body does."
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+#### **Apex Predator**
+
+**Discipline:** The Beast\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Channel X.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+(X\*STR.S + X\*DEX.S)% chance to Silence target for X turns.
+
+Conditional Reposition:\
+If target was in P3, Reposition to P1. If target was in P2, Reposition to P2. If target was in P1, Reposition to P3.
+
+COMBO:\
+If in Human Form, at the end of this turn, transform into the Beast for X turns.
+
+COMBO:\
+While the Beast, this attack gains +(X\*VIT.S)% Lifesteal.
+
+COMBO:\
+While the Fiend, this attack gains a +(X\*DEX.S)% chance to inflict target with Poison.
+
+COMBO:\
+While the Behemoth, this attack gains a +(X\*STR.S)% chance to Slow target by X% for X ticks.
+
+> _When the apex predator approaches, its prey dare not make a sound._
+
+#### Eviscerate
+
+**Discipline:** The Beast\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy.
+
+After damage is dealt, if target is below X% HP, this attack has a (X\*STR)% chance to inflict target with X stacks of Bleed.
+
+Conditional Reposition:\
+If target was in P3, Reposition to P1. If target was in P2, Reposition to P2. If target was in P1, Reposition to P3.
+
+COMBO:\
+If in Human Form, at the end of this turn, transform into the Beast for X turns.
+
+COMBO:\
+While the Beast, if target dies as a result of this attack, restore X% of max HP.
+
+COMBO:\
+While the Fiend, if target dies as a result of this attack, gain (X\*DEX.S)% chance to immediately Poison each enemy.
+
+COMBO:\
+While the Behemoth, if target dies as a result of this attack, gains +(X\*STR.S)% chance to Fear each enemy for X turns.
+
+> _When the Beast strikes, it does so with brutal precision, tearing through flesh and sinew to expose the savage truth of nature’s law: only the strongest survive._
+
+#### Toxic Veins
+
+**Discipline:** The Fiend\
+**Range:** Passive
+
+**Description:**
+
+While in Human Form, gain (X\*AGI.S)% EVA.
+
+Whenever this Hero becomes the Fiend, gain the follow effect:
+
+For X turns, "Bite" gains:
+
+* +(X\*DEX.S)% ATTACK
+* +(X\*DEX.S)% Pierce
+* (X\*VIT.S)% chance to Delay X, deal (X\*ATTACK) damage.
+
+> "When a shifter is the Fiend, it is a remarkable transformation.
+>
+> The Fiend’s body is truly a vessel of poison, its veins course with toxins that empower every strike. When it shifts, the venom seems to be unlocked, flowing freely and enhancing its fangs and sharpening its lethality.
+>
+> The Fiend's demeanor completely changes as well, as if it must -- it needs -- to expel the deluge of toxins it is now carrying.
+>
+> To face the Fiend is to face the inevitability of decay."
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+#### Ambush
+
+**Discipline:** The Fiend\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy in P3.
+
+(X\*STR.S + X\*DEX.S)% chance to Poison target.
+
+Reposition to P1.
+
+COMBO:\
+If in Human Form, at the end of this turn, transform into the Fiend for X turns.
+
+COMBO:\
+While the Beast, gain +(X\*VIT.S)% Lifesteal.
+
+COMBO:\
+While the Fiend, this attack gains a +(X\*DEX.S)% chance to inflict target with Blind.
+
+COMBO:\
+While the Behemoth, this attack gains a +(X\*STR.S)% chance to Pull X target.
+
+> _The Fiend does not attack out of anger or rage -- it watches, calculating the perfect moment to strike from the shadows, both venomous and precise._
+
+#### Lash Out
+
+**Discipline:** The Fiend\
+**Damage Type:** Physical\
+**Range:** 1\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy in P1.
+
+While the Fiend, if target is Poisoned, this attack gains a +(X\*DEX.S)% chance to restore (&#x58;_\*_&#x56;IT.S)% of this Hero's max HP.
+
+Reposition to P3.
+
+COMBO:\
+If in Human Form, at the end of this turn, transform into the Fiend for X turns.
+
+COMBO:\
+While the Beast, gain X% Retaliate X for X turns.
+
+COMBO:\
+While the Fiend, this attack gains +(X\*DEX.S)% Pierce and increase damage by +(X\*ATTACK).
+
+COMBO:\
+While the Behemoth, this attack gains a +(X\*STR.S)% chance to Slow target by +(X\*STR.S)% for X ticks.
+
+> _Cornered and desperate, the shifter lashes out in a frenzy that few can withstand. Instinct guides their strikes, unrelenting and deadly._
+
+#### Shattering Impact
+
+**Discipline:** The Behemoth\
+**Range:** Passive
+
+**Description:**
+
+While in Human Form, all attacks gain (X\*END.S)% chance to destroy target's Barrier.
+
+Whenever this Hero becomes the Behemoth, gain the follow effect:
+
+For X turns, "Womp" gains:
+
+* +(X\*END.S)% ATTACK
+* (X\*STR.S)% chance to Slow target by X% for X ticks
+* (X\*VIT.S)% chance to Fear target for X turns
+
+> "I wouldn't get too close to that thing."
+>
+>  _—_ Famous Last Words by Anonymous
+
+#### Groundbreaker
+
+**Discipline:** The Behemoth\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to each target enemy.
+
+(X\*STR.S + X\*END.S)% chance to Slow each target by (X\*END.S)% for X turns.
+
+Become Exhausted.
+
+COMBO:\
+If in Human Form, at the end of this turn, transform into the Behemoth for X turns.
+
+COMBO:\
+While the Beast, gain +(X\*VIT.S)% Lifesteal.
+
+COMBO:\
+While the Fiend, this attack gains a Delay X, deal (X\*ATTACK) damage to each target.
+
+COMBO:\
+While the Behemoth, if a target is currently Slowed, gain (X\*STR.S + X\*DEX.S)% chance to Fear target for X turns.
+
+> With a single strike, the Behemoth reshapes the battlefield, leaving cracks in the ground as visible reminders of its power.
+
+#### Shockwave
+
+**Discipline:** The Behemoth\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to each target enemy.
+
+(X\*STR.S + X\*END.S)% chance to destroy each target's Barrier.
+
+COMBO:\
+If in Human Form, at the end of this turn, transform into the Behemoth for X turns.
+
+COMBO:\
+While the Beast, for each Barrier destroyed, gain X% Retaliate X for X turns.
+
+COMBO:\
+While the Fiend, for each Barrier destroyed, gain X% Haste for X turns.
+
+COMBO:\
+While the Behemoth, for each Barrier destroyed, restore X% of this Hero's max HP.
+
+> _The Behemoth’s fury manifests as raw force, shattering defenses and leaving the weak reeling._
+>
+> _In the wake of that power, shields and armor seem silly._
+
+### Skill Points 15
+
+#### The Chimera
+
+**Discipline:** The Chimera\
+**Damage Type:** Physical\
+**Range:** 3\
+**Degree of Difficulty:** X
+
+**Description:**
+
+Amnesia X.
+
+Channel X.
+
+Transform into the Chimera for X turns. While the Chimera, this Hero is also considered to be the Beast, the Fiend, and the Behemoth. Basic Attack does not change while the Chimera.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy in P1.\
+(X\*STR.S + X\*DEX.S)% chance to Fear target enemy for X turns.\
+X% Pierce.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy in P2.\
+(X\*STR.S + X\*DEX.S)% chance to inflict target with Poison.\
+X% Pierce.
+
+Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy in P3.\
+(X\*STR.S + X\*DEX.S)% chance to Silence target for X turns.\
+X% Pierce.
+
+Reposition X.
+
+> "Born to transform, the Chimera represents the shifter's truest form -- melding the primal forces within into a singular manifestation of instinct and will.
+>
+> Exceedingly rare in this world, they are revered amongst shifters as distinct and precious, even holy.
+>
+> To see a Chimera in battle is a marvel. Fluid forms all at once seem to dance. It is everything and nothing all at the same time. It's almost difficult to look at, yet impossible to look away.
+>
+> I'd like to see it again someday."
+>
+>  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
 ### Notes
 
-* \*DoD: Degree of Difficulty
 * 10+ point skills cost 10 minus the cost of the basic version of the skill
 * 15 point skills are only available to Heroes with a matching Class/Subclass
 
