@@ -42,11 +42,15 @@ And yet, it is this very struggle that makes the Shapeshifter who they are. Thro
 > **“For some, the wild is a thing to be tamed. For others, it is a thing to become.”**\
 > \- From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
+***
+
 ## Class Skills
 
 ### Skill Points 0
 
-#### Shifter
+<details>
+
+<summary><strong>Shifter</strong></summary>
 
 **Range:** Passive
 
@@ -101,9 +105,15 @@ If this Hero transforms into the Behemoth while the "Behemoth Instinct" status e
 * +(XEND.S)% M.RED for X turns.
 * +(X\*STR.S)% ATTACK for X turns.
 
+</details>
+
+***
+
 ### Skill Points 1
 
-#### Swipe
+<details>
+
+<summary><strong>Swipe</strong></summary>
 
 **Discipline:** The Beast\
 **Damage Type:** Physical\
@@ -128,11 +138,19 @@ While the Fiend, this attack gains a +(X\*DEX.S)% chance to inflict target with 
 COMBO:\
 While the Behemoth, this attack gains a +(X\*STR.S)% chance to Daze target.
 
-> _The Beast's claws are an extension of its will._
->
-> _Better stay on its good side._
 
-#### **Gnash**
+
+_The Beast's claws are an extension of its will._
+
+_Better stay on its good side._
+
+</details>
+
+<details>
+
+<summary><strong>Gnash</strong></summary>
+
+
 
 **Discipline:** The Fiend\
 **Damage Type:** Physical\
@@ -157,13 +175,19 @@ While the Fiend, this attack gains +(X\*DEX.S)% CSC.
 COMBO:\
 While the Behemoth, this attack gains a (X\*STR.S)% chance to Fear target for X turn and increase damage by +(X\*ATTACK).
 
-> _The Fiend hunts differently than the others._
->
-> _Its poison takes hold slowly, painfully._
->
-> _Until its prey can go on no longer._
 
-#### **Slam**
+
+_The Fiend hunts differently than the others._
+
+_Its poison takes hold slowly, painfully._
+
+_Until its prey can go on no longer._
+
+</details>
+
+<details>
+
+<summary><strong>Slam</strong></summary>
 
 **Discipline:** The Behemoth\
 **Damage Type:** Physical\
@@ -188,13 +212,21 @@ While the Fiend, this attack gains +(X\*DEX.S)% chance to Blind target.
 COMBO:\
 While the Behemoth, gain a (X\*END.S)% chance to Slow target by X% for X ticks.
 
-> _The Behemoth’s strikes are not crafted -- they are carved from raw emotion._
->
-> _Each earth-shaking slam echoes the will to dominate._
+
+
+_The Behemoth’s strikes are not crafted -- they are carved from raw emotion._
+
+_Each earth-shaking slam echoes the will to dominate._
+
+</details>
+
+***
 
 ### Skill Points 2
 
-#### The Beast
+<details>
+
+<summary><strong>The Beast</strong></summary>
 
 **Range:** Passive
 
@@ -202,17 +234,23 @@ While the Behemoth, gain a (X\*END.S)% chance to Slow target by X% for X ticks.
 
 All attacks gain +X% chance to inflict target with Bleed.
 
-"Slash", "Bite", and "Womp" gain +X% Lifesteal. - From
+"Slash", "Bite", and "Womp" gain +X% Lifesteal.
 
-> "Shifters are born with the gift of transformation. That gift activates with a single emotion and that single emotion is what determines what the shifter transforms 'into'.
->
-> Once transformed, the shifter becomes the form at the deepest of levels. Identity, attitude, size, strength, it all changes.
->
-> All of these forms live in harmony, until an emotion, an instinct pushes a form into dominance over the others. This could last a moment or forever, but once that key is turned, it is absolutely core to who they are for as long is they choose."
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
-#### The Fiend
+
+_"Shifters are born with the gift of transformation. That gift activates with a single emotion and that single emotion is what determines what the shifter transforms 'into'._
+
+_Once transformed, the shifter becomes the form at the deepest of levels. Identity, attitude, size, strength, it all changes._
+
+_All of these forms live in harmony, until an emotion, an instinct pushes a form into dominance over the others. This could last a moment or forever, but once that key is turned, it is absolutely core to who they are for as long is they choose."_
+
+ _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+</details>
+
+<details>
+
+<summary><strong>The Fiend</strong></summary>
 
 **Range:** Passive
 
@@ -222,11 +260,17 @@ All attacks gain +X% chance to Poison target.
 
 "Slash", "Bite", and "Womp" gain +X% Pierce.
 
-> "The energy used to change shape is deeply primal. It pulls from an unseen well within the shifter, based purely upon instinct. It appears to be very exhausting as it seemingly pulls from the shifter's very own vitality."
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
-#### The Behemoth
+
+_"The energy used to change shape is deeply primal. It pulls from an unseen well within the shifter, based purely upon instinct. It appears to be very exhausting as it seemingly pulls from the shifter's very own vitality."_
+
+ _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+</details>
+
+<details>
+
+<summary><strong>The Behemoth</strong></summary>
 
 **Range:** Passive
 
@@ -236,13 +280,21 @@ Gain +X% P.RED Gain +X% M.RED.
 
 "Slash", "Bite", and "Womp" gain +X% damage.
 
-> "If you ask a shifter how they transform, they'll simply look at you with a confused expression as if to say, 'What do you mean? I just do it.'"
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+
+_"If you ask a shifter how they transform, they'll simply look at you with a confused expression as if to say, 'What do you mean? I just do it.'"_
+
+ _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+</details>
+
+***
 
 ### Skill Points 3
 
-#### **Savage Leap**
+<details>
+
+<summary><strong>Savage Leap</strong></summary>
 
 **Discipline:** The Beast\
 **Damage Type:** Physical\
@@ -268,13 +320,19 @@ If target is currently inflicted with Bleed, gain a (X\*STR.S)% chance to Silenc
 COMBO:\
 If this Hero used "Slash" on its last turn, gain +X% EVA for X ticks.
 
-> _Within each shifter resides the Beast._
->
-> _The Beast is an entity of hunger, instinct, and fury._
->
-> _The Beast is the part of every shifter that remembers the wilds before adventurers and heroes; a fragment of raw, unshaped chaos._
 
-#### **Jawbreaker**
+
+_Within each shifter resides the Beast._
+
+_The Beast is an entity of hunger, instinct, and fury._
+
+_The Beast is the part of every shifter that remembers the wilds before adventurers and heroes; a fragment of raw, unshaped chaos._
+
+</details>
+
+<details>
+
+<summary><strong>Jawbreaker</strong></summary>
 
 **Discipline:** The Beast\
 **Damage Type:** Physical\
@@ -300,13 +358,19 @@ If target is Silenced, gain a (X\*STR.S)% chance to reduce the Range of all targ
 COMBO:\
 If "Maul" refreshed the Beast, gain +X% P.ACC for X turns.
 
-> _The Beast's prey won't understand, but it's already too late._
->
-> _When the Beast’s jaws close around its prey, the world is reduced to silence._
->
-> _Bones crack, screams cease, and it doesn't let go._
 
-#### **Rend**
+
+_The Beast's prey won't understand, but it's already too late._
+
+_When the Beast’s jaws close around its prey, the world is reduced to silence._
+
+_Bones crack, screams cease, and it doesn't let go._
+
+</details>
+
+<details>
+
+<summary>Rend</summary>
 
 **Discipline:** The Beast\
 **Damage Type:** Physical\
@@ -332,13 +396,21 @@ If target is inflicted with Silence or Bleed, increase Lifesteal by +(X\*VIT.S)%
 COMBO:\
 If "Rend" refreshed the Beast, gain +(X\*VIT.S)% Lifesteal for X turns.
 
-> _To tear flesh is not a choice for the Beast -- it is a necessity._
->
-> _Each strike nourishes its body and spirit, feeding the relentless hunger within. The lifeblood of its prey is not wasted -- it is the Beast’s rightful claim._
+
+
+_To tear flesh is not a choice for the Beast -- it is a necessity._
+
+_Each strike nourishes its body and spirit, feeding the relentless hunger within. The lifeblood of its prey is not wasted -- it is the Beast’s rightful claim._
+
+</details>
+
+***
 
 ### Skill Points 4
 
-#### **Chomp**
+<details>
+
+<summary>Chomp</summary>
 
 **Discipline:** The Fiend\
 **Damage Type:** Physical\
@@ -363,11 +435,17 @@ If target is currently inflicted with Poison, Delay X, deal (X\*ATTACK) damage t
 COMBO:\
 If this Hero used "Bite" last turn, gain +X% Pierce for X turns.
 
-> _The Fiend’s fangs are not meant for tearing flesh alone -- they are vessels of venom._
->
-> _Their bite is not about delivering pain, but creating inevitability, leaving their prey helpless as poison claims them._
 
-#### **Sight Bite**
+
+_The Fiend’s fangs are not meant for tearing flesh alone -- they are vessels of venom._
+
+_Their bite is not about delivering pain, but creating inevitability, leaving their prey helpless as poison claims them._
+
+</details>
+
+<details>
+
+<summary>Sight Bite</summary>
 
 **Discipline:** The Fiend\
 **Damage Type:** Physical\
@@ -394,13 +472,19 @@ If target is inflicted with Blind, gain a (X\*DEX.S + X\*AGI.S)% chance to Poiso
 COMBO:\
 If "Sight Bite" refreshed the Fiend, gain a +X% EVA for X turns.
 
-> _The Fiend strikes not to kill outright, but to sow confusion and fear._
->
-> _A single bite robs its prey of vision, leaving them stumbling in darkness as the venom works its way through their veins._
->
-> _The Fiend is patient. It can wait._
 
-#### **Lunge**
+
+_The Fiend strikes not to kill outright, but to sow confusion and fear._
+
+_A single bite robs its prey of vision, leaving them stumbling in darkness as the venom works its way through their veins._
+
+_The Fiend is patient. It can wait._
+
+</details>
+
+<details>
+
+<summary>Lunge</summary>
 
 **Discipline:** The Fiend\
 **Damage Type:** Physical\
@@ -427,13 +511,21 @@ If target is inflicted with Poison or Bleed, this attack gains +X% Pierce.
 COMBO:\
 If "Lunge" refreshed the Fiend, gain +X% Haste for X turns.
 
-> _To a shifter, distance is only an illusion._
->
-> _It's never really cornered._
+
+
+_To a shifter, distance is only an illusion._
+
+_It's never really cornered._
+
+</details>
+
+***
 
 ### Skill Points 5
 
-#### **Crush**
+<details>
+
+<summary>Crush</summary>
 
 **Discipline:** The Behemoth\
 **Damage Type:** Physical\
@@ -456,13 +548,19 @@ If target is inflicted with Blind, Bleed, or Poison, gain (X\*END.S)% chance to 
 COMBO:\
 If this Hero used "Womp" last turn, gain +X% P.RED for X turns.
 
-> _The Behemoth’s strike lands like a landslide, crushing all in its path._
->
-> _Each blow seems to slow the world around it, leaving foes unable to escape the inexorable force of its wrath._
->
-> _To be struck by the Behemoth is to feel the entire weight of Gaia crashing upon you._
 
-#### **Rack**
+
+_The Behemoth’s strike lands like a landslide, crushing all in its path._
+
+_Each blow seems to slow the world around it, leaving foes unable to escape the inexorable force of its wrath._
+
+_To be struck by the Behemoth is to feel the entire weight of Gaia crashing upon you._
+
+</details>
+
+<details>
+
+<summary>Rack</summary>
 
 **Discipline:** The Behemoth\
 **Damage Type:** Physical\
@@ -485,11 +583,17 @@ If target is inflicted with Fear, gain a (X\*END.S + X\*STR.S)% chance to Dispel
 COMBO:\
 If "Rack" refreshed the Behemoth, gain +X% BLK for X turns.
 
-> _The Behemoth is an unyielding monument to primal power._
->
-> _When a Behemoth strikes, the ground trembles and lesser beings cower._
 
-#### **Shove**
+
+_The Behemoth is an unyielding monument to primal power._
+
+_When a Behemoth strikes, the ground trembles and lesser beings cower._
+
+</details>
+
+<details>
+
+<summary>Shove</summary>
 
 **Discipline:** The Behemoth\
 **Damage Type:** Physical\
@@ -512,13 +616,21 @@ If target is Dazed, gain a (X\*END.S + X\*VIT.S)% chance to Push X target.
 COMBO:\
 If "Shove" refreshed the Behemoth, gain +X% M.RED for X turns.
 
-> _The Behemoth moves not with grace, but with unrelenting force._
->
-> _To stand in its way is to be moved, willingly or not, by the force of its will._
+
+
+_The Behemoth moves not with grace, but with unrelenting force._
+
+_To stand in its way is to be moved, willingly or not, by the force of its will._
+
+</details>
+
+***
 
 ### Skill Points 10+
 
-#### **Swipe +**
+<details>
+
+<summary><strong>Swipe +</strong></summary>
 
 **Discipline:** The Beast\
 **Damage Type:** Physical\
@@ -545,15 +657,21 @@ While the Fiend, this attack gains a +(X\*DEX.S)% chance to inflict target with 
 COMBO:\
 While the Behemoth, this attack gains a +(X\*STR.S)% chance to Daze target.
 
-> _To shift back is not to retreat, but to recalibrate._
->
-> _For the shifter, humanity is the eye of the storm -- the moment before instinct takes hold again, before its will must be imposed._
->
-> _The Beast's claws are an extension of its will._
->
-> _Better stay on its good side._
 
-#### **The Beast +**
+
+_To shift back is not to retreat, but to recalibrate._
+
+_For the shifter, humanity is the eye of the storm -- the moment before instinct takes hold again, before its will must be imposed._
+
+_The Beast's claws are an extension of its will._
+
+_Better stay on its good side._
+
+</details>
+
+<details>
+
+<summary>The Beast +</summary>
 
 **Discipline:** The Beast\
 **Range:** Passive
@@ -566,17 +684,23 @@ All attacks gain +X% chance to inflict target with Bleed.
 
 At the start of each turn, gain a X% chance to gain "Beast Instinct" for X turns.
 
-> "Shifters are born with the gift of transformation. That gift activates with a single emotion and that single emotion is what determines what the shifter transforms 'into'.
->
-> Once transformed, the shifter becomes the form at the deepest of levels. Identity, attitude, size, strength, it all changes.
->
-> All of these forms live in harmony, until an emotion, an instict pushes a form into dominance over the others. This could last a moment or forever, but once that key is turned, it is absolutely core to who they are for as long is they choose.
->
-> There are accounts of some shifters who spent too much time as the Beast, however. This particular form seems to take hold of shifters in a very primal way and sometimes refuses to let go. When that happens, the shifter could lose themselves entirely."
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
-#### **Gnash +**
+
+_"Shifters are born with the gift of transformation. That gift activates with a single emotion and that single emotion is what determines what the shifter transforms 'into'._
+
+_Once transformed, the shifter becomes the form at the deepest of levels. Identity, attitude, size, strength, it all changes._
+
+_All of these forms live in harmony, until an emotion, an instict pushes a form into dominance over the others. This could last a moment or forever, but once that key is turned, it is absolutely core to who they are for as long is they choose._
+
+_There are accounts of some shifters who spent too much time as the Beast, however. This particular form seems to take hold of shifters in a very primal way and sometimes refuses to let go. When that happens, the shifter could lose themselves entirely."_
+
+ _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+</details>
+
+<details>
+
+<summary><strong>Gnash +</strong></summary>
 
 **Discipline:** The Fiend\
 **Damage Type:** Physical\
@@ -603,17 +727,23 @@ While the Fiend, this attack gains +(X\*DEX.S)% CSC.
 COMBO:\
 While the Behemoth, this attack gains a (X\*STR.S)% chance to Fear target for X turn and increase damage by +(X\*ATTACK).
 
-> _The Fiend is a master of precision. It knows just the right amount of how, the exact moment of when, and most vulnerable where._
->
-> _One bite is all it takes... if it's in the right place._
->
-> _The Fiend hunts differently than the others._
->
-> _Its poison takes hold slowly, painfully._
->
-> _Until its prey can go on no longer._&#x20;
 
-#### **The Fiend +**
+
+_The Fiend is a master of precision. It knows just the right amount of how, the exact moment of when, and most vulnerable where._
+
+_One bite is all it takes... if it's in the right place._
+
+_The Fiend hunts differently than the others._
+
+_Its poison takes hold slowly, painfully._
+
+_Until its prey can go on no longer._&#x20;
+
+</details>
+
+<details>
+
+<summary><strong>The Fiend +</strong></summary>
 
 **Discipline:** The Fiend\
 **Range:** Passive
@@ -626,17 +756,23 @@ All attacks gain +X% chance to Poison target.
 
 At the start of each turn, gain a X% chance to gain "Fiend Instinct" for X turns.
 
-> "There comes a moment in battle where a shifter appears to 'pre-shift', as if something internally has clicked deep within and the rules have changed.
->
-> It's not something that can be easily quantified, but when you see it, you'll know it -- the shift is coming.
->
-> The energy used to change shape is deeply primal. It pulls from an unseen well within the shifter, based purely upon instinct. It appears to be very exhausting as it seemlingly pulls from the shifter's very own vitality.
->
-> Every shift draws on the deepest wells of a Shapeshifter’s vitality, leaving behind traces of raw instinct and unbridled will."
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
-#### **Slam +**
+
+_"There comes a moment in battle where a shifter appears to 'pre-shift', as if something internally has clicked deep within and the rules have changed._
+
+_It's not something that can be easily quantified, but when you see it, you'll know it -- the shift is coming._
+
+_The energy used to change shape is deeply primal. It pulls from an unseen well within the shifter, based purely upon instinct. It appears to be very exhausting as it seemlingly pulls from the shifter's very own vitality._
+
+_Every shift draws on the deepest wells of a Shapeshifter’s vitality, leaving behind traces of raw instinct and unbridled will."_
+
+ _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+</details>
+
+<details>
+
+<summary><strong>Slam +</strong></summary>
 
 **Discipline:** The Behemoth\
 **Damage Type:** Physical\
@@ -663,17 +799,23 @@ While the Fiend, this attack gains +(X\*DEX.S)% chance to Blind target.
 COMBO:\
 While the Behemoth, gain a (X\*END.S)% chance to Slow target by X% for X turns.
 
-> _When the need to intimidate and overwhelm converges, the Behemoth emerges._
->
-> _The Behemoth’s strikes are not crafted -- they are carved from raw emotion._
->
-> _Each quaking slam echoes the will to dominate._
->
-> _Each slam shatters the ground and defies all opposition._
->
-> _Each slam an end for those who have wandered too close._
 
-#### **The Behemoth +**
+
+_When the need to intimidate and overwhelm converges, the Behemoth emerges._
+
+_The Behemoth’s strikes are not crafted -- they are carved from raw emotion._
+
+_Each quaking slam echoes the will to dominate._
+
+_Each slam shatters the ground and defies all opposition._
+
+_Each slam an end for those who have wandered too close._
+
+</details>
+
+<details>
+
+<summary><strong>The Behemoth +</strong></summary>
 
 **Discipline:** The Behemoth\
 **Range:** Passive
@@ -686,17 +828,25 @@ Gain +X% P.RED Gain +X% M.RED.
 
 At the start of each turn, gain a X% chance to gain "Behemoth Instinct" for X turn.
 
-> "If you ask a shifter how they do transform, they'll simply look at you with a confused expression as if to say, 'What do you mean? I just do it.'
->
-> This commonality has led many to believe that the reason why shifters don't understand their powers, but simply use them, is because their transformations are emotion-based. If a shifter is backed into a corner, they lash out in all directions. If they seek to protect and intimidate, they grow in bulk and size to enforce their will. If they are filled with rage, the Beast emerges.
->
-> If the Behemoth emerges, it's best to remove oneself from the situation."
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+
+_"If you ask a shifter how they do transform, they'll simply look at you with a confused expression as if to say, 'What do you mean? I just do it.'_
+
+_This commonality has led many to believe that the reason why shifters don't understand their powers, but simply use them, is because their transformations are emotion-based. If a shifter is backed into a corner, they lash out in all directions. If they seek to protect and intimidate, they grow in bulk and size to enforce their will. If they are filled with rage, the Beast emerges._
+
+_If the Behemoth emerges, it's best to remove oneself from the situation."_
+
+ _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+</details>
+
+***
 
 ### Skill Points 10
 
-#### **Ark Eye**
+<details>
+
+<summary><strong>Ark Eye</strong></summary>
 
 **Discipline:** The Beast\
 **Range:** Passive
@@ -713,11 +863,17 @@ For X turns, "Slash" gains:
 * (X\*VIT.S)% chance to Silence target for X turn.
 * (X\*DEX.S)% chance to inflict target with Bleed.
 
-> "Most perceive Beasts as 'wild' or 'untamed'. This stereotype stems from overly publicized incidents of particular shifters who spent too much time in that form. If one stays too long on the other side, their mind tends to stay there longer than their body does."
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
-#### **Apex Predator**
+
+_"Most perceive Beasts as 'wild' or 'untamed'. This stereotype stems from overly publicized incidents of particular shifters who spent too much time in that form. If one stays too long on the other side, their mind tends to stay there longer than their body does."_
+
+ _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+</details>
+
+<details>
+
+<summary><strong>Apex Predator</strong></summary>
 
 **Discipline:** The Beast\
 **Damage Type:** Physical\
@@ -749,9 +905,15 @@ While the Fiend, this attack gains a +(X\*DEX.S)% chance to inflict target with 
 COMBO:\
 While the Behemoth, this attack gains a +(X\*STR.S)% chance to Slow target by X% for X ticks.
 
-> _When the apex predator approaches, its prey dare not make a sound._
 
-#### Eviscerate
+
+_When the apex predator approaches, its prey dare not make a sound._
+
+</details>
+
+<details>
+
+<summary><strong>Eviscerate</strong></summary>
 
 **Discipline:** The Beast\
 **Damage Type:** Physical\
@@ -781,9 +943,15 @@ While the Fiend, if target dies as a result of this attack, gain (X\*DEX.S)% cha
 COMBO:\
 While the Behemoth, if target dies as a result of this attack, gains +(X\*STR.S)% chance to Fear each enemy for X turns.
 
-> _When the Beast strikes, it does so with brutal precision, tearing through flesh and sinew to expose the savage truth of nature’s law: only the strongest survive._
 
-#### Toxic Veins
+
+_When the Beast strikes, it does so with brutal precision, tearing through flesh and sinew to expose the savage truth of nature’s law: only the strongest survive._
+
+</details>
+
+<details>
+
+<summary><strong>Toxic Veins</strong></summary>
 
 **Discipline:** The Fiend\
 **Range:** Passive
@@ -800,17 +968,23 @@ For X turns, "Bite" gains:
 * +(X\*DEX.S)% Pierce
 * (X\*VIT.S)% chance to Delay X, deal (X\*ATTACK) damage.
 
-> "When a shifter is the Fiend, it is a remarkable transformation.
->
-> The Fiend’s body is truly a vessel of poison, its veins course with toxins that empower every strike. When it shifts, the venom seems to be unlocked, flowing freely and enhancing its fangs and sharpening its lethality.
->
-> The Fiend's demeanor completely changes as well, as if it must -- it needs -- to expel the deluge of toxins it is now carrying.
->
-> To face the Fiend is to face the inevitability of decay."
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
 
-#### Ambush
+
+_"When a shifter is the Fiend, it is a remarkable transformation._
+
+_The Fiend’s body is truly a vessel of poison, its veins course with toxins that empower every strike. When it shifts, the venom seems to be unlocked, flowing freely and enhancing its fangs and sharpening its lethality._
+
+_The Fiend's demeanor completely changes as well, as if it must -- it needs -- to expel the deluge of toxins it is now carrying._
+
+_To face the Fiend is to face the inevitability of decay."_
+
+ _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+
+</details>
+
+<details>
+
+<summary>Ambush</summary>
 
 **Discipline:** The Fiend\
 **Damage Type:** Physical\
@@ -839,9 +1013,15 @@ While the Fiend, this attack gains a +(X\*DEX.S)% chance to inflict target with 
 COMBO:\
 While the Behemoth, this attack gains a +(X\*STR.S)% chance to Pull X target.
 
-> _The Fiend does not attack out of anger or rage -- it watches, calculating the perfect moment to strike from the shadows, both venomous and precise._
 
-#### Lash Out
+
+_The Fiend does not attack out of anger or rage -- it watches, calculating the perfect moment to strike from the shadows, both venomous and precise._
+
+</details>
+
+<details>
+
+<summary>Lash Out</summary>
 
 **Discipline:** The Fiend\
 **Damage Type:** Physical\
@@ -870,9 +1050,15 @@ While the Fiend, this attack gains +(X\*DEX.S)% Pierce and increase damage by +(
 COMBO:\
 While the Behemoth, this attack gains a +(X\*STR.S)% chance to Slow target by +(X\*STR.S)% for X ticks.
 
-> _Cornered and desperate, the shifter lashes out in a frenzy that few can withstand. Instinct guides their strikes, unrelenting and deadly._
 
-#### Shattering Impact
+
+_Cornered and desperate, the shifter lashes out in a frenzy that few can withstand. Instinct guides their strikes, unrelenting and deadly._
+
+</details>
+
+<details>
+
+<summary><strong>Shattering Impact</strong></summary>
 
 **Discipline:** The Behemoth\
 **Range:** Passive
@@ -889,11 +1075,17 @@ For X turns, "Womp" gains:
 * (X\*STR.S)% chance to Slow target by X% for X ticks
 * (X\*VIT.S)% chance to Fear target for X turns
 
-> "I wouldn't get too close to that thing."
->
->  _—_ Famous Last Words by Anonymous
 
-#### Groundbreaker
+
+_"I wouldn't get too close to that thing."_
+
+ _—_ Famous Last Words by Anonymous
+
+</details>
+
+<details>
+
+<summary><strong>Groundbreaker</strong></summary>
 
 **Discipline:** The Behemoth\
 **Damage Type:** Physical\
@@ -922,9 +1114,17 @@ While the Fiend, this attack gains a Delay X, deal (X\*ATTACK) damage to each ta
 COMBO:\
 While the Behemoth, if a target is currently Slowed, gain (X\*STR.S + X\*DEX.S)% chance to Fear target for X turns.
 
-> With a single strike, the Behemoth reshapes the battlefield, leaving cracks in the ground as visible reminders of its power.
 
-#### Shockwave
+
+_With a single strike, the Behemoth reshapes the battlefield, leaving cracks in the ground as visible reminders of its power._
+
+</details>
+
+<details>
+
+<summary><strong>Shockwave</strong></summary>
+
+
 
 **Discipline:** The Behemoth\
 **Damage Type:** Physical\
@@ -951,50 +1151,31 @@ While the Fiend, for each Barrier destroyed, gain X% Haste for X turns.
 COMBO:\
 While the Behemoth, for each Barrier destroyed, restore X% of this Hero's max HP.
 
-> _The Behemoth’s fury manifests as raw force, shattering defenses and leaving the weak reeling._
->
-> _In the wake of that power, shields and armor seem silly._
+
+
+_The Behemoth’s fury manifests as raw force, shattering defenses and leaving the weak reeling._
+
+_In the wake of that power, shields and armor seem silly._
+
+</details>
+
+***
 
 ### Skill Points 15
 
-#### The Chimera
+<details>
 
-**Discipline:** The Chimera\
-**Damage Type:** Physical\
-**Range:** 3\
-**Degree of Difficulty:** X
+<summary><strong>The Chimera</strong></summary>
 
-**Description:**
 
-Amnesia X.
 
-Channel X.
+</details>
 
-Transform into the Chimera for X turns. While the Chimera, this Hero is also considered to be the Beast, the Fiend, and the Behemoth. Basic Attack does not change while the Chimera.
 
-Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy in P1.\
-(X\*STR.S + X\*DEX.S)% chance to Fear target enemy for X turns.\
-X% Pierce.
 
-Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy in P2.\
-(X\*STR.S + X\*DEX.S)% chance to inflict target with Poison.\
-X% Pierce.
+####
 
-Deal (X\*ATTACK + X\*STR + X\*DEX) damage to target enemy in P3.\
-(X\*STR.S + X\*DEX.S)% chance to Silence target for X turns.\
-X% Pierce.
-
-Reposition X.
-
-> "Born to transform, the Chimera represents the shifter's truest form -- melding the primal forces within into a singular manifestation of instinct and will.
->
-> Exceedingly rare in this world, they are revered amongst shifters as distinct and precious, even holy.
->
-> To see a Chimera in battle is a marvel. Fluid forms all at once seem to dance. It is everything and nothing all at the same time. It's almost difficult to look at, yet impossible to look away.
->
-> I'd like to see it again someday."
->
->  _—_ From _Shifting Priorities_ by Wheaton Gargadusa, Curator of Historical Accounts at the Adelyn Archives
+***
 
 ### Notes
 
