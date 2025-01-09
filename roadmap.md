@@ -122,7 +122,7 @@ This roadmap lists many, but not all feature releases currently planned. While t
 <figure><img src=".gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * :white\_check\_mark: **Visages & Visage Shop:** Spice up your Heroes’ style with a selection of custom, limited Visages! These items are purely cosmetic and can be equipped over combat weapons, armor, and accessories.
-* :white\_check\_mark: **DFK Smart Wallets on Klaytn:** DFK Smart Wallets provided by Halliday now fully support Serendale on Klaytn! Bridge your Heroes, tokens, and items back and forth, and get the full DFK experience in both realms.
+* :white\_check\_mark: **DFK Smart Wallets on Kaia:** DFK Smart Wallets provided by Halliday now fully support Serendale on Kaia! Bridge your Heroes, tokens, and items back and forth, and get the full DFK experience in both realms.
 * :white\_check\_mark: **Quick Trade:** Buy items from the Bazaar or Trader with one-click-access from your inventory or crafting NPCs. Now you don't need to walk all the way across town if you're short one Bloater!
 
 #### November
@@ -200,7 +200,7 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 <figure><img src=".gitbook/assets/dfk_serendale2_logo 480.png" alt=""><figcaption></figcaption></figure>
 
-* :white\_check\_mark: **Serendale 2.0 Launch on Klaytn**: Serendale is back on a new home! The world you know and love is now accessible on the **Klaytn** blockchain, featuring the new Power Token **JADE** and a total of four new classes: the basic **Legionnaire** and **Scholar** classes, as well as the advanced **Bard** class and the elite **SpellBow** class.
+* :white\_check\_mark: **Serendale 2.0 Launch on Kaia**: Serendale is back on a new home! The world you know and love is now accessible on the **Kaia** blockchain (formerly Klaytn), featuring the new Power Token **JADE** and a total of four new classes: the basic **Legionnaire** and **Scholar** classes, as well as the advanced **Bard** class and the elite **SpellBow** class.
 
 #### November
 

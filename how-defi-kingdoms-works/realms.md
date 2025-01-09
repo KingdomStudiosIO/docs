@@ -10,11 +10,11 @@ DeFi Kingdoms has always been envisioned as a **cross-chain game** with **multip
 
 DeFi Kingdoms: Crystalvale launched on March 30, 2022. This was the first expansion to DeFi Kingdoms and lives on [DFK Chain](defi-kingdoms-blockchain.md), an Avalanche subnet. Crystalvale introduced the new Power Token, [CRYSTAL](power-tokens/crystal-token.md), along with new Hero classes, and a brand new world to explore.
 
-### Serendale 2.0 (Klaytn)
+### Serendale 2.0 (Kaia)
 
 <figure><img src="../.gitbook/assets/dfk_serendale2_logo 480.png" alt=""><figcaption></figcaption></figure>
 
-DeFi Kingdoms: Serendale relaunched on the Klaytn blockchain on December 7, 2022, using the new Power Token, JADE, and bringing additional Hero classes and an updated flavor to match its new home.
+DeFi Kingdoms: Serendale relaunched on the Kaia (formerly Klaytn) blockchain on December 7, 2022, using the new Power Token, JADE, and bringing additional Hero classes and an updated flavor to match its new home.
 
 ## DFK Colosseum (Metis)
 
