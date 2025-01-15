@@ -15,10 +15,9 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 <figure><img src=".gitbook/assets/Priority_List_October_2024.png" alt="" width="375"><figcaption></figcaption></figure>
 
+* **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style PVP tournaments and compete for lucrative prizes.
 * **Divine Essence:** Transcend (burn) your Heroes in exchange for Divine Essence and other rewards, which can be used to reroll Hero level-ups, restore equipment, and more. See the full presentation in our [Governance and Alpha Roundtable](https://www.youtube.com/live/1A1BEGx3g18?si=XXCAqegFYF9CVM07) from May 29th on YouTube.
 * **Equipment Durability:** A major aspect of the Equipment system, items will begin to degrade through use, eventually becoming unusable unless repaired or restored.
-* **Mysterious Bannerman Activity:** The city of Submersia will call upon your Pleged Heroes in a new and interactive way...
-* **Tournaments**: A built-in tournament feature will allow players to brawl with their Heroes in bracket-style PVP tournaments and compete for lucrative prizes.
 
 ### Secondary Priorities
 
@@ -45,6 +44,16 @@ This roadmap lists many, but not all feature releases currently planned. While t
 * **Large-Scale PvP**: Compete with your Heroes in large-scale world events and challenge frightening enemies!
 
 ## Completed
+
+### 2025
+
+#### January
+
+<figure><img src=".gitbook/assets/Patrols 1000x424 2.png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Patrols**: Exclusively on [Metis](https://www.metis.io/), protect the citizens of Submersia from ruffians, monsters, and deep-sea terrors in our brand new entry-level PVE combat experience! Patrols introduces 3 new combat stages with fantastic art and music, 51 possible enemy encounters, 12 new monsters with unique abilities, stats, and FX, 8 new rare equipment drops, a new consumable combat item, and a whole lot of fun!
+
+:white\_check\_mark: **Patrol Demo**: New to DFK? Jump right into the action without needing to own a Hero or connect a wallet. Each Demo includes hand-selected Heroes, abilities, and battle budget to give you a proper taste of the fight for an appropriately leveled and equipped Hero. Rewards not included.
 
 ### 2024
 
