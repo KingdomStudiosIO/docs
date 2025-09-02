@@ -1,20 +1,6 @@
 ---
 cover: ../../.gitbook/assets/VoidHuntMadBoar.png
 coverY: -104.67469879518072
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Void Hunt: Mad Boar

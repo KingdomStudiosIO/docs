@@ -45,3 +45,7 @@ Please visit [Chainlist](https://chainlist.org/?search=dfk) for information on a
 ### DFK Validator Fees
 
 Validator fees that are received for the DFK-owned validators being used on DFK Chain are held in the following smart contract: [`0xED6dC9FD092190C08e4afF8611496774Ded19D54`](https://subnets.avax.network/defi-kingdoms/address/0xED6dC9FD092190C08e4afF8611496774Ded19D54).
+
+## Ecosystem
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Supra</strong></td><td><p>Providing:</p><ul><li>On-Chain Price Feeds</li><li>VRF</li></ul></td><td data-object-fit="contain"><a href="../.gitbook/assets/SupraOracles-Red-Light-Vert.webp">SupraOracles-Red-Light-Vert.webp</a></td></tr><tr><td><strong>Covalent GoldRush</strong></td><td><p>Providing:</p><ul><li>Multichain Data APIs</li></ul></td><td data-object-fit="contain"><a href="../.gitbook/assets/GoldRush Logo - Powered by Covalent - Dark.png">GoldRush Logo - Powered by Covalent - Dark.png</a></td></tr></tbody></table>

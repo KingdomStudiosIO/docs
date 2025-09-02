@@ -13,23 +13,22 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 ## Current Priorities
 
-<figure><img src=".gitbook/assets/Priority_List_October_2024.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/priority_list_2025_07.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* **Community-Hosted Tournaments**: This feature will allow community members & guilds to host their own tournaments, with rules and prizes of their choosing!
-* **Divine Essence:** Transcend (burn) your Heroes in exchange for Divine Essence and other rewards, which can be used to reroll Hero level-ups, restore equipment, and more. See the full presentation in our [Governance and Alpha Roundtable](https://www.youtube.com/live/1A1BEGx3g18?si=XXCAqegFYF9CVM07) from May 29th on YouTube.
+* **Pet Combat Bonuses:** Reveal your Pets' combat bonuses and use them in PvE & PvP combat.
 * **Equipment Durability:** A major aspect of the Equipment system, items will begin to degrade through use, eventually becoming unusable unless repaired or restored.
+* **Glory and Honor:** Battle opponents with Glory on the line! Stake your Honor on the outcome of Bouts against other Commanders! Those with the most Glory and/or Honor will be rewarded!
+* **Additional Combat Classes**: We are actively adding additional Class Skills to combat, and all classes can be used now with their basic attacks.
 
 ### Secondary Priorities
 
-* **Additional Combat Classes**: We are actively adding additional Class Skills to combat, and all classes can be used now with their basic attacks.
+* **Even more Combat Classes**: Adding additional Class Skills to combat. All classes can be used now with their basic attacks.
 * **Additional Hunts Reward System:** A way to incentivize the grinder, this reward system will be backdated to include all victorious Hunts from the Void Hunt: Mad Boar launch up until the system is introduced.
-* **Pet Combat Bonuses:** Reveal your Pets' combat bonuses and use them in PvE & PvP combat.
-* **Glory and Honor:** Battle opponents with Glory on the line! Stake your Honor on the outcome of Bouts against other Commanders! Those with the most Glory and/or Honor will be rewarded!
-* **PVP Experience Enhancements:** We are always working on improvements to both combat itself and the surrounding systems. Upgrades and updates will be coming!
+* **PVE Content Expansion:** Building on the Hunts and Patrols systems to bring additional unique combat experiences.
+* **Combat Enhancements:** We are always working on improvements to both combat itself and the surrounding systems. Upgrades and updates will be coming!
 
 ## Long-Term Roadmap Features
 
-* **Additional Player vs Environment (PVE) Experiences**: New Void Hunts and other PvE Experiences are in the works.
 * **Level 10 Mining Quests**: The final Profession Quests, Gold Mining and Token Mining, will get their more challenging Level 10 variants.
 * **Yellow Egg Hatching (Mining Pets)**: Explore many new mining-themed pets and equip them to your Heroes to help them yield the best rewards while down in the mines.
 * **Traveling System**: Heroes will now be able to travel with their Heroes and Pets between different regions on the map to visit lands and complete quests.
@@ -46,6 +45,56 @@ This roadmap lists many, but not all feature releases currently planned. While t
 ## Completed
 
 ### 2025
+
+#### August
+
+<figure><img src=".gitbook/assets/pirate-launcher.png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Pirate Combat Skills:** They've been sailing the seven seas, digging up buried treasure, and making scurvy dogs walk the plank but now they've finally arrived! Put your hands or... hooks together for your favorite scallywags, the unsinkable [Pirate](gameplay/combat/pirate.md), whose combat skills are now available for use!
+
+#### July
+
+:white\_check\_mark: **Banked Shot Clock & New Sudden Death Tournament Modes:** Our newest additions for Tournaments and Custom Tournaments, these new modes allow new flexibility for setting Shot Clock restrictions and Sudden Death customization. Get your tomatoes ready!
+
+#### June
+
+:white\_check\_mark: **Expanded Treasure Chest System:** A set of brand new Treasure Chests that can drop from Tournaments, Patrols, and Void Hunts, which may contain rare and valuable items and equipment!
+
+:white\_check\_mark: **Hero Trait Tournament Restrictions:** With Hero Trait data now bridged to Metis, Tournaments and Custom Tournaments now have full access to setting restrictions around Hero Traits. No Resurrection? No problem.
+
+#### May
+
+<figure><img src=".gitbook/assets/divineessence-sd-bg_scaled_3x_minified.gif" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Divine Altar & Hero Transcendence:** With the assistance of the High Valkyrie, your Heroes can now transcend their mortal form and join the armies of the gods in their eternal struggles. A Divine Altar is available in both Crystalvale and Serendale, where Heroes are permanently burned in exchange for Divine Essence, an extremely powerful substance with myriad uses, as well as additional rewards.
+
+:white\_check\_mark: **Level Reset & Rerolls:** Use Divine Essence to reset your Hero back to Level 1, or to reroll your Meditation Rewards, in order to build the strongest Heroes possible.
+
+:white\_check\_mark: **Item Upgrading:** Use Divine Essence to upgrade your Runes, Attunement Crystals and Enhancement Stones into more powerful versions!
+
+
+
+<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Hosted Tournaments:** Your Rules. Your Arena. Your Tournament. This expansive new system allows any player, project, guild, or embodied person to create their own Tournament, including rulesets, rewards, entry fees, and even branding, offering a totally new way to engage players, represent guilds and projects, and be a part of the competitive gaming scene.
+
+<figure><img src=".gitbook/assets/wizard.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+:white\_check\_mark: **Wizard Combat Skills:** Masters of arcane knowledge, wielders of great power, and keepers of the lost secrets of the universe, the [Wizard](gameplay/combat/wizard.md) is the latest class whose combat skills are now available for play, with a whole host of new combat mechanics!
+
+#### April
+
+:white\_check\_mark: **Token Manager Feature:** Easily find and send any token on any wallet with the new Token Manager.
+
+#### March
+
+:white\_check\_mark: **Treasure Chests:** Pop open those chests and see what you get! Tournament Treasure Chest rewards are now openable with a variety of rare Equipment NFTs and more!
+
+:white\_check\_mark: **Voucher System Expansion:** JEWEL, CRYSTAL, and JADE Vouchers are now usable on all of our NFT marketplaces (Hero, Pet, Equipment) and in every realm!
+
+:white\_check\_mark: **Tournament Shot Clock & Sudden Death Improvements:** A variety of changes to the Tournament Shot Clock and Sudden Death mechanics to encourage players to keep the battles moving and avoid stalling.
+
+:white\_check\_mark: **Realm Explorer:** No wallet? No problem. Explore all of the realms and look around at what all DFK has to offer before you ever have to connect a wallet.
 
 #### February
 
@@ -117,7 +166,7 @@ This roadmap lists many, but not all feature releases currently planned. While t
 
 #### February
 
-<div data-full-width="false"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * :white\_check\_mark: **Void Hunt: Bad Motherclucker:** Our newest **Player vs Environment (PvE)** offering, players must face off against a trio of vicious Rocbocs in order to win mysterious **Void Shards**, Equipment NFTs, and other prizes.
 * :white\_check\_mark: **Bring Your Own Potions (BYOP):** Players must now craft and bring their own Potions for use in Void Hunts, bringing additional utility to these items and the materials required to brew them. As part of this update, _all_ combat Potions are now usable during combat.
